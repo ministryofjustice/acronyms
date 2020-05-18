@@ -323,8 +323,7 @@ Please raise a pull request to make changes. A better mechanism to enable people
 | MINT | Managed INTerconnect | | Two firewalls that bridge the OMNI and Quantum networks. |
 | MIS | Management Information System | | |
 | MITM | Man In The Middle | | |
-| MLRA | LAA MAAT-Libra interface application | | LAA web app to interface legal aid application MAAT with HMCTS application Libra. |
-| MLRA | MAAT-Libra Record Access | | |
+| MLRA | LAA Managed Libra Record Access application | | |
 | MODs | Models for Operational Delivery | | |
 | MOG | | | |
 | MOJ | Ministry of Justice | https://www.gov.uk/designprinciples/styleguide | Use capitals - 'MOJ', not 'MoJ'.Departments don’t take the definite article, so 'MOJ', not 'the MOJ'. |
