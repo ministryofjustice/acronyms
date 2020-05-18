@@ -4,7 +4,9 @@ This is a temporary replacement for the (currently defunct) "Big Book of Acronym
 
 ## Contributing
 
-Please raise a pull request to make changes. A better mechanism to enable people without github accounts to suggest changes will hopefully be provided in due course.
+If you have a github account, you can [click here](https://github.com/ministryofjustice/acronyms/edit/master/README.md) to edit this file.
+
+A better mechanism to enable people without github accounts to suggest changes will hopefully be provided in due course.
 
 | Abbreviation | Definition | URL | Info |
 |-|-|-|-|
