@@ -7,7 +7,7 @@ _acronymDirectory=${0:a:h};
 # $1 = term to look for
 # $2 = flag match term in any part of document
 function acronym () {
-    local readmePath="${_acronymDirectory}/README.md"
+    local readmePath="${_acronymDirectory}/../README.md"
     local cols="$(tput cols)"
     if [[ ! -f "${readmePath}" ]]; then
         echo "Cannot find source file '${readmePath}'";    
