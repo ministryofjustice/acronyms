@@ -302,6 +302,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LDD | Learning Difficulties and Disabilities | | |
 | LDO | Like, Duh!... Obviously! | | |
 | LDU | Local Delivery Unit | | Probation |
+| LEDS | Law Enforcement Data Service | | |
 | LFW | Legal Framework | https://dsdmoj.atlassian.net/wiki/spaces/CCMS/pages/822738987/Legal+Framework | Reference data used in civil legal aid. It's a bunch of interlinked spreadsheets and it's used by CCMS. |
 | LIBRA | | | National standard IT system for magistrates’ courts |
 | LIDS | Local Inmate Data System | | Prison-wide computer system to log details of all prisoners and their sentences. Has been replaced by NOMIS. |
