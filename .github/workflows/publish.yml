@@ -1,0 +1,16 @@
+on:
+  push:
+    branches: [master]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - run: bin/publish
+      - run: git checkout -b gh-pages
+      - run: git config --global user.name "MoJ Github Action"
+      - run: git config --global user.email "platforms@digital.justice.gov.uk"
+      - run: git add index.html
+      - run: git commit -m "Publish latest changes"
+      - run: git push origin gh-pages --force
