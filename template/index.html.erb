@@ -1,0 +1,105 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <style>
+      .content {
+        margin: 50px;
+      }
+
+      tr.hidden {
+        display: none;
+      }
+
+    </style>
+    <title>Ministry of Justice Acronyms</title>
+  </head>
+  <body>
+    <%= warning %>
+    <div class="content">
+
+      <h1>Ministry of Justice Acronyms<h1>
+
+      <h3>Last updated: <%= updated_at %></h3>
+
+      <h4>
+        Search:
+        <input type="text" id="searchField" />
+      </h4>
+
+      <p>
+        If you have a GitHub account, you can update this list by clicking
+        <a href="https://github.com/ministryofjustice/acronyms/edit/master/README.md">here.</a>
+      </p>
+
+      <table class="pure-table pure-table-horizontal" id="abbreviations">
+        <thead>
+          <tr>
+            <th>Abbreviation</th>
+            <th>Definition</th>
+            <th>URL</th>
+            <th>Info</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% list.each do |item| %>
+            <tr>
+              <td><%= item.abbreviation %></td>
+              <td><%= item.definition %></td>
+              <td>
+                <a href="<%= item.url %>">
+                  <%= item.url %>
+                </a>
+              </td>
+              <td><%= item.info %></td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+    </div>
+  </body>
+
+  <script>
+
+    var searchField = document.getElementById("searchField");
+
+    searchField.onkeyup = function () {
+      hideRowsWhichDontMatch(searchField.value);
+    }
+
+    function hideRowsWhichDontMatch(str) {
+      var search = str.toLowerCase();
+      var table = document.getElementById("abbreviations");
+
+      showAllRows(table);
+
+      for (var i = 1, row; row = table.rows[i]; i++) {
+        if (search !== "") {
+          // hide rows which don't match search
+          var abbreviation = row.cells[0].textContent;
+          var description = row.cells[1].textContent;
+
+          var hideRow = true;
+
+          if (abbreviation !== undefined && abbreviation.toLowerCase().match(search)) {
+            hideRow = false;
+          }
+
+          if (description !== undefined && description.toLowerCase().match(search)) {
+            hideRow = false;
+          }
+
+          if (hideRow) {
+            row.className = "hidden";
+          }
+        }
+      }
+    }
+
+    function showAllRows(table) {
+      for (var i = 1, row; row = table.rows[i]; i++) {
+        row.className = "";
+      }
+    }
+
+  </script>
+</html>

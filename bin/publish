@@ -1,0 +1,36 @@
+#!/usr/bin/env ruby
+
+require "erb"
+
+Abbr = Struct.new(:abbreviation, :definition, :url, :info)
+
+SOURCE_FILE = "README.md"
+TEMPLATE = "template/index.html.erb"
+TARGET_FILE = "index.html"
+
+def abbreviations(file)
+  File.read(file)
+    .split("\n").grep(/^\|/)[2,9999999]  # table rows, minus header & separator
+    .map { |line| line.split("|").map { |str| str.strip } }  # convert to arrays of trimmed strings
+    .map { |arr| arr[1,4] } # discard extraneous "" from start & end of each array
+    .map { |arr| Abbr.new(*arr) } # convert to Abbr objects
+end
+
+list = abbreviations(SOURCE_FILE)
+
+warning = "
+  <!--
+
+    DO NOT EDIT THIS HTML FILE MANUALLY
+
+    This file is updated by the bin/publish script, via a github action.
+    Any changes you make will be lost on the next update.
+
+  -->
+  "
+
+updated_at = Time.now.strftime("%Y-%m-%d %H:%M")
+
+renderer = ERB.new(File.read(TEMPLATE))
+html = renderer.result(binding)
+File.write(TARGET_FILE, html)
