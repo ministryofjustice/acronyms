@@ -236,7 +236,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | HMCS | Her Majesty's Courts Service | | See HMCTS |
 | HMCTS | Her Majesty's Courts and Tribunals Service | | They prefer ampersand (&) to avoid CATS acronymmiaowPreviously known as Her Majesty's Courts Service before it merged with Tribunals to become HMCTS |
 | HMG | Her Majesty's Government | | |
-| HMIP | Her Majesty's inspectors of prisons | | thematic reviews also conduct unanounced prison inspections |
+| HMIP | Her Majesty's Inspectorate of Prisons | | Thematic reviews. Also conduct unanounced prison inspections. |
 | HMPPS | HM Prison and Probation Service | https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service | |
 | HO | Home Office | https://www.gov.uk/government/organisations/home-office | Department responsible for the police, UK Border Agency, and the Security Service (MI5). |
 | HOIT | Home Office IT | | |
