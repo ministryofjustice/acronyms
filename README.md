@@ -276,6 +276,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ISSS | Information and System Support Services | | |
 | ITA | Internation Trade Advisor | | 3rd party advisors contracted with UKTI offering business around business development. |
 | ITHC | IT Healthcheck | | Penetration and security testing for services before they are released for public consumption. The ITHC must normally be re-done for each major system change - adding new external API lookups to a previously secure system, for example. Services are not considered 'live' or 'accepted into service' until the ITHC has been completed. Partial ITHCs exist, where a service already passed ITHC and a focussed change has been made. |
+| ITIL | ITIL, formerly[1] an acronym for Information Technology Infrastructure Library, is a set of detailed practices for IT service management (ITSM) that focuses on aligning IT services with the needs of business. | https://en.wikipedia.org/wiki/ITIL | |
 | ITN | Invitation to negotiate | | Confusing acronym - as more commonly used for Independent Television News. |
 | IWP | Integrated Word Processor | | Used within classic Prison-NOMIS Application.  Template documents that pull data through from the database.  Examples include case management documentation and release licences |
 | InVision | A system used in prisons to detail staff. Also known as CSR (Corporate Staff Rostering) or My Detail | | |
