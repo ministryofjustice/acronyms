@@ -13,7 +13,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Abbreviation | Definition | URL | Info |
 |-|-|-|-|
 | 1LS/2LS/3LS | 1st, 2nd or 3rd Line Support | | |
-| A&O | Accommodation and Occupancy (also known as *AO*) | | |
+| A&O | Accommodation and Occupancy (also known as *AO*) | | An table of data, extracted from the NOMIS database providing a row per prisoner, including basic personal details and their location |
 | A2J | Access to Justice | | |
 | AA | Administrative Assistants | | in context of PVB |
 | AAC | Administrative Appeals Court | | |
