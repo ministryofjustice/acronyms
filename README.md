@@ -599,6 +599,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | WTF | What The Fuck | | |
 | WTFF | What the Flying Fuck? | | |
 | WTG | Web Technology Group | http://www.webtechnologygroup.co.uk/ | Sub-contractor to Logica, they have access to the majority of our DNS zone files (incl. justice.gov.uk) and charge HYUGE amounts for small changes. |
+| WTP | Workplace Technology Products | | WTP provides a generation of end-user-devices, in use c.2018-2020, by HMPPS office staff. Laptops and O365 & GSuite. They were previously using Quantum devices. |
 | XFP | | | |
 | XOD | Shift swap, shorthand used in some prisons | | May have also rendered this as EXOD or X-OD |
 | Xhibit | Crown Court IT system | http://xhibit.justice.gov.uk/ | Note that this system is not used by Magistrates Courts |
