@@ -463,6 +463,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSP | Public Sector Prisons | | |
 | PSP | Public Social Partnership | | |
 | PSU | Personal Support Unit | https://en.wikipedia.org/wiki/Personal_Support_Unit | |
+| PTTP | Prison Technology Transformation Programme | | Laptops, mobile devices, applications, etc. for the whole of HMPPS. Replacement for Quantum. Programme commenced 2020. |
 | PUM | Portal User Management | | Use by LAA Online support team to reset users passwords, unlock their accounts and assign CCLF roles to users. |
 | PVB | Prison Visits Bookings | http://www.gov.uk/prison-visits | |
 | PVO | Privileged Visiting Order | | Extra visiting credit for enhanced prisoners. One or two extra visits per month. |
