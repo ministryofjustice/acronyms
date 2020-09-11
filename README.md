@@ -458,6 +458,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PQiP | Professional Qualification in Probation | http://www.traintobeaprobationofficer.com/about-the-training/ | |
 | Pre Con | Previous Conviction | | |
 | Precons | Pre-convictions | | These are found on the PNC. A PDF ‘Printout’ of precons for a particular offender is used by court probation officers |
+| PRP | Probation Reform Programme | | A Draft Target Operating Model for the Future of Probation Services in England and Wales | | |
 | PS | Police Sergeant | | |
 | PSD | Personal and Social Development | | Refers to courses such as art courses, which seek to foster PSD |
 | PSE | Police Sergeant Employee | | |
