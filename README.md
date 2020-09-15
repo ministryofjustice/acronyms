@@ -414,6 +414,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PCI | Payment Card Industry | https://www.pcisecuritystandards.org | An industry standards body responsible for regulation of handling debit/credit cards. |
 | PCOL | Possession Claim Online | https://www.possessionclaim.gov.uk/pcol/ | |
 | PCSO | Police Community Support Officer | | |
+| PDB | Probation Delivery Board | | |
 | pdr | | | Matthew Coates mentioned this in Digital Services All-hands meeting. |
 | PDS | Public Defence Service | http://publicdefenderservice.org.uk/ | |
 | PEA | Prisoner Earnings Act | | |
