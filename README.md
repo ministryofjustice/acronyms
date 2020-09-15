@@ -365,6 +365,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NOMIS | National Offender Management Information System | | aka c-nomis or p-nomisSystem designed to replace LIDS that logs details of all prisoners, their sentences, and more. |
 | NOMS Number | National Offender Management Service Number | | Used in Prison-NOMIS as the unique identifier for prisoners. (Note that colloquially it is referred to as both ‘NOMIS ID’ and ‘NOMS ID’ - but in the system it is labelled as ‘NOMS number’.  Labelled on the Prison-NOMIS database as OFFENDER_ID_DISPLAY) |
 | NOMS | National Offender Management Service | http://www.justice.gov.uk/about/noms | Covers prisons and probation |
+| NORB | National Operations Readiness Board | | |
 | NPS | National Probation Service | | |
 | NPT | National Prosecution Team | http://www.cps.gov.uk/your_cps/our_organisation/spd.html | A joint team of CPS and Association of Chief Police Officers/National Policing Improvement Agency staff. T |
 | NQOS | Newly Qualified Officers | | (Probation) |
