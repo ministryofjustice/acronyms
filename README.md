@@ -468,6 +468,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSI | Public Sector Information | | Any information (content) whatever its medium (form) – including print, digital or electronic, and sound recordings – produced, held or disseminated by a public sector body is considered public sector information. This includes an enormous range: corporate information such as reports and financial data, codes of practice, public records, statistics, still and moving images, press releases, artefacts, publication schemes, and so on. |
 | PSITA | Police Station Immigration Telephone Advice | | There are 3 different firms. A part of the solicitor role. |
 | PSN | Public Services Network | https://www.gov.uk/government/groups/public-services-network | The PSN is the government’s high-performance network, which helps public sector organisations work together, reduce duplication and share resources |
+| PSNP | PSN for Police | | PSN + encryption, used by police forces | 
 | PSO | Prison Service Orders | http://www.justice.gov.uk/offenders/psos | Rules, regulations and guidelines by which prisons are run. These are outlined in Prison Service Instructions (PSIs) and Prison Service Orders (PSOs). |
 | PSO | Probation Service Officer | | |
 | PSP | Public Sector Prisons | | |
