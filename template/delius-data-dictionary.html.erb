@@ -1,0 +1,116 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <style>
+      .content {
+        margin: 50px;
+      }
+
+      tr.hidden {
+        display: none;
+      }
+
+    </style>
+    <title>Delius Data Dictionary</title>
+  </head>
+  <body>
+    <%= warning %>
+    <div class="content">
+
+      <h1>Delius Data Dictionary<h1>
+
+      <h3>Last updated: <%= updated_at %></h3>
+
+      <h4>
+        Search:
+        <input type="text" id="searchField" autofocus />
+      </h4>
+
+      <p>
+        If you have a GitHub account, you can update this list by clicking
+        <a href="https://github.com/ministryofjustice/acronyms/edit/main/delius-data-dictionary.md">here.</a>
+      </p>
+
+      <table class="pure-table pure-table-horizontal" id="abbreviations">
+        <thead>
+          <tr>
+            <th>Category</th>
+            <th>Field Name</th>
+            <th>Description</th>
+            <th>Variable Type</th>
+            <th>Allowed Values</th>
+            <th>Date Populated</th>
+            <th>Example Field</th>
+            <th>Missingness</th>
+            <th>Comments</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% list.each do |item| %>
+            <tr>
+              <td><%= item.category %></td>
+              <td><%= item.field_name %></td>
+              <td><%= item.description %></td>
+              <td><%= item.variable_type %></td>
+              <td><%= item.allowed_values %></td>
+              <td><%= item.date_populated %></td>
+              <td><%= item.example_field %></td>
+              <td><%= item.missingness %></td>
+              <td><%= item.comments %></td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+    </div>
+  </body>
+
+  <script>
+
+    var searchField = document.getElementById("searchField");
+
+    searchField.onkeyup = function () {
+      hideRowsWhichDontMatch(searchField.value);
+    }
+
+    function hideRowsWhichDontMatch(str) {
+      var search = str.toLowerCase();
+      var table = document.getElementById("abbreviations");
+
+      showAllRows(table);
+
+      for (var i = 1, row; row = table.rows[i]; i++) {
+        if (search !== "") {
+          // hide rows which don't match search
+          var category = row.cells[0].textContent;
+          var field_name = row.cells[1].textContent;
+          var description = row.cells[2].textContent;
+
+          var hideRow = true;
+
+          if (category !== undefined && category.toLowerCase().match(search)) {
+            hideRow = false;
+          }
+
+          if (field_name !== undefined && field_name.toLowerCase().match(search)) {
+            hideRow = false;
+          }
+
+          if (description !== undefined && description.toLowerCase().match(search)) {
+            hideRow = false;
+          }
+
+          if (hideRow) {
+            row.className = "hidden";
+          }
+        }
+      }
+    }
+
+    function showAllRows(table) {
+      for (var i = 1, row; row = table.rows[i]; i++) {
+        row.className = "";
+      }
+    }
+
+  </script>
+</html>

@@ -11,6 +11,6 @@ jobs:
       - run: git checkout -b gh-pages
       - run: git config --global user.name "MoJ Github Action"
       - run: git config --global user.email "platforms@digital.justice.gov.uk"
-      - run: git add index.html
+      - run: git add *.html
       - run: git commit -m "Publish latest changes"
       - run: git push origin gh-pages --force
