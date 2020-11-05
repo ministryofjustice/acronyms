@@ -4,21 +4,29 @@ require "erb"
 
 Abbr = Struct.new(:abbreviation, :definition, :url, :info)
 
-SOURCE_FILE = "README.md"
-TEMPLATE = "template/index.html.erb"
-TARGET_FILE = "index.html"
+DeliusDataDictionaryEntry = Struct.new(
+  :category,
+  :field_name,
+  :description,
+  :variable_type,
+  :allowed_values,
+  :date_populated,
+  :example_field,
+  :missingness,
+  :comments
+)
 
-def abbreviations(file)
-  File.read(file)
+def get_data(markdown_file, num_columns, object_class)
+  File.read(markdown_file)
     .split("\n").grep(/^\|/)[2,9999999]  # table rows, minus header & separator
     .map { |line| line.split("|").map { |str| str.strip } }  # convert to arrays of trimmed strings
-    .map { |arr| arr[1,4] } # discard extraneous "" from start & end of each array
-    .map { |arr| Abbr.new(*arr) } # convert to Abbr objects
+    .map { |arr| arr[1,num_columns] } # discard extraneous "" from start & end of each array
+    .map { |arr| object_class.new(*arr) } # convert to objects
 end
 
-list = abbreviations(SOURCE_FILE)
-
-warning = "
+def render_html(list, template, target_file)
+  updated_at = Time.now.strftime("%Y-%m-%d %H:%M")
+  warning = "
   <!--
 
     DO NOT EDIT THIS HTML FILE MANUALLY
@@ -28,9 +36,21 @@ warning = "
 
   -->
   "
+  renderer = ERB.new(File.read(template))
+  html = renderer.result(binding)
+  File.write(target_file, html)
+end
 
-updated_at = Time.now.strftime("%Y-%m-%d %H:%M")
+def output_section_html(section, num_columns, object_class)
+  source = "#{section}.md"
+  template = "template/#{section}.html.erb"
+  target_file = "#{section}.html"
+  list = get_data(source, num_columns, object_class)
+  render_html(list, template, target_file)
+end
 
-renderer = ERB.new(File.read(TEMPLATE))
-html = renderer.result(binding)
-File.write(TARGET_FILE, html)
+# Main acronyms page
+list = get_data("README.md", 4, Abbr)
+render_html(list, "template/index.html.erb", "index.html")
+
+output_section_html("delius-data-dictionary", 9, DeliusDataDictionaryEntry)

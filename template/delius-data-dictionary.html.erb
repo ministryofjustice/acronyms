@@ -11,13 +11,13 @@
       }
 
     </style>
-    <title>Ministry of Justice Acronyms</title>
+    <title>Delius Data Dictionary</title>
   </head>
   <body>
     <%= warning %>
     <div class="content">
 
-      <h1>Ministry of Justice Acronyms<h1>
+      <h1>Delius Data Dictionary<h1>
 
       <h3>Last updated: <%= updated_at %></h3>
 
@@ -28,29 +28,35 @@
 
       <p>
         If you have a GitHub account, you can update this list by clicking
-        <a href="https://github.com/ministryofjustice/acronyms/edit/main/README.md">here.</a>
+        <a href="https://github.com/ministryofjustice/acronyms/edit/main/delius-data-dictionary.md">here.</a>
       </p>
 
       <table class="pure-table pure-table-horizontal" id="abbreviations">
         <thead>
           <tr>
-            <th>Abbreviation</th>
-            <th>Definition</th>
-            <th>URL</th>
-            <th>Info</th>
+            <th>Category</th>
+            <th>Field Name</th>
+            <th>Description</th>
+            <th>Variable Type</th>
+            <th>Allowed Values</th>
+            <th>Date Populated</th>
+            <th>Example Field</th>
+            <th>Missingness</th>
+            <th>Comments</th>
           </tr>
         </thead>
         <tbody>
           <% list.each do |item| %>
             <tr>
-              <td><%= item.abbreviation %></td>
-              <td><%= item.definition %></td>
-              <td>
-                <a href="<%= item.url %>">
-                  <%= item.url %>
-                </a>
-              </td>
-              <td><%= item.info %></td>
+              <td><%= item.category %></td>
+              <td><%= item.field_name %></td>
+              <td><%= item.description %></td>
+              <td><%= item.variable_type %></td>
+              <td><%= item.allowed_values %></td>
+              <td><%= item.date_populated %></td>
+              <td><%= item.example_field %></td>
+              <td><%= item.missingness %></td>
+              <td><%= item.comments %></td>
             </tr>
           <% end %>
         </tbody>
@@ -75,12 +81,17 @@
       for (var i = 1, row; row = table.rows[i]; i++) {
         if (search !== "") {
           // hide rows which don't match search
-          var abbreviation = row.cells[0].textContent;
-          var description = row.cells[1].textContent;
+          var category = row.cells[0].textContent;
+          var field_name = row.cells[1].textContent;
+          var description = row.cells[2].textContent;
 
           var hideRow = true;
 
-          if (abbreviation !== undefined && abbreviation.toLowerCase().match(search)) {
+          if (category !== undefined && category.toLowerCase().match(search)) {
+            hideRow = false;
+          }
+
+          if (field_name !== undefined && field_name.toLowerCase().match(search)) {
             hideRow = false;
           }
 
