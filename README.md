@@ -426,6 +426,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PEX(ER) | Public Expenditure (Efficiency and Reform) Cabinet Sub-committee | | |
 | PF | Petty France | http://osm.org/go/euutfmhzv?way=25445981 | Short name for MOJ main building at 102 Petty France, SW1H 9AJ London |
 | PFD | President of the Families Division | https://www.judiciary.gov.uk/publications/president-of-the-family-division-pfd-the-rt-hon-sir-james-munby/ | |
+| PFS | Prisoner Facing Service | | A service that is provided to a Prisoner |
 | PGA | Prison Governors Association | | |
 | PGD | Prison Group Director | | |
 | PGP | Pretty Good Privacy | http://en.wikipedia.org/wiki/Pretty_Good_Privacy | A way of encrypting emails in such as way that only the intended recipient can read. |
