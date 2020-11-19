@@ -204,7 +204,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ETL | Extract, Transform & Load | | |
 | ETS | Enhanced Thinking Skills | | A course that prisoner can do to to address the attitudes and thought patterns that may of contributed to their offending |
 | ExCo | Executive Comity Board | | Permanent Secutary and Director Generals (6 of). |
-| EXHIBIT | Crown Court System of Record | | |
+| EXHIBIT | See XHIBIT | | |
 | Extradition | only registered solicitor can go | | |
 | F2050 | prisoner core record | | protected characteristics and case information |
 | FALA | Find a legal advisor | http://find-legal-advice.justice.gov.uk/ | |
@@ -609,7 +609,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | WTG | Web Technology Group | http://www.webtechnologygroup.co.uk/ | Sub-contractor to Logica, they have access to the majority of our DNS zone files (incl. justice.gov.uk) and charge HYUGE amounts for small changes. |
 | WTP | Workplace Technology Programme | | WTP provides a generation of end-user-devices, in use c.2018-2020, by HMPPS office staff. Laptops and O365 & GSuite. They were previously using Quantum devices. WTP will be replaced by PTTP. |
 | XFP | | | |
-| Xhibit | Crown Court IT system | http://xhibit.justice.gov.uk/ | Note that this system is not used by Magistrates Courts |
+| XHIBIT | Crown Court system of record (IT system) | http://xhibit.justice.gov.uk/ | Stands for "Exchanging Hearing Information by Internet Technology". Note that this system is not used by Magistrates Courts |
 | XOD | Shift swap, shorthand used in some prisons | | May have also rendered this as EXOD or X-OD |
 | YCS | Youth Custody Service | | |
 | YJAF | Youth Justice Application Framework | | |
