@@ -418,6 +418,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PDB | Probation Delivery Board | | |
 | pdr | | | Matthew Coates mentioned this in Digital Services All-hands meeting. |
 | PDS | Public Defence Service | http://publicdefenderservice.org.uk/ | |
+| PDU | Probation Delivery Unit - previously known as LDU (Local Delivery Unit). | | |
 | PEA | Prisoner Earnings Act | | |
 | PECS | Prison Escort Custody Service | | |
 | PEEPs | Personal Emergency Evacuation Plans | | To help people evacuate the building in the event of a fire alarm or other emergency, especially if they may have difficulty due to a disability, injury, pregnancy, etc. |
