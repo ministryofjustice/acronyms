@@ -89,7 +89,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CCMS | Client Cost Management System | | LAA web app to replace CIS, including financial modules to manage the LAA fund. |
 | CCO | Call Centre Officer | | Call centre officer of DSCC |
 | CCR | Crown Court Remuneration | | LAA web app that manages Advocate fee claims.Feeds into LAA data warehouse. |
-| CCRC | Criminal Cases review Commission | | |
+| CCRC | Criminal Cases Review Commission | | |
 | CCS | Crown Commercial Service | https://www.gov.uk/government/organisations/crown-commercial-service | |
 | CDC | Change Data Capture | | |
 | CDC | Change Directorate Committee | | |
