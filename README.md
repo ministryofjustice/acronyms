@@ -86,6 +86,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CCLF | Crown Court Litigator Fee | | LAA web app that manages litigators fee claims. |
 | CCM | Commercial Contract Management | | |
 | CCMCC | County Court Money Claims Centre | | |
+| CCMD | Commercial and Contract Management Directorate | | |
 | CCMS | Client Cost Management System | | LAA web app to replace CIS, including financial modules to manage the LAA fund. |
 | CCO | Call Centre Officer | | Call centre officer of DSCC |
 | CCR | Crown Court Remuneration | | LAA web app that manages Advocate fee claims.Feeds into LAA data warehouse. |
