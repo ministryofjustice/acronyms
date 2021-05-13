@@ -41,10 +41,12 @@ A better mechanism to enable people without github accounts to suggest changes w
 | AO | Administrative Officer | | |
 | AOB | Any Other Business | | |
 | AP | Approved Premises | | |
+| APD | Approved Parole Date |  |  |
 | API | Application Programming Interface | | |
 | APPG | All Party Parliamentary Group | http://www.parliament.uk/about/mps-and-lords/members/apg/ | APPGs are informal cross-party groups that have no official status within Parliament. They are run by and for Members of the Commons and Lords, though many choose to involve individuals and organisations from outside Parliament in their administration and activities. |
 | APVS | Assisted Prison Visit Scheme | https://www.gov.uk/help-with-prison-visits | Also known as HWPV (Help With Prison Visits) |
 | APVU | Assisted Prison Visits Unit | | A call centre for prison visits for 8 prisons in the west midlands. |
+| ARD | Automatic Release Date |  |  |
 | ASPIRE | Assess – Sentence Plan – Implement – Review – Evaluate | | This is the core framework of offender management / sentence planning |
 | Asset | Youth Justice Board assessment documentation for young people | | |
 | AT | Assisted Technology | | |
@@ -67,6 +69,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | BIS | Department  for Business Innovation & Skills | https://www.gov.uk/government/organisations/department-for-business-innovation-skills | |
 | BNM | Becoming New Me | | General offending programme – thinking skills programme for those with learning disability |
 | BOP | Bring on Potential | | Education and Learning gained inside are recorded in BOP, which is available ‘through the gate’. Part of ILP (Individual Learning Plan) |
+| BOTUS | Breach of Top Up Supervision | URL | Info |
 | BPG | ??? | | A digital gateway service that links nDelius to CRC systems(Not sure if this is a typo of SPG?) |
 | BRB | Be Right Back | | |
 | BSR | Building Skills for Recovery | | Substance misuse programme |
@@ -176,6 +179,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DISC | Development, Innovation and Support Contracts | | Shared services framework - Atos (infrastructure), CGI (formerly LogicaCMG -  applications) supporting Dom1.http://www.publictechnology.net/sector/case-study-ministry-justice-disc-transition-team-successful-transition-it-services-six-existi |
 | DPA | Data Protection Act | | |
 | DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
+| DPRRD | Detention Post Recall Release Date |  |  |
 | DR | Defence Request | | Formally DSDS. |
 | DR | Disaster Recovery | | |
 | DRY | Don't Repeat Yourself | | Often "DRY-ed". Removing duplication in code. |
@@ -189,6 +193,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DSG | Digital Steering Group | | |
 | DSO | Defence & Security Organisation | https://www.gov.uk/government/organisations/uk-trade-and-investment-defence-and-security-organisation | |
 | DSS | Data Security Standard | https://www.pcisecuritystandards.org | An accreditation for handling credit/debit cards managed by Payment Card Industry (PCI). |
+| DTO | Detention Training Order |  |  |
 | DTRG | Digital Technology Review Group | | |
 | DV | Developed Vetting | https://www.gov.uk/guidance/security-vetting-and-clearance | Level of Security Clearance |
 | DV | Domestic Violence | | |
@@ -198,12 +203,14 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ECS | Elastic Container Service | https://aws.amazon.com/ecs/ | |
 | EDRMS | Electronic Documents and Record Management System | | Also known as NorthgateLAA's externally hosted document/record management system, used by CCMS. |
 | EE | | | |
+| EDS | Extended Determinate Sentence |  |  |
 | EM | Electronic Monitoring | | (Also known as 'tagging') is the practice of attaching a tag to someone's ankle, used in England and Wales to monitor curfews and conditions of a court or prison order. |
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
 | EQUIP | Excellence and Quality in Probation Processes | | |
 | ERP | Enterprise Resource Planning | | |
 | ESF | European Social Fund | https://en.wikipedia.org/wiki/European_Social_Fund | Provides funding via the CFO to provide additional services to offenders |
 | ET | Employment Tribunal | | Also stands for 'E.T. the Extra-Terrestrial', a 1982 sci-fi movie about a loveable alien. |
+| ETD | Early Transfer Date |  |  |
 | ETE | Education, Training & Employment | | |
 | ETL | Extract, Transform & Load | | |
 | ETS | Enhanced Thinking Skills | | A course that prisoner can do to to address the attitudes and thought patterns that may of contributed to their offending |
@@ -226,6 +233,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | FPRC | Family Procedure Rules Committee | https://www.gov.uk/government/organisations/family-procedure-rule-committee | The Family Procedure Rule Committee (FPRC) makes rules of court that govern the practice and procedure followed in family proceedings in the High Court and family court.FPRC is an advisory non-departmental public body, sponsored by the Ministry of Justice. |
 | FRPS | Financial Resources and Payment for Services | | |
 | FTC | | | |
+| FTR | Fixed Term Recall |  |  |
 | FTW | For The Win | | |
 | GAL | Global Address List | | |
 | GAPS | | | |
@@ -237,6 +245,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | GWS | Government Wide Service | | |
 | HCC | Health Care Centre | | NHS facility in a prison |
 | HDC | home detention curfew | | |
+| HDCED | Home Detention Curfew Eligibility Date |  |  |
+| HDCAD | Home Detention Curew Approved Date |  |  |
 | HMCS | Her Majesty's Courts Service | | See HMCTS |
 | HMCTS | Her Majesty's Courts and Tribunals Service | | They prefer ampersand (&) to avoid CATS acronymmiaowPreviously known as Her Majesty's Courts Service before it merged with Tribunals to become HMCTS |
 | HMG | Her Majesty's Government | | |
@@ -310,6 +320,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LDO | Like, Duh!... Obviously! | | |
 | LDU | Local Delivery Unit | | Probation |
 | LEDS | Law Enforcement Data Service | | |
+| LED | Licence Expiry Date |  |  |
 | LFW | Legal Framework | https://dsdmoj.atlassian.net/wiki/spaces/CCMS/pages/822738987/Legal+Framework | Reference data used in civil legal aid. It's a bunch of interlinked spreadsheets and it's used by CCMS. |
 | LIBRA | | | National standard IT system for magistrates’ courts |
 | LIDS | Local Inmate Data System | | Prison-wide computer system to log details of all prisoners and their sentences. Has been replaced by NOMIS. |
@@ -318,9 +329,11 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LIT | Local Implementation Team | | Seems to be a common acronym for national->regional->local projects with CPS/Police/CJS. |
 | LPA | Lasting Power of Attorney | http://www.justice.gov.uk/forms/opg/lasting-power-of-attorney | This isn't usually capitalised, though GOV.UK and OPG do so. |
 | LPT | London Probation Trust | | |
+| LR | Licence Recall |  |  |
 | LSAST | Live Services Applications Support Team (also a Prison-NOMIS Dev / Test environment by the same name) | | This was the Prison-NOMIS Application Support Team's name, and an environment named 'LSAST' was originally built for them, but now it is now also used by NART for dev/test purposes |
 | LSC | Legal Services Commision | | Now the LAA |
 | LSCB | Local Safeguarding Children Board | | |
+| LTD | Late Transfer Date |  |  |
 | MAAT | Means Assessment Administration Tool | | LAA web app for crime means assessment for legal aid. |
 | MaLi | Master list of initiatives | | An MOJ Technology list of all projects and programmes of work across the ministry |
 | MALRAP | Multi Agency Lifer Risk Assessment Panel | | |
@@ -343,6 +356,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MPS | Moving People Safely | | |
 | MPSI | Ministers, Parliament, Strategy and implementation | | |
 | MQPL | Measuring Quality of Prisoner Life | | |
+| MTD | Mid Transfer Date |  |  |
 | MTP | Money To Prisoners | | Currently a working name for a project digitising the process of sending money to UK prisoners. |
 | MVP | Minimum Viable Product | | |
 | My Detail | A system used in prisons to detail staff. Also known as CSR (Corporate Staff Rostering) or InVision WFM | | |
@@ -370,6 +384,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NOMS Number | National Offender Management Service Number | | Used in Prison-NOMIS as the unique identifier for prisoners. (Note that colloquially it is referred to as both ‘NOMIS ID’ and ‘NOMS ID’ - but in the system it is labelled as ‘NOMS number’.  Labelled on the Prison-NOMIS database as OFFENDER_ID_DISPLAY) |
 | NOMS | National Offender Management Service | http://www.justice.gov.uk/about/noms | Covers prisons and probation |
 | NORB | National Operations Readiness Board | | |
+| NPD | Non Parole Date |  |  |
 | NPS | National Probation Service | | |
 | NPT | National Prosecution Team | http://www.cps.gov.uk/your_cps/our_organisation/spd.html | A joint team of CPS and Association of Chief Police Officers/National Policing Improvement Agency staff. T |
 | NQOS | Newly Qualified Officers | | (Probation) |
@@ -468,6 +483,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Pre Con | Previous Conviction | | |
 | Precons | Pre-convictions | | These are found on the PNC. A PDF ‘Printout’ of precons for a particular offender is used by court probation officers |
 | PRP | Probation Reform Programme | | A Draft Target Operating Model for the Future of Probation Services in England and Wales | | |
+| PRRD | Post Recall Release Date |  |  |
 | PS | Police Sergeant | | |
 | PSD | Personal and Social Development | | Refers to courses such as art courses, which seek to foster PSD |
 | PSE | Police Sergeant Employee | | |
@@ -480,6 +496,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSO | Probation Service Officer | | |
 | PSP | Public Sector Prisons | | |
 | PSP | Public Social Partnership | | |
+| PSS | Post Sentence Supervision |  |  |
 | PSU | Personal Support Unit | https://en.wikipedia.org/wiki/Personal_Support_Unit | |
 | PTTP | Prison Technology Transformation Programme | | Laptops, mobile devices, applications, etc. for the whole of HMPPS. Replacement for Quantum. Programme commenced 2020. |
 | PUM | Portal User Management | | Use by LAA Online support team to reset users passwords, unlock their accounts and assign CCLF roles to users. |
@@ -526,8 +543,10 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SCC | Specialist Computer Centres | http://www.scc.com/ | Providers of web hosting |
 | SCU | Separation & Care Unit | | Also / previously known as the Segregation Unit (Seg) |
 | SDS | Safe, Decent & Secure | | |
+| SDS | Standard Determinate Sentence |  |  |
 | Segregation Unit | Also known as Seg, Solitary Confinement, SCU & CSC | | |
 | SEO | Search engine optimisation | https://www.gov.uk/guidance/content-design/data-and-analytics | Improving search rankings for your site - for instance by using popular search terms in titles or web copy. |
+| SED | Sentence Expiry Date |  |  |
 | SID | Self Inflicted Death | | |
 | SIG | Service Integration Group | | |
 | SIM | Service Incident and Management | | |
@@ -536,6 +555,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SIRO | Senior Information Risk Owner | | |
 | SLA | Service Level Agreement | | |
 | SLC | Student Loans Company | | |
+| SLED | Sentence and Licence Expiry Date |  |  |
 | SME | small and medium-sized enterprises | | Can also stand for subject matter expert. |
 | SMS (in the Hub) | Supplier Management System | | CWA (Contracted Work and Administration)'s Supplier (Legal Provider) data |
 | SMT | Senior Management Team | | |
@@ -585,6 +605,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | TSP | Thinking Skills Programme | | An intervention that deals with domestic violence issues |
 | TTG | Through The Gate | | |
 | TTP | Technology Transition Programme | | Replacement for DOM1 and DISC IT programme.Move to MS Asure cloud based service, Office 365. |
+| TUSED | Top Up Supervision Expiry Date |  |  |
 | TVM | Transaction Volume Model | | |
 | TW3 | The Way We Work | | |
 | UAL | Unlawfully At Large | | |
