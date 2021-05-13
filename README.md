@@ -134,6 +134,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CPS | Crown Prosecution Service | http://www.cps.gov.uk/ | The organisation that is responsible for providing the prosecution in criminal cases in England and Wales. |
 | CR | Change Request | | |
 | CRC | Community Rehabilitation Company | | Organisations that will deliver probation services from 2014, replacing probation trusts. |
+| CRD | Conditional Release Date | | |
 | CRED | Civil Representation Expenditure Data Warehouse | | MI system holding civil case expenditure data extracted from CIS.CRED data is held in the EDW database - STAGEX schema owns the code and staging tables, FED schema owns the warehouse tables. |
 | CRM12 | | | An Excel form to apply to Rota. A spread sheet that contains solicitors information * All crime forms in LAA are called CRM |
 | CRN | Case Reference Number | | The number assigned to a offender in nDelius - the word case is misleading |
