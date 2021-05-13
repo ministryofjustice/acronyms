@@ -208,6 +208,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
 | EQUIP | Excellence and Quality in Probation Processes | | |
 | ERP | Enterprise Resource Planning | | |
+| ERS | Early Removal Scheme |  |  |
+| ERSED | Early Removal Scheme Eligibility Date |  |  |
 | ESF | European Social Fund | https://en.wikipedia.org/wiki/European_Social_Fund | Provides funding via the CFO to provide additional services to offenders |
 | ET | Employment Tribunal | | Also stands for 'E.T. the Extra-Terrestrial', a 1982 sci-fi movie about a loveable alien. |
 | ETD | Early Transfer Date |  |  |
@@ -592,6 +594,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | TC | Therapeutic Community | | |
 | TCEP | Transforming Compliance and Enforcement Project/Programme | | |
 | TED | Tenders Electronic Daily | http://ted.europa.eu/TED/main/HomePage.do | TED (Tenders Electronic Daily) is the online version of the 'Supplement to the Official Journal of the EU', dedicated to European public procurement.TED provides free access to business opportunities. It is updated 5 times a week with some 1,500 public procurement notices from the European Union, the European Economic Area and beyond. |
+| TERS | Tariff Early Removal Scheme |  |  |
+| TERSED | Tariff Early Removal Scheme Eligibility Date |  |  |
 | Throughcare | Also known as 'Resettlement' | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
 | TIL | Today I Learned | | |
 | tl;dr | too long; didn't read | | Make it snappy! |
