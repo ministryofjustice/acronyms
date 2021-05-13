@@ -178,6 +178,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Dip sampling | A quality control process used by police forces in which a representative proportion of files are selected and inspected | | |
 | DISC | Development, Innovation and Support Contracts | | Shared services framework - Atos (infrastructure), CGI (formerly LogicaCMG -  applications) supporting Dom1.http://www.publictechnology.net/sector/case-study-ministry-justice-disc-transition-team-successful-transition-it-services-six-existi |
 | DPA | Data Protection Act | | |
+| DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
 | DPRRD | Detention Post Recall Release Date |  |  |
 | DR | Defence Request | | Formally DSDS. |
 | DR | Disaster Recovery | | |
