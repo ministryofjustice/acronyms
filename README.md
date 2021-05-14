@@ -179,6 +179,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DISC | Development, Innovation and Support Contracts | | Shared services framework - Atos (infrastructure), CGI (formerly LogicaCMG -  applications) supporting Dom1.http://www.publictechnology.net/sector/case-study-ministry-justice-disc-transition-team-successful-transition-it-services-six-existi |
 | DPA | Data Protection Act | | |
 | DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
+| DPS | Dynamic Purchasing System | | Not unique to MoJ - it's a way that Governors can purchase additional education or work provision on site, outside of the standard education contracts.  Some stakeholders may be more familiar with this definition of DPS rather than 'Digital Prison Services' |
 | DPRRD | Detention Post Recall Release Date |  |  |
 | DR | Defence Request | | Formally DSDS. |
 | DR | Disaster Recovery | | |
