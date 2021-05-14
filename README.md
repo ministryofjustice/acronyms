@@ -186,6 +186,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DRY | Don't Repeat Yourself | | Often "DRY-ed". Removing duplication in code. |
 | DS | Digital Services | | MOJ Digital Services (formally DSD) |
 | DSA | Data Sharing Agreement | | |
+| DSA | Data Standards Authority | https://www.gov.uk/government/groups/data-standards-authority | The DSA works to improve how the public sector manages data. The DSA does this by establishing standards to make it easier and more effective to share and use data across government. |
 | DSCC | Defence Solicitor Call Centre | | |
 | DSD | Digital Service Designers | | |
 | DSD | Digital Services Division | http://blogs.justice.gov.uk/digital/ | Now obsolete. Please refer to 'Digital Services' (without the 'Division') or 'MOJ Digital Services'. |
