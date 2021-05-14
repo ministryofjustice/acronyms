@@ -76,6 +76,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | BWVC | Body Worn Video Camera | | |
 | C&R | Control & Restraint | | Prison |
 | CA | Case Admin | | |
+| can | denotes both capability and possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | CAB | Citizen's Advice Bureaux | http://www.citizensadvice.org.uk/ | Charity, funded largely by central and local government, that provides a one-stop non-specialist advice on many different issues.They have their own triage process on the front desk, which will help you get an appointment - possibly a fortnight away.Some are first-come-first-served, so there are big queues outside each morning. |
 | CAFCASS | Children and Family Court Advisory and Support Service | https://www.cafcass.gov.uk/ | |
 | CAIT | Child Abuse Investigation Team | https://en.wikipedia.org/wiki/Child_abuse_investigation_team | |
@@ -293,6 +294,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | IRaT | Incident Response and Tuning | | Live product support at MoJ Digital. |
 | IRC | Immigration Removal Centre | | |
 | IRS | Incident Reporting System | | |
+| is/are | denotes a description | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | ISP | Indeterminate Sentence Prisoner | | |
 | ISSS | Information and System Support Services | | |
 | ITA | Internation Trade Advisor | | 3rd party advisors contracted with UKTI offering business around business development. |
@@ -343,11 +345,13 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MALRAP | Multi Agency Lifer Risk Assessment Panel | | |
 | MAPPA | Multi-Agency Public Protection Arrangements | https://en.wikipedia.org/wiki/Multi-Agency_Public_Protection_Arrangements | |
 | MARAC | Multi Agency Risk Assessment Conference | | A local, multi agency victim-focused meeting where information is shared on the highest risk cases of domestic violence and abuse (includes considerations of child protection) between different statutory and voluntary sector agencies |
+| may | denotes approval | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | MCA | Mental Capacity Act | https://www.gov.uk/government/collections/mental-capacity-act-making-decisions | |
 | MCOL | Money Claim Online | https://www.gov.uk/make-money-claim-online | Online service to "take court action against someone if they owe you money and won’t pay you back". |
 | MCQ | Minor Change Quotation | | Related to tender documents. |
 | MFD | Multifunctional device | | Printers at MOJ, which can also be used to scan in documents (hence the 'multifunctional' bit). |
 | MI | Management Information | | Data or statistics collected and used to measure performance in a business. |
+| might | denotes a possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | MINT | Managed INTerconnect | | Two firewalls that bridge the OMNI and Quantum networks. |
 | MIS | Management Information System | | |
 | MITM | Man In The Middle | | |
@@ -551,6 +555,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Segregation Unit | Also known as Seg, Solitary Confinement, SCU & CSC | | |
 | SEO | Search engine optimisation | https://www.gov.uk/guidance/content-design/data-and-analytics | Improving search rankings for your site - for instance by using popular search terms in titles or web copy. |
 | SED | Sentence Expiry Date |  |  |
+| shall | denotes a requirement: a mandatory element | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
+| should | denotes a recommendation: an advisory element | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | SID | Self Inflicted Death | | |
 | SIG | Service Integration Group | | |
 | SIM | Service Incident and Management | | |
