@@ -623,6 +623,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | UAL | Unlawfully At Large | | |
 | UAT | User Acceptance Test | | |
 | UC | Universal Credit | https://www.gov.uk/universal-credit/overview | |
+| UCPD | User Centred Policy Design | https://mojdigital.blog.gov.uk/category/user-centred-policy-design/ | |
 | UI | User Interface | | |
 | UKTI | UK Trade & Investment | | |
 | UPW | UnPaid Work | | |
