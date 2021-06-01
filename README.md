@@ -76,11 +76,11 @@ A better mechanism to enable people without github accounts to suggest changes w
 | BWVC | Body Worn Video Camera | | |
 | C&R | Control & Restraint | | Prison |
 | CA | Case Admin | | |
-| can | denotes both capability and possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | CAB | Citizen's Advice Bureaux | http://www.citizensadvice.org.uk/ | Charity, funded largely by central and local government, that provides a one-stop non-specialist advice on many different issues.They have their own triage process on the front desk, which will help you get an appointment - possibly a fortnight away.Some are first-come-first-served, so there are big queues outside each morning. |
 | CAFCASS | Children and Family Court Advisory and Support Service | https://www.cafcass.gov.uk/ | |
 | CAIT | Child Abuse Investigation Team | https://en.wikipedia.org/wiki/Child_abuse_investigation_team | |
 | CAIT | Child Arrangements Information Tool | | Information resources to help separating couples make arrangements (custody, etc.) for their children. |
+| can | denotes both capability and possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | CARAT | Counselling, Assessment, Referral, Advice, Throughcare | | CARAT workers are intermediaries between drug treatments providers and the prisoners themselves |
 | CAS | Case Allocation System | | Used after sentencing to assign offender as NPS or CRC |
 | CATS | Case Assessment and Tracking System | https://www.co-financing.org/cats.php | .NET application written and used by CFO at Daresbury Park in Warrington for managing ESF funded projects |
@@ -179,9 +179,9 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Dip sampling | A quality control process used by police forces in which a representative proportion of files are selected and inspected | | |
 | DISC | Development, Innovation and Support Contracts | | Shared services framework - Atos (infrastructure), CGI (formerly LogicaCMG -  applications) supporting Dom1.http://www.publictechnology.net/sector/case-study-ministry-justice-disc-transition-team-successful-transition-it-services-six-existi |
 | DPA | Data Protection Act | | |
+| DPRRD | Detention Post Recall Release Date |  |  |
 | DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
 | DPS | Dynamic Purchasing System | | Not unique to MoJ - it's a way that Governors can purchase additional education or work provision on site, outside of the standard education contracts.  Some stakeholders may be more familiar with this definition of DPS rather than 'Digital Prison Services' |
-| DPRRD | Detention Post Recall Release Date |  |  |
 | DR | Defence Request | | Formally DSDS. |
 | DR | Disaster Recovery | | |
 | DRY | Don't Repeat Yourself | | Often "DRY-ed". Removing duplication in code. |
@@ -205,8 +205,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EAT | Employment Appeal Tribunal | | |
 | ECS | Elastic Container Service | https://aws.amazon.com/ecs/ | |
 | EDRMS | Electronic Documents and Record Management System | | Also known as NorthgateLAA's externally hosted document/record management system, used by CCMS. |
-| EE | | | |
 | EDS | Extended Determinate Sentence |  |  |
+| EE | | | |
 | EM | Electronic Monitoring | | (Also known as 'tagging') is the practice of attaching a tag to someone's ankle, used in England and Wales to monitor curfews and conditions of a court or prison order. |
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
 | EQUIP | Excellence and Quality in Probation Processes | | |
@@ -250,8 +250,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | GWS | Government Wide Service | | |
 | HCC | Health Care Centre | | NHS facility in a prison |
 | HDC | home detention curfew | | |
-| HDCED | Home Detention Curfew Eligibility Date |  |  |
 | HDCAD | Home Detention Curew Approved Date |  |  |
+| HDCED | Home Detention Curfew Eligibility Date |  |  |
 | HMCS | Her Majesty's Courts Service | | See HMCTS |
 | HMCTS | Her Majesty's Courts and Tribunals Service | | They prefer ampersand (&) to avoid CATS acronymmiaowPreviously known as Her Majesty's Courts Service before it merged with Tribunals to become HMCTS |
 | HMG | Her Majesty's Government | | |
@@ -325,8 +325,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LDD | Learning Difficulties and Disabilities | | |
 | LDO | Like, Duh!... Obviously! | | |
 | LDU | Local Delivery Unit | | Probation |
-| LEDS | Law Enforcement Data Service | | |
 | LED | Licence Expiry Date |  |  |
+| LEDS | Law Enforcement Data Service | | |
 | LFW | Legal Framework | https://dsdmoj.atlassian.net/wiki/spaces/CCMS/pages/822738987/Legal+Framework | Reference data used in civil legal aid. It's a bunch of interlinked spreadsheets and it's used by CCMS. |
 | LIBRA | | | National standard IT system for magistrates’ courts |
 | LIDS | Local Inmate Data System | | Prison-wide computer system to log details of all prisoners and their sentences. Has been replaced by NOMIS. |
@@ -499,7 +499,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSI | Public Sector Information | | Any information (content) whatever its medium (form) – including print, digital or electronic, and sound recordings – produced, held or disseminated by a public sector body is considered public sector information. This includes an enormous range: corporate information such as reports and financial data, codes of practice, public records, statistics, still and moving images, press releases, artefacts, publication schemes, and so on. |
 | PSITA | Police Station Immigration Telephone Advice | | There are 3 different firms. A part of the solicitor role. |
 | PSN | Public Services Network | https://www.gov.uk/government/groups/public-services-network | The PSN is the government’s high-performance network, which helps public sector organisations work together, reduce duplication and share resources |
-| PSNP | PSN for Police | | PSN + encryption, used by police forces | 
+| PSNP | PSN for Police | | PSN + encryption, used by police forces |
 | PSO | Prison Service Orders | http://www.justice.gov.uk/offenders/psos | Rules, regulations and guidelines by which prisons are run. These are outlined in Prison Service Instructions (PSIs) and Prison Service Orders (PSOs). |
 | PSO | Probation Service Officer | | |
 | PSP | Public Sector Prisons | | |
@@ -552,9 +552,9 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SCU | Separation & Care Unit | | Also / previously known as the Segregation Unit (Seg) |
 | SDS | Safe, Decent & Secure | | |
 | SDS | Standard Determinate Sentence |  |  |
+| SED | Sentence Expiry Date |  |  |
 | Segregation Unit | Also known as Seg, Solitary Confinement, SCU & CSC | | |
 | SEO | Search engine optimisation | https://www.gov.uk/guidance/content-design/data-and-analytics | Improving search rankings for your site - for instance by using popular search terms in titles or web copy. |
-| SED | Sentence Expiry Date |  |  |
 | shall | denotes a requirement: a mandatory element | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | should | denotes a recommendation: an advisory element | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | SID | Self Inflicted Death | | |
