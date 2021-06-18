@@ -249,7 +249,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | GDS | Government Digital Service | http://digital.cabinetoffice.gov.uk/ | |
 | GL | General ledger | https://en.wikipedia.org/wiki/General_ledger | |
 | GPC | Government Procurement Card | https://www.gov.uk/government/publications/government-procurement-card--2 | Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases. |
-| GRS | Government Recruitment Service | | The organisation that manages recruitment campaigns, ensuring open and fair competition. |
+| GRS | Government Recruitment Service | | The organisation that manages recruitment campaigns, ensuring open and fair competition. Previously known as Civil Service Resourcing. |
 | GSI | Government Secure Intranet | | |
 | GWS | Government Wide Service | | |
 | HCC | Health Care Centre | | NHS facility in a prison |
