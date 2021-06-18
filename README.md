@@ -70,6 +70,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | BNM | Becoming New Me | | General offending programme – thinking skills programme for those with learning disability |
 | BOP | Bring on Potential | | Education and Learning gained inside are recorded in BOP, which is available ‘through the gate’. Part of ILP (Individual Learning Plan) |
 | BOTUS | Breach of Top Up Supervision | URL | Info |
+| BPSS | Baseline Personnel Security Standard | | The minimum level of clearance for someone working in the Civil Service. |
 | BPG | ??? | | A digital gateway service that links nDelius to CRC systems(Not sure if this is a typo of SPG?) |
 | BRB | Be Right Back | | |
 | BSR | Building Skills for Recovery | | Substance misuse programme |
@@ -150,6 +151,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CSG | Corporate Services Group | | Part of MOJ led by director general Matthew Coats which includes Estates, ICT, HR, Shared Services and Digital Services. |
 | CSIP | Challenge Support Intervention Plan | | |
 | CSL | Civil Service Learning | https://civilservicelearning.civilservice.gov.uk/ | Training courses for civil servants. |
+| CSR | Civil Service Resourcing | | The previous name for the Government Recruitment Service (GRS) |
 | CSR | Corporate Staff Rostering | | A system used in prisons to detail staff. Also known as My Detail or InVision WFM |
 | CSRA | Cell Share Risk Assessment | | This is a priority assessment done when prisoners are received at prison, to ensure risks are reduced to them and others on their first night and beyond |
 | CTC | Counter Terrorism Clearance | https://www.gov.uk/guidance/security-vetting-and-clearance | a security clearance level, as seen in the Tech Scorecard : "Anyone with administrative or operational access to production systems... has CTC-level clearance" |
@@ -166,6 +168,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DARU | Data Assurance Reporting Unit | | |
 | DASD | Data & Analytical Services Division | | |
 | DBS | Defence Business Services | | |
+| DBS | Disclosure and Barring Service | | Organisation that maintains records and helps determine if someone should be prevented from working in a regulated activity, for example working with children. |
 | DCA | Department for Constitutional Affairs | http://www.dca.gov.uk | Became MOJ when joined with NOMS in 2007. |
 | DCF | Digital Case File | | An attempt at creating end-to-end digital/modern justice system from Police -> Crown Prosecution Service -> Courts -> Prisons -> Probation |
 | DD | Deputy Director | | |
@@ -246,6 +249,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | GDS | Government Digital Service | http://digital.cabinetoffice.gov.uk/ | |
 | GL | General ledger | https://en.wikipedia.org/wiki/General_ledger | |
 | GPC | Government Procurement Card | https://www.gov.uk/government/publications/government-procurement-card--2 | Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases. |
+| GRS | Government Recruitment Service | | The organisation that manages recruitment campaigns, ensuring open and fair competition. Previously known as Civil Service Resourcing. |
 | GSI | Government Secure Intranet | | |
 | GWS | Government Wide Service | | |
 | HCC | Health Care Centre | | NHS facility in a prison |
@@ -397,6 +401,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NPT | National Prosecution Team | http://www.cps.gov.uk/your_cps/our_organisation/spd.html | A joint team of CPS and Association of Chief Police Officers/National Policing Improvement Agency staff. T |
 | NQOS | Newly Qualified Officers | | (Probation) |
 | NSI | Non Statutory Intervention | | |
+| NSVC | National Security Vetting Contact | | Someone within a team or organisation with knowledge of the securty vetting process, and who can help with vetting questions or processes. |
 | NVDA | NonVisual Desktop Access | http://www.nvaccess.org/ | Windows screen reader, like JAWS, but free. |
 | NWOW | New Ways Of Working | | |
 | OASys | Offender Assessment System | | An offender assessment package. It identifies and classifies offending related needs, such as anger management, drug dependency, and poor literacy. |
@@ -540,6 +545,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | RRDS | Records Retention and Disposition Schedule | https://www.gov.uk/government/publications/record-retention-and-disposition-schedules | |
 | RSR | Risk of Serious Recidivism | | Algorithmic predictor |
 | RTM | Requirements Traceability Matrix | | |
+| RTW | Right To Work | | Evidence that someone is eligible to work lawfully in the UK. |
 | S3 | Simple Storage Service | http://aws.amazon.com/s3/ | Amazon's data storage service |
 | SAQ | Self Assessment Questionnaire | | A form done in a the first couple days of prison by new prisoner |
 | SAR | Subject Access Request | | Similar to an FOI, but for yourself. At the MOJ this is typically used by prisoners or civil servants. |
@@ -550,6 +556,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SCA | Start Custody Assessments | | |
 | SCC | Specialist Computer Centres | http://www.scc.com/ | Providers of web hosting |
 | SCU | Separation & Care Unit | | Also / previously known as the Segregation Unit (Seg) |
+| SCS | Senior Civil Servant | | Someone with a senior post in the Civil Service, for example a Director. |
 | SDS | Safe, Decent & Secure | | |
 | SDS | Standard Determinate Sentence |  |  |
 | SED | Sentence Expiry Date |  |  |
