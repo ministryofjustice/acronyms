@@ -124,6 +124,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CM | Custodial Manager | | A Band 5 prison officer. 3 stripes on their epaulettes |
 | CNA | certified normal accommodation | http://www.bbc.co.uk/news/uk-19395427 | Relating to prison capacity: "the good, decent standard of accommodation that the service aspires to provide all prisoners" |
 | COBR | Cabinet Office Briefing Room | | |
+| CoCo | Code of Connection | | Usually associated with the PSN. An agreed standard ('code') for network communication. |
 | Cohort,  ‘Specialised Cohort’ | Prisoners who are higher risk and are assigned to Key Worker and a Prison Offender Manager (POM) | | |
 | Cohort, ‘Core Cohort’ | Prisoners who are lower risk and assigned to a Key Worker and CRC | | |
 | COM | Community Offender Managers | | A role within the National Probation Service |
