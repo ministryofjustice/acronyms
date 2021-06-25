@@ -398,7 +398,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NOMS | National Offender Management Service | http://www.justice.gov.uk/about/noms | Covers prisons and probation |
 | NORB | National Operations Readiness Board | | |
 | NPD | Non Parole Date |  |  |
-| NPS | National Probation Service | | |
+| NPS | National Probation Service | | Old name for Probation Service (changed June 2021). |
 | NPT | National Prosecution Team | http://www.cps.gov.uk/your_cps/our_organisation/spd.html | A joint team of CPS and Association of Chief Police Officers/National Policing Improvement Agency staff. T |
 | NQOS | Newly Qualified Officers | | (Probation) |
 | NSI | Non Statutory Intervention | | |
@@ -499,6 +499,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PRP | Probation Reform Programme | | A Draft Target Operating Model for the Future of Probation Services in England and Wales | | |
 | PRRD | Post Recall Release Date |  |  |
 | PS | Police Sergeant | | |
+| PS | Probation Service | | New name (June 2021) for what was the National Probation Service. |
 | PSD | Personal and Social Development | | Refers to courses such as art courses, which seek to foster PSD |
 | PSE | Police Sergeant Employee | | |
 | PSI | Prison Service Instructions | http://www.justice.gov.uk/offenders/psis | Rules, regulations and guidelines by which prisons are run. See also PSO |
