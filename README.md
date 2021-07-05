@@ -421,6 +421,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OLAP | Online Analytical Processing | | |
 | OLASS | Offenders' Learning and Skills Service | https://www.gov.uk/government/collections/olass-funding-rules-and-guidance | Integrated (prison based) offender education with mainstream academic and vocational provision. OLASS ceased delivery in 2018, and was replaced by something else (can't remember what though, but it essentially devolved a lot of it down to local purchases at governor level) |
 | OLCS | | | |
+| Oleeo | Website | https://www.oleeo.com/ | Recruitment service used during recruitment of Civil Servants, especially where vetting is required. |
 | OM | Offender Manager | | Probation |
 | OMiC Go | A digital solution providing basic prisoner information, auto allocation of prisoners to KW’s | | This may be an old name for the service |
 | OMiC | Offender Management in Custody | | |
@@ -559,6 +560,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SCC | Specialist Computer Centres | http://www.scc.com/ | Providers of web hosting |
 | SCU | Separation & Care Unit | | Also / previously known as the Segregation Unit (Seg) |
 | SCS | Senior Civil Servant | | Someone with a senior post in the Civil Service, for example a Director. |
+| SCSBP | Senior Civil Service Business Partner | | Organisation or individual who assists during recruitment of a Senior Civil Servant. |
 | SDS | Safe, Decent & Secure | | |
 | SDS | Standard Determinate Sentence |  |  |
 | SED | Sentence Expiry Date |  |  |
