@@ -640,6 +640,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | UPW | UnPaid Work | | |
 | UX | User Experience | | |
 | VC | The Virtual Campus | | |
+| VCD | View Court Data | | LAA web app for viewing data from HMCTS's "Common Platform" |
 | VIS | Victims Information Service | | |
 | ViSOR | Violent and Sex Offender Register | | ViSOR is a secure national database that can be accessed by the Police, Probation, and Prison services, allowing the three services to work on the same system to help reduce reoffending. |
 | VLE | Virtual Learning Environments | | |
