@@ -53,6 +53,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ATIA | Architecture, Technology and Information Assurance | | A former unit inside MOJ ICT |
 | ATM | At The Moment | | |
 | ATOS | Multinational Company - often involved in consultancy or healthcare | https://en.wikipedia.org/wiki/Atos | See URL |
+| Authorised User | Any user of services covered as authorised by MoJ. | | |
 | AWS | Amazon Web Services | http://aws.amazon.com/ | |
 | BAFO | Best And Final Offer | | |
 | BAU | Business As Usual | | |
@@ -159,6 +160,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CTS | Core Technology Services team | | |
 | Custody Assistant | subcontracted staff in custody | | |
 | Custody Officer | police staff | | |
+| Customer | Someone who buys goods or services. The customer of an IT service provider is the person or group who defines and agrees the service level targets. The term customers is also sometimes informally used to mean users, for example "this is a customer focused organisation". | | |
 | CVCC | Court Video Conference Centre | | |
 | CWA | Contracted Work and Administration (system) | | LAA web app for managing providers and their contracted work, including contract billing. |
 | CWX | Civil debt recovery service. Legacy debt management app, hosted external. | | |
@@ -289,6 +291,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | IL# | Impact Levels [number] | http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/ | Shorthand for BIL#Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong.specific information about prisoners will have business impact 3 if made publicAll revised with the new Official criteria |
 | ILP | Individual Learning Plan | | |
 | IMB | Independent Monitoring Board | | |
+| Incident | Any event which is not part of the standard operation of a service, and which causes, or may cause, an interruption to, or a reduction in, the quality of that service. | | |
+| Incident Management | The process responsible for managing the lifecycle of all incidents. The primary objective of incident management is to return the IT service to users as quickly as possible. | | |
 | Interventions Manager | A system that records prisons interventions services | http://www.i2n.com/case-and-evidence-management/interventions-manager | |
 | Interventions | This term in the prison system means courses that prisoners can attend that address behaviour such as drug misuse, domestic violence, etc | | |
 | InVision | A system used in prisons to detail staff. Also known as CSR (Corporate Staff Rostering) or My Detail | | |
@@ -497,6 +501,9 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PQiP | Professional Qualification in Probation | http://www.traintobeaprobationofficer.com/about-the-training/ | |
 | Pre Con | Previous Conviction | | |
 | Precons | Pre-convictions | | These are found on the PNC. A PDF ‘Printout’ of precons for a particular offender is used by court probation officers |
+| Problem | A cause of one or more incidents. The cause is not usually known at the time a problem record is created, and the Problem Management process is responsible for further investigation. | | |
+| Problem Management | The process responsible for managing the lifecycle of all problems. The primary objectives of Problem Management are to prevent incidents from happening, and to minimize the impact of incidents which cannot be prevented. | | |
+| Process | A structured set of activities designed to accomplish a specific objective. A process takes one or more defined inputs and turns them into defined outputs. A process may include any of the roles, responsibilities, tools and management controls required to reliably deliver the outputs. A process may define policies, standards, guidelines, activities, and work instructions if they are needed. | | |
 | PRP | Probation Reform Programme | | A Draft Target Operating Model for the Future of Probation Services in England and Wales | | |
 | PRRD | Post Recall Release Date |  |  |
 | PS | Police Sergeant | | |
@@ -533,6 +540,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | RCJ | Royal Courts of Justice | http://courttribunalfinder.service.gov.uk/courts/royal-courts-of-justice | Contains both the High Court and Courts of Appeal, based on the Stand in London.Definitely *not* like a large County Court! |
 | RDR | Resettlement Day Release | | Relates to RoTL (Release on Temporary Licence) documentation |
 | Resettlement | Also known as ‘Throughcare’ | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
+| Resolution | Action taken to repair the root cause of an incident or problem, or to implement a workaround. | | |
+| Resolver Group | May include a wide range of IT teams, including support and development personnel, other SMFs, other units within the organisation, outsourcing providers, partners, and other third parties. | | |
 | RFS | Request for Service | | A procurement term used in NOMS (elsewhere?), specifically with HP to define new change requests and projects |
 | RIC | Remand in custody | | |
 | RIPA | Regulation of Investigatory Powers Act | | |
@@ -566,6 +575,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SED | Sentence Expiry Date |  |  |
 | Segregation Unit | Also known as Seg, Solitary Confinement, SCU & CSC | | |
 | SEO | Search engine optimisation | https://www.gov.uk/guidance/content-design/data-and-analytics | Improving search rankings for your site - for instance by using popular search terms in titles or web copy. |
+| Service Desk | The single point of contact between the service provider and the users. A typical Service Desk manages incidents and service requests, and handles communication with the users. |  |  |
 | shall | denotes a requirement: a mandatory element | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | should | denotes a recommendation: an advisory element | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | SID | Self Inflicted Death | | |
@@ -625,6 +635,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | TPM | | | |
 | TR | Transforming Rehabilitation | | |
 | Traka | Traka key systems only allow authorised users to access prison keys, ensuring they remain accounted for at all times. | https://www.traka.com/en/site/traka/applications/key-management/ | |
+| Trend Analysis | Analysis of data to identify time related patterns. Trend analysis is used in Problem Management to identify common failures or fragile configuration items, and in Capacity Management as a modelling tool to predict future behaviour. It is also used as a management tool for identifying deficiencies in IT Service Management Processes. | | |
 | TSP | Thinking Skills Programme | | An intervention that deals with domestic violence issues |
 | TTG | Through The Gate | | |
 | TTP | Technology Transition Programme | | Replacement for DOM1 and DISC IT programme.Move to MS Asure cloud based service, Office 365. |
