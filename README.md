@@ -213,6 +213,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EE | | | |
 | EM | Electronic Monitoring | | (Also known as 'tagging') is the practice of attaching a tag to someone's ankle, used in England and Wales to monitor curfews and conditions of a court or prison order. |
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
+| EPICK | Event, Problem, Incident, Continual Service Improvement and Knowledge Team |  |  |
 | EQUIP | Excellence and Quality in Probation Processes | | |
 | ERP | Enterprise Resource Planning | | |
 | ERS | Early Removal Scheme |  |  |
