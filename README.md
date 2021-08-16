@@ -249,6 +249,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | GAPS | | | |
 | GBS | Government Banking Service | https://www.gov.uk/government/publications/government-banking-service | |
 | GDS | Government Digital Service | http://digital.cabinetoffice.gov.uk/ | |
+| GIRR | Government Information Risk Return | | |
 | GL | General ledger | https://en.wikipedia.org/wiki/General_ledger | |
 | GPC | Government Procurement Card | https://www.gov.uk/government/publications/government-procurement-card--2 | Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases. |
 | GRS | Government Recruitment Service | | The organisation that manages recruitment campaigns, ensuring open and fair competition. Previously known as Civil Service Resourcing. |
