@@ -352,6 +352,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MaLi | Master list of initiatives | | An MOJ Technology list of all projects and programmes of work across the ministry |
 | MALRAP | Multi Agency Lifer Risk Assessment Panel | | |
 | MAPPA | Multi-Agency Public Protection Arrangements | https://en.wikipedia.org/wiki/Multi-Agency_Public_Protection_Arrangements | |
+| MAPPS | Multi-Agency Public Protection Service | | will replace VISOR. In development from 2021 until approx 2024 |
 | MARAC | Multi Agency Risk Assessment Conference | | A local, multi agency victim-focused meeting where information is shared on the highest risk cases of domestic violence and abuse (includes considerations of child protection) between different statutory and voluntary sector agencies |
 | may | denotes approval | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | MCA | Mental Capacity Act | https://www.gov.uk/government/collections/mental-capacity-act-making-decisions | |
@@ -645,7 +646,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | VC | The Virtual Campus | | |
 | VCD | View Court Data | | LAA web app for viewing data from HMCTS's "Common Platform" |
 | VIS | Victims Information Service | | |
-| ViSOR | Violent and Sex Offender Register | | ViSOR is a secure national database that can be accessed by the Police, Probation, and Prison services, allowing the three services to work on the same system to help reduce reoffending. |
+| ViSOR | Violent and Sex Offender Register | | ViSOR is a secure national database that can be accessed by the Police, Probation, and Prison services, allowing the three services to work on the same system to help reduce reoffending. This is being replaced by MAPPS (see above) |
 | VLE | Virtual Learning Environments | | |
 | VMT | | | |
 | VO | Visiting Order | | Visiting credit for prisoners in the form of a reference number. Usually 2 a month. |
