@@ -547,6 +547,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ROR | Resettlement Overnight Release | | Relates to RoTL (Release on Temporary Licence) documentation |
 | ROSH | Risk of Serious Harm | | |
 | ROTL | Release on Temporary Licence | | |
+| RPD | Regional Probation Director | | |
 | RPA | Robotic Process Automation | https://en.wikipedia.org/wiki/Robotic_process_automation | |
 | RRDS | Records Retention and Disposition Schedule | https://www.gov.uk/government/publications/record-retention-and-disposition-schedules | |
 | RSR | Risk of Serious Recidivism | | Algorithmic predictor |
