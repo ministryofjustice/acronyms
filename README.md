@@ -477,6 +477,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PIMS | Provider Interaction Management System | | |
 | PIP | Personal Independence Payment | | |
 | PIPES | Psychologically Informed Physical Environment Services | | |
+| PLIC | Prison leavers Innovation Challenge | https://www.gov.uk/guidance/prison-leavers-innovation-challenge | It aims to develop innovative new solutions to break the cycle of reoffending |
 | PMO | Project Management Office | | Bit of organisation that sets standards for project management. |
 | PMP | Privately Managed Prisons | | |
 | PMR | | | Civil Servant performance reviews |
