@@ -673,6 +673,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | YCS | Youth Custody Service | | |
 | YJAF | Youth Justice Application Framework | | |
 | YJB | Youth Justice Board | | |
+| YOI | Young Offender Institution | https://en.wikipedia.org/wiki/Her_Majesty%27s_Young_Offender_Institution | |
 | YOS | Youth Offending Service | | |
 | YOT | Youth Offending Team | http://www.justice.gov.uk/youth-justice/courts-and-orders/youth-offending-teams | |
 | xxx | | | |
