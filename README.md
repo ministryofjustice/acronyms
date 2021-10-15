@@ -370,6 +370,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MOG | | | |
 | MOiC | Managing Offenders in Custody | | |
 | MOJ | Ministry of Justice | https://www.gov.uk/designprinciples/styleguide | Use capitals - 'MOJ', not 'MoJ'.Departments don’t take the definite article, so 'MOJ', not 'the MOJ'. |
+| MoJO | Ministry of Justice Official | | Network that will replace WTP/PEPT and Quantum |
 | MOU | Memorandum Of Understanding | | |
 | MPS | Moving People Safely | | |
 | MPSI | Ministers, Parliament, Strategy and implementation | | |
