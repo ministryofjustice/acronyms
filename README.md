@@ -528,6 +528,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | QDS | | | |
 | QUANTUM | Prison Service IT System | | |
 | R&D | Research & Development | | |
+| R&R | Reward & Recognition | | |
 | RACI | Responsible, Accountable, Consulted, Informed | | "Accountable" is sometimes "Approved" |
 | RAD | Rapid Application Development | | |
 | RAG | Red, Amber, Green | | |
