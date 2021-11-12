@@ -434,6 +434,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OMNI | Offender Management National Infrastructure | | A network used to access probation systems |
 | OMS | Other MOJ Suppliers | | |
 | OMU | Offender Management Unit | | |
+| OOH | Out of hours | | |
 | OPD | Offender Personality Disorder | | |
 | OPG | Office of the Public Guardian | http://www.justice.gov.uk/about/opg | |
 | ORA | Offender Rehabilitation Act | | |
