@@ -82,7 +82,11 @@
                   <tr class="govuk-table__row">
                      <th scope="row" class="govuk-table__header">{{ item.abbreviation }}</th>
                      <td class="govuk-table__cell">{{ item.definition  }}</td>
-                     <td class="govuk-table__cell"><a href="{{ item.url }}">{{ item.url }}</a></td>
+                     {% if item.url == ""%}
+                     <td class="govuk-table__cell"> </td>
+                     {% else %}
+                     <td class="govuk-table__cell"><a href="{{ item.url }}">{{ item.abbreviation }}</a></td>
+                     {% endif %}
                      <td class="govuk-table__cell">{{ item.info }}</td>
                   </tr>
                {% endfor %}
@@ -138,4 +142,3 @@
       </script>
    </body>
 </html>
-
