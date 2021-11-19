@@ -292,7 +292,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | IIS | Inmate Information System | | The precursor to Prison-NOMIS. IIS has now been decommissioned, and data archived into HPA (Historic Prisoner Application) |
 | IL# | Impact Levels [number] | http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/ | Shorthand for BIL#Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong.specific information about prisoners will have business impact 3 if made publicAll revised with the new Official criteria |
 | ILP | Individual Learning Plan | | |
-| IMB | Independent Monitoring Authority | | Responsible for monitoring EU nationals post-Brexit |
+| IMA | Independent Monitoring Authority | | Responsible for monitoring EU nationals post-Brexit |
 | IMB | Independent Monitoring Board | | Part of Prisons service |
 | Interventions Manager | A system that records prisons interventions services | http://www.i2n.com/case-and-evidence-management/interventions-manager | |
 | Interventions | This term in the prison system means courses that prisoners can attend that address behaviour such as drug misuse, domestic violence, etc | | |
