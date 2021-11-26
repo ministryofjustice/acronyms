@@ -147,7 +147,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CRO | Community Responsible Officer | | Equivalent of a Community Offender Manager but in CRCs |
 | CRO | criminal records office | | unique number once convicted (police) |
 | CRP | Conference Room Pilot | | |
-| CRS | Commissioned Rehabilitative Services | page 79 in [The Target Operating Model for probation services in England and Wales, February 2021][tom-02-2021] | Rehabilitation and resettlement interventions  procured through the Dynamic Framework - the mechanism to procure rehabilitation and resettlement interventions in regional areas |
+| CRS | Commissioned Rehabilitative Services | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959745/HMPPS_-_The_Target_Operating_Model_for_the_Future_of_Probation_Services_in_England___Wales_-__English__-_09-02-2021.pdf#page=79 | Rehabilitation and resettlement interventions  procured through the Dynamic Framework - the mechanism to procure rehabilitation and resettlement interventions in regional areas |
 | CSA | | | |
 | CSC | Close Supervision Centre | | Also known as Segregation unit, Seg, Solitary Confinement & SCU |
 | CSG | Corporate Services Group | | Part of MOJ led by director general Matthew Coats which includes Estates, ICT, HR, Shared Services and Digital Services. |
@@ -681,5 +681,3 @@ A better mechanism to enable people without github accounts to suggest changes w
 | YOS | Youth Offending Service | | |
 | YOT | Youth Offending Team | http://www.justice.gov.uk/youth-justice/courts-and-orders/youth-offending-teams | |
 | xxx | | | |
-
-[tom-02-2021]: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959745/HMPPS_-_The_Target_Operating_Model_for_the_Future_of_Probation_Services_in_England___Wales_-__English__-_09-02-2021.pdf#page=79
