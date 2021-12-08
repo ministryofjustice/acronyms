@@ -183,6 +183,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DIC | death in custody | | |
 | Dip sampling | A quality control process used by police forces in which a representative proportion of files are selected and inspected | | |
 | DISC | Development, Innovation and Support Contracts | | Shared services framework - Atos (infrastructure), CGI (formerly LogicaCMG -  applications) supporting Dom1.http://www.publictechnology.net/sector/case-study-ministry-justice-disc-transition-team-successful-transition-it-services-six-existi |
+| DIWG | Data Integrity Working Group | | Looking at data and/or recording issues in Probation |
 | DOM1/Dom1 | Domain 1 | | End-user compute and networking solution |
 | DPA | Data Protection Act | | |
 | DPRRD | Detention Post Recall Release Date |  |  |
