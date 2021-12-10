@@ -479,6 +479,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PI | Probation Instruction | | |
 | PIA | Privacy Impact Assessment | | |
 | PIMS | Provider Interaction Management System | | |
+| PiP | Person in Prison | | Target Operating Model (TOM) and other Transition documents make reference to this |
 | PIP | Personal Independence Payment | | |
 | PIPES | Psychologically Informed Physical Environment Services | | |
 | PLIC | Prison leavers Innovation Challenge | https://www.gov.uk/guidance/prison-leavers-innovation-challenge | It aims to develop innovative new solutions to break the cycle of reoffending |
@@ -495,6 +496,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | POLAR | Payment of Legal Aid Remuneration | | LAA app (Access database) |
 | POM | Prison Offender Manager | | The new Case Manager/Band 4 Prison Officer |
 | POM | Probation Offender Manager | | Probation Service Role in Prison |
+| PoP | Person on Probation | | Community / Suspended Sentence Order - Target Operating Model (TOM) and other Transition documents make reference to this |
 | POPs | Privately Operated Prisons | | |
 | PPAS | Prison & Probation Analytical Services | | Previously known as PAG (Performance & Analysis Group) |
 | PPCS | Public Protection Casework Section | | |
