@@ -2,7 +2,7 @@
 
 ## View the [published site here](https://ministryofjustice.github.io/acronyms/)
 
-This is a temporary replacement for the (currently defunct) "Big Book of Acronyms" web application.
+This is a replacement for the (currently defunct) "Big Book of Acronyms" web application.
 
 ## Contributing
 
