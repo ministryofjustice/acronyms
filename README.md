@@ -103,7 +103,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CDD | Criminal Defence Direct | | Telephone adviser run by a few provides. New tendering process will be started and new structure and providers will be in place in April 2016. |
 | CDE | Common Data Extract | | A report of all offenders in NOMIS with lots of data about them. Also known as ‘offloc’ (offender location report). The CDE is used to transfer offender data to other NOMS/MOJ systems (like Mercury) and to other agencies (like the police). |
 | CDO | Chief Digital Officer | | |
-| CDT | Central Drafting Team | | In referance to ministerial corrospondence |
+| CDT | Central Drafting Team | | In referance to ministerial correspondence |
 | CEMLI | Configuration, Extension, Modification, Localisation and Integration | | |
 | CEO | Court enforcement officer | | |
 | CESG | Communications-Electronics Security Group | http://www.cesg.gov.uk | Part of GCHQ (spies and stuff) up in Cheltenham, they provide policy and assistance on digital security. Run IA and the impact levels etc. |
@@ -115,7 +115,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CICA | Criminal Injuries Compensation Authority | https://www.gov.uk/government/organisations/criminal-injuries-compensation-authority | "We deal with compensation claims from people who have been physically or mentally injured because they were the victim of a violent crime in England, Scotland or Wales." |
 | CIS | Corporate Information System | | LAA thick client app for legacy legal aid case management. |
 | CJG | Criminal Justice Group | | |
-| CJS | Criminal Justice System | http://www.cesg.gov.uk/Pages/homepage.aspx | Not really a proper noun, so don't use caps. Never abbreviate. |
+| CJS | Criminal justice system | | An expression that covers the delivery of justice in relation to crime, across multiple organisations. Includes the likes of: law enforcement, lawyers, CPS, courts, prisons and probation. See also https://www.cps.gov.uk/about-cps/criminal-justice-system. Style guide: it's not really a proper noun, so don't use caps. Never abbreviate. |
 | CJSE | Criminal Justice Secure Exchange | | Related to CJSM, this is a pipe for sending data and files (rather than email) between police, CPS and courts. Often used for submitting cases to be prosecuted, and the charging decisions leading up to them.It supports a few standards:(1) EXISS is a one-way interface. If the case is duff, CPS have to phone/email Police to give feedback and get it sent again.(2) TWIF/EXISS2 is a two-way interface which allows CPS to send secure messages back.TWIF supports charging decisions being sent as structured data. Most other documents are sent as a set of Word docs or PDFs.Digital Case File is a standard devised by CPS for sending the contents of the various case forms as structured data rather than word docs, hidden as a JSON payload alongside other documents being transferred anyway. Ultimately the 'sending' part will be replaced by publishing and permissions. |
 | CJSM | Criminal Justice Secure Mail | https://www.cjsm.net/ | A "secure" mail platform used for conveying sensitive information across organizations and individuals. |
 | CJX | Criminal justice eXtranet | | links police pnn network to other govt networks |
