@@ -89,7 +89,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CBO | crime billing online | | |
 | CCBC | County Court Bulk Centre | http://www.justice.gov.uk/courts/northampton-bulk-centre/ccbc | Set up by HM Courts & Tribunals Service specifically to deal with straightforward debt collection work which, in the main, is undefended. In Northampton. |
 | CCCD | Claim for Crown Court Defence | https://claim-crown-court-defence.service.gov.uk/ | Legal Aid Agency project where advocates (solicitors) can submit invoices for work done for legal aid work. Project formerly known as ADPproject formerly known as CBO |
-| CCLF | Crown Court Litigator Fee | | LAA web app that manages LGFS (Litigators Gradyated Fee Scheme) claims. |
+| CCLF | Crown Court Litigator Fee | | LAA web app that manages LGFS (Litigators Graduated Fee Scheme) claims. |
 | CCM | Commercial Contract Management | | |
 | CCMCC | County Court Money Claims Centre | | |
 | CCMD | Commercial and Contract Management Directorate | | |
@@ -133,7 +133,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | COM | Community Offender Managers | | A role within the National Probation Service |
 | COPs | Contracted Out Prisons | | Privately run establishments |
 | COTS | Commercial off-the-shelf | | software; as opposed to custom build |
-| CP | Common Platform | | Refers to the geographic area a CRC is responsible for |
+| CP | Common Platform | | Part of HMCTS |
 | CPA | Contract Package Area | | Refers to the geographic area a CRC is responsible for |
 | CPM | Child Protection Management | | |
 | CPO | Chief Probation Officer | | |
