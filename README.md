@@ -224,9 +224,9 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
 | EPICK | Event, Problem, Incident, Continual Service Improvement and Knowledge Team |  |  |
 | EQUIP | Excellence and Quality in Probation Processes | | |
-| ERIC | Early Removal Scheme |  |  |
+| ERIC |  |  |  |
 | ERP | Enterprise Resource Planning | | |
-| ERS |  |  |  |
+| ERS | Early Removal Scheme |  |  |
 | ERSED | Early Removal Scheme Eligibility Date |  |  |
 | ESF | European Social Fund | https://en.wikipedia.org/wiki/European_Social_Fund | Provides funding via the CFO to provide additional services to offenders |
 | ET | Employment Tribunal | | Also stands for 'E.T. the Extra-Terrestrial', a 1982 sci-fi movie about a loveable alien. |
