@@ -387,6 +387,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MOJ | Ministry of Justice | https://www.gov.uk/designprinciples/styleguide | Use capitals - 'MOJ', not 'MoJ'.Departments don’t take the definite article, so 'MOJ', not 'the MOJ'. |
 | MOJFIN | MoJ Finance | | Data warehouse the LAA finance team uses |
 | MOU | Memorandum Of Understanding | | |
+| MP | Modernisation Platform | | The Modernisation Platform is a hosting platform where teams can host and modernise applications which are not suitable for Cloud Platform |
 | MPS | Moving People Safely | | |
 | MPSI | Ministers, Parliament, Strategy and implementation | | |
 | MQPL | Measuring Quality of Prisoner Life | | |
