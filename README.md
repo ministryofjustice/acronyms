@@ -30,6 +30,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ADR | Architectural design record | | |
 | AEP | Accelerated Encryption Processing | | |
 | AFK | Away From Keyboard | | |
+| AGFS | Advocate Gradual Fees Scheme | | Fee scheme available to Barristers who work on Crown Court cases |
 | AIS | Acceptance Into Service | | |
 | AJTC | Administrative Justice Tribunals Council | http://ajtc.justice.gov.uk/ | |
 | ALB | Arm's-length body | http://www.instituteforgovernment.org.uk/our-work/new-models-governance-and-public-services/arms-length-bodies | An organisation that pretends it's independent from government, even though it's not, really.With apostrophe and hyphen when spelled out in full. |
@@ -87,16 +88,17 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CATS | Case Assessment and Tracking System | https://www.co-financing.org/cats.php | .NET application written and used by CFO at Daresbury Park in Warrington for managing ESF funded projects |
 | CBO | crime billing online | | |
 | CCBC | County Court Bulk Centre | http://www.justice.gov.uk/courts/northampton-bulk-centre/ccbc | Set up by HM Courts & Tribunals Service specifically to deal with straightforward debt collection work which, in the main, is undefended. In Northampton. |
-| CCCD | Claim for Crown Court Defence | https://claim-crown-court-defence.service.gov.uk/ | Legal Aid Agency project where advocates (solicitors) can submit invoices for work done for legal aid work. project formerly known as ADPproject formerly known as CBO |
-| CCLF | Crown Court Litigator Fee | | LAA web app that manages litigators fee claims. |
+| CCCD | Claim for Crown Court Defence | https://claim-crown-court-defence.service.gov.uk/ | Legal Aid Agency project where advocates (solicitors) can submit invoices for work done for legal aid work. Project formerly known as ADPproject formerly known as CBO |
+| CCLF | Crown Court Litigator Fee | | LAA web app that manages LGFS (Litigators Graduated Fee Scheme) claims. |
 | CCM | Commercial Contract Management | | |
 | CCMCC | County Court Money Claims Centre | | |
 | CCMD | Commercial and Contract Management Directorate | | |
-| CCMS | Client Cost Management System | | LAA web app to replace CIS, including financial modules to manage the LAA fund. |
+| CCMS | Client Cost Management System | | LAA ERP app to replace CIS, including financial modules to manage the LAA fund. Covers all civil certificated work (i.e. civil legal representation). Allows providers to make online legal aid applications and manage cases. Allows providers and advocates to submit bills online. Allows providers and advocates to scan and upload supporting documents electronically. Allows clients to pay us in new ways, such as credit and debit cards, payment reference cards and via direct debit. CCMS has been mandatory for all civil case types since 1 April 2016. In addition, Acts as the financial accounting system of reference for LAA General Ledger, Accounts Paytable, Accounts Receivable and is the system that actually makes payments to providers, and manages interactions with 3rd party Debt Recovery for CCMS cases. |
 | CCO | Call Centre Officer | | Call centre officer of DSCC |
-| CCR | Crown Court Remuneration | | LAA web app that manages Advocate fee claims.Feeds into LAA data warehouse. |
+| CCR | Crown Court Remuneration | | LAA web app that manages AGFC (Advocate Gradual Fee Scheme) claims. Feeds into LAA data warehouse. |
 | CCRC | Criminal Cases Review Commission | | |
 | CCS | Crown Commercial Service | https://www.gov.uk/government/organisations/crown-commercial-service | |
+| CDA | Court data adaptor | | |
 | CDC | Change Data Capture | | |
 | CDC | Change Directorate Committee | | |
 | CDCS | Change Data Capture Staging | | LAA Oracle database for capturing data from remote databases.Receives data from CCMS which it captures within CDCS and then pulls the relevant information in to EDW. |
@@ -107,19 +109,20 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CEMLI | Configuration, Extension, Modification, Localisation and Integration | | |
 | CEO | Court enforcement officer | | |
 | CESG | Communications-Electronics Security Group | http://www.cesg.gov.uk | Part of GCHQ (spies and stuff) up in Cheltenham, they provide policy and assistance on digital security. Run IA and the impact levels etc. |
+| CFE | Check Financial Eligibility | | A non-user facing service which calculates an applicant’s financial eligibility using data entered through Apply. This includes information on an applicant’s income and outgoings, and calculations include a range of different things in accordance with legal aid regulation based on what information is entered. |
 | CFO | Co-Financing Organisation | https://www.co-financing.org | The name of a group within HMPPS who manage external funding (such as that from the ESF). Offices located in Daresbury Warrington. |
 | CFT | Civil, Family and Tribunals | | The name of a directorate in HMCTS. |
 | CGI | Conseillers en Gestion et Informatique | http://www.cgi.com/en | CGI stands for Conseillers en Gestion et Informatique in French, which translates to 'Information Systems and Management Consultants', in English. However, the official English meaning is 'Consultants to Government and Industry'.The company was formerly known as Logica, and designed the current (as of 19 April 2013) infrastructure for Money Claim Online and Possession Claim Online.Can also stand for 'computer-generated imagery'. |
 | CHAPS | Correspondence Handling And Processing System | | |
-| CHS | (Civil Legal Aid) Case Handling System | https://github.com/ministryofjustice/cla_frontend/ | Set of applications used by the Civil Legal Aid Operator Contact Centre and Specialist Legal Providers to manage Civil Legal Aid cases opened by members of the public in England and Wales. |
+| CHS | Case Handling System | https://github.com/ministryofjustice/cla_frontend/ | Set of applications used by the Civil Legal Aid Operator Contact Centre and Specialist Legal Providers to manage Civil Legal Aid cases opened by members of the public in England and Wales. |
 | CICA | Criminal Injuries Compensation Authority | https://www.gov.uk/government/organisations/criminal-injuries-compensation-authority | "We deal with compensation claims from people who have been physically or mentally injured because they were the victim of a violent crime in England, Scotland or Wales." |
-| CIS | Corporate Information System | | LAA thick client app for legacy legal aid case management. |
+| CIS | Corporate Information System | | LAA thick client app for legacy legal aid case management. It handles legacy cases for civil certificated work (i.e. civil representation) Internal system only (no provider facing functions). Also used for other work unrelated to civil and family certificated work. Intention is to decommission this system when it is practical. |
 | CJG | Criminal Justice Group | | |
 | CJS | Criminal justice system | | An expression that covers the delivery of justice in relation to crime, across multiple organisations. Includes the likes of: law enforcement, lawyers, CPS, courts, prisons and probation. See also https://www.cps.gov.uk/about-cps/criminal-justice-system. Style guide: it's not really a proper noun, so don't use caps. Never abbreviate. |
 | CJSE | Criminal Justice Secure Exchange | | Related to CJSM, this is a pipe for sending data and files (rather than email) between police, CPS and courts. Often used for submitting cases to be prosecuted, and the charging decisions leading up to them.It supports a few standards:(1) EXISS is a one-way interface. If the case is duff, CPS have to phone/email Police to give feedback and get it sent again.(2) TWIF/EXISS2 is a two-way interface which allows CPS to send secure messages back.TWIF supports charging decisions being sent as structured data. Most other documents are sent as a set of Word docs or PDFs.Digital Case File is a standard devised by CPS for sending the contents of the various case forms as structured data rather than word docs, hidden as a JSON payload alongside other documents being transferred anyway. Ultimately the 'sending' part will be replaced by publishing and permissions. |
 | CJSM | Criminal Justice Secure Mail | https://www.cjsm.net/ | A secure email platform, used for conveying sensitive information between users in organizations across the criminal justice system. In addition, the security assurance process drives up security standards across the sector. |
 | CJX | Criminal justice eXtranet | | links police pnn network to other govt networks |
-| CLA | Civil Legal Advice | https://www.gov.uk/civil-legal-advice | |
+| CLA | Civil Legal Advice | https://www.gov.uk/civil-legal-advice | CLA is a service provided to the general public in England and Wales where users can obtain free legal advice from specialist legal providers relating to a range of Civil matters. This is subject to the user’s matter being within scope of the service and the user passing the means eligibility test. The advice can either be given via telephone or in person depending upon the client’s unique circumstances. |
 | CLA | Civil Legal Aid | | |
 | CM | Custodial Manager | | A Band 5 prison officer. 3 stripes on their epaulettes |
 | CNA | certified normal accommodation | http://www.bbc.co.uk/news/uk-19395427 | Relating to prison capacity: "the good, decent standard of accommodation that the service aspires to provide all prisoners" |
@@ -130,6 +133,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | COM | Community Offender Managers | | A role within the National Probation Service |
 | COPs | Contracted Out Prisons | | Privately run establishments |
 | COTS | Commercial off-the-shelf | | software; as opposed to custom build |
+| CP | Common Platform | | Service provided by HMCTS, used by LAA to find criminal hearing information |
+| CP | Cloud Platform | | The MoJ Cloud Platform is a modern hosting platform for digital services |
 | CPA | Contract Package Area | | Refers to the geographic area a CRC is responsible for |
 | CPM | Child Protection Management | | |
 | CPO | Chief Probation Officer | | |
@@ -161,8 +166,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Custody Assistant | subcontracted staff in custody | | |
 | Custody Officer | police staff | | |
 | CVCC | Court Video Conference Centre | | |
-| CWA | Contracted Work and Administration (system) | | LAA web app for managing providers and their contracted work, including contract billing. |
-| CWX | Civil debt recovery service. Legacy debt management app, hosted external. | | |
+| CWA | Contracted Work and Administration | | LAA web app for managing providers and their contracted work. Billing system (for civil legal help and crime lower) that contains all provider contracts and schedules. Enables commissioning teams to manage their providers’ contracts and schedules. Is provider facing. Interfaces with CCMS to supply 'master record of the truth' of provider contract and contact details. Also does work in provisioning new provider user details to CCMS. |
+| CWX | | | Civil debt recovery service. Legacy debt management app, hosted external. |
 | D.Y.O. | Deter Young Cohort Offender | | |
 | DACU | Data Access and Compliance Unit | | |
 | DAL | Delegation Authority Letter | | A document indicating that the bearer has authority to delegate responsibility for a government bank account to SSCL. |
@@ -195,7 +200,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DS | Digital Services | | MOJ Digital Services (formally DSD) |
 | DSA | Data Sharing Agreement | | |
 | DSA | Data Standards Authority | https://www.gov.uk/government/groups/data-standards-authority | The DSA works to improve how the public sector manages data. The DSA does this by establishing standards to make it easier and more effective to share and use data across government. |
-| DSCC | Defence Solicitor Call Centre | | |
+| DSCC | Defence Solicitor Call Centre | | The call centre service that police use to provide a solicitor for people in custody. |
 | DSD | Digital Service Designers | | |
 | DSD | Digital Services Division | http://blogs.justice.gov.uk/digital/ | Now obsolete. Please refer to 'Digital Services' (without the 'Division') or 'MOJ Digital Services'. |
 | DSDS | Defence Solicitor Deployment Service | | |
@@ -210,14 +215,17 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DWP | Department for Work and Pensions | https://www.gov.uk/government/organisations/department-for-work-pensions | Government organisation - administrates ESF budget ellocation |
 | DX | Document Exchange | | DX, or Direct Exchange, is a private business-to-business mail and packaging network in the United Kingdom. Direct Exchange is cheaper than standard first class mail. Subscriptions are necessary to use this service. |
 | EAT | Employment Appeal Tribunal | | |
+| EBS| CCMS's E-Business Suite | | Part of CCMS |
 | ECS | Elastic Container Service | https://aws.amazon.com/ecs/ | |
 | EDRMS | Electronic Documents and Record Management System | | Also known as NorthgateLAA's externally hosted document/record management system, used by CCMS. |
 | EDS | Extended Determinate Sentence |  |  |
+| EDW | Enterprise Data Warehouse |  | Management Information data warehouse. Holds data from many LAA applications. |
 | EE | | | |
 | EM | Electronic Monitoring | | (Also known as 'tagging') is the practice of attaching a tag to someone's ankle, used in England and Wales to monitor curfews and conditions of a court or prison order. |
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
 | EPICK | Event, Problem, Incident, Continual Service Improvement and Knowledge Team |  |  |
 | EQUIP | Excellence and Quality in Probation Processes | | |
+| ERIC |  |  |  |
 | ERP | Enterprise Resource Planning | | |
 | ERS | Early Removal Scheme |  |  |
 | ERSED | Early Removal Scheme Eligibility Date |  |  |
@@ -231,7 +239,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EXHIBIT | See XHIBIT | | |
 | Extradition | only registered solicitor can go | | |
 | F2050 | prisoner core record | | protected characteristics and case information |
-| FALA | Find a legal advisor | http://find-legal-advice.justice.gov.uk/ | |
+| FALA | Find a legal advisor | http://find-legal-advice.justice.gov.uk/ | Public-facing service that allows people to find a legal advisor who holds a contract with the LAA |
 | FCA | Financial Conduct Authority | http://fca.org.uk | The Financial Conduct Authority (FCA) is a financial regulatory body in the United Kingdom, but operates independently of the United Kingdom government, and is financed by charging fees to members of the financial services industry. |
 | FCO | Foreign and Commonwealth Office | https://www.gov.uk/government/organisations/foreign-commonwealth-office | |
 | FCOS | Foreign and Commonwealth Office Services | https://www.fcoservices.gov.uk/ | A trading fund of the FCO. Providers of IL2 and IL3 web hosting |
@@ -290,12 +298,14 @@ A better mechanism to enable people without github accounts to suggest changes w
 | IDS | Intrusion Detection System | https://en.wikipedia.org/wiki/Intrusion_detection_system | An intrusion detection system (IDS) is a device or software application that monitors a network or systems for malicious activity or policy violations. |
 | IDTS | Integrated Drug and Treatment System | | Reception - Unit for prisoners detoxing from drugs and/or alcohol |
 | IEP | Incentive/Earned Privilege (level) | | |
+| IFS | Interim financial system | | |
 | IICSA | Independent Inquiry into Child Sexual Abuse | https://www.iicsa.org.uk | |
 | IIS | Inmate Information System | | The precursor to Prison-NOMIS. IIS has now been decommissioned, and data archived into HPA (Historic Prisoner Application) |
 | IL# | Impact Levels [number] | http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/ | Shorthand for BIL#Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong.specific information about prisoners will have business impact 3 if made publicAll revised with the new Official criteria |
 | ILP | Individual Learning Plan | | |
 | IMA | Independent Monitoring Authority | | Responsible for monitoring EU nationals post-Brexit |
 | IMB | Independent Monitoring Board | | Part of Prisons service |
+| InfoX | | | |
 | Interventions Manager | A system that records prisons interventions services | http://www.i2n.com/case-and-evidence-management/interventions-manager | |
 | Interventions | This term in the prison system means courses that prisoners can attend that address behaviour such as drug misuse, domestic violence, etc | | |
 | InVision | A system used in prisons to detail staff. Also known as CSR (Corporate Staff Rostering) or My Detail | | |
@@ -333,6 +343,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | L&D | Learning & Development | | |
 | LAA | Legal Aid Agency | | The new LSC |
 | LAALAA | Legal Aid Agency Legal Adviser API | https://github.com/ministryofjustice/laa-legal-adviser-api | API for finding Legal Providers for specific categories of law close to a physical location (postcode or address). |
+| LASPO | Legal Aid, Sentencing and Punishment of Offenders Act 2012 | | Essentially this act 'reformed' the scope of what legal aid was available for (decreased the scope). When talking to subject matter experts at the level of granting legal aid funding, you may hear reference to phrases such 'Schedule 1' of the act, which describes what cases are 'in scope' or 'out of scope' for legal aid. LASPO gave rise to the need for Exceptional Case Funding (ECF) to ensure that human rights were not breached by cutting the scope of legal aid|
 | LBs | Living Blocks | | |
 | LDD | Learning Difficulties and Disabilities | | |
 | LDO | Like, Duh!... Obviously! | | |
@@ -340,7 +351,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LED | Licence Expiry Date |  |  |
 | LEDS | Law Enforcement Data Service | | |
 | LFW | Legal Framework | https://dsdmoj.atlassian.net/wiki/spaces/CCMS/pages/822738987/Legal+Framework | Reference data used in civil legal aid. It's a bunch of interlinked spreadsheets and it's used by CCMS. |
-| LIBRA | | | National standard IT system for magistrates’ courts |
+| LGFS | Litigators Graduated Fees Scheme	 | | Fee scheme available to Solicitors who work on Crown Court cases |
+| LIBRA | | | Case management system used by Magistrate Courts only to record case details, hearing dates, applicant details etc. Note that this system is not used by Crown Courts. |
 | LIDS | Local Inmate Data System | | Prison-wide computer system to log details of all prisoners and their sentences. Has been replaced by NOMIS. |
 | LiPs | Litigants in Persons | | People at court without a professional representative. |
 | Liquid Logic | | | Children’s Services system (assume at one or more local authority) |
@@ -352,7 +364,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LSC | Legal Services Commision | | Now the LAA |
 | LSCB | Local Safeguarding Children Board | | |
 | LTD | Late Transfer Date |  |  |
-| MAAT | Means Assessment Administration Tool | | LAA web app for crime means assessment for legal aid. |
+| MAAT | Means Assessment Administration Tool | | Web app used by caseworkers to process legal aid applications for criminal cases. |
 | MaLi | Master list of initiatives | | An MOJ Technology list of all projects and programmes of work across the ministry |
 | MALRAP | Multi Agency Lifer Risk Assessment Panel | | |
 | MAPPA | Multi-Agency Public Protection Arrangements | https://en.wikipedia.org/wiki/Multi-Agency_Public_Protection_Arrangements | |
@@ -363,16 +375,17 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MCOL | Money Claim Online | https://www.gov.uk/make-money-claim-online | Online service to "take court action against someone if they owe you money and won’t pay you back". |
 | MCQ | Minor Change Quotation | | Related to tender documents. |
 | MFD | Multifunctional device | | Printers at MOJ, which can also be used to scan in documents (hence the 'multifunctional' bit). |
-| MI | Management Information | | Data or statistics collected and used to measure performance in a business. |
+| MI | Management Information | | Data or statistics collected and used to measure performance in a business |
 | might | denotes a possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | MINT | Managed INTerconnect | | Two firewalls that bridge the OMNI and Quantum networks. |
 | MIS | Management Information System | | |
 | MITM | Man In The Middle | | |
-| MLRA | LAA Managed Libra Record Access application | | |
+| MLRA | Managed Libra Record Access application | | Web app used by LAA caseworkers to access court information on Libra |
 | MODs | Models for Operational Delivery | | |
 | MOG | | | |
 | MOiC | Managing Offenders in Custody | | |
 | MOJ | Ministry of Justice | https://www.gov.uk/designprinciples/styleguide | Use capitals - 'MOJ', not 'MoJ'.Departments don’t take the definite article, so 'MOJ', not 'the MOJ'. |
+| MOJFIN | MoJ Finance | | Data warehouse the LAA finance team uses |
 | MOU | Memorandum Of Understanding | | |
 | MPS | Moving People Safely | | |
 | MPSI | Ministers, Parliament, Strategy and implementation | | |
@@ -413,9 +426,10 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NSVC | National Security Vetting Contact | | Someone within a team or organisation with knowledge of the securty vetting process, and who can help with vetting questions or processes. |
 | NVDA | NonVisual Desktop Access | http://www.nvaccess.org/ | Windows screen reader, like JAWS, but free. |
 | NWOW | New Ways Of Working | | |
+| OAS | Oracle Analytics Server | | LAA MI reporting tool. Pulls data from EDW, Mojfin and CLA. OAS is the upgraded version of OBIEE. |
 | OASys | Offender Assessment System | | An offender assessment package. It identifies and classifies offending related needs, such as anger management, drug dependency, and poor literacy. |
 | OAT | Operational Acceptance Test | | |
-| OBIEE | Oracle Business Intelligence Enterprise Edition | http://www.oracle.com/us/solutions/business-analytics/business-intelligence/enterprise-edition/overview/index.html | Legal Aid Agency's data warehouse solution. |
+| OBIEE | Oracle Business Intelligence Enterprise Edition | http://www.oracle.com/us/solutions/business-analytics/business-intelligence/enterprise-edition/overview/index.html | LAA MI reporting tool that was replaced by OAS. |
 | OBN | Overseas British Network | | AKA OBNI |
 | OBP | Offender Behaviour Programme | https://www.justice.gov.uk/offenders/before-after-release/obp | |
 | OBR | Office for Budget Responsibility | http://budgetresponsibility.independent.gov.uk/ | "It is the duty of the Office to examine and report on the sustainability of the public finances" |
@@ -438,6 +452,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OMS | Other MOJ Suppliers | | |
 | OMU | Offender Management Unit | | |
 | OOH | Out of hours | | |
+| OPA | CCMS's Oracle Policy Automation | | Rulebase engine |
 | OPD | Offender Personality Disorder | | |
 | OPG | Office of the Public Guardian | http://www.justice.gov.uk/about/opg | |
 | ORA | Offender Rehabilitation Act | | |
@@ -446,6 +461,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OSG | Operational Support Group/Grade | http://www.skillsforjustice-cp.com/viewrole.php?id=9 | “Operational support grades (OSGs) work in prisons carrying out duties essential to the smooth running of the establishment. They may work in and around a prison establishment or on duties which take them outside - to courts or other prisons, for example.” |
 | OSPT | Official Solicitor and Public Trustee | | |
 | OST | Operational Security Team | | |
+| OWB | Oracle Warehouse Builder | | An Oracle Extract Transform Load tool used for some LAA data warehouses |
 | P3T | Personnel Physical Procedural Technical | | The areas of information assurance. |
 | PAC | Public Accounts Committee | | |
 | PACE | Police and Criminal Evidence Act | | |
@@ -492,8 +508,9 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PO | Prison Officer | | |
 | PO | Probation Officer | | Not to be confused with Prison Officer in much OM literature |
 | POA | Prison Officer Association | | |
+| POA | Payment on account | | LAA term for when a provider requests to be paid for part of the work they already carried out, before they submit their final claim/bill|
 | POELT | Prison Officer Entry Level Training | | |
-| POLAR | Payment of Legal Aid Remuneration | | LAA app (Access database) |
+| POLAR | Payment of Legal Aid Remuneration | | Legacy system for recording and tracking all claims received by the National Taxing Team (NTT) as part of assessing Legal Aid claims |
 | POM | Prison Offender Manager | | The new Case Manager/Band 4 Prison Officer |
 | POM | Probation Offender Manager | | Probation Service Role in Prison |
 | PoP | Person on Probation | | Community / Suspended Sentence Order - Target Operating Model (TOM) and other Transition documents make reference to this |
@@ -506,6 +523,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PPU | Public Protection Unit | | |
 | PPUD | Public Protection Unit Database | | Licensing of Prisoners: Manages Recalls and Parole. Prison and Probation can access this system, that is primarily used by a large team (Circa 150 people) in Petty France.  This is being replaced but unclear with what and when |
 | PQ | Parliamentary Question | | |
+| PQQ | | | |
 | PQiP | Professional Qualification in Probation | http://www.traintobeaprobationofficer.com/about-the-training/ | |
 | Pre Con | Previous Conviction | | |
 | Precons | Pre-convictions | | These are found on the PNC. A PDF ‘Printout’ of precons for a particular offender is used by court probation officers |
@@ -527,6 +545,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSS | Post Sentence Supervision |  |  |
 | PSU | Personal Support Unit | https://en.wikipedia.org/wiki/Personal_Support_Unit | |
 | PTTP | Prison Technology Transformation Programme | | Laptops, mobile devices, applications, etc. for the whole of HMPPS. Replacement for Quantum. Programme commenced 2020. |
+| PTX | | | |
+| PUI | CCMS's Provider User Interface | | Provider facing part of CCMS. It's used by providers to submit, amend and follow up on legal aid applications for civil cases. |
 | PUM | Portal User Management | | Use by LAA Online support team to reset users passwords, unlock their accounts and assign CCLF roles to users. |
 | PVB | Prison Visits Bookings | http://www.gov.uk/prison-visits | |
 | PVO | Privileged Visiting Order | | Extra visiting credit for enhanced prisoners. One or two extra visits per month. |
@@ -552,7 +572,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | RM2000 | Risk Matrix 2000 | | A static risk assessment for sex offenders over the age of 18 |
 | RMAD | Risk Management Accreditation Document | | See RMADS |
 | RMADS | Risk Management and Accreditation Document Set | | |
-| ROC | Remuneration of Central Fund Costs | | LAA app |
+| ROC | Remuneration of Central Fund Costs | | It is used by a team of LAA caseworkers called 'Criminal cases unit'. They are the ones who assess claim for payments for any type of crime work that sits outside the graduated fee scheme. It's like processing payments for exceptional cases but it doesn't come from the Exception Case Funding scheme (which is only applicable for Civil). Providers claim those payments by emailing an Excel form to the Criminal case unit (there are 8 different forms depending on what's being claimed) who then log the claim into ROC, assess the claim and then send it to SSCL who processes the payment. |
 | ROM | Rough Order of Magnitude | en.wikipedia.org/wiki/Cost_estimate | A crude estimate of the cost of a project. See also SWAG and PIDOOMA.Could also stand for 'read-only memory'. |
 | ROR | Resettlement Overnight Release | | Relates to RoTL (Release on Temporary Licence) documentation |
 | ROSH | Risk of Serious Harm | | |
@@ -591,10 +611,11 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SLA | Service Level Agreement | | |
 | SLC | Student Loans Company | | |
 | SLED | Sentence and Licence Expiry Date |  |  |
-| SME | small and medium-sized enterprises | | Can also stand for subject matter expert. |
+| SME | Small and medium-sized enterprises | | Can also stand for subject matter expert. |
 | SMS (in the Hub) | Supplier Management System | | CWA (Contracted Work and Administration)'s Supplier (Legal Provider) data |
 | SMT | Senior Management Team | | |
 | SO | Supervising Officer | | |
+| SOA | Service-Oriented Architecture | | Both a term and a product suite from Oracle, responsible for providing a point of interface for external integrations for CCMS for case creation |
 | SOP | Single Operating Platform | | |
 | SoS | Secretary of State | https://www.gov.uk/government/ministers/secretary-of-state-for-justice | Referring to the Justice Secretary, the minister who heads up the department.Not to be confused with the Morse code distress signal, SOS. |
 | SPG | Strategic Partner Gateway | | |
@@ -623,7 +644,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | TAD | Technical Architecture Document | | |
 | TAD | Tender Assessment Database | | Used by LAA to record assessment of contract tender responses. |
 | TAFKADSD | The Artists Formerly Known as the Digital Services Division | | Subsequently known as MOJ Digital Services.Currently known as MOJ Digital. |
-| TBD | To Be Decided | | |
+| TBD | To Be Decided or Defined | | |
+| TBC | To Be Confirmed | | |
 | TC | Therapeutic Community | | |
 | TCEP | Transforming Compliance and Enforcement Project/Programme | | |
 | TCoP | Technology Code of Practice | https://www.gov.uk/guidance/the-technology-code-of-practice | The Technology Code of Practice is a cross-government agreed standard used for the [Cabinet Office spend control](https://www.gov.uk/government/collections/cabinet-office-controls) process and the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/). 
@@ -644,6 +666,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | TTG | Through The Gate | | |
 | TTP | Technology Transition Programme | | Replacement for DOM1 and DISC IT programme.Move to MS Asure cloud based service, Office 365. |
 | TUSED | Top Up Supervision Expiry Date |  |  |
+| TV | Tender Verification | | |
 | TVM | Transaction Volume Model | | |
 | TW3 | The Way We Work | | |
 | UAL | Unlawfully At Large | | |
@@ -684,4 +707,5 @@ A better mechanism to enable people without github accounts to suggest changes w
 | YOI | Young Offender Institution | https://en.wikipedia.org/wiki/Her_Majesty%27s_Young_Offender_Institution | |
 | YOS | Youth Offending Service | | |
 | YOT | Youth Offending Team | http://www.justice.gov.uk/youth-justice/courts-and-orders/youth-offending-teams | |
-| xxx | | | |
+| XHIBIT | Exchanging Hearing Information by Internet Technology | | Case management system used by Crown Courts only to record case details, hearing dates, applicant details etc. Note that this system is not used by Magistrates Courts. |
+| XXCCMS |  | | Name of an LAA database schema. According to old rules, XX is the standard prefix for customization in EBS (E-Business Suite). |
