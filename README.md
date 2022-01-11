@@ -530,7 +530,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PRP | Probation Reform Programme | | A Draft Target Operating Model for the Future of Probation Services in England and Wales | | |
 | PRRD | Post Recall Release Date |  |  |
 | PS | Police Sergeant | | |
-| PS | Probation Service | | New name (June 2021) for what was the National Probation Service.|
+| PS | Probation Service | | New name (June 2021) for what was the National Probation Service. |
 | PSD | Personal and Social Development | | Refers to courses such as art courses, which seek to foster PSD |
 | PSE | Police Sergeant Employee | | |
 | PSI | Prison Service Instructions | http://www.justice.gov.uk/offenders/psis | Rules, regulations and guidelines by which prisons are run. See also PSO |
