@@ -706,5 +706,5 @@ A better mechanism to enable people without github accounts to suggest changes w
 | YOI | Young Offender Institution | https://en.wikipedia.org/wiki/Her_Majesty%27s_Young_Offender_Institution | |
 | YOS | Youth Offending Service | | |
 | YOT | Youth Offending Team | http://www.justice.gov.uk/youth-justice/courts-and-orders/youth-offending-teams | |
-| XBITIH | Exchanging Hearing Information by Internet Technology | | Case management system used by Crown Courts only to record case details, hearing dates, applicant details etc. Note that this system is not used by Magistrates Courts. |
+| XHIBIT | Exchanging Hearing Information by Internet Technology | | Case management system used by Crown Courts only to record case details, hearing dates, applicant details etc. Note that this system is not used by Magistrates Courts. |
 | XXCCMS |  | | Name of an LAA database schema. According to old rules, XX is the standard prefix for customization in EBS (E-Business Suite). |
