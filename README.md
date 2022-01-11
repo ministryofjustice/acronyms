@@ -133,7 +133,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | COM | Community Offender Managers | | A role within the National Probation Service |
 | COPs | Contracted Out Prisons | | Privately run establishments |
 | COTS | Commercial off-the-shelf | | software; as opposed to custom build |
-| CP | Common Platform | | Part of HMCTS |
+| CP | Common Platform | | Service provided by HMCTS, used by LAA to find criminal hearing information |
+| CP | Cloud Platform | | The MoJ Cloud Platform is a modern hosting platform for digital services |
 | CPA | Contract Package Area | | Refers to the geographic area a CRC is responsible for |
 | CPM | Child Protection Management | | |
 | CPO | Chief Probation Officer | | |
