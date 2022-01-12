@@ -73,20 +73,18 @@
                   <tr class="govuk-table__row">
                      <th scope="col" class="govuk-table__header">Abbreviation</th>
                      <th scope="col" class="govuk-table__header">Definition</th>
-                     <th scope="col" class="govuk-table__header">URL</th>
                      <th scope="col" class="govuk-table__header">Info</th>
                   </tr>
                </thead>
                <tbody class="govuk-table__body">
                {% for item in list %}
                   <tr class="govuk-table__row">
-                     <th scope="row" class="govuk-table__header">{{ item.abbreviation }}</th>
-                     <td class="govuk-table__cell">{{ item.definition  }}</td>
                      {% if item.url == ""%}
-                     <td class="govuk-table__cell"> </td>
+                     <th scope="row" class="govuk-table__header">{{ item.abbreviation }}</th>
                      {% else %}
                      <td class="govuk-table__cell"><a href="{{ item.url }}">{{ item.abbreviation }}</a></td>
                      {% endif %}
+                     <td class="govuk-table__cell">{{ item.definition  }}</td>
                      <td class="govuk-table__cell">{{ item.info }}</td>
                   </tr>
                {% endfor %}
