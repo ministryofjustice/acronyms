@@ -615,6 +615,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SME | Small and medium-sized enterprises | | Can also stand for subject matter expert. |
 | SMS (in the Hub) | Supplier Management System | | CWA (Contracted Work and Administration)'s Supplier (Legal Provider) data |
 | SMT | Senior Management Team | | |
+| SNOW | Service Now | https://mojprod.service-now.com/moj_sp/ | Contraction used by Prison staff |
 | SO | Supervising Officer | | |
 | SOA | Service-Oriented Architecture | | Both a term and a product suite from Oracle, responsible for providing a point of interface for external integrations for CCMS for case creation |
 | SOP | Single Operating Platform | | |
