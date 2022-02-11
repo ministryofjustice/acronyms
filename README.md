@@ -262,6 +262,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | GDS | Government Digital Service | http://digital.cabinetoffice.gov.uk/ | |
 | GIRR | Government Information Risk Return | | |
 | GL | General ledger | https://en.wikipedia.org/wiki/General_ledger | |
+| GLiMR | Generalised Listing, Management & Registration | | GLiMR is a Generalised Listing, Management & Registration multi-jurisdiction Case Management system used by several MoJ sites situated throughout England and Wales, and as well as being accessed by both MoJ/HMCTS staff has a public facing website that feeds directly to the GLiMR Database. |
 | GPC | Government Procurement Card | https://www.gov.uk/government/publications/government-procurement-card--2 | Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases. |
 | GRS | Government Recruitment Service | | The organisation that manages recruitment campaigns, ensuring open and fair competition. Previously known as Civil Service Resourcing. |
 | GSCPP | Government Security Centre People and Physical | | |
