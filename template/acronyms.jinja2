@@ -18,7 +18,7 @@
    <body class="govuk-template__body ">
       <script>
          document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
-         
+
       </script>
       <a href="#main-content" class="govuk-skip-link">Skip to main content</a>
       <header class="govuk-header " role="banner" data-module="govuk-header">
@@ -82,7 +82,7 @@
                      {% if item.url == ""%}
                      <th scope="row" class="govuk-table__header">{{ item.abbreviation }}</th>
                      {% else %}
-                     <td class="govuk-table__cell"><a href="{{ item.url }}">{{ item.abbreviation }}</a></td>
+                     <th scope="row" class="govuk-table__cell"><a href="{{ item.url }}">{{ item.abbreviation }}</a></th>
                      {% endif %}
                      <td class="govuk-table__cell">{{ item.definition  }}</td>
                      <td class="govuk-table__cell">{{ item.info }}</td>
@@ -118,7 +118,7 @@
            filter = input.value.toUpperCase();
            table = document.getElementById("acronymTable");
            tr = table.getElementsByTagName("tr");
-         
+
            // Loop through all table rows from index 1, and hide those who don't match the search query
            for (i = 1; i < tr.length; i++) {
              td = tr[i].getElementsByTagName("th")[0];
@@ -136,7 +136,7 @@
       <script src="js/govuk.js"></script>
       <script>
          window.GOVUKFrontend.initAll()
-         
+
       </script>
    </body>
 </html>
