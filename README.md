@@ -237,6 +237,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ETS | Enhanced Thinking Skills | | A course that prisoner can do to to address the attitudes and thought patterns that may of contributed to their offending |
 | ExCo | Executive Comity Board | | Permanent Secutary and Director Generals (6 of). |
 | EXHIBIT | See XHIBIT | | |
+| EXISS | Exchange Integration Services Stream | | |
 | Extradition | only registered solicitor can go | | |
 | F2050 | prisoner core record | | protected characteristics and case information |
 | FALA | Find a legal advisor | http://find-legal-advice.justice.gov.uk/ | Public-facing service that allows people to find a legal advisor who holds a contract with the LAA |
