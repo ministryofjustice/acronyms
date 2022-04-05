@@ -584,6 +584,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ROTL | Release on Temporary Licence | | |
 | RPD | Regional Probation Director | | |
 | RPA | Robotic Process Automation | https://en.wikipedia.org/wiki/Robotic_process_automation | |
+| RPTS | Residential Property Tribunal Service | https://www.gov.uk/housing-tribunals | |
 | RRDS | Records Retention and Disposition Schedule | https://www.gov.uk/government/publications/record-retention-and-disposition-schedules | |
 | RSR | Risk of Serious Recidivism | | Algorithmic predictor |
 | RTM | Requirements Traceability Matrix | | |
