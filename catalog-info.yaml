@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: Ministry of Justice Acronyms
+  description: Portal that tracks and displays acronyms used throughout the Ministry of Justice
+  links:
+  - url: https://ministryofjustice.github.io/acronyms/
+    title: "Acronyms Web App"
+  - url: https://github.com/ministryofjustice/acronyms/tree/main/
+    title: "Acronyms Source Code"
+    icon: "github"
+spec:
+  owner: group:operations-engineering
+  domain: artists
