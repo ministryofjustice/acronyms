@@ -5,6 +5,15 @@ metadata:
   name: Ministry-of-Justice-Acronyms
   title: Ministry of Justice Acronyms
   description: Portal that tracks and displays acronyms used throughout the Ministry of Justice
+spec:
+  owner: group:operations-engineering
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ministry-of-justice-acronyms-frontend
+  title: Ministry of Justice Acronyms Frontend
+  description: Frontend application for Ministry of Justice Acronyms
   links:
   - url: https://ministryofjustice.github.io/acronyms/
     title: "Acronyms Web App"
@@ -13,3 +22,6 @@ metadata:
     icon: "github"
 spec:
   owner: group:operations-engineering
+  type: website
+  lifecycle: production
+  system: system:Ministry-of-Justice-Acronyms
