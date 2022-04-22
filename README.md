@@ -24,6 +24,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ACL | Access Control List | | |
 | ACPO | Association of Chief Police Officers | | |
 | AD | Active Directory | | |
+| ADA | Added Days Awarded | | Days that are added to an offenders release date following an adjudication |
 | ADI | Application Desktop Integrator | | Spreadsheet containing total disbursement of a prison, sent from business hub to regional accounts team.#moneyToPrisoners |
 | Admin 4 database | | | An Excel file that has Police Station & Mags Court schemes on |
 | ADP | Advocate Defence Payments | | One of our projects for the Legal Aid Agency. where advocates (solicitors) can submit invoices for work done for legal aid work.Used to be known as CBO/Crime Billing Online |
@@ -209,6 +210,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DSF | Digital Services Framework | http://digital.cabinetoffice.gov.uk/2013/07/09/digital-services-framework/ | A framework for procuring software development teams across government |
 | DSG | Digital Steering Group | | |
 | DSO | Defence & Security Organisation | https://www.gov.uk/government/organisations/uk-trade-and-investment-defence-and-security-organisation | |
+| DSO | Digital Studio Operations | | Slack Channel - #ask-digital-studio-ops |
 | DSS | Data Security Standard | https://www.pcisecuritystandards.org | An accreditation for handling credit/debit cards managed by Payment Card Industry (PCI). |
 | DTO | Detention Training Order |  |  |
 | DTRG | Digital Technology Review Group | | |
@@ -219,6 +221,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EAT | Employment Appeal Tribunal | | |
 | EBS| CCMS's E-Business Suite | | Part of CCMS |
 | ECS | Elastic Container Service | https://aws.amazon.com/ecs/ | |
+| ECL | End of Custody Licence | | A scheme within Prison Service between 2007 and 2010 to help alleviate pressures on prison population.  Offenders who were eligible could be released early from custody 18 days before their release date |
 | EDRMS | Electronic Documents and Record Management System | | Also known as NorthgateLAA's externally hosted document/record management system, used by CCMS. |
 | EDS | Extended Determinate Sentence |  |  |
 | EDW | Enterprise Data Warehouse |  | Management Information data warehouse. Holds data from many LAA applications. |
@@ -378,6 +381,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MCA | Mental Capacity Act | https://www.gov.uk/government/collections/mental-capacity-act-making-decisions | |
 | MCOL | Money Claim Online | https://www.gov.uk/make-money-claim-online | Online service to "take court action against someone if they owe you money and won’t pay you back". |
 | MCQ | Minor Change Quotation | | Related to tender documents. |
+| MDS | Minimum Data Set | | |
 | MFD | Multifunctional device | | Printers at MOJ, which can also be used to scan in documents (hence the 'multifunctional' bit). |
 | MI | Management Information | | Data or statistics collected and used to measure performance in a business |
 | might | denotes a possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
@@ -470,6 +474,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | P3T | Personnel Physical Procedural Technical | | The areas of information assurance. |
 | PAC | Public Accounts Committee | | |
 | PACE | Police and Criminal Evidence Act | | |
+| PADA | Prospective Added Days Awarded | | Added days that are awarded whilst an offender is unsentenced, but must be added to the release dates when sentenced |
 | PAF | Postcode Address File | http://www.royalmail.com/marketing-services/address-management-unit/address-data-products/postcode-address-file-paf?campaignid=paf_redirect | The source of data for postcode lookups. The DSD uses this for its own service which converts it to a latitude/longitude, like on Court Finder and CLA Provider Directory. |
 | PAG (Old Name - See PPAS) | Planning and Analysis Group | | Now known as PPAS (Prison & Probation Analytical Services) |
 | PAMS | Prisoner Activity Management System | http://www.justice.gov.uk/downloads/about/hmipris/glossary.pdf | Not much more info on this at the moment - I understand that it is how they manage prisoner activity, work schedules, learning and visit schedules. |
