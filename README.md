@@ -603,6 +603,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SC | Security Check | https://www.gov.uk/guidance/security-vetting-and-clearance | Level of Security Clearance |
 | SCA | Start Custody Assessments | | |
 | SCC | Specialist Computer Centres | http://www.scc.com/ | Providers of web hosting |
+| SCH | Secure Children's Home | https://www.gov.uk/government/collections/statistics-secure-children-s-homes | A Secure Children's Home is a type of Youth Detention Accommodation and/or Secure Welfare Accommodation that accommodates children and young people between the ages of 10-17. |
 | SCU | Separation & Care Unit | | Also / previously known as the Segregation Unit (Seg) |
 | SCS | Senior Civil Servant | | Someone with a senior post in the Civil Service, for example a Director. |
 | SCSBP | Senior Civil Service Business Partner | | Organisation or individual who assists during recruitment of a Senior Civil Servant. |
