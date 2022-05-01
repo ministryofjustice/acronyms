@@ -285,6 +285,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | HMPPS | HM Prison and Probation Service | https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service | |
 | HO | Home Office | https://www.gov.uk/government/organisations/home-office | Department responsible for the police, UK Border Agency, and the Security Service (MI5). |
 | HOIT | Home Office IT | | |
+| HOMD | Head of Offender Management Delivery | | An individual who can assign POMs to offenders |
 | HPA | Historic Prisoner Application | | When IIS (Inmate Information System - the precursor to Prison-NOMIS) was decommissioned, the data was archived into HPA |
 | HSE | high security estate  prison use | | |
 | HSE | High Security Estate | | The highest level of prison, eg Belmarsh.Could also be Health and Safety Executive, so avoid acronym. |
