@@ -255,6 +255,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | FMB | Functional Mailbox | | |
 | FMI | Five Minute Intervention | | Prisons |
 | FNC | First Night Centre | | Prisons |
+| FNP | Foreign National Prison or Foreign National Prisoner | | Prisons |
 | FOI | Freedom Of Information | | |
 | FPMF | FITS Programme Management Framework | | This was part of the overall governance framework for FITS. |
 | FPRC | Family Procedure Rules Committee | https://www.gov.uk/government/organisations/family-procedure-rule-committee | The Family Procedure Rule Committee (FPRC) makes rules of court that govern the practice and procedure followed in family proceedings in the High Court and family court.FPRC is an advisory non-departmental public body, sponsored by the Ministry of Justice. |
@@ -372,6 +373,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LSC | Legal Services Commision | | Now the LAA |
 | LSCB | Local Safeguarding Children Board | | |
 | LTD | Late Transfer Date |  |  |
+| LTHSE | Long Term High Security Estates |  |  |
 | MAAT | Means Assessment Administration Tool | | Web app used by caseworkers to process legal aid applications for criminal cases. |
 | MaLi | Master list of initiatives | | An MOJ Technology list of all projects and programmes of work across the ministry |
 | MALRAP | Multi Agency Lifer Risk Assessment Panel | | |
