@@ -100,6 +100,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CCO | Call Centre Officer | | Call centre officer of DSCC |
 | CCR | Crown Court Remuneration | | LAA web app that manages AGFC (Advocate Gradual Fee Scheme) claims. Feeds into LAA data warehouse. |
 | CCRC | Criminal Cases Review Commission | | |
+| CCRN | Court Case Reference Number | | This is a unique reference number assigned to a new occurrence of a court case created on PNC. The CCRN is held by CJSE but may not be held by court systems relevant to all court types and may be used to identify cases in civil crown magistrates courts etc. Will be held in CJSE sent from Police Case systems. |
 | CCS | Crown Commercial Service | https://www.gov.uk/government/organisations/crown-commercial-service | |
 | CDA | Court data adaptor | | |
 | CDC | Change Data Capture | | |
@@ -518,6 +519,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PMU | Population Management Unit | | |
 | PMU | Prison Management Unit | | |
 | PNC | Police National Computer | | |
+| PNCiD | Police National Computer Id | | To identify a particular person by the number allocated by police when creating a record on the PNC. |
 | PO | Prison Officer | | |
 | PO | Probation Officer | | Not to be confused with Prison Officer in much OM literature |
 | POA | Prison Officer Association | | |
