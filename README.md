@@ -398,6 +398,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MOiC | Managing Offenders in Custody | | |
 | MOJ | Ministry of Justice | https://www.gov.uk/designprinciples/styleguide | Use capitals - 'MOJ', not 'MoJ'.Departments don’t take the definite article, so 'MOJ', not 'the MOJ'. |
 | MOJFIN | MoJ Finance | | Data warehouse the LAA finance team uses |
+| MOSOVO | Managing sexual offenders and violent offenders | https://www.college.police.uk/app/major-investigation-and-public-protection/managing-sexual-offenders-and-violent-offenders/identification-mosovo-offenders | The Sexual or Violent Offender Manager is specially trained in the response to and Management of Sexual or Violent Offenders (MOSOVO) and Active Risk Management (ARMS). |
 | MOU | Memorandum Of Understanding | | |
 | MP | Modernisation Platform | | The Modernisation Platform is a hosting platform where teams can host and modernise applications which are not suitable for Cloud Platform |
 | MPS | Moving People Safely | | |
