@@ -397,6 +397,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MOG | | | |
 | MOiC | Managing Offenders in Custody | | |
 | MOJ | Ministry of Justice | https://www.gov.uk/designprinciples/styleguide | Use capitals - 'MOJ', not 'MoJ'.Departments don’t take the definite article, so 'MOJ', not 'the MOJ'. |
+| MOJO | Ministry of Justice OFFICIAL | https://github.com/ministryofjustice/staff | End User Compute service developed as a replacement for the QUANTUM end user compute service for HMPS staff. |
 | MOJFIN | MoJ Finance | | Data warehouse the LAA finance team uses |
 | MOSOVO | Managing sexual offenders and violent offenders | https://www.college.police.uk/app/major-investigation-and-public-protection/managing-sexual-offenders-and-violent-offenders/identification-mosovo-offenders | The Sexual or Violent Offender Manager is specially trained in the response to and Management of Sexual or Violent Offenders (MOSOVO) and Active Risk Management (ARMS). |
 | MOU | Memorandum Of Understanding | | |
