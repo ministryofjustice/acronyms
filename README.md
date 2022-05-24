@@ -669,6 +669,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | TC | Therapeutic Community | | |
 | TCEP | Transforming Compliance and Enforcement Project/Programme | | |
 | TCoP | Technology Code of Practice | https://www.gov.uk/guidance/the-technology-code-of-practice | The Technology Code of Practice is a cross-government agreed standard used for the [Cabinet Office spend control](https://www.gov.uk/government/collections/cabinet-office-controls) process and the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/). 
+| TDiP | Transforming Delivery in Prisons | | |
 | TED | Tenders Electronic Daily | http://ted.europa.eu/TED/main/HomePage.do | TED (Tenders Electronic Daily) is the online version of the 'Supplement to the Official Journal of the EU', dedicated to European public procurement.TED provides free access to business opportunities. It is updated 5 times a week with some 1,500 public procurement notices from the European Union, the European Economic Area and beyond. |
 | TERS | Tariff Early Removal Scheme |  |  |
 | TERSED | Tariff Early Removal Scheme Eligibility Date |  |  |
