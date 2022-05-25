@@ -53,6 +53,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ARD | Automatic Release Date |  |  |
 | ASPIRE | Assess – Sentence Plan – Implement – Review – Evaluate | | This is the core framework of offender management / sentence planning |
 | Asset | Youth Justice Board assessment documentation for young people | | |
+| ARMS | Active Risk Management System | | | Risk assessment process for Policing and Probation
 | AT | Assisted Technology | | |
 | ATIA | Architecture, Technology and Information Assurance | | A former unit inside MOJ ICT |
 | ATM | At The Moment | | |
