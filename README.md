@@ -560,6 +560,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSO | Probation Service Officer | | |
 | PSP | Public Sector Prisons | | |
 | PSP | Public Social Partnership | | |
+| PSG | Policy and Strategy Group | | |
 | PSS | Post Sentence Supervision |  |  |
 | PSU | Personal Support Unit | https://en.wikipedia.org/wiki/Personal_Support_Unit | |
 | PTTP | Prison Technology Transformation Programme | | Laptops, mobile devices, applications, etc. for the whole of HMPPS. Replacement for Quantum. Programme commenced 2020. |
