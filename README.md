@@ -638,6 +638,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SNOW | Service Now | https://mojprod.service-now.com/moj_sp/ | Contraction used by Prison staff |
 | SO | Supervising Officer | | |
 | SOA | Service-Oriented Architecture | | Both a term and a product suite from Oracle, responsible for providing a point of interface for external integrations for CCMS for case creation |
+| SoMo | Social Mobility | | |
 | SOP | Single Operating Platform | | |
 | SoS | Secretary of State | https://www.gov.uk/government/ministers/secretary-of-state-for-justice | Referring to the Justice Secretary, the minister who heads up the department.Not to be confused with the Morse code distress signal, SOS. |
 | SPG | Strategic Partner Gateway | | |
