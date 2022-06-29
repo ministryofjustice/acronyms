@@ -304,7 +304,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | HWF | Help with Fees | | The service formerly known as Fee Remission.Two parts, public and staff facing |
 | HWPV | Help With Prison Visits | https://www.gov.uk/help-with-prison-visits | Also known as APVS (Assisted Prison Visit Scheme) |
 | IA | immigration and asylum | http://www.justice.gov.uk/tribunals/immigration-asylum | As in 'Immigration and Asylum Tribunal'. |
-| IA | Information Architecture | http://en.wikipedia.org/wiki/Information_architecture | IA could also refer to Information Assurance, so confusing acronym. |
+| IA | Independent Adjudicator | https://www.gov.uk/government/publications/prison-adjudications-policy-psi-052018 | The person who makes Adjudication decisions. IA could also refer to Information Assurance,  | 
+| IA | Information Architecture | http://en.wikipedia.org/wiki/Information_architecture | IA could also refer to Information Assurance, Information Architecture or immigration and asylum so confusing acronym. |
 | IA | Information Assurance | http://en.wikipedia.org/wiki/Information_assurance | as used by MOJ ICT. |
 | IAC | Immigration and Asylum Chamber | | |
 | IAO | Information Asset Owner | | Somewhat of an equivalent to a SIRO - related to information security / accreditation |
