@@ -243,6 +243,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ERP | Enterprise Resource Planning | | |
 | ERS | Early Removal Scheme |  |  |
 | ERSED | Early Removal Scheme Eligibility Date |  |  |
+| ESED | Effective Sentence End Date | | | 
 | ESF | European Social Fund | https://en.wikipedia.org/wiki/European_Social_Fund | Provides funding via the CFO to provide additional services to offenders |
 | ESPP | Extended Sentence for Public Protection | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | ET | Employment Tribunal | | Also stands for 'E.T. the Extra-Terrestrial', a 1982 sci-fi movie about a loveable alien. |
@@ -426,6 +427,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NAO | National Audit Office | https://www.nao.org.uk/ | |
 | NAPO | National Association of Probation Officers | | |
 | NART | National Applications Reporting Team | | This team support Reporting from nDelius, OASys and Prison-NOMIS using Business Objects. Answer ad-hoc queries including FOIs, PQs and Research Projects.  We're on slack #nart |
+| NCRD | | | |
 | ND | nDelius | | |
 | NDE | Non-Directly Employed | | |
 | nDelius | Probation IT System | | |
