@@ -616,20 +616,26 @@ A better mechanism to enable people without github accounts to suggest changes w
 | RTM | Requirements Traceability Matrix | | |
 | RTW | Right To Work | | Evidence that someone is eligible to work lawfully in the UK. |
 | S3 | Simple Storage Service | http://aws.amazon.com/s3/ | Amazon's data storage service |
+| SA2020 | Sentencing Act 2020 | https://www.legislation.gov.uk/ukpga/2020/17/contents | |
 | SAQ | Self Assessment Questionnaire | | A form done in a the first couple days of prison by new prisoner |
 | SAR | Subject Access Request | | Similar to an FOI, but for yourself. At the MOJ this is typically used by prisoners or civil servants. |
 | SARA | Spousal Assault Risk Assessment | | |
 | SAV | Security Architecture Review | | A term used by IA (Information Assurance) |
 | SBC | Specification, Benchmarking and Costing | | |
 | SC | Security Check | https://www.gov.uk/guidance/security-vetting-and-clearance | Level of Security Clearance |
+| SC2020 | Sentencing Code 2020 | https://www.legislation.gov.uk/ukpga/2020/17/contents | |
 | SCA | Start Custody Assessments | | |
+| SCA2007 | Serious Crime Act 2007 | https://www.legislation.gov.uk/ukpga/2007/27/contents | |
+| SCC | Service Civilian Court | | |
 | SCC | Specialist Computer Centres | http://www.scc.com/ | Providers of web hosting |
 | SCH | Secure Children's Home | https://www.gov.uk/government/collections/statistics-secure-children-s-homes | A Secure Children's Home is a type of Youth Detention Accommodation and/or Secure Welfare Accommodation that accommodates children and young people between the ages of 10-17. |
 | SCU | Separation & Care Unit | | Also / previously known as the Segregation Unit (Seg) |
 | SCS | Senior Civil Servant | | Someone with a senior post in the Civil Service, for example a Director. |
 | SCSBP | Senior Civil Service Business Partner | | Organisation or individual who assists during recruitment of a Senior Civil Servant. |
+| SDOPC | Special Sentence of Detention for Terrorist Offenders of Particular Concern | | |
 | SDS | Safe, Decent & Secure | | |
 | SDS | Standard Determinate Sentence |  |  |
+| SDS+ | Standard Determinate Sentence Plus (2/3rds release | | |
 | SED | Sentence Expiry Date |  |  |
 | Segregation Unit | Also known as Seg, Solitary Confinement, SCU & CSC | | |
 | SEO | Search engine optimisation | https://www.gov.uk/guidance/content-design/data-and-analytics | Improving search rankings for your site - for instance by using popular search terms in titles or web copy. |
@@ -652,6 +658,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SOA | Service-Oriented Architecture | | Both a term and a product suite from Oracle, responsible for providing a point of interface for external integrations for CCMS for case creation |
 | SoMo | Social Mobility | | |
 | SOP | Single Operating Platform | | |
+| SOPC | Special Custodial Sentence for Certain Offenders of Particular Concern | | |
 | SoS | Secretary of State | https://www.gov.uk/government/ministers/secretary-of-state-for-justice | Referring to the Justice Secretary, the minister who heads up the department.Not to be confused with the Morse code distress signal, SOS. |
 | SPG | Strategic Partner Gateway | | |
 | SPIP | Separated Parents Information Program | | Organises parent meetings with moderator. |
@@ -668,6 +675,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SSG | Small Systems Group | | App making people at ICT |
 | SSOT | Single Source Of Truth | | |
 | SSP | Shared Services Programme | | |
+| STS | Serious Terrorism Sentence | | |
 | SU | Service User | | An offender in probation parlance |
 | SUPS | the programming framework used to create a variety of HMCTS systems | | SUPS comes in different flavours. MCOL is written against SUPS 15, which is implemented in J2EE and the Java Spring framework. PCOL chose to use an older version, SUPS9, which has significant performance issues.SUPS is also sometimes used as shorthand for a contract which has Juror, Familyman and Caseman inside it. |
 | SUS | System Usability Scale | https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html | The System Usability Scale (SUS) provides a “quick and dirty”, reliable tool for measuring the usability.   It consists of a 10 item questionnaire with five response options for respondents. |
@@ -695,6 +703,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | tma;dr | Too many acronyms; didn't read. | | One made up especially for the civil service. |
 | TNA | The National Archives | www.nationalarchives.gov.uk | Can also mean something rude. |
 | ToR | Terms of reference | | Not to be confused with Glastonbury Tor. |
+| TORERA | Terrorist Offenders (Restriction of Early Release) Act 2020 | https://www.legislation.gov.uk/ukpga/2020/3/contents | |
+| TORERA2020 | Terrorist Offenders (Restriction of Early Release) Act 2020 | https://www.legislation.gov.uk/ukpga/2020/3/contents | |
 | TPM | | | |
 | TR | Transforming Rehabilitation | | |
 | Traka | Traka key systems only allow authorised users to access prison keys, ensuring they remain accounted for at all times. | https://www.traka.com/en/site/traka/applications/key-management/ | |
@@ -740,6 +750,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | YCS | Youth Custody Service | | |
 | YJAF | Youth Justice Application Framework | | |
 | YJB | Youth Justice Board | | |
+| YO | Young Offender | | | 
 | YOI | Young Offender Institution | https://en.wikipedia.org/wiki/Her_Majesty%27s_Young_Offender_Institution | |
 | YOS | Youth Offending Service | | |
 | YOT | Youth Offending Team | http://www.justice.gov.uk/youth-justice/courts-and-orders/youth-offending-teams | |
