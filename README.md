@@ -243,6 +243,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ERP | Enterprise Resource Planning | | |
 | ERS | Early Removal Scheme |  |  |
 | ERSED | Early Removal Scheme Eligibility Date |  |  |
+| ESED | Effective Sentence End Date | | | 
 | ESF | European Social Fund | https://en.wikipedia.org/wiki/European_Social_Fund | Provides funding via the CFO to provide additional services to offenders |
 | ESPP | Extended Sentence for Public Protection | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | ET | Employment Tribunal | | Also stands for 'E.T. the Extra-Terrestrial', a 1982 sci-fi movie about a loveable alien. |
@@ -399,6 +400,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MCQ | Minor Change Quotation | | Related to tender documents. |
 | MDS | Minimum Data Set | | |
 | MFD | Multifunctional device | | Printers at MOJ, which can also be used to scan in documents (hence the 'multifunctional' bit). |
+| MHA1983 | Mental Health Act 1983 | https://www.legislation.gov.uk/ukpga/1983/20/contents | |
 | MI | Management Information | | Data or statistics collected and used to measure performance in a business |
 | might | denotes a possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | MINT | Managed INTerconnect | | Two firewalls that bridge the OMNI and Quantum networks. |
@@ -435,6 +437,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NEMC | National Executive Management Committee | | |
 | NEPACS | (Formerly) The North East Prison After Care Society | http://www.nepacs.co.uk/ | A charity working in the north east of England to support prisoners and their families. |
 | NFR | Non Functional Requirements | | |
+| NFR | Not For Release | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | | 
 | NGSS | Next Generation Shared Services | | |
 | NINO | National Insurance number | | |
 | NISE | Network Information Security Enhancement (Project) | | This aims to migrate intranet applications from the existing environment to a new one for reasons of security. |
@@ -446,7 +449,9 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NOMS Number | National Offender Management Service Number | | Used in Prison-NOMIS as the unique identifier for prisoners. (Note that colloquially it is referred to as both ‘NOMIS ID’ and ‘NOMS ID’ - but in the system it is labelled as ‘NOMS number’.  Labelled on the Prison-NOMIS database as OFFENDER_ID_DISPLAY) |
 | NOMS | National Offender Management Service | http://www.justice.gov.uk/about/noms | Covers prisons and probation |
 | NORB | National Operations Readiness Board | | |
+| NORA | Non-ORA Sentence (under 12 months for an offence committed before 01/02/2015) | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | NPD | Non Parole Date |  |  |
+| NoS | Notice of Supervision | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | Appears to apply to Young Offenders (YO) | 
 | NPS | National Probation Service | | Old name for Probation Service (changed June 2021). |
 | NPT | National Prosecution Team | http://www.cps.gov.uk/your_cps/our_organisation/spd.html | A joint team of CPS and Association of Chief Police Officers/National Policing Improvement Agency staff. T |
 | NQOS | Newly Qualified Officers | | (Probation) |
@@ -604,6 +609,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | RM2000 | Risk Matrix 2000 | | A static risk assessment for sex offenders over the age of 18 |
 | RMAD | Risk Management Accreditation Document | | See RMADS |
 | RMADS | Risk Management and Accreditation Document Set | | |
+| ROPARPS | The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 | https://www.legislation.gov.uk/uksi/2020/158/made | |
+| ROPARPS2020 | The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 | https://www.legislation.gov.uk/uksi/2020/158/made | |
 | ROC | Remuneration of Central Fund Costs | | It is used by a team of LAA caseworkers called 'Criminal cases unit'. They are the ones who assess claim for payments for any type of crime work that sits outside the graduated fee scheme. It's like processing payments for exceptional cases but it doesn't come from the Exception Case Funding scheme (which is only applicable for Civil). Providers claim those payments by emailing an Excel form to the Criminal case unit (there are 8 different forms depending on what's being claimed) who then log the claim into ROC, assess the claim and then send it to SSCL who processes the payment. |
 | ROM | Rough Order of Magnitude | en.wikipedia.org/wiki/Cost_estimate | A crude estimate of the cost of a project. See also SWAG and PIDOOMA.Could also stand for 'read-only memory'. |
 | ROR | Resettlement Overnight Release | | Relates to RoTL (Release on Temporary Licence) documentation |
@@ -611,26 +618,34 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ROTL | Release on Temporary Licence | | |
 | RPD | Regional Probation Director | | |
 | RPA | Robotic Process Automation | https://en.wikipedia.org/wiki/Robotic_process_automation | |
+| RPM | Royal Prerogative of Mercy  | https://www.lawgazette.co.uk/practice-points/the-royal-prerogative-of-mercy/5052062.article | |
 | RPTS | Residential Property Tribunal Service | https://www.gov.uk/housing-tribunals | |
 | RRDS | Records Retention and Disposition Schedule | https://www.gov.uk/government/publications/record-retention-and-disposition-schedules | |
 | RSR | Risk of Serious Recidivism | | Algorithmic predictor |
 | RTM | Requirements Traceability Matrix | | |
 | RTW | Right To Work | | Evidence that someone is eligible to work lawfully in the UK. |
+| Rx | Remand to Custody | | |
 | S3 | Simple Storage Service | http://aws.amazon.com/s3/ | Amazon's data storage service |
+| SA2020 | Sentencing Act 2020 | https://www.legislation.gov.uk/ukpga/2020/17/contents | |
 | SAQ | Self Assessment Questionnaire | | A form done in a the first couple days of prison by new prisoner |
 | SAR | Subject Access Request | | Similar to an FOI, but for yourself. At the MOJ this is typically used by prisoners or civil servants. |
 | SARA | Spousal Assault Risk Assessment | | |
 | SAV | Security Architecture Review | | A term used by IA (Information Assurance) |
 | SBC | Specification, Benchmarking and Costing | | |
 | SC | Security Check | https://www.gov.uk/guidance/security-vetting-and-clearance | Level of Security Clearance |
+| SC2020 | Sentencing Code 2020 | https://www.legislation.gov.uk/ukpga/2020/17/contents | |
 | SCA | Start Custody Assessments | | |
+| SCA2007 | Serious Crime Act 2007 | https://www.legislation.gov.uk/ukpga/2007/27/contents | |
+| SCC | Service Civilian Court | | |
 | SCC | Specialist Computer Centres | http://www.scc.com/ | Providers of web hosting |
 | SCH | Secure Children's Home | https://www.gov.uk/government/collections/statistics-secure-children-s-homes | A Secure Children's Home is a type of Youth Detention Accommodation and/or Secure Welfare Accommodation that accommodates children and young people between the ages of 10-17. |
 | SCU | Separation & Care Unit | | Also / previously known as the Segregation Unit (Seg) |
 | SCS | Senior Civil Servant | | Someone with a senior post in the Civil Service, for example a Director. |
 | SCSBP | Senior Civil Service Business Partner | | Organisation or individual who assists during recruitment of a Senior Civil Servant. |
+| SDOPC | Special Sentence of Detention for Terrorist Offenders of Particular Concern | | |
 | SDS | Safe, Decent & Secure | | |
 | SDS | Standard Determinate Sentence |  |  |
+| SDS+ | Standard Determinate Sentence Plus (2/3rds release | | |
 | SED | Sentence Expiry Date |  |  |
 | Segregation Unit | Also known as Seg, Solitary Confinement, SCU & CSC | | |
 | SEO | Search engine optimisation | https://www.gov.uk/guidance/content-design/data-and-analytics | Improving search rankings for your site - for instance by using popular search terms in titles or web copy. |
@@ -653,6 +668,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SOA | Service-Oriented Architecture | | Both a term and a product suite from Oracle, responsible for providing a point of interface for external integrations for CCMS for case creation |
 | SoMo | Social Mobility | | |
 | SOP | Single Operating Platform | | |
+| SOPC | Special Custodial Sentence for Certain Offenders of Particular Concern | | |
 | SoS | Secretary of State | https://www.gov.uk/government/ministers/secretary-of-state-for-justice | Referring to the Justice Secretary, the minister who heads up the department.Not to be confused with the Morse code distress signal, SOS. |
 | SPG | Strategic Partner Gateway | | |
 | SPIP | Separated Parents Information Program | | Organises parent meetings with moderator. |
@@ -669,6 +685,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SSG | Small Systems Group | | App making people at ICT |
 | SSOT | Single Source Of Truth | | |
 | SSP | Shared Services Programme | | |
+| STS | Serious Terrorism Sentence | | |
 | SU | Service User | | An offender in probation parlance |
 | SUPS | the programming framework used to create a variety of HMCTS systems | | SUPS comes in different flavours. MCOL is written against SUPS 15, which is implemented in J2EE and the Java Spring framework. PCOL chose to use an older version, SUPS9, which has significant performance issues.SUPS is also sometimes used as shorthand for a contract which has Juror, Familyman and Caseman inside it. |
 | SUS | System Usability Scale | https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html | The System Usability Scale (SUS) provides a “quick and dirty”, reliable tool for measuring the usability.   It consists of a 10 item questionnaire with five response options for respondents. |
@@ -696,6 +713,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | tma;dr | Too many acronyms; didn't read. | | One made up especially for the civil service. |
 | TNA | The National Archives | www.nationalarchives.gov.uk | Can also mean something rude. |
 | ToR | Terms of reference | | Not to be confused with Glastonbury Tor. |
+| TORERA | Terrorist Offenders (Restriction of Early Release) Act 2020 | https://www.legislation.gov.uk/ukpga/2020/3/contents | |
+| TORERA2020 | Terrorist Offenders (Restriction of Early Release) Act 2020 | https://www.legislation.gov.uk/ukpga/2020/3/contents | |
 | TPM | | | |
 | TR | Transforming Rehabilitation | | |
 | Traka | Traka key systems only allow authorised users to access prison keys, ensuring they remain accounted for at all times. | https://www.traka.com/en/site/traka/applications/key-management/ | |
@@ -741,6 +760,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | YCS | Youth Custody Service | | |
 | YJAF | Youth Justice Application Framework | | |
 | YJB | Youth Justice Board | | |
+| YO | Young Offender | | | 
 | YOI | Young Offender Institution | https://en.wikipedia.org/wiki/Her_Majesty%27s_Young_Offender_Institution | |
 | YOS | Youth Offending Service | | |
 | YOT | Youth Offending Team | http://www.justice.gov.uk/youth-justice/courts-and-orders/youth-offending-teams | |
