@@ -224,11 +224,14 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EBS| CCMS's E-Business Suite | | Part of CCMS |
 | ECS | Elastic Container Service | https://aws.amazon.com/ecs/ | |
 | ECL | End of Custody Licence | | A scheme within Prison Service between 2007 and 2010 to help alleviate pressures on prison population.  Offenders who were eligible could be released early from custody 18 days before their release date |
+| EDR | Earliest Date of Release | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | EDRMS | Electronic Documents and Record Management System | | Also known as NorthgateLAA's externally hosted document/record management system, used by CCMS. |
 | EDS | Extended Determinate Sentence |  |  |
+| EDS100 | Extended Determinate Sentence imposed for certain Terrorism Offences  | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | EDW | Enterprise Data Warehouse |  | Management Information data warehouse. Holds data from many LAA applications. |
 | EE | | | |
 | EM | Electronic Monitoring | | (Also known as 'tagging') is the practice of attaching a tag to someone's ankle, used in England and Wales to monitor curfews and conditions of a court or prison order. |
+| EMED | Electronic Monitoring Eligibility Date | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
 | EPICK | Event, Problem, Incident, Continual Service Improvement and Knowledge Team |  |  |
 | EQUIP | Excellence and Quality in Probation Processes | | |
@@ -237,8 +240,9 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ERS | Early Removal Scheme |  |  |
 | ERSED | Early Removal Scheme Eligibility Date |  |  |
 | ESF | European Social Fund | https://en.wikipedia.org/wiki/European_Social_Fund | Provides funding via the CFO to provide additional services to offenders |
+| ESPP | Extended Sentence for Public Protection | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | ET | Employment Tribunal | | Also stands for 'E.T. the Extra-Terrestrial', a 1982 sci-fi movie about a loveable alien. |
-| ETD | Early Transfer Date |  |  |
+| ETD | Early Transfer Date for Detention and Training Orders (DTO) |  |  |
 | ETE | Education, Training & Employment | | |
 | ETL | Extract, Transform & Load | | |
 | ETS | Enhanced Thinking Skills | | A course that prisoner can do to to address the attitudes and thought patterns that may of contributed to their offending |
