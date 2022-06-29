@@ -427,7 +427,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NAO | National Audit Office | https://www.nao.org.uk/ | |
 | NAPO | National Association of Probation Officers | | |
 | NART | National Applications Reporting Team | | This team support Reporting from nDelius, OASys and Prison-NOMIS using Business Objects. Answer ad-hoc queries including FOIs, PQs and Research Projects.  We're on slack #nart |
-| NCRD | | | |
+| NCRD | Notional Conditional Release Date | | | 
 | ND | nDelius | | |
 | NDE | Non-Directly Employed | | |
 | nDelius | Probation IT System | | |
