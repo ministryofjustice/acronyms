@@ -435,6 +435,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NEMC | National Executive Management Committee | | |
 | NEPACS | (Formerly) The North East Prison After Care Society | http://www.nepacs.co.uk/ | A charity working in the north east of England to support prisoners and their families. |
 | NFR | Non Functional Requirements | | |
+| NFR | Not For Release | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | | 
 | NGSS | Next Generation Shared Services | | |
 | NINO | National Insurance number | | |
 | NISE | Network Information Security Enhancement (Project) | | This aims to migrate intranet applications from the existing environment to a new one for reasons of security. |
