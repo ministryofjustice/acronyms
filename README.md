@@ -576,6 +576,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | R&R | Reward & Recognition | | |
 | RACI | Responsible, Accountable, Consulted, Informed | | "Accountable" is sometimes "Approved" |
 | RAD | Rapid Application Development | | |
+| RADA | Restoration of Added Days Awarded | | |
 | RAG | Red, Amber, Green | | |
 | RAID | Risks, Issues, Assumptions and Dependencies | | |
 | RAR | Rehabilitation Activity Requirement | | |
