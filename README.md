@@ -399,6 +399,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MCQ | Minor Change Quotation | | Related to tender documents. |
 | MDS | Minimum Data Set | | |
 | MFD | Multifunctional device | | Printers at MOJ, which can also be used to scan in documents (hence the 'multifunctional' bit). |
+| MHA1983 | Mental Health Act 1983 | https://www.legislation.gov.uk/ukpga/1983/20/contents | |
 | MI | Management Information | | Data or statistics collected and used to measure performance in a business |
 | might | denotes a possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | MINT | Managed INTerconnect | | Two firewalls that bridge the OMNI and Quantum networks. |
