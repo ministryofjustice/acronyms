@@ -223,6 +223,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DV | Domestic Violence | | |
 | DWP | Department for Work and Pensions | https://www.gov.uk/government/organisations/department-for-work-pensions | Government organisation - administrates ESF budget ellocation |
 | DX | Document Exchange | | DX, or Direct Exchange, is a private business-to-business mail and packaging network in the United Kingdom. Direct Exchange is cheaper than standard first class mail. Subscriptions are necessary to use this service. |
+| DYOI | Detention in a Young Offender Institution | | |
 | EAT | Employment Appeal Tribunal | | |
 | EBS| CCMS's E-Business Suite | | Part of CCMS |
 | ECS | Elastic Container Service | https://aws.amazon.com/ecs/ | |
