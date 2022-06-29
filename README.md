@@ -603,6 +603,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | RM2000 | Risk Matrix 2000 | | A static risk assessment for sex offenders over the age of 18 |
 | RMAD | Risk Management Accreditation Document | | See RMADS |
 | RMADS | Risk Management and Accreditation Document Set | | |
+| ROPARPS | The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 | https://www.legislation.gov.uk/uksi/2020/158/made | |
+| ROPARPS2020 | The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 | https://www.legislation.gov.uk/uksi/2020/158/made | |
 | ROC | Remuneration of Central Fund Costs | | It is used by a team of LAA caseworkers called 'Criminal cases unit'. They are the ones who assess claim for payments for any type of crime work that sits outside the graduated fee scheme. It's like processing payments for exceptional cases but it doesn't come from the Exception Case Funding scheme (which is only applicable for Civil). Providers claim those payments by emailing an Excel form to the Criminal case unit (there are 8 different forms depending on what's being claimed) who then log the claim into ROC, assess the claim and then send it to SSCL who processes the payment. |
 | ROM | Rough Order of Magnitude | en.wikipedia.org/wiki/Cost_estimate | A crude estimate of the cost of a project. See also SWAG and PIDOOMA.Could also stand for 'read-only memory'. |
 | ROR | Resettlement Overnight Release | | Relates to RoTL (Release on Temporary Licence) documentation |
@@ -610,11 +612,13 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ROTL | Release on Temporary Licence | | |
 | RPD | Regional Probation Director | | |
 | RPA | Robotic Process Automation | https://en.wikipedia.org/wiki/Robotic_process_automation | |
+| RPM | Royal Prerogative of Mercy  | https://www.lawgazette.co.uk/practice-points/the-royal-prerogative-of-mercy/5052062.article | |
 | RPTS | Residential Property Tribunal Service | https://www.gov.uk/housing-tribunals | |
 | RRDS | Records Retention and Disposition Schedule | https://www.gov.uk/government/publications/record-retention-and-disposition-schedules | |
 | RSR | Risk of Serious Recidivism | | Algorithmic predictor |
 | RTM | Requirements Traceability Matrix | | |
 | RTW | Right To Work | | Evidence that someone is eligible to work lawfully in the UK. |
+| Rx | Remand to Custody | | |
 | S3 | Simple Storage Service | http://aws.amazon.com/s3/ | Amazon's data storage service |
 | SAQ | Self Assessment Questionnaire | | A form done in a the first couple days of prison by new prisoner |
 | SAR | Subject Access Request | | Similar to an FOI, but for yourself. At the MOJ this is typically used by prisoners or civil servants. |
