@@ -286,8 +286,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | GSI | Government Secure Intranet | | |
 | GWS | Government Wide Service | | |
 | HCC | Health Care Centre | | NHS facility in a prison |
-| HDC | home detention curfew | | |
-| HDCAD | Home Detention Curew Approved Date |  |  |
+| HDC | Home Detention Curfew | | |
+| HDCAD | Home Detention Curfew Approved Date |  |  |
 | HDCED | Home Detention Curfew Eligibility Date |  |  |
 | HMCS | Her Majesty's Courts Service | | See HMCTS |
 | HMCTS | Her Majesty's Courts and Tribunals Service | | They prefer ampersand (&) to avoid CATS acronymmiaowPreviously known as Her Majesty's Courts Service before it merged with Tribunals to become HMCTS |
