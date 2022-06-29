@@ -445,7 +445,9 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NOMS Number | National Offender Management Service Number | | Used in Prison-NOMIS as the unique identifier for prisoners. (Note that colloquially it is referred to as both ‘NOMIS ID’ and ‘NOMS ID’ - but in the system it is labelled as ‘NOMS number’.  Labelled on the Prison-NOMIS database as OFFENDER_ID_DISPLAY) |
 | NOMS | National Offender Management Service | http://www.justice.gov.uk/about/noms | Covers prisons and probation |
 | NORB | National Operations Readiness Board | | |
+| NORA | Non-ORA Sentence (under 12 months for an offence committed before 01/02/2015) | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | NPD | Non Parole Date |  |  |
+| NoS | Notice of Supervision | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | Appears to apply to Young Offenders (YO) | 
 | NPS | National Probation Service | | Old name for Probation Service (changed June 2021). |
 | NPT | National Prosecution Team | http://www.cps.gov.uk/your_cps/our_organisation/spd.html | A joint team of CPS and Association of Chief Police Officers/National Policing Improvement Agency staff. T |
 | NQOS | Newly Qualified Officers | | (Probation) |
