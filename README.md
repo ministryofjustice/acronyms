@@ -385,7 +385,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LSAST | Live Services Applications Support Team (also a Prison-NOMIS Dev / Test environment by the same name) | | This was the Prison-NOMIS Application Support Team's name, and an environment named 'LSAST' was originally built for them, but now it is now also used by NART for dev/test purposes |
 | LSC | Legal Services Commision | | Now the LAA |
 | LSCB | Local Safeguarding Children Board | | |
-| LTD | Late Transfer Date |  |  |
+| LTD | Late Transfer Date for a Detention Training Order |  |  |
 | LTHSE | Long Term High Security Estates |  |  |
 | MAAT | Means Assessment Administration Tool | | Web app used by caseworkers to process legal aid applications for criminal cases. |
 | MaLi | Master list of initiatives | | An MOJ Technology list of all projects and programmes of work across the ministry |
