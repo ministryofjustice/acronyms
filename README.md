@@ -456,6 +456,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OAS | Oracle Analytics Server | | LAA MI reporting tool. Pulls data from EDW, Mojfin and CLA. OAS is the upgraded version of OBIEE. |
 | OASys | Offender Assessment System | | An offender assessment package. It identifies and classifies offending related needs, such as anger management, drug dependency, and poor literacy. |
 | OAT | Operational Acceptance Test | | |
+| O/C | Offence Committed | | | 
 | OBIEE | Oracle Business Intelligence Enterprise Edition | http://www.oracle.com/us/solutions/business-analytics/business-intelligence/enterprise-edition/overview/index.html | LAA MI reporting tool that was replaced by OAS. |
 | OBN | Overseas British Network | | AKA OBNI |
 | OBP | Offender Behaviour Programme | https://www.justice.gov.uk/offenders/before-after-release/obp | |
@@ -476,13 +477,15 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OMiC | Offender Management in Custody | | |
 | OMIS | Overseas Market Introduction Service | | |
 | OMNI | Offender Management National Infrastructure | | A network used to access probation systems |
+| OMPPG | Offender Management Public Protection Group | | | 
 | OMS | Other MOJ Suppliers | | |
 | OMU | Offender Management Unit | | |
 | OOH | Out of hours | | |
 | OPA | CCMS's Oracle Policy Automation | | Rulebase engine |
 | OPD | Offender Personality Disorder | | |
 | OPG | Office of the Public Guardian | http://www.justice.gov.uk/about/opg | |
-| ORA | Offender Rehabilitation Act | | |
+| ORA | Offender Rehabilitation Act 2014 | https://www.legislation.gov.uk/ukpga/2014/11/contents/enacted | |
+| ORA2014 | Offender Rehabilitation Act 2014 | https://www.legislation.gov.uk/ukpga/2014/11/contents/enacted | |
 | OS | Offender Supervisor | | |
 | OSAG | Operational and System Assurance Group | | |
 | OSG | Operational Support Group/Grade | http://www.skillsforjustice-cp.com/viewrole.php?id=9 | “Operational support grades (OSGs) work in prisons carrying out duties essential to the smooth running of the establishment. They may work in and around a prison establishment or on duties which take them outside - to courts or other prisons, for example.” |
@@ -491,7 +494,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OWB | Oracle Warehouse Builder | | An Oracle Extract Transform Load tool used for some LAA data warehouses |
 | P3T | Personnel Physical Procedural Technical | | The areas of information assurance. |
 | PAC | Public Accounts Committee | | |
-| PACE | Police and Criminal Evidence Act | | |
+| PACE | Police and Criminal Evidence Act 1984 | | |
+| PACE1984 | Police and Criminal Evidence Act 1984 | | |
 | PADA | Prospective Added Days Awarded | | Added days that are awarded whilst an offender is unsentenced, but must be added to the release dates when sentenced |
 | PAF | Postcode Address File | http://www.royalmail.com/marketing-services/address-management-unit/address-data-products/postcode-address-file-paf?campaignid=paf_redirect | The source of data for postcode lookups. The DSD uses this for its own service which converts it to a latitude/longitude, like on Court Finder and CLA Provider Directory. |
 | PAG (Old Name - See PPAS) | Planning and Analysis Group | | Now known as PPAS (Prison & Probation Analytical Services) |
@@ -499,21 +503,28 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Parom 1 | Generic Parole Assessment Report | | |
 | PBR | Payment By Results | https://en.wikipedia.org/wiki/Payment_by_Results | A methodology whereby payments to suppliers are contingent on the independent verification of work they have performed (results) |
 | PCC | Police and Crime Commissioner | https://www.gov.uk/police-and-crime-commissioners | PCCs are elected to make sure that local police meet the needs of the community |
+| PCC(S)A2000 | Powers of Criminal Courts (Sentencing) Act 2000 | https://www.legislation.gov.uk/id/ukpga/2000/6 | | 
+
+| PCSC | Police, Crime, Sentencing and Courts Act 2022  | [https://www.legislation.gov.uk/id/ukpga/2000/6](https://www.legislation.gov.uk/ukpga/2022/32/contents/enacted) | | 
+| PCSCA2022 | Police, Crime, Sentencing and Courts Act 2022  | [https://www.legislation.gov.uk/id/ukpga/2000/6](https://www.legislation.gov.uk/ukpga/2022/32/contents/enacted) | | 
 | PCI | Payment Card Industry | https://www.pcisecuritystandards.org | An industry standards body responsible for regulation of handling debit/credit cards. |
 | PCOL | Possession Claim Online | https://www.possessionclaim.gov.uk/pcol/ | |
 | PCSO | Police Community Support Officer | | |
 | PDB | Probation Delivery Board | | |
+| PDG | Prison Directors Group | | |
 | pdr | | | Matthew Coates mentioned this in Digital Services All-hands meeting. |
 | PDS | Public Defence Service | http://publicdefenderservice.org.uk/ | |
 | PDU | Probation Delivery Unit - previously known as LDU (Local Delivery Unit). | | |
 | PEA | Prisoner Earnings Act | | |
 | Peakon | People Analytics & Employee Engagement Software | https://peakon.com/ | Similar to the People Survey, but we're polled fortnightly instead of yearly |
 | PECS | Prison Escort Custody Service | | |
+| PED | Parole Eligibility Date | | |
 | PEEPs | Personal Emergency Evacuation Plans | | To help people evacuate the building in the event of a fire alarm or other emergency, especially if they may have difficulty due to a disability, injury, pregnancy, etc. |
 | PER | Person Escort Record | | |
 | PETP | Prison Estates Transformation Programme | | |
 | PEX(ER) | Public Expenditure (Efficiency and Reform) Cabinet Sub-committee | | |
 | PF | Petty France | http://osm.org/go/euutfmhzv?way=25445981 | Short name for MOJ main building at 102 Petty France, SW1H 9AJ London |
+| PF | Policy Framework |  |  |
 | PFD | President of the Families Division | https://www.judiciary.gov.uk/publications/president-of-the-family-division-pfd-the-rt-hon-sir-james-munby/ | |
 | PFS | Prisoner Facing Service | | A service that is provided to a Prisoner |
 | PGA | Prison Governors Association | | |
