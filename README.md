@@ -130,8 +130,10 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CLA | Civil Legal Advice | https://www.gov.uk/civil-legal-advice | CLA is a service provided to the general public in England and Wales where users can obtain free legal advice from specialist legal providers relating to a range of Civil matters. This is subject to the user’s matter being within scope of the service and the user passing the means eligibility test. The advice can either be given via telephone or in person depending upon the client’s unique circumstances. |
 | CLA | Civil Legal Aid | | |
 | CM | Custodial Manager | | A Band 5 prison officer. 3 stripes on their epaulettes |
+| CMAC | Court Martial Appeals Court | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | CNA | certified normal accommodation | http://www.bbc.co.uk/news/uk-19395427 | Relating to prison capacity: "the good, decent standard of accommodation that the service aspires to provide all prisoners" |
 | COBR | Cabinet Office Briefing Room | | |
+| COACD | Court of Appeal Criminal Division | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | CoCo | Code of Connection | | Usually associated with the PSN. An agreed standard ('code') for network communication. |
 | Cohort,  ‘Specialised Cohort’ | Prisoners who are higher risk and are assigned to Key Worker and a Prison Offender Manager (POM) | | |
 | Cohort, ‘Core Cohort’ | Prisoners who are lower risk and assigned to a Key Worker and CRC | | |
@@ -168,6 +170,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CSRA | Cell Share Risk Assessment | | This is a priority assessment done when prisoners are received at prison, to ensure risks are reduced to them and others on their first night and beyond |
 | CTC | Counter Terrorism Clearance | https://www.gov.uk/guidance/security-vetting-and-clearance | a security clearance level, as seen in the Tech Scorecard : "Anyone with administrative or operational access to production systems... has CTC-level clearance" |
 | CTS | Core Technology Services team | | |
+| CTSA2021 | Counter Terrorism and Sentencing Act 2021 | https://www.legislation.gov.uk/ukpga/2021/11/contents/enacted | |
 | Custody Assistant | subcontracted staff in custody | | |
 | Custody Officer | police staff | | |
 | CVCC | Court Video Conference Centre | | |
