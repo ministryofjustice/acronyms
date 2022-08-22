@@ -24,7 +24,7 @@ jobs:
       - run: git push origin gh-pages --force
       - name: Report failure to Slack
         if: always()
-        uses: ravsamhq/notify-slack-action@v1
+        uses: ravsamhq/notify-slack-action@v2
         with:
           status: ${{ job.status }}
           notify_when: 'failure'
