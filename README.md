@@ -425,7 +425,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MVP | Minimum Viable Product | | |
 | My Detail | A system used in prisons to detail staff. Also known as CSR (Corporate Staff Rostering) or InVision WFM | | |
 | NACRO | National Association of Care & Resettlement of Offender | | A prisoner charity. |
-| NACS | Network Access Control Service | | Authenticates access to the network at a device level. |
+| NACS | Network Access Control Service | | A centralised in-house built authentication service that provides access to the MoJ network at a device level. |
 | NAO | National Audit Office | https://www.nao.org.uk/ | |
 | NAPO | National Association of Probation Officers | | |
 | NART | National Applications Reporting Team | | This team support Reporting from nDelius, OASys and Prison-NOMIS using Business Objects. Answer ad-hoc queries including FOIs, PQs and Research Projects.  We're on slack #nart |
