@@ -236,6 +236,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EDW | Enterprise Data Warehouse |  | Management Information data warehouse. Holds data from many LAA applications. |
 | EE | | | |
 | EM | Electronic Monitoring | | (Also known as 'tagging') is the practice of attaching a tag to someone's ankle, used in England and Wales to monitor curfews and conditions of a court or prison order. |
+| EMAP | Email a Prisoner | | |
 | EMED | Electronic Monitoring Eligibility Date | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
 | EPICK | Event, Problem, Incident, Continual Service Improvement and Knowledge Team |  |  |
