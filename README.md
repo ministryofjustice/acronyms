@@ -488,7 +488,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OMNI | Offender Management National Infrastructure | | A network used to access probation systems |
 | OMPPG | Offender Management Public Protection Group | | | 
 | OMS | Other MOJ Suppliers | | |
-| OMU | Offender Management Unit | | |
+| OMU | Offender Management Unit | | Handle sentence calc etc in sites |
 | OOH | Out of hours | | |
 | OPA | CCMS's Oracle Policy Automation | | Rulebase engine |
 | OPD | Offender Personality Disorder | | |
