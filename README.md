@@ -235,6 +235,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EDS100 | Extended Determinate Sentence imposed for certain Terrorism Offences  | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | EDW | Enterprise Data Warehouse |  | Management Information data warehouse. Holds data from many LAA applications. |
 | EE | | | |
+| EFE | Estimate Financial Eligibility | https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid#readme | An example is LAA estimate financial eligibility for legal aid |
 | EM | Electronic Monitoring | | (Also known as 'tagging') is the practice of attaching a tag to someone's ankle, used in England and Wales to monitor curfews and conditions of a court or prison order. |
 | EMAP | Email a Prisoner | | |
 | EMED | Electronic Monitoring Eligibility Date | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
