@@ -249,6 +249,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ERSED | Early Removal Scheme Eligibility Date |  |  |
 | ESED | Effective Sentence End Date | | | 
 | ESF | European Social Fund | https://en.wikipedia.org/wiki/European_Social_Fund | Provides funding via the CFO to provide additional services to offenders |
+| ESL | Effective Sentence Length | | Representation of sentence length as a single period term | 
 | ESPP | Extended Sentence for Public Protection | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | ET | Employment Tribunal | | Also stands for 'E.T. the Extra-Terrestrial', a 1982 sci-fi movie about a loveable alien. |
 | ETD | Early Transfer Date for Detention and Training Orders (DTO) |  |  |
@@ -353,6 +354,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | JC | Justices' clerk | | Legally-trained member of staff in a magistrates' court, who advises the mags (who are volunteers) on tricky questions about the law. |
 | JES | Job Evaluation Scheme | | |
 | JHA | Justice and Home Affairs | http://www.consilium.europa.eu/policies/council-configurations/justice-et-affaires-interieures-(jai)?lang=en | One of the policy areas of the Council of the European Union |
+| JISL | Judicially Imposed Sentence Length | | NOMIS internal representation of sentence length as a single period term | 
 | JR | Judicial Review | https://www.judiciary.gov.uk/you-and-the-judiciary/judicial-review/ | Judicial review is a type of court proceeding in which a judge reviews the lawfulness of a decision or action made by a public body. |
 | JS | JavaScript | | Computer code used predominantly in Web browsers to provide enhance user interaction. |
 | JS | Jury Summons | | |
