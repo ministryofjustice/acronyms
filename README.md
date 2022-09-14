@@ -675,6 +675,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SIR (Now superseded by IR) | Security Information Report | | Prison.  A previous method of reporting intelligence information to the Security department via paper.  Now superseded by IR (Intelligence Report) generally submitted electronically via the Mercury system |
 | SIRB | Security Information Risk Board | | |
 | SIRO | Senior Information Risk Owner | | |
+| SIWG | Strategy and Implementation Working Group | | |
 | SLA | Service Level Agreement | | |
 | SLC | Student Loans Company | | |
 | SLED | Sentence and Licence Expiry Date |  |  |
