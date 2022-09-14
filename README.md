@@ -203,6 +203,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DPA | Data Protection Act | | |
 | DPRRD | Detention Post Recall Release Date |  |  |
 | DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
+| DPR | Digital Prison Reporting | | |
 | DPS | Dynamic Purchasing System | | Not unique to MoJ - it's a way that Governors can purchase additional education or work provision on site, outside of the standard education contracts.  Some stakeholders may be more familiar with this definition of DPS rather than 'Digital Prison Services' |
 | DR | Defence Request | | Formally DSDS. |
 | DR | Disaster Recovery | | |
@@ -676,6 +677,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SIR (Now superseded by IR) | Security Information Report | | Prison.  A previous method of reporting intelligence information to the Security department via paper.  Now superseded by IR (Intelligence Report) generally submitted electronically via the Mercury system |
 | SIRB | Security Information Risk Board | | |
 | SIRO | Senior Information Risk Owner | | |
+| SIWG | Strategy and Implementation Working Group | | |
 | SLA | Service Level Agreement | | |
 | SLC | Student Loans Company | | |
 | SLED | Sentence and Licence Expiry Date |  |  |
