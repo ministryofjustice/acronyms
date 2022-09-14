@@ -202,6 +202,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DOM1/Dom1 | Domain 1 | | End-user compute and networking solution |
 | DPA | Data Protection Act | | |
 | DPRRD | Detention Post Recall Release Date |  |  |
+| DPR | Digital Prison Reporting | | |
 | DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
 | DPS | Dynamic Purchasing System | | Not unique to MoJ - it's a way that Governors can purchase additional education or work provision on site, outside of the standard education contracts.  Some stakeholders may be more familiar with this definition of DPS rather than 'Digital Prison Services' |
 | DR | Defence Request | | Formally DSDS. |
