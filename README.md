@@ -202,7 +202,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DOM1/Dom1 | Domain 1 | | End-user compute and networking solution |
 | DPA | Data Protection Act | | |
 | DPRRD | Detention Post Recall Release Date |  |  |
-| DPR | Digital Prison Reporting | | |
 | DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
 | DPS | Dynamic Purchasing System | | Not unique to MoJ - it's a way that Governors can purchase additional education or work provision on site, outside of the standard education contracts.  Some stakeholders may be more familiar with this definition of DPS rather than 'Digital Prison Services' |
 | DR | Defence Request | | Formally DSDS. |
@@ -563,6 +562,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PO | Probation Officer | | Not to be confused with Prison Officer in much OM literature |
 | POA | Prison Officer Association | | |
 | POA | Payment on account | | LAA term for when a provider requests to be paid for part of the work they already carried out, before they submit their final claim/bill|
+| PoC | Proof of Concept | | |
 | POELT | Prison Officer Entry Level Training | | |
 | POLAR | Payment of Legal Aid Remuneration | | Legacy system for recording and tracking all claims received by the National Taxing Team (NTT) as part of assessing Legal Aid claims |
 | POM | Prison Offender Manager | | The new Case Manager/Band 4 Prison Officer |
@@ -676,7 +676,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SIR (Now superseded by IR) | Security Information Report | | Prison.  A previous method of reporting intelligence information to the Security department via paper.  Now superseded by IR (Intelligence Report) generally submitted electronically via the Mercury system |
 | SIRB | Security Information Risk Board | | |
 | SIRO | Senior Information Risk Owner | | |
-| SIWG | Strategy and Implementation Working Group | | |
 | SLA | Service Level Agreement | | |
 | SLC | Student Loans Company | | |
 | SLED | Sentence and Licence Expiry Date |  |  |
