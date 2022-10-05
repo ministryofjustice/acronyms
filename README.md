@@ -532,6 +532,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PCSCA2022 | Police, Crime, Sentencing and Courts Act 2022  | [https://www.legislation.gov.uk/id/ukpga/2000/6](https://www.legislation.gov.uk/ukpga/2022/32/contents/enacted) | | 
 | PCI | Payment Card Industry | https://www.pcisecuritystandards.org | An industry standards body responsible for regulation of handling debit/credit cards. |
 | PCOL | Possession Claim Online | https://www.possessionclaim.gov.uk/pcol/ | |
+| PCUAM | Provider Contracts and User Access Management | [JIRA Confluence](https://dsdmoj.atlassian.net/wiki/spaces/CPO/pages/1320288257/Applications) | |
 | PCR | Pre-sentence report | An expert assessment of the nature and causes of a prisoner’s behaviour, the risk they pose and to whom, as well as an independent recommendation of the sentencing option(s) available to the court. |
 | PCSO | Police Community Support Officer | | |
 | PDB | Probation Delivery Board | | |
