@@ -342,6 +342,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ILP | Individual Learning Plan | | |
 | IMA | Independent Monitoring Authority | | Responsible for monitoring EU nationals post-Brexit |
 | IMB | Independent Monitoring Board | | Part of Prisons service |
+| IMS | Intelligent Management Service | | |
 | InfoX | | | |
 | Interventions Manager | A system that records prisons interventions services | http://www.i2n.com/case-and-evidence-management/interventions-manager | |
 | Interventions | This term in the prison system means courses that prisoners can attend that address behaviour such as drug misuse, domestic violence, etc | | |
