@@ -439,6 +439,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MQPL | Measuring Quality of Prisoner Life | | |
 | MTD | Mid Transfer Date |  |  |
 | MTP | Money To Prisoners | | Currently a working name for a project digitising the process of sending money to UK prisoners. |
+| MTR | Legal Aid Means Test Review | https://www.gov.uk/government/consultations/legal-aid-means-test-review/legal-aid-means-test-review | A proposed change to Legal Aid eligibility rules |
 | MVP | Minimum Viable Product | | |
 | My Detail | A system used in prisons to detail staff. Also known as CSR (Corporate Staff Rostering) or InVision WFM | | |
 | NACRO | National Association of Care & Resettlement of Offender | | A prisoner charity. |
