@@ -694,6 +694,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SLA | Service Level Agreement | | |
 | SLC | Student Loans Company | | |
 | SLED | Sentence and Licence Expiry Date |  |  |
+| SLM | Send legal mail to prisons | https://send-legal-mail.prison.service.justice.gov.uk/start | |
 | SME | Small and medium-sized enterprises | | Can also stand for subject matter expert. |
 | SMS (in the Hub) | Supplier Management System | | CWA (Contracted Work and Administration)'s Supplier (Legal Provider) data |
 | SMT | Senior Management Team | | |
@@ -777,6 +778,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | VP | Vulnerable Prisoner | | |
 | VPS | Virtual Private Server | | |
 | VPU | Vulnerable Prisoner Unit | | |
+| VSiP | Visting someone in prison | | |
 | VSR | Victim Summary Reports | | |
 | WAIS | Wechsler Adult Intelligence Scale | | Test used for diagnosing learning difficulties and disabilities (LDD) |
 | WAN | Wide Area Network | | |
