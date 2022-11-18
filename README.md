@@ -188,6 +188,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CWA | Contracted Work and Administration | | LAA web app for managing providers and their contracted work. Billing system (for civil legal help and crime lower) that contains all provider contracts and schedules. Enables commissioning teams to manage their providers’ contracts and schedules. Is provider facing. Interfaces with CCMS to supply 'master record of the truth' of provider contract and contact details. Also does work in provisioning new provider user details to CCMS. |
 | CWX | | | Civil debt recovery service. Legacy debt management app, hosted external. |
 | D.Y.O. | Deter Young Cohort Offender | | |
+| DAC | Digital Accessibility Centre | https://digitalaccessibilitycentre.org/ | A org who do accessibility testing and consultancy on digital services | 
 | DACU | Data Access and Compliance Unit | | |
 | DAL | Delegation Authority Letter | | A document indicating that the bearer has authority to delegate responsibility for a government bank account to SSCL. |
 | DARTS | Digital Audio Recording and Transcription Service | | System for recording courts and allowing transcription agencies to listen to and upload transcriptions. |
