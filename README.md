@@ -519,6 +519,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OSG | Operational Support Group/Grade | http://www.skillsforjustice-cp.com/viewrole.php?id=9 | “Operational support grades (OSGs) work in prisons carrying out duties essential to the smooth running of the establishment. They may work in and around a prison establishment or on duties which take them outside - to courts or other prisons, for example.” |
 | OSPT | Official Solicitor and Public Trustee | | |
 | OST | Operational Security Team | | |
+| OWASP | Open Web Application Security Project | | |
 | OWB | Oracle Warehouse Builder | | An Oracle Extract Transform Load tool used for some LAA data warehouses |
 | P3T | Personnel Physical Procedural Technical | | The areas of information assurance. |
 | PAC | Public Accounts Committee | | |
