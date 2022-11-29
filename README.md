@@ -403,6 +403,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LPT | London Probation Trust | | |
 | LR | Licence Recall |  |  |
 | LR | Licence Revoke |  |  |
+| LSA | Local Systems Administrator |  |  |
 | LSAST | Live Services Applications Support Team (also a Prison-NOMIS Dev / Test environment by the same name) | | This was the Prison-NOMIS Application Support Team's name, and an environment named 'LSAST' was originally built for them, but now it is now also used by NART for dev/test purposes |
 | LSC | Legal Services Commision | | Now the LAA |
 | LSCB | Local Safeguarding Children Board | | |
