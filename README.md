@@ -571,7 +571,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PLIC | Prison leavers Innovation Challenge | https://www.gov.uk/guidance/prison-leavers-innovation-challenge | It aims to develop innovative new solutions to break the cycle of reoffending |
 | PMO | Project Management Office | | Bit of organisation that sets standards for project management. |
 | PMP | Privately Managed Prisons | | |
-| PMR | | | Civil Servant performance reviews |
+| PMR | Performance Management Review | | Civil Servant performance reviews |
 | PMU | Population Management Unit | | |
 | PMU | Prison Management Unit | | |
 | PNC | Police National Computer | | |
@@ -783,7 +783,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | VP | Vulnerable Prisoner | | |
 | VPS | Virtual Private Server | | |
 | VPU | Vulnerable Prisoner Unit | | |
-| VSiP | Visting someone in prison | | |
+| VSiP | Visting someone in prison | https://www.gov.uk/prison-visits | |
 | VSR | Victim Summary Reports | | |
 | WAIS | Wechsler Adult Intelligence Scale | | Test used for diagnosing learning difficulties and disabilities (LDD) |
 | WAN | Wide Area Network | | |
@@ -806,4 +806,4 @@ A better mechanism to enable people without github accounts to suggest changes w
 | YOS | Youth Offending Service | | |
 | YOT | Youth Offending Team | http://www.justice.gov.uk/youth-justice/courts-and-orders/youth-offending-teams | |
 | XHIBIT | Exchanging Hearing Information by Internet Technology | | Case management system used by Crown Courts only to record case details, hearing dates, applicant details etc. Note that this system is not used by Magistrates Courts. |
-| XXCCMS |  | | Name of an LAA database schema. According to old rules, XX is the standard prefix for customization in EBS (E-Business Suite). |
+| XXCCMS |  | | Name of an LAA database schema. According to old rules, XX is the standard prefix for customization in EBS (E-Business Suite) |
