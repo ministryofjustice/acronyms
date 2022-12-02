@@ -475,6 +475,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NORA | Non-ORA Sentence (under 12 months for an offence committed before 01/02/2015) | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | NPD | Non Parole Date |  |  |
 | NoS | Notice of Supervision | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | Appears to apply to Young Offenders (YO) | 
+| NPPV | Non-police personnel vetting | | |
 | NPS | National Probation Service | | Old name for Probation Service (changed June 2021). |
 | NPT | National Prosecution Team | http://www.cps.gov.uk/your_cps/our_organisation/spd.html | A joint team of CPS and Association of Chief Police Officers/National Policing Improvement Agency staff. T |
 | NQOS | Newly Qualified Officers | | (Probation) |
