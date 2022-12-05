@@ -589,6 +589,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | POM | Probation Offender Manager | | Probation Service Role in Prison |
 | PoP | Person on Probation | | Community / Suspended Sentence Order - Target Operating Model (TOM) and other Transition documents make reference to this |
 | POPs | Privately Operated Prisons | | |
+| POS | Prison Onsite Support | | |
 | PPAS | Prison & Probation Analytical Services | | Previously known as PAG (Performance & Analysis Group) |
 | PPCS | Public Protection Casework Section | | |
 | PPD | Project & Program Delivery | | |
