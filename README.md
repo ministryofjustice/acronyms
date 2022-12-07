@@ -498,6 +498,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OGRS | Offender Group Reconviction Scale | | Actuarial predictor of risk of reoffending |
 | OGSIRO | Office of the Government Senior Information Risk Owner | | SIRO for all of government, based in the cabinet office. |
 | OJC | Office for Judicial Complaints | | Soon to be JCIO |
+| OISG | Operational Implementation Support Group | | |
 | OJEU | Official Journal of the European Union | http://www.ojeu.eu/whatistheojeu.aspx | The Official Journal of the European Union (the OJ) is the official gazette of record for the European Union (EU). It is published every working day in all of the official languages of the member states.Most interestingly, it's used as a forum to publish procurement requests to all member states, and offers a (longer, slower) alternative to using GCloud. |
 | OLAP | Online Analytical Processing | | |
 | OLASS | Offenders' Learning and Skills Service | https://www.gov.uk/government/collections/olass-funding-rules-and-guidance | Integrated (prison based) offender education with mainstream academic and vocational provision. OLASS ceased delivery in 2018, and was replaced by something else (can't remember what though, but it essentially devolved a lot of it down to local purchases at governor level) |
