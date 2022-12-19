@@ -617,6 +617,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSNP | PSN for Police | | PSN + encryption, used by police forces |
 | PSO | Prison Service Orders | http://www.justice.gov.uk/offenders/psos | Rules, regulations and guidelines by which prisons are run. These are outlined in Prison Service Instructions (PSIs) and Prison Service Orders (PSOs). |
 | PSO | Probation Service Officer | | |
+| PSOA | Provider Statement of Account | | A financial statement produced by LAA, showing the position between LAA and a legal aid provider | 
 | PSP | Public Sector Prisons | | |
 | PSP | Public Social Partnership | | |
 | PSG | Policy and Strategy Group | | |
