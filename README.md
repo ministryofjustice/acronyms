@@ -521,7 +521,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ORA2014 | Offender Rehabilitation Act 2014 | https://www.legislation.gov.uk/ukpga/2014/11/contents/enacted | |
 | OS | Offender Supervisor | | |
 | OSAG | Operational and System Assurance Group | | |
-| OSG | Operational Support Group/Grade | http://www.skillsforjustice-cp.com/viewrole.php?id=9 | “Operational support grades (OSGs) work in prisons carrying out duties essential to the smooth running of the establishment. They may work in and around a prison establishment or on duties which take them outside - to courts or other prisons, for example.” |
+| OSG | Operational Support Group/Grade | http://www.skillsforjustice-cp.com/viewrole.php?id=9 | Operational support grades (OSGs) work in prisons carrying out duties essential to the smooth running of the establishment. They may work in and around a prison establishment or on duties which take them outside - to courts or other prisons, for example. |
 | OSPT | Official Solicitor and Public Trustee | | |
 | OST | Operational Security Team | | |
 | OWASP | Open Web Application Security Project | | |
@@ -530,7 +530,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PAC | Public Accounts Committee | | |
 | PACE | Police and Criminal Evidence Act 1984 | | |
 | PACE1984 | Police and Criminal Evidence Act 1984 | | |
-| PADA | Prospective Added Days Awarded | | Added days that are awarded whilst an offender is unsentenced, but must be added to the release dates when sentenced |
+| Pact | Prison Advice and Care Trust | https://www.prisonadvice.org.uk/ | Pact is a pioneering national charity that supports prisoners, people with convictions, and their children and families. |
+| PADA | Prospective Added Days Awarded | | Added days that are awarded whilst an offender is unsentenced, but must be added to the release dates when sentenced. |
 | PAF | Postcode Address File | http://www.royalmail.com/marketing-services/address-management-unit/address-data-products/postcode-address-file-paf?campaignid=paf_redirect | The source of data for postcode lookups. The DSD uses this for its own service which converts it to a latitude/longitude, like on Court Finder and CLA Provider Directory. |
 | PAG (Old Name - See PPAS) | Planning and Analysis Group | | Now known as PPAS (Prison & Probation Analytical Services) |
 | PAMS | Prisoner Activity Management System | http://www.justice.gov.uk/downloads/about/hmipris/glossary.pdf | Not much more info on this at the moment - I understand that it is how they manage prisoner activity, work schedules, learning and visit schedules. |
