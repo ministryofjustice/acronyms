@@ -517,6 +517,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OPA | CCMS's Oracle Policy Automation | | Rulebase engine |
 | OPD | Offender Personality Disorder | | |
 | OPG | Office of the Public Guardian | http://www.justice.gov.uk/about/opg | |
+| OPV | Official Prison Visitor | | OPVs visit prisoners who rarely, if ever, have visits from friends or family members. OPVs are volunteers and are independent of the prison and its staff.|
 | ORA | Offender Rehabilitation Act 2014 | https://www.legislation.gov.uk/ukpga/2014/11/contents/enacted | |
 | ORA2014 | Offender Rehabilitation Act 2014 | https://www.legislation.gov.uk/ukpga/2014/11/contents/enacted | |
 | OS | Offender Supervisor | | |
