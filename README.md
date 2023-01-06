@@ -134,6 +134,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CICA | Criminal Injuries Compensation Authority | https://www.gov.uk/government/organisations/criminal-injuries-compensation-authority | "We deal with compensation claims from people who have been physically or mentally injured because they were the victim of a violent crime in England, Scotland or Wales." |
 | CIS | Corporate Information System | | LAA thick client app for legacy legal aid case management. It handles legacy cases for civil certificated work (i.e. civil representation) Internal system only (no provider facing functions). Also used for other work unrelated to civil and family certificated work. Intention is to decommission this system when it is practical. |
 | CJG | Criminal Justice Group | | |
+| CJH | Criminal Justice Hub | https://www.criminaljusticehub.org.uk | A free information resource for the criminal justice community in England & Wales.  |
 | CJS | Criminal justice system | | An expression that covers the delivery of justice in relation to crime, across multiple organisations. Includes the likes of: law enforcement, lawyers, CPS, courts, prisons and probation. See also https://www.cps.gov.uk/about-cps/criminal-justice-system. Style guide: it's not really a proper noun, so don't use caps. Never abbreviate. |
 | CJSE | Criminal Justice Secure Exchange | | Related to CJSM, this is a pipe for sending data and files (rather than email) between police, CPS and courts. Often used for submitting cases to be prosecuted, and the charging decisions leading up to them.It supports a few standards:(1) EXISS is a one-way interface. If the case is duff, CPS have to phone/email Police to give feedback and get it sent again.(2) TWIF/EXISS2 is a two-way interface which allows CPS to send secure messages back.TWIF supports charging decisions being sent as structured data. Most other documents are sent as a set of Word docs or PDFs.Digital Case File is a standard devised by CPS for sending the contents of the various case forms as structured data rather than word docs, hidden as a JSON payload alongside other documents being transferred anyway. Ultimately the 'sending' part will be replaced by publishing and permissions. |
 | CJSM | Criminal Justice Secure Mail | https://www.cjsm.net/ | A secure email platform, used for conveying sensitive information between users in organizations across the criminal justice system. In addition, the security assurance process drives up security standards across the sector. |
@@ -259,6 +260,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ERP | Enterprise Resource Planning | | |
 | ERS | Early Removal Scheme |  |  |
 | ERSED | Early Removal Scheme Eligibility Date |  |  |
+| ESA | Employment and Support Allowance | https://www.gov.uk/employment-support-allowance | You can apply for Employment and Support Allowance (ESA) if you have a disability or health condition that affects how much you can work. |
 | ESED | Effective Sentence End Date | | | 
 | ESF | European Social Fund | https://en.wikipedia.org/wiki/European_Social_Fund | Provides funding via the CFO to provide additional services to offenders |
 | ESL | Effective Sentence Length | | Representation of sentence length as a single period term | 
@@ -372,6 +374,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | JR | Judicial Review | https://www.judiciary.gov.uk/you-and-the-judiciary/judicial-review/ | Judicial review is a type of court proceeding in which a judge reviews the lawfulness of a decision or action made by a public body. |
 | JS | JavaScript | | Computer code used predominantly in Web browsers to provide enhance user interaction. |
 | JS | Jury Summons | | |
+| JSA | Jobseekers Allowance | https://www.gov.uk/jobseekers-allowance | You can apply for New Style Jobseeker’s Allowance (JSA) to help you when you’re looking for work. |
 | JSC | Justice Select Committee | http://www.parliament.uk/justicecttee | |
 | JSON | JavaScript Object Notation | http://json.org/ | A simple, lightweight data format. |
 | KBD | Key Business Decisions | | |
