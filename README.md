@@ -68,6 +68,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | AT | Assisted Technology | | |
 | ATIA | Architecture, Technology and Information Assurance | | A former unit inside MOJ ICT |
 | ATM | At The Moment | | |
+| ATO | Authority to operate | | |
 | ATOS | Multinational Company - often involved in consultancy or healthcare | https://en.wikipedia.org/wiki/Atos | See URL |
 | AWS | Amazon Web Services | http://aws.amazon.com/ | |
 | BAFO | Best And Final Offer | | |
