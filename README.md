@@ -627,6 +627,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSP | Public Social Partnership | | |
 | PSG | Policy and Strategy Group | | |
 | PSS | Post Sentence Supervision |  |  |
+| PTPH | Plea and Trial Preparation Hearing |  |  |
 | PSU | Personal Support Unit | https://en.wikipedia.org/wiki/Personal_Support_Unit | |
 | PTTP | Prison Technology Transformation Programme | | Laptops, mobile devices, applications, etc. for the whole of HMPPS. Replacement for Quantum. Programme commenced 2020. |
 | PTX | | | |
