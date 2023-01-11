@@ -730,6 +730,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SPR | Sentence Planning & Review | | |
 | SPRM | Sentence Plan Review Meeting | | |
 | SR | Service Release | | Used by nDelius application team to reference releases |
+| SRA | Security Risk Assessments | | |
 | SRO | Senior Responsible Owner | https://www.gov.uk/government/publications/the-role-of-the-senior-responsible-owner | In MOJ, the SRO is a single, senior, accountable figure, representing business needs and decisions. A key feature of good governance for all types of Programmes and Projects, there should be one on each project. |
 | SSC | Shared Services Connected | | Now known as Shared Services Connected Limited (SSCL). |
 | SSCL | Shared Services Connected Limited | | Central government HR/finance management team, based in Newport, Wales. Responsible for management of Phoenix (HR system in a big Oracle DB). |
