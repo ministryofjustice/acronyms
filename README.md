@@ -214,6 +214,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DIWG | Data Integrity Working Group | | Looking at data and/or recording issues in Probation |
 | DOM1/Dom1 | Domain 1 | | End-user compute and networking solution |
 | DPA | Data Protection Act | | |
+| DPIA | Data Protection Impact assessment | | |
 | DPRRD | Detention Post Recall Release Date |  |  |
 | DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
 | DPR | Digital Prison Reporting | | |
