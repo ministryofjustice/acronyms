@@ -627,8 +627,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSP | Public Social Partnership | | |
 | PSG | Policy and Strategy Group | | |
 | PSS | Post Sentence Supervision |  |  |
-| PTPH | Plea and Trial Preparation Hearing |  |  |
 | PSU | Personal Support Unit | https://en.wikipedia.org/wiki/Personal_Support_Unit | |
+| PTPH | Plea and Trial Preparation Hearing |  |  |
 | PTTP | Prison Technology Transformation Programme | | Laptops, mobile devices, applications, etc. for the whole of HMPPS. Replacement for Quantum. Programme commenced 2020. |
 | PTX | | | |
 | PUI | CCMS's Provider User Interface | | Provider facing part of CCMS. It's used by providers to submit, amend and follow up on legal aid applications for civil cases. |
