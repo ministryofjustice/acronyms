@@ -187,6 +187,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Custody Assistant | subcontracted staff in custody | | |
 | Custody Officer | police staff | | |
 | CVCC | Court Video Conference Centre | | |
+| CVP | Cloud Video Platform | https://www.gov.uk/government/publications/how-to-join-a-cloud-video-platform-cvp-hearing/how-to-join-cloud-video-platform-cvp-for-a-video-hearing | CVP is an internet-based video meeting service used for court or tribunal headings. |
 | CWA | Contracted Work and Administration | | LAA web app for managing providers and their contracted work. Billing system (for civil legal help and crime lower) that contains all provider contracts and schedules. Enables commissioning teams to manage their providers’ contracts and schedules. Is provider facing. Interfaces with CCMS to supply 'master record of the truth' of provider contract and contact details. Also does work in provisioning new provider user details to CCMS. |
 | CWX | | | Civil debt recovery service. Legacy debt management app, hosted external. |
 | D.Y.O. | Deter Young Cohort Offender | | |
