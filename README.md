@@ -779,6 +779,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | TSP | Thinking Skills Programme | | An intervention that deals with domestic violence issues |
 | TTG | Through The Gate | | |
 | TTP | Technology Transition Programme | | Replacement for DOM1 and DISC IT programme.Move to MS Asure cloud based service, Office 365. |
+| TUPE | TUPE stands for Transfer of Undertakings (Protection of Employment) |  |  |
 | TUSED | Top Up Supervision Expiry Date |  |  |
 | TV | Tender Verification | | |
 | TVM | Transaction Volume Model | | |
