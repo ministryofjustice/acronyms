@@ -667,6 +667,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ROC | Remuneration of Central Fund Costs | | It is used by a team of LAA caseworkers called 'Criminal cases unit'. They are the ones who assess claim for payments for any type of crime work that sits outside the graduated fee scheme. It's like processing payments for exceptional cases but it doesn't come from the Exception Case Funding scheme (which is only applicable for Civil). Providers claim those payments by emailing an Excel form to the Criminal case unit (there are 8 different forms depending on what's being claimed) who then log the claim into ROC, assess the claim and then send it to SSCL who processes the payment. |
 | ROM | Rough Order of Magnitude | en.wikipedia.org/wiki/Cost_estimate | A crude estimate of the cost of a project. See also SWAG and PIDOOMA.Could also stand for 'read-only memory'. |
 | ROR | Resettlement Overnight Release | | Relates to RoTL (Release on Temporary Licence) documentation |
+| ROR | Restoration of Remission  | | Synonym for Restoration of Added Days Awarded (RADA)
 | ROSH | Risk of Serious Harm | | |
 | ROTL | Release on Temporary Licence | | |
 | RPD | Regional Probation Director | | |
