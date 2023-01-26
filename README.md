@@ -723,6 +723,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SNOW | Service Now | https://mojprod.service-now.com/moj_sp/ | Contraction used by Prison staff |
 | SO | Supervising Officer | | |
 | SOA | Service-Oriented Architecture | | Both a term and a product suite from Oracle, responsible for providing a point of interface for external integrations for CCMS for case creation |
+| SOCT | Security, Order and Counter Terrorism | | |
 | SoMo | Social Mobility | | |
 | SOP | Single Operating Platform | | |
 | SOPC | Special Custodial Sentence for Certain Offenders of Particular Concern | | |
