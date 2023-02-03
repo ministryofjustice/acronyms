@@ -26,6 +26,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 |-|-|-|-|
 | 1LS/2LS/3LS | 1st, 2nd or 3rd Line Support | | |
 | 102PF | 102 Petty France | https://en.wikipedia.org/wiki/102_Petty_France | London headquarters of the Ministry of Justice |
+| A&A | Advice and assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
+| AA | Advocacy assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
 | A&O | Accommodation and Occupancy (also known as *AO*) | | An table of data, extracted from the NOMIS database providing a row per prisoner, including basic personal details and their location |
 | A2J | Access to Justice | | |
 | AA | Administrative Assistants | | in context of PVB |
