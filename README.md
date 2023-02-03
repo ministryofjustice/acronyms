@@ -115,6 +115,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CCRC | Criminal Cases Review Commission | | |
 | CCRN | Court Case Reference Number | | This is a unique reference number assigned to a new occurrence of a court case created on PNC. The CCRN is held by CJSE but may not be held by court systems relevant to all court types and may be used to identify cases in civil crown magistrates courts etc. Will be held in CJSE sent from Police Case systems. |
 | CCS | Crown Commercial Service | https://www.gov.uk/government/organisations/crown-commercial-service | |
+| CCQ | Check if your client qualifies for legal aid | | LAA web app for legal providers to work out if a potential client meets the means test (financial eligibility) for legal aid |
 | CDA | Court data adaptor | | |
 | CDC | Change Data Capture | | |
 | CDC | Change Directorate Committee | | |
