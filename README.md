@@ -286,7 +286,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | FCA | Financial Conduct Authority | http://fca.org.uk | The Financial Conduct Authority (FCA) is a financial regulatory body in the United Kingdom, but operates independently of the United Kingdom government, and is financed by charging fees to members of the financial services industry. |
 | FCO | Foreign and Commonwealth Office | https://www.gov.uk/government/organisations/foreign-commonwealth-office | |
 | FCOS | Foreign and Commonwealth Office Services | https://www.fcoservices.gov.uk/ | A trading fund of the FCO. Providers of IL2 and IL3 web hosting |
-| FIS | | | |
+| FiAP | Find a Prisoner service | https://www.gov.uk/find-prisoner | |
 | FITS | Future IT Sourcing Programme | | or is the S 'sourcing'? Yes |
 | FLO | Family Liaison Officer | | |
 | FMB | Functional Mailbox | | |
