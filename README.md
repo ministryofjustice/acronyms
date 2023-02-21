@@ -504,6 +504,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OBP | Offender Behaviour Programme | https://www.justice.gov.uk/offenders/before-after-release/obp | |
 | OBR | Office for Budget Responsibility | http://budgetresponsibility.independent.gov.uk/ | "It is the duty of the Office to examine and report on the sustainability of the public finances" |
 | ODI | Open Data Institute | http://www.theodi.org/ | |
+| OEM | Oracle Enterprise Manager | | Oracle monitoring software, used in CCMS |
 | offloc | Offender Location report | http://bigbookofacronyms.herokuapp.com/acronyms?search=CDE | The old name for the Common Data Extract. |
 | OGD | Other Government Department | | |
 | OGRS | Offender Group Reconviction Scale | | Actuarial predictor of risk of reoffending |
