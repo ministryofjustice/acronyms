@@ -424,6 +424,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MaLi | Master list of initiatives | | An MOJ Technology list of all projects and programmes of work across the ministry |
 | MALRAP | Multi Agency Lifer Risk Assessment Panel | | |
 | MAPPA | Multi-Agency Public Protection Arrangements | https://en.wikipedia.org/wiki/Multi-Agency_Public_Protection_Arrangements | |
+| MAPPP | Multi-Agency Public Protection Prisoner | | |
 | MAPPS | Multi-Agency Public Protection Service | | will replace VISOR. In development from 2021 until approx 2024 |
 | MARAC | Multi Agency Risk Assessment Conference | | A local, multi agency victim-focused meeting where information is shared on the highest risk cases of domestic violence and abuse (includes considerations of child protection) between different statutory and voluntary sector agencies |
 | may | denotes approval | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
@@ -610,6 +611,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PPD | Project & Program Delivery | | |
 | PPM | Project & Program Management | | |
 | PPO | Prisons and Probation Ombudsman | http://www.ppo.gov.uk/ | |
+| PPRC | Persons posing a risk to children | | |
 | PPU | Public Protection Unit | | |
 | PPUD | Public Protection Unit Database | | Licensing of Prisoners: Manages Recalls and Parole. Prison and Probation can access this system, that is primarily used by a large team (Circa 150 people) in Petty France.  This is being replaced but unclear with what and when |
 | PQ | Parliamentary Question | | |
