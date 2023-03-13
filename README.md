@@ -494,6 +494,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NQOS | Newly Qualified Officers | | (Probation) |
 | NSI | Non Statutory Intervention | | |
 | NSVC | National Security Vetting Contact | | Someone within a team or organisation with knowledge of the securty vetting process, and who can help with vetting questions or processes. |
+| NTP | Notice to prisoners | | |
 | NVDA | NonVisual Desktop Access | http://www.nvaccess.org/ | Windows screen reader, like JAWS, but free. |
 | NWOW | New Ways Of Working | | |
 | OAS | Oracle Analytics Server | | LAA MI reporting tool. Pulls data from EDW, Mojfin and CLA. OAS is the upgraded version of OBIEE. |
