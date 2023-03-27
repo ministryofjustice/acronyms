@@ -51,6 +51,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | AJTC | Administrative Justice Tribunals Council | http://ajtc.justice.gov.uk/ | |
 | ALB | Arm's-length body | http://www.instituteforgovernment.org.uk/our-work/new-models-governance-and-public-services/arms-length-bodies | An organisation that pretends it's independent from government, even though it's not, really.With apostrophe and hyphen when spelled out in full. |
 | Alfresco | A document management system.  Used by the courts | | |
+| ALM | Application Lifecycle Management | | |
 | ALS | Action Learning Set | | |
 | AMI | Amazon Machine Image | https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html | |
 | AO | Accommodation and Occupancy (also known as *A&O*) | | |
@@ -151,6 +152,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | COBR | Cabinet Office Briefing Room | | |
 | COACD | Court of Appeal Criminal Division | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | CoCo | Code of Connection | | Usually associated with the PSN. An agreed standard ('code') for network communication. |
+| COE | Center of Excellence | | Microsoft Power Platform management tooling |
 | Cohort,  ‘Specialised Cohort’ | Prisoners who are higher risk and are assigned to Key Worker and a Prison Offender Manager (POM) | | |
 | Cohort, ‘Core Cohort’ | Prisoners who are lower risk and assigned to a Key Worker and CRC | | |
 | COM | Community Offender Managers | | A role within the National Probation Service |
@@ -216,6 +218,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Dip sampling | A quality control process used by police forces in which a representative proportion of files are selected and inspected | | |
 | DISC | Development, Innovation and Support Contracts | | Shared services framework - Atos (infrastructure), CGI (formerly LogicaCMG -  applications) supporting Dom1.http://www.publictechnology.net/sector/case-study-ministry-justice-disc-transition-team-successful-transition-it-services-six-existi |
 | DIWG | Data Integrity Working Group | | Looking at data and/or recording issues in Probation |
+| DLP | Data Loss Prevention | | |
 | DOM1/Dom1 | Domain 1 | | End-user compute and networking solution |
 | DPA | Data Protection Act | | |
 | DPIA | Data Protection Impact assessment | | |
@@ -432,6 +435,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MCOL | Money Claim Online | https://www.gov.uk/make-money-claim-online | Online service to "take court action against someone if they owe you money and won’t pay you back". |
 | MCQ | Minor Change Quotation | | Related to tender documents. |
 | MDS | Minimum Data Set | | |
+| MFA | Multi Factor Authentication | | |
 | MFD | Multifunctional device | | Printers at MOJ, which can also be used to scan in documents (hence the 'multifunctional' bit). |
 | MHA1983 | Mental Health Act 1983 | https://www.legislation.gov.uk/ukpga/1983/20/contents | |
 | MI | Management Information | | Data or statistics collected and used to measure performance in a business |
