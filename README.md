@@ -608,6 +608,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | POLAR | Payment of Legal Aid Remuneration | | Legacy system for recording and tracking all claims received by the National Taxing Team (NTT) as part of assessing Legal Aid claims |
 | POM | Prison Offender Manager | | The new Case Manager/Band 4 Prison Officer |
 | POM | Probation Offender Manager | | Probation Service Role in Prison |
+| POMC | Prison Operations Management Committee | | |
 | PoP | Person on Probation | | Community / Suspended Sentence Order - Target Operating Model (TOM) and other Transition documents make reference to this |
 | POPs | Privately Operated Prisons | | |
 | POS | Prison Onsite Support | | |
