@@ -94,6 +94,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | BPG | ??? | | A digital gateway service that links nDelius to CRC systems(Not sure if this is a typo of SPG?) |
 | BRB | Be Right Back | | |
 | BSR | Building Skills for Recovery | | Substance misuse programme |
+| BVLS | Book a video link service | | |
 | BWVC | Body Worn Video Camera | | |
 | C&R | Control & Restraint | | Prison |
 | CA | Case Admin | | |
@@ -564,6 +565,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PCUAM | Provider Contracts and User Access Management | [JIRA Confluence](https://dsdmoj.atlassian.net/wiki/spaces/CPO/pages/1320288257/Applications) | |
 | PCR | Pre-sentence report | An expert assessment of the nature and causes of a prisoner’s behaviour, the risk they pose and to whom, as well as an independent recommendation of the sentencing option(s) available to the court. |
 | PCSO | Police Community Support Officer | | |
+| PCVL | Prison to court video link  | | |
 | PDB | Probation Delivery Board | | |
 | PDG | Prison Directors Group | | |
 | pdr | | | Matthew Coates mentioned this in Digital Services All-hands meeting. |
