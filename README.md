@@ -123,7 +123,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CDA | Court data adaptor | | |
 | CDC | Change Data Capture | | |
 | CDC | Change Directorate Committee | | |
-| CDCS | Change Data Capture Staging | | LAA Oracle database for capturing data from remote databases.Receives data from CCMS which it captures within CDCS and then pulls the relevant information in to EDW. |
+| CDCS | Change Data Capture Staging | | LAA Oracle database for capturing data from CCMS & CIS and moving to EDW for CCMI.  No longer exists. |
 | CDD | Criminal Defence Direct | | Telephone adviser run by a few provides. New tendering process will be started and new structure and providers will be in place in April 2016. |
 | CDE | Common Data Extract | | A report of all offenders in NOMIS with lots of data about them. Also known as ‘offloc’ (offender location report). The CDE is used to transfer offender data to other NOMS/MOJ systems (like Mercury) and to other agencies (like the police). |
 | CDO | Chief Digital Officer | | |
@@ -250,7 +250,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DX | Document Exchange | | DX, or Direct Exchange, is a private business-to-business mail and packaging network in the United Kingdom. Direct Exchange is cheaper than standard first class mail. Subscriptions are necessary to use this service. |
 | DYOI | Detention in a Young Offender Institution | | |
 | EAT | Employment Appeal Tribunal | | |
-| EBS| CCMS's E-Business Suite | | Part of CCMS |
+| EBS| E-Business Suite.  An Oracle Application for Business.  Utilised for LAA in CCMS and CWA  | |  |
 | ECS | Elastic Container Service | https://aws.amazon.com/ecs/ | |
 | ECL | End of Custody Licence | | A scheme within Prison Service between 2007 and 2010 to help alleviate pressures on prison population.  Offenders who were eligible could be released early from custody 18 days before their release date |
 | EDR | Earliest Date of Release | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
