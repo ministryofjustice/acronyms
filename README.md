@@ -250,7 +250,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DX | Document Exchange | | DX, or Direct Exchange, is a private business-to-business mail and packaging network in the United Kingdom. Direct Exchange is cheaper than standard first class mail. Subscriptions are necessary to use this service. |
 | DYOI | Detention in a Young Offender Institution | | |
 | EAT | Employment Appeal Tribunal | | |
-| EBS| E-Business Suite.  An Oracle Application for Business.  Utilised for LAA in CCMS and CWA  | |  |
+| EBS| E-Business Suite | | An Oracle Application for Business.  Utilised by LAA for CCMS and CWA.  | |  |
 | ECS | Elastic Container Service | https://aws.amazon.com/ecs/ | |
 | ECL | End of Custody Licence | | A scheme within Prison Service between 2007 and 2010 to help alleviate pressures on prison population.  Offenders who were eligible could be released early from custody 18 days before their release date |
 | EDR | Earliest Date of Release | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
@@ -503,7 +503,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | NTP | Notice to prisoners | | |
 | NVDA | NonVisual Desktop Access | http://www.nvaccess.org/ | Windows screen reader, like JAWS, but free. |
 | NWOW | New Ways Of Working | | |
-| OAS | Oracle Analytics Server | | LAA MI reporting tool. Pulls data from EDW, Mojfin and CLA. OAS is the upgraded version of OBIEE. |
+| OAS | Oracle Analytics Server | | Oracle MI reporting tool. Used by LAA for reporting on data in EDW, Mojfin and other sources. OAS is the upgraded version of OBIEE. |
 | OASys | Offender Assessment System | | An offender assessment package. It identifies and classifies offending related needs, such as anger management, drug dependency, and poor literacy. |
 | OAT | Operational Acceptance Test | | |
 | O/C | Offence Committed | | | 
