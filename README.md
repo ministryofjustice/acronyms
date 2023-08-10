@@ -341,6 +341,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | IA | Information Assurance | http://en.wikipedia.org/wiki/Information_assurance | as used by MOJ ICT. |
 | IAC | Immigration and Asylum Chamber | | |
 | IAO | Information Asset Owner | | Somewhat of an equivalent to a SIRO - related to information security / accreditation |
+| IAPS | Integrated Accredited Programmes System | | |
 | IAR | Information Access Representative | | Admin staff based at a prison to collect information for a SAR |
 | ICA | Initial Categorisation Assessment | | |
 | IDA | identity assurance | http://digital.cabinetoffice.gov.uk/tag/idap/ | Verifying digitally who someone is. There is a programme currently running (Jan 2014) in Government Digital Service, known as 'IDAP' which is implementing a way to verify the identity of citizens and business digitally so they can use government services online. |
@@ -355,6 +356,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | IIS | Inmate Information System | | The precursor to Prison-NOMIS. IIS has now been decommissioned, and data archived into HPA (Historic Prisoner Application) |
 | IL# | Impact Levels [number] | http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/ | Shorthand for BIL#Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong.specific information about prisoners will have business impact 3 if made publicAll revised with the new Official criteria |
 | ILP | Individual Learning Plan | | |
+| IM | Interventions Manager | | Specifically related to Delius |
 | IMA | Independent Monitoring Authority | | Responsible for monitoring EU nationals post-Brexit |
 | IMB | Independent Monitoring Board | | Part of Prisons service |
 | IMS | Intelligent Management Service | | |
