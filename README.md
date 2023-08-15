@@ -89,8 +89,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | BIS | Department  for Business Innovation & Skills | https://www.gov.uk/government/organisations/department-for-business-innovation-skills | |
 | BNM | Becoming New Me | | General offending programme – thinking skills programme for those with learning disability |
 | BOP | Bring on Potential | | Education and Learning gained inside are recorded in BOP, which is available ‘through the gate’. Part of ILP (Individual Learning Plan) |
-| BOTUS | Breach of Top Up Supervision | URL | Info |
-| BPSS | Baseline Personnel Security Standard | | The minimum level of clearance for someone working in the Civil Service. |
+| BOTUS | Breach of Top Up Supervision | | Info |
+| BPSS | Baseline Personnel Security Standard | https://www.gov.uk/government/publications/government-baseline-personnel-security-standard | The minimum level of clearance for someone working in the Civil Service. |
 | BPG | ??? | | A digital gateway service that links nDelius to CRC systems(Not sure if this is a typo of SPG?) |
 | BRB | Be Right Back | | |
 | BSR | Building Skills for Recovery | | Substance misuse programme |
@@ -105,7 +105,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | can | denotes both capability and possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | CARAT | Counselling, Assessment, Referral, Advice, Throughcare | | CARAT workers are intermediaries between drug treatments providers and the prisoners themselves |
 | CAS | Case Allocation System | | Used after sentencing to assign offender as NPS or CRC |
-| CATS | Case Assessment and Tracking System | https://www.co-financing.org/cats.php | .NET application written and used by CFO at Daresbury Park in Warrington for managing ESF funded projects |
+| CATS | Case Assessment and Tracking System | https://www.CreatingFutureOpportunities.gov.uk | .NET application written and used by CFO at Daresbury Park in Warrington for managing externally funded (historically ESF) programmes |
 | CBO | crime billing online | | |
 | CCBC | County Court Bulk Centre | http://www.justice.gov.uk/courts/northampton-bulk-centre/ccbc | Set up by HM Courts & Tribunals Service specifically to deal with straightforward debt collection work which, in the main, is undefended. In Northampton. |
 | CCCD | Claim for Crown Court Defence | https://claim-crown-court-defence.service.gov.uk/ | Legal Aid Agency project where advocates (solicitors) can submit invoices for work done for legal aid work. Project formerly known as ADPproject formerly known as CBO |
@@ -132,7 +132,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CEO | Court enforcement officer | | |
 | CESG | Communications-Electronics Security Group | http://www.cesg.gov.uk | Part of GCHQ (spies and stuff) up in Cheltenham, they provide policy and assistance on digital security. Run IA and the impact levels etc. |
 | CFE | Check Financial Eligibility | | A non-user facing service which calculates an applicant’s financial eligibility using data entered through Apply. This includes information on an applicant’s income and outgoings, and calculations include a range of different things in accordance with legal aid regulation based on what information is entered. |
-| CFO | Co-Financing Organisation | https://www.co-financing.org | The name of a group within HMPPS who manage external funding (such as that from the ESF). Offices located in Daresbury Warrington. |
+| CFO | Creating Future Opportunities | https://www.CreatingFutureOpportunities.gov.uk | The name of a group within HMPPS who manage external funding (such as that from the ESF). Offices located in Daresbury Warrington. |
 | CFT | Civil, Family and Tribunals | | The name of a directorate in HMCTS. |
 | CGI | Conseillers en Gestion et Informatique | http://www.cgi.com/en | CGI stands for Conseillers en Gestion et Informatique in French, which translates to 'Information Systems and Management Consultants', in English. However, the official English meaning is 'Consultants to Government and Industry'.The company was formerly known as Logica, and designed the current (as of 19 April 2013) infrastructure for Money Claim Online and Possession Claim Online.Can also stand for 'computer-generated imagery'. |
 | CHAPS | Correspondence Handling And Processing System | | |
@@ -187,7 +187,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CSR | Civil Service Resourcing | | The previous name for the Government Recruitment Service (GRS) |
 | CSR | Corporate Staff Rostering | | A system used in prisons to detail staff. Also known as My Detail or InVision WFM |
 | CSRA | Cell Share Risk Assessment | | This is a priority assessment done when prisoners are received at prison, to ensure risks are reduced to them and others on their first night and beyond |
-| CTC | Counter Terrorism Clearance | https://www.gov.uk/guidance/security-vetting-and-clearance | a security clearance level, as seen in the Tech Scorecard : "Anyone with administrative or operational access to production systems... has CTC-level clearance" |
+| CTC | Counter Terrorism Clearance | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#counter-terrorist-check-ctclevel-1b | a security clearance level, as seen in the Tech Scorecard : "Anyone with administrative or operational access to production systems... has CTC-level clearance" |
 | CTS | Core Technology Services team | | |
 | CTSA2021 | Counter Terrorism and Sentencing Act 2021 | https://www.legislation.gov.uk/ukpga/2021/11/contents/enacted | |
 | Custody Assistant | subcontracted staff in custody | | |
@@ -244,7 +244,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DSS | Data Security Standard | https://www.pcisecuritystandards.org | An accreditation for handling credit/debit cards managed by Payment Card Industry (PCI). |
 | DTO | Detention Training Order |  |  |
 | DTRG | Digital Technology Review Group | | |
-| DV | Developed Vetting | https://www.gov.uk/guidance/security-vetting-and-clearance | Level of Security Clearance |
+| DV | Developed Vetting | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#developed-vetting-dv | Level of Security Clearance |
 | DV | Domestic Violence | | |
 | DWP | Department for Work and Pensions | https://www.gov.uk/government/organisations/department-for-work-pensions | Government organisation - administrates ESF budget ellocation |
 | DX | Document Exchange | | DX, or Direct Exchange, is a private business-to-business mail and packaging network in the United Kingdom. Direct Exchange is cheaper than standard first class mail. Subscriptions are necessary to use this service. |
@@ -703,7 +703,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SARA | Spousal Assault Risk Assessment | | |
 | SAV | Security Architecture Review | | A term used by IA (Information Assurance) |
 | SBC | Specification, Benchmarking and Costing | | |
-| SC | Security Check | https://www.gov.uk/guidance/security-vetting-and-clearance | Level of Security Clearance |
+| SC | Security Check | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#security-check-sc | Level of Security Clearance |
 | SC2020 | Sentencing Code 2020 | https://www.legislation.gov.uk/ukpga/2020/17/contents | |
 | SCA | Start Custody Assessments | | |
 | SCA2007 | Serious Crime Act 2007 | https://www.legislation.gov.uk/ukpga/2007/27/contents | |
