@@ -213,6 +213,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DDC | deputy director of custody | | regional responsibilty for a group of prisons |
 | DDC | Deputy Director of Custody | | |
 | DDC | Digital Document Conversion | | |
+| DF | Delegated Functions | | Where legal providers, in limited circumstances, are authorized by LAA to assess eligibility for legal aid *themselves*, enabling them to proceed with work on the case, and notify the LAA in the following few days |
 | DFD | Data Flow Diagram | | |
 | DIB | Divisional Implementation Board | | |
 | DIC | death in custody | | |
