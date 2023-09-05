@@ -676,6 +676,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | Resettlement | Also known as ‘Throughcare’ | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
 | RFS | Request for Service | | A procurement term used in NOMS (elsewhere?), specifically with HP to define new change requests and projects |
 | RIC | Remand in custody | | |
+| RIDs | Receipt, Inspection and Dispatch Units | Category A establishments must inspect, search and x-ray all goods
 | RIPA | Regulation of Investigatory Powers Act | | |
 | RM2000 | Risk Matrix 2000 | | A static risk assessment for sex offenders over the age of 18 |
 | RMAD | Risk Management Accreditation Document | | See RMADS |
