@@ -392,8 +392,10 @@ A better mechanism to enable people without github accounts to suggest changes w
 | JSA | Jobseekers Allowance | https://www.gov.uk/jobseekers-allowance | You can apply for New Style Jobseeker’s Allowance (JSA) to help you when you’re looking for work. |
 | JSC | Justice Select Committee | http://www.parliament.uk/justicecttee | |
 | JSON | JavaScript Object Notation | http://json.org/ | A simple, lightweight data format. |
+| KBA | Knowledge Base Article | | |
 | KBD | Key Business Decisions | | |
 | Key Traka | See: Traka | | |
+| KI | Known Incident | | |
 | KILO | Knowledge and Information Liaison Officer | | Responsible person/people in a team/department for responding to Freedom of Information Act requests. |
 | KML | Keyhole Markup Language | | |
 | KPI | Key Performance Indicators | | |
