@@ -674,6 +674,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | RBCP | Regional Business Change Partner | | |
 | RC | Regional Change | | Incorrectly entered. Please see RCBP. |
 | RCJ | Royal Courts of Justice | http://courttribunalfinder.service.gov.uk/courts/royal-courts-of-justice | Contains both the High Court and Courts of Appeal, based on the Stand in London.Definitely *not* like a large County Court! |
+| RDC | Rapid Deployment Cells | | |
 | RDR | Resettlement Day Release | | Relates to RoTL (Release on Temporary Licence) documentation |
 | Resettlement | Also known as ‘Throughcare’ | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
 | RFS | Request for Service | | A procurement term used in NOMS (elsewhere?), specifically with HP to define new change requests and projects |
