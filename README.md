@@ -41,7 +41,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ADI | Application Desktop Integrator | | Spreadsheet containing total disbursement of a prison, sent from business hub to regional accounts team.#moneyToPrisoners |
 | Admin 4 database | | | An Excel file that has Police Station & Mags Court schemes on |
 | ADP | Advocate Defence Payments | | One of our projects for the Legal Aid Agency. where advocates (solicitors) can submit invoices for work done for legal aid work.Used to be known as CBO/Crime Billing Online |
-| ADPO | | | |
 | ADR | Alternative dispute resolution | | |
 | ADR | Architectural design record | | |
 | AEP | Accelerated Encryption Processing | | |
@@ -176,7 +175,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CRO | criminal records office | | unique number once convicted (police) |
 | CRP | Conference Room Pilot | | |
 | CRS | Commissioned Rehabilitative Services | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959745/HMPPS_-_The_Target_Operating_Model_for_the_Future_of_Probation_Services_in_England___Wales_-__English__-_09-02-2021.pdf#page=79 | Rehabilitation and resettlement interventions  procured through the Dynamic Framework - the mechanism to procure rehabilitation and resettlement interventions in regional areas |
-| CSA | | | |
 | CSC | Close Supervision Centre | | Also known as Segregation unit, Seg, Solitary Confinement & SCU |
 | CSG | Corporate Services Group | | Part of MOJ led by director general Matthew Coats which includes Estates, ICT, HR, Shared Services and Digital Services. |
 | CSIP | Challenge Support Intervention Plan | | |
@@ -256,7 +254,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EDS | Extended Determinate Sentence |  |  |
 | EDS100 | Extended Determinate Sentence imposed for certain Terrorism Offences  | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | EDW | Enterprise Data Warehouse |  | Management Information data warehouse. Holds data from many LAA applications. |
-| EE | | | |
 | EFE | Estimate Financial Eligibility | https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid#readme | An example is LAA estimate financial eligibility for legal aid |
 | EGS | Enhanced Gate Security | | EGS refers to the installation of X-ray baggage scanners, archway metal detectors (sometimes referred to as a ‘portal’) and hand-held metal detector wands. |
 | EM | Electronic Monitoring | | (Also known as 'tagging') is the practice of attaching a tag to someone's ankle, used in England and Wales to monitor curfews and conditions of a court or prison order. |
@@ -265,7 +262,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
 | EPICK | Event, Problem, Incident, Continual Service Improvement and Knowledge Team |  |  |
 | EQUIP | Excellence and Quality in Probation Processes | | |
-| ERIC |  |  |  |
 | ERP | Enterprise Resource Planning | | |
 | ERS | Early Removal Scheme |  |  |
 | ERSED | Early Removal Scheme Eligibility Date |  |  |
@@ -299,11 +295,9 @@ A better mechanism to enable people without github accounts to suggest changes w
 | FPMF | FITS Programme Management Framework | | This was part of the overall governance framework for FITS. |
 | FPRC | Family Procedure Rules Committee | https://www.gov.uk/government/organisations/family-procedure-rule-committee | The Family Procedure Rule Committee (FPRC) makes rules of court that govern the practice and procedure followed in family proceedings in the High Court and family court.FPRC is an advisory non-departmental public body, sponsored by the Ministry of Justice. |
 | FRPS | Financial Resources and Payment for Services | | |
-| FTC | | | |
 | FTR | Fixed Term Recall |  |  |
 | FTW | For The Win | | |
 | GAL | Global Address List | | |
-| GAPS | | | |
 | GBS | Government Banking Service | https://www.gov.uk/government/publications/government-banking-service | |
 | GDS | Government Digital Service | http://digital.cabinetoffice.gov.uk/ | |
 | GIRR | Government Information Risk Return | | |
@@ -358,12 +352,10 @@ A better mechanism to enable people without github accounts to suggest changes w
 | IMA | Independent Monitoring Authority | | Responsible for monitoring EU nationals post-Brexit |
 | IMB | Independent Monitoring Board | | Part of Prisons service |
 | IMS | Intelligent Management Service | | |
-| InfoX | | | |
 | Interventions Manager | A system that records prisons interventions services | http://www.i2n.com/case-and-evidence-management/interventions-manager | |
 | Interventions | This term in the prison system means courses that prisoners can attend that address behaviour such as drug misuse, domestic violence, etc | | |
 | InVision | A system used in prisons to detail staff. Also known as CSR (Corporate Staff Rostering) or My Detail | | |
 | IOD | Information Operations Division | | The Information Operations Division are responsible for:- Records Management - Managing the department's corporate record- FOI Act compliance - Ensuring FOI requests are dealt with in accordance with the Act.- Knowledge & Information Mgr - Building good Information Management and Knowledge Sharing- Information Assurance - Building Information Assurance against HMG mandated standards and developing a culture of good information handling- Data Protection Act Compliance - Ensuring personal data is handled lawfully / securely and that privacy is maintained |
-| IPT | | | |
 | IPV | Intimate Partner Violence | | |
 | IR | Intelligence Report | | A method of reporting intelligence information to the Security department via the Mercury system (generally done electronically, but paper versions are available to those without computer access) |
 | IRaT | Incident Response and Tuning | | Live product support at MoJ Digital. |
@@ -448,7 +440,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | MITM | Man In The Middle | | |
 | MLRA | Managed Libra Record Access application | | Web app used by LAA caseworkers to access court information on Libra |
 | MODs | Models for Operational Delivery | | |
-| MOG | | | |
 | MOiC | Managing Offenders in Custody | | |
 | MOJ | Ministry of Justice | https://www.gov.uk/designprinciples/styleguide | Use capitals - 'MOJ', not 'MoJ'.Departments don’t take the definite article, so 'MOJ', not 'the MOJ'. |
 | MOJO | Ministry of Justice OFFICIAL | https://github.com/ministryofjustice/staff | End User Compute service developed as a replacement for the QUANTUM end user compute service for HMPS staff. |
@@ -523,7 +514,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OJEU | Official Journal of the European Union | http://www.ojeu.eu/whatistheojeu.aspx | The Official Journal of the European Union (the OJ) is the official gazette of record for the European Union (EU). It is published every working day in all of the official languages of the member states.Most interestingly, it's used as a forum to publish procurement requests to all member states, and offers a (longer, slower) alternative to using GCloud. |
 | OLAP | Online Analytical Processing | | |
 | OLASS | Offenders' Learning and Skills Service | https://www.gov.uk/government/collections/olass-funding-rules-and-guidance | Integrated (prison based) offender education with mainstream academic and vocational provision. OLASS ceased delivery in 2018, and was replaced by something else (can't remember what though, but it essentially devolved a lot of it down to local purchases at governor level) |
-| OLCS | | | |
 | Oleeo | Website | https://www.oleeo.com/ | Recruitment service used during recruitment of Civil Servants, especially where vetting is required. |
 | OM | Offender Manager | | Probation |
 | OMiC Go | A digital solution providing basic prisoner information, auto allocation of prisoners to KW’s | | This may be an old name for the service |
@@ -624,7 +614,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PPU | Public Protection Unit | | |
 | PPUD | Public Protection Unit Database | | Licensing of Prisoners: Manages Recalls and Parole. Prison and Probation can access this system, that is primarily used by a large team (Circa 150 people) in Petty France.  This is being replaced but unclear with what and when |
 | PQ | Parliamentary Question | | |
-| PQQ | | | |
 | PQiP | Professional Qualification in Probation | http://www.traintobeaprobationofficer.com/about-the-training/ | |
 | Pre Con | Previous Conviction | | |
 | Precons | Pre-convictions | | These are found on the PNC. A PDF ‘Printout’ of precons for a particular offender is used by court probation officers |
@@ -649,13 +638,11 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSU | Personal Support Unit | https://en.wikipedia.org/wiki/Personal_Support_Unit | |
 | PTPH | Plea and Trial Preparation Hearing |  |  |
 | PTTP | Prison Technology Transformation Programme | | Laptops, mobile devices, applications, etc. for the whole of HMPPS. Replacement for Quantum. Programme commenced 2020. |
-| PTX | | | |
 | PUI | CCMS's Provider User Interface | | Provider facing part of CCMS. It's used by providers to submit, amend and follow up on legal aid applications for civil cases. |
 | PUM | Portal User Management | | Use by LAA Online support team to reset users passwords, unlock their accounts and assign CCLF roles to users. |
 | PVB | Prison Visits Bookings | http://www.gov.uk/prison-visits | |
 | PVO | Privileged Visiting Order | | Extra visiting credit for enhanced prisoners. One or two extra visits per month. |
 | QAT | Quality Assurance Testing | | |
-| QDS | | | |
 | QUANTUM | Prison Service IT System | | |
 | R&D | Research & Development | | |
 | R&R | Reward & Recognition | | |
@@ -792,7 +779,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ToR | Terms of reference | | Not to be confused with Glastonbury Tor. |
 | TORERA | Terrorist Offenders (Restriction of Early Release) Act 2020 | https://www.legislation.gov.uk/ukpga/2020/3/contents | |
 | TORERA2020 | Terrorist Offenders (Restriction of Early Release) Act 2020 | https://www.legislation.gov.uk/ukpga/2020/3/contents | |
-| TPM | | | |
 | TR | Transforming Rehabilitation | | |
 | Traka | Traka key systems only allow authorised users to access prison keys, ensuring they remain accounted for at all times. | https://www.traka.com/en/site/traka/applications/key-management/ | |
 | TSP | Thinking Skills Programme | | An intervention that deals with domestic violence issues |
@@ -818,7 +804,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | VIS | Victims Information Service | | |
 | ViSOR | Violent and Sex Offender Register | | ViSOR is a secure national database that can be accessed by the Police, Probation, and Prison services, allowing the three services to work on the same system to help reduce reoffending. This is being replaced by MAPPS (see above) |
 | VLE | Virtual Learning Environments | | |
-| VMT | | | |
 | VO | Visiting Order | | Visiting credit for prisoners in the form of a reference number. Usually 2 a month. |
 | VP | Vulnerable Prisoner | | |
 | VPS | Virtual Private Server | | |
@@ -835,7 +820,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | WP360G | Citrix Windows 7 environment used by NOMS staff | | WP360G is the Citrix environment used by NOMS staff to connect to a Windows 7 session from Quantum systems (which run Windows XP). |
 | WTG | Web Technology Group | http://www.webtechnologygroup.co.uk/ | Sub-contractor to Logica, they have access to the majority of our DNS zone files (incl. justice.gov.uk) and charge HYUGE amounts for small changes. |
 | WTP | Workplace Technology Programme | | WTP provides a generation of end-user-devices, in use c.2018-2020, by HMPPS office staff. Laptops and O365 & GSuite. They were previously using Quantum devices. WTP will be replaced by PTTP. |
-| XFP | | | |
 | XHIBIT | Crown Court system of record (IT system) | http://xhibit.justice.gov.uk/ | Stands for "Exchanging Hearing Information by Internet Technology". Note that this system is not used by Magistrates Courts |
 | XOD | Shift swap, shorthand used in some prisons | | May have also rendered this as EXOD or X-OD |
 | YCS | Youth Custody Service | | |
