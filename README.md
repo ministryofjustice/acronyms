@@ -76,7 +76,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | AWS | Amazon Web Services | http://aws.amazon.com/ | |
 | BAFO | Best And Final Offer | | |
 | BAU | Business As Usual | | |
-| BBA | Big Book of Acronyms | http://bigbookofacronyms.herokuapp.com/ | The thing you're reading right now. |
 | BBR | Building Better Relationships | | An intervention programme for adult male offenders who have been violent in heterosexual relationships |
 | BCS | Basic Custody Screening | | |
 | BCST | Basic Custody Screening Tool | | |
@@ -91,8 +90,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | BOP | Bring on Potential | | Education and Learning gained inside are recorded in BOP, which is available ‘through the gate’. Part of ILP (Individual Learning Plan) |
 | BOTUS | Breach of Top Up Supervision | | Info |
 | BPSS | Baseline Personnel Security Standard | https://www.gov.uk/government/publications/government-baseline-personnel-security-standard | The minimum level of clearance for someone working in the Civil Service. |
-| BPG | ??? | | A digital gateway service that links nDelius to CRC systems(Not sure if this is a typo of SPG?) |
-| BRB | Be Right Back | | |
 | BSR | Building Skills for Recovery | | Substance misuse programme |
 | BVLS | Book a video link service | | |
 | BWVC | Body Worn Video Camera | | |
