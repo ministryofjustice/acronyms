@@ -205,8 +205,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DCF | Digital Case File | | An attempt at creating end-to-end digital/modern justice system from Police -> Crown Prosecution Service -> Courts -> Prisons -> Probation |
 | DD | Deputy Director | | |
 | DDaT | Digital, Data and Technology | | |
-| DDC | deputy director of custody | | regional responsibilty for a group of prisons |
-| DDC | Deputy Director of Custody | | |
+| DDC | Deputy Director of Custody | | regional responsibilty for a group of prisons |
 | DDC | Digital Document Conversion | | |
 | DF | Delegated Functions | | Where legal providers, in limited circumstances, are authorized by LAA to assess eligibility for legal aid *themselves*, enabling them to proceed with work on the case, and notify the LAA in the following few days |
 | DFD | Data Flow Diagram | | |
