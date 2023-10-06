@@ -130,7 +130,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CDT | Central Drafting Team | | In referance to ministerial correspondence |
 | CEMLI | Configuration, Extension, Modification, Localisation and Integration | | |
 | CEO | Court enforcement officer | | |
-| CESG | Communications-Electronics Security Group | http://www.cesg.gov.uk | Part of GCHQ (spies and stuff) up in Cheltenham, they provide policy and assistance on digital security. Run IA and the impact levels etc. |
+| CESG | Communications-Electronics Security Group | http://www.cesg.gov.uk | Part of GCHQ that provides policy and assistance on digital security. |
 | CFE | Check Financial Eligibility | | A non-user facing service which calculates an applicant’s financial eligibility using data entered through Apply. This includes information on an applicant’s income and outgoings, and calculations include a range of different things in accordance with legal aid regulation based on what information is entered. |
 | CFO | Creating Future Opportunities | https://www.CreatingFutureOpportunities.gov.uk | The name of a group within HMPPS who manage external funding (such as that from the ESF). Offices located in Daresbury Warrington. |
 | CFT | Civil, Family and Tribunals | | The name of a directorate in HMCTS. |
@@ -409,7 +409,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LASPOA2012 | Legal Aid, Sentencing and Punishment of Offenders Act 2012 | | Essentially this act 'reformed' the scope of what legal aid was available for (decreased the scope). When talking to subject matter experts at the level of granting legal aid funding, you may hear reference to phrases such 'Schedule 1' of the act, which describes what cases are 'in scope' or 'out of scope' for legal aid. LASPO gave rise to the need for Exceptional Case Funding (ECF) to ensure that human rights were not breached by cutting the scope of legal aid|
 | LBs | Living Blocks | | |
 | LDD | Learning Difficulties and Disabilities | | |
-| LDO | Like, Duh!... Obviously! | | |
 | LDU | Local Delivery Unit | | Probation |
 | LED | Licence Expiry Date |  |  |
 | LEDS | Law Enforcement Data Service | | |
@@ -574,7 +573,6 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PCVL | Prison to court video link  | | |
 | PDB | Probation Delivery Board | | |
 | PDG | Prison Directors Group | | |
-| pdr | | | Matthew Coates mentioned this in Digital Services All-hands meeting. |
 | PDS | Public Defence Service | http://publicdefenderservice.org.uk/ | |
 | PDU | Probation Delivery Unit - previously known as LDU (Local Delivery Unit). | | |
 | PEA | Prisoner Earnings Act | | |
