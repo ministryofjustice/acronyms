@@ -549,8 +549,8 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PBR | Payment By Results | https://en.wikipedia.org/wiki/Payment_by_Results | A methodology whereby payments to suppliers are contingent on the independent verification of work they have performed (results) |
 | PCC | Police and Crime Commissioner | https://www.gov.uk/police-and-crime-commissioners | PCCs are elected to make sure that local police meet the needs of the community |
 | PCC(S)A2000 | Powers of Criminal Courts (Sentencing) Act 2000 | https://www.legislation.gov.uk/id/ukpga/2000/6 | | 
-| PCSC | Police, Crime, Sentencing and Courts Act 2022  | [https://www.legislation.gov.uk/id/ukpga/2000/6](https://www.legislation.gov.uk/ukpga/2022/32/contents/enacted) | | 
-| PCSCA2022 | Police, Crime, Sentencing and Courts Act 2022  | [https://www.legislation.gov.uk/id/ukpga/2000/6](https://www.legislation.gov.uk/ukpga/2022/32/contents/enacted) | | 
+| PCSC | Police, Crime, Sentencing and Courts Act 2022 | https://www.legislation.gov.uk/ukpga/2022/32/contents/enacted | | 
+| PCSCA2022 | Police, Crime, Sentencing and Courts Act 2022  | https://www.legislation.gov.uk/ukpga/2022/32/contents/enacted | | 
 | PCI | Payment Card Industry | https://www.pcisecuritystandards.org | An industry standards body responsible for regulation of handling debit/credit cards. |
 | PCOL | Possession Claim Online | https://www.possessionclaim.gov.uk/pcol/ | |
 | PCUAM | Provider Contracts and User Access Management | [JIRA Confluence](https://dsdmoj.atlassian.net/wiki/spaces/CPO/pages/1320288257/Applications) | |
