@@ -235,6 +235,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DSF | Digital Services Framework | http://digital.cabinetoffice.gov.uk/2013/07/09/digital-services-framework/ | A framework for procuring software development teams across government |
 | DSG | Digital Steering Group | | |
 | DSO | Defence & Security Organisation | https://www.gov.uk/government/organisations/uk-trade-and-investment-defence-and-security-organisation | |
+| DSO | Deskside Support Officer | | |
 | DSO | Digital Studio Operations | | Slack Channel - #ask-digital-studio-ops |
 | DSS | Data Security Standard | https://www.pcisecuritystandards.org | An accreditation for handling credit/debit cards managed by Payment Card Industry (PCI). |
 | DTO | Detention Training Order |  |  |
