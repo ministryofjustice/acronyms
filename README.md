@@ -351,7 +351,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | IM | Interventions Manager | | Specifically related to Delius |
 | IMA | Independent Monitoring Authority | | Responsible for monitoring EU nationals post-Brexit |
 | IMB | Independent Monitoring Board | | Part of Prisons service |
-| IMS | Intelligent Management Service | | |
+| IMS | Intelligence Management Service | | |
 | Interventions Manager | A system that records prisons interventions services | http://www.i2n.com/case-and-evidence-management/interventions-manager | |
 | Interventions | This term in the prison system means courses that prisoners can attend that address behaviour such as drug misuse, domestic violence, etc | | |
 | InVision | A system used in prisons to detail staff. Also known as CSR (Corporate Staff Rostering) or My Detail | | |
