@@ -177,7 +177,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CRS | Commissioned Rehabilitative Services | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959745/HMPPS_-_The_Target_Operating_Model_for_the_Future_of_Probation_Services_in_England___Wales_-__English__-_09-02-2021.pdf#page=79 | Rehabilitation and resettlement interventions  procured through the Dynamic Framework - the mechanism to procure rehabilitation and resettlement interventions in regional areas |
 | CSC | Close Supervision Centre | | Also known as Segregation unit, Seg, Solitary Confinement & SCU |
 | CSG | Corporate Services Group | | Part of MOJ led by director general Matthew Coats which includes Estates, ICT, HR, Shared Services and Digital Services. |
-| CSIP | Challenge Support Intervention Plan | | |
+| CSIP | Challenge Support Intervention Plan | | CSIP is a process used in prisons to support and manage prisoners who pose an increased risk of being violent. It is aimed at supporting those individuals who are considered to pose a raised risk of harming others through their behaviour in custody. |
 | CSL | Civil Service Learning | https://civilservicelearning.civilservice.gov.uk/ | Training courses for civil servants. |
 | CSR | Civil Service Resourcing | | The previous name for the Government Recruitment Service (GRS) |
 | CSR | Corporate Staff Rostering | | A system used in prisons to detail staff. Also known as My Detail or InVision WFM |
