@@ -660,6 +660,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | RDR | Resettlement Day Release | | Relates to RoTL (Release on Temporary Licence) documentation |
 | Resettlement | Also known as ‘Throughcare’ | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
 | RFS | Request for Service | | A procurement term used in NOMS (elsewhere?), specifically with HP to define new change requests and projects |
+| RSHO | Risk of Sexual Harm Order | | |
 | RIC | Remand in custody | | |
 | RIDs | Receipt, Inspection and Dispatch Units | Category A establishments must inspect, search and x-ray all goods | |
 | RIPA | Regulation of Investigatory Powers Act | | |
@@ -709,6 +710,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SEO | Search engine optimisation | https://www.gov.uk/guidance/content-design/data-and-analytics | Improving search rankings for your site - for instance by using popular search terms in titles or web copy. |
 | shall | denotes a requirement: a mandatory element | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | should | denotes a recommendation: an advisory element | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
+| SHPO | Sexual Harm Prevention Orders | | |
 | SID | Self Inflicted Death | | |
 | SIG | Service Integration Group | | |
 | SIM | Service Incident and Management | | |
@@ -743,6 +745,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SR | Service Release | | Used by nDelius application team to reference releases |
 | SRA | Security Risk Assessments | | |
 | SRO | Senior Responsible Owner | https://www.gov.uk/government/publications/the-role-of-the-senior-responsible-owner | In MOJ, the SRO is a single, senior, accountable figure, representing business needs and decisions. A key feature of good governance for all types of Programmes and Projects, there should be one on each project. |
+| SRO | Sexual Risk of Harm Order | | |
 | SSC | Shared Services Connected | | Now known as Shared Services Connected Limited (SSCL). |
 | SSCL | Shared Services Connected Limited | | Central government HR/finance management team, based in Newport, Wales. Responsible for management of Phoenix (HR system in a big Oracle DB). |
 | SSCS | Social security and child support | http://www.justice.gov.uk/tribunals/sscs | As in 'Social Security and Child Support Tribunal', which deals with appeals about benefits decisions. |
