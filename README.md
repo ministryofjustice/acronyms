@@ -540,6 +540,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | OWASP | Open Web Application Security Project | | |
 | OWB | Oracle Warehouse Builder | | An Oracle Extract Transform Load tool used for some LAA data warehouses |
 | P3T | Personnel Physical Procedural Technical | | The areas of information assurance. |
+| PA | (Care Leaver) Personal Advisor | | A Personal Advisor (PA) acts as a focal point to make sure that a young person leaving care/prison gets the right support as they move into adulthood |
 | PAC | Public Accounts Committee | | |
 | PACE | Police and Criminal Evidence Act 1984 | | |
 | PACE1984 | Police and Criminal Evidence Act 1984 | | |
