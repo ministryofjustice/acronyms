@@ -707,6 +707,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SCSBP | Senior Civil Service Business Partner | | Organisation or individual who assists during recruitment of a Senior Civil Servant. |
 | SDOPC | Special Sentence of Detention for Terrorist Offenders of Particular Concern | | |
 | SDS | Safe, Decent & Secure | | |
+| SDS | Secure Document Storage | [Wiki - Overview](https://dsdmoj.atlassian.net/wiki/spaces/SDS/overview) | A team in LAA whose mission is to provide LAA digital products and services with a secure document service as a common capability. |
 | SDS | Standard Determinate Sentence |  |  |
 | SDS+ | Standard Determinate Sentence Plus (2/3rds release | | |
 | SED | Sentence Expiry Date |  |  |
