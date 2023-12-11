@@ -23,7 +23,7 @@ If you have a GitHub account, you can [click here](https://github.com/ministryof
 A better mechanism to enable people without GitHub accounts to suggest changes will hopefully be provided in due course.
 
 | Abbreviation | Definition | URL | Info |
-|-|-|-|-|
+|---|---|---|---|
 | 1LS/2LS/3LS | 1st, 2nd or 3rd Line Support | | |
 | 102PF | 102 Petty France | https://en.wikipedia.org/wiki/102_Petty_France | London headquarters of the Ministry of Justice |
 | A&A | Advice and assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
