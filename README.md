@@ -18,9 +18,9 @@ The documentation is available under the terms of the [Open Government 3.0][ogl]
 
 ## Contributing
 
-If you have a github account, you can [click here](https://github.com/ministryofjustice/acronyms/edit/main/README.md) to edit this file.
+If you have a GitHub account, you can [click here](https://github.com/ministryofjustice/acronyms/edit/main/README.md) to edit this file.
 
-A better mechanism to enable people without github accounts to suggest changes will hopefully be provided in due course.
+A better mechanism to enable people without GitHub accounts to suggest changes will hopefully be provided in due course.
 
 | Abbreviation | Definition | URL | Info |
 |-|-|-|-|
@@ -156,7 +156,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | COPs | Contracted Out Prisons | | Privately run establishments |
 | COTS | Commercial off-the-shelf | | software; as opposed to custom build |
 | CP | Common Platform | | Service provided by HMCTS, used by LAA to find criminal hearing information |
-| CP | Cloud Platform | | The MoJ Cloud Platform is a modern hosting platform for digital services |
+| CP | Cloud Platform |https://github.com/ministryofjustice/cloud-platform | The MoJ Cloud Platform is a modern hosting platform for digital services |
 | CPA | Contract Package Area | | Refers to the geographic area a CRC is responsible for |
 | CPM | Child Protection Management | | |
 | CPO | Chief Probation Officer | | |
@@ -676,7 +676,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ROC | Remuneration of Central Fund Costs | | It is used by a team of LAA caseworkers called 'Criminal cases unit'. They are the ones who assess claim for payments for any type of crime work that sits outside the graduated fee scheme. It's like processing payments for exceptional cases but it doesn't come from the Exception Case Funding scheme (which is only applicable for Civil). Providers claim those payments by emailing an Excel form to the Criminal case unit (there are 8 different forms depending on what's being claimed) who then log the claim into ROC, assess the claim and then send it to SSCL who processes the payment. |
 | ROM | Rough Order of Magnitude | en.wikipedia.org/wiki/Cost_estimate | A crude estimate of the cost of a project. See also SWAG and PIDOOMA.Could also stand for 'read-only memory'. |
 | ROR | Resettlement Overnight Release | | Relates to RoTL (Release on Temporary Licence) documentation |
-| ROR | Restoration of Remission  | | Synonym for Restoration of Added Days Awarded (RADA)
+| ROR | Restoration of Remission  | | Synonym for Restoration of Added Days Awarded (RADA) |
 | ROSH | Risk of Serious Harm | | |
 | ROTL | Release on Temporary Licence | | |
 | RPD | Regional Probation Director | | |
@@ -773,7 +773,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | TBC | To Be Confirmed | | |
 | TC | Therapeutic Community | | |
 | TCEP | Transforming Compliance and Enforcement Project/Programme | | |
-| TCoP | Technology Code of Practice | https://www.gov.uk/guidance/the-technology-code-of-practice | The Technology Code of Practice is a cross-government agreed standard used for the [Cabinet Office spend control](https://www.gov.uk/government/collections/cabinet-office-controls) process and the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/). 
+| TCoP | Technology Code of Practice | https://www.gov.uk/guidance/the-technology-code-of-practice | The Technology Code of Practice is a cross-government agreed standard used for the [Cabinet Office spend control](https://www.gov.uk/government/collections/cabinet-office-controls) process and the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/). |
 | TDiP | Transforming Delivery in Prisons | | |
 | TED | Tenders Electronic Daily | http://ted.europa.eu/TED/main/HomePage.do | TED (Tenders Electronic Daily) is the online version of the 'Supplement to the Official Journal of the EU', dedicated to European public procurement.TED provides free access to business opportunities. It is updated 5 times a week with some 1,500 public procurement notices from the European Union, the European Economic Area and beyond. |
 | TERS | Tariff Early Removal Scheme |  |  |
