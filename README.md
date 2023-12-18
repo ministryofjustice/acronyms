@@ -475,7 +475,8 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | NFR | Non Functional Requirements | | |
 | NFR | Not For Release | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | | 
 | NGSS | Next Generation Shared Services | | |
-| NINO | National Insurance number | | |
+| NIAC | National Intelligence Assessment Centre | | |
+| NINo | National Insurance number | | |
 | NISE | Network Information Security Enhancement (Project) | | This aims to migrate intranet applications from the existing environment to a new one for reasons of security. |
 | NMO | Non-Molestation Order | https://www.gov.uk/injunction-domestic-violence/eligibility-non-molestation | |
 | NOC | Notice of Change | | (Privately Managed Prisons and CRC) |
@@ -650,6 +651,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | R&D | Research & Development | | |
 | R&R | Reward & Recognition | | |
 | RACI | Responsible, Accountable, Consulted, Informed | | "Accountable" is sometimes "Approved" |
+| RaCU | Risk and Capabilities Unit | | |
 | RAD | Rapid Application Development | | |
 | RADA | Restoration of Added Days Awarded | | |
 | RAG | Red, Amber, Green | | |
@@ -729,6 +731,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | SLM | Send legal mail to prisons | https://send-legal-mail.prison.service.justice.gov.uk/start | |
 | SME | Small or medium-sized enterprise | | |
 | SME | Subject matter expert | | In LAA it is an expert on a particular part of legal aid policy/delivery |
+| SMG | Substance Misuse Group | | |
 | SMOD | Subject Matter of Dispute | | If a legal dispute is about the ownership of an asset, then the value of that asset may be treated differently when calculating eligibility for legal aid for the dispute |
 | SMS (in the Hub) | Supplier Management System | | CWA (Contracted Work and Administration)'s Supplier (Legal Provider) data |
 | SMT | Senior Management Team | | |
