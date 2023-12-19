@@ -283,6 +283,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | Extradition | only registered solicitor can go | | |
 | F2050 | prisoner core record | | protected characteristics and case information |
 | FALA | Find a legal advisor | http://find-legal-advice.justice.gov.uk/ | Public-facing service that allows people to find a legal advisor who holds a contract with the LAA |
+| FaSO | Family and Significant Other | | |
 | FCA | Financial Conduct Authority | http://fca.org.uk | The Financial Conduct Authority (FCA) is a financial regulatory body in the United Kingdom, but operates independently of the United Kingdom government, and is financed by charging fees to members of the financial services industry. |
 | FCO | Foreign and Commonwealth Office | https://www.gov.uk/government/organisations/foreign-commonwealth-office | |
 | FCOS | Foreign and Commonwealth Office Services | https://www.fcoservices.gov.uk/ | A trading fund of the FCO. Providers of IL2 and IL3 web hosting |
