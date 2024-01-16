@@ -704,9 +704,10 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | SCC | Service Civilian Court | | |
 | SCC | Specialist Computer Centres | http://www.scc.com/ | Providers of web hosting |
 | SCH | Secure Children's Home | https://www.gov.uk/government/collections/statistics-secure-children-s-homes | A Secure Children's Home is a type of Youth Detention Accommodation and/or Secure Welfare Accommodation that accommodates children and young people between the ages of 10-17. |
-| SCU | Separation & Care Unit | | Also / previously known as the Segregation Unit (Seg) |
 | SCS | Senior Civil Servant | | Someone with a senior post in the Civil Service, for example a Director. |
 | SCSBP | Senior Civil Service Business Partner | | Organisation or individual who assists during recruitment of a Senior Civil Servant. |
+| SCT | Standards Coaching Team | | Specially-trained prison staff who support and train officers in some of the country’s most challenging jails. |
+| SCU | Separation & Care Unit | | Also / previously known as the Segregation Unit (Seg) |
 | SDOPC | Special Sentence of Detention for Terrorist Offenders of Particular Concern | | |
 | SDS | Safe, Decent & Secure | | |
 | SDS | Secure Document Storage | [Wiki - Overview](https://dsdmoj.atlassian.net/wiki/spaces/SDS/overview) | A team in LAA whose mission is to provide LAA digital products and services with a secure document service as a common capability. |
