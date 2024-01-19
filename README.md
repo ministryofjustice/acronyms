@@ -251,6 +251,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | EBS| E-Business Suite | | An Oracle Application for Business. Utilised by LAA for CCMS and CWA. | | |
 | ECS | Elastic Container Service | https://aws.amazon.com/ecs/ | |
 | ECL | End of Custody Licence | | A scheme within Prison Service between 2007 and 2010 to help alleviate pressures on prison population. Offenders who were eligible could be released early from custody 18 days before their release date |
+| ECSL | End of Custody Supervised Licence | | A scheme within Prison Service first implemented on 17 October 2023, operating in 21 prisons and is a temporary measure in response to the current pressure on some prisons. Its use is targeted, and it will only operate in certain areas for a limited period of time. |
 | EDR | Earliest Date of Release | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | EDRMS | Electronic Documents and Record Management System | | Also known as NorthgateLAA's externally hosted document/record management system, used by CCMS. |
 | EDS | Extended Determinate Sentence | | |
