@@ -41,7 +41,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ADI | Application Desktop Integrator | | Spreadsheet containing total disbursement of a prison, sent from business hub to regional accounts team.#moneyToPrisoners |
 | Admin 4 database | | | An Excel file that has Police Station & Mags Court schemes on |
 | ADP | Advocate Defence Payments | | One of our projects for the Legal Aid Agency. where advocates (solicitors) can submit invoices for work done for legal aid work.Used to be known as CBO/Crime Billing Online |
-| ADR | Alternative dispute resolution | | |
+| ADR | Alternative dispute resolution | |  A method of resolving disputes outside court - for example, via mediation |
 | ADR | Architectural design record | | |
 | AEP | Accelerated Encryption Processing | | |
 | AFK | Away From Keyboard | | |
@@ -57,6 +57,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AO | Accounting Officer | https://www.gov.uk/government/publications/accounting-officers-appointed-by-hm-treasury-july-2013 | Each organisation in central government must have an Accounting Officer, which is usually the senior official in the organisation.Accounting Officers must be able to assure Parliament and the public of high standards of probity in the management of public funds.The Treasury maintains policy oversight throughout. Departments and organisations should notify the Treasury Officer of Accounts, in advance, of any changes to Accounting Officer designations. There should be no gap between one Accounting Officer leaving and another being appointed. |
 | AO | Administrative Officer | | |
 | AOB | Any Other Business | | |
+| AOS | Acknowledgement of Service | | Document filed by a defendant confirming they've been served court documents. |  
 | AP | Approved Premises | | |
 | APD | Approved Parole Date | | |
 | API | Application Programming Interface | | |
@@ -100,7 +101,9 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CAIT | Child Arrangements Information Tool | | Information resources to help separating couples make arrangements (custody, etc.) for their children. |
 | can | denotes both capability and possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | CARAT | Counselling, Assessment, Referral, Advice, Throughcare | | CARAT workers are intermediaries between drug treatments providers and the prisoners themselves |
+| CARM | Civil Automatic Referral to Mediation | | A process automatically referring some Civil cases to mediation. |  
 | CAS | Case Allocation System | | Used after sentencing to assign offender as NPS or CRC |
+| CaseMan | Civil Case Management legacy system | | The case management system formerly used by HMCTS services |  
 | CATS | Case Assessment and Tracking System | https://www.CreatingFutureOpportunities.gov.uk | .NET application written and used by CFO at Daresbury Park in Warrington for managing externally funded (historically ESF) programmes |
 | CBO | crime billing online | | |
 | CCBC | County Court Bulk Centre | http://www.justice.gov.uk/courts/northampton-bulk-centre/ccbc | Set up by HM Courts & Tribunals Service specifically to deal with straightforward debt collection work which, in the main, is undefended. In Northampton. |
@@ -163,8 +166,10 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CPO | Chief Probation Officer | | |
 | CPO | Community Probation Officer | | |
 | CPP | common platform project | | |
+| CPR | Civil Procedure Rule | | A rule covering how Civil litigation proceeds in the courts. |  
 | CPR | Civil Procedure Rules | http://www.justice.gov.uk/courts/procedure-rules/civil | |
 | CPR | Criminal Procedure Rules | http://www.justice.gov.uk/courts/procedure-rules/criminal | |
+| CPRC | Civil Procedure Rule Committee | Committee deciding the rules that govern the processes of Civil cases. | |
 | CPS | Crown Prosecution Service | http://www.cps.gov.uk/ | The organisation that is responsible for providing the prosecution in criminal cases in England and Wales. |
 | CR | Change Request | | |
 | CRC | Community Rehabilitation Company | | Organisations that will deliver probation services from 2014, replacing probation trusts. |
@@ -186,6 +191,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CTC | Counter Terrorism Clearance | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#counter-terrorist-check-ctclevel-1b | a security clearance level, as seen in the Tech Scorecard : "Anyone with administrative or operational access to production systems... has CTC-level clearance" |
 | CTS | Core Technology Services team | | |
 | CTSA2021 | Counter Terrorism and Sentencing Act 2021 | https://www.legislation.gov.uk/ukpga/2021/11/contents/enacted | |
+| CUI | Citizen UI | | Frontend design pattern used for public-facing transactional services at HMCTS |
 | Custody Assistant | subcontracted staff in custody | | |
 | Custody Officer | police staff | | |
 | CVCC | Court Video Conference Centre | | |
@@ -208,6 +214,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DDaT | Digital, Data and Technology | | |
 | DDC | Deputy Director of Custody | | regional responsibilty for a group of prisons |
 | DDC | Digital Document Conversion | | |
+| DDJ | Deputy District Judge | | A judge who sits for between 15 to 50 days a year in the County Courts |
 | DF | Delegated Functions | | Where legal providers, in limited circumstances, are authorized by LAA to assess eligibility for legal aid *themselves*, enabling them to proceed with work on the case, and notify the LAA in the following few days |
 | DFD | Data Flow Diagram | | |
 | DIB | Divisional Implementation Board | | |
@@ -216,6 +223,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DISC | Development, Innovation and Support Contracts | | Shared services framework - Atos (infrastructure), CGI (formerly LogicaCMG - applications) supporting Dom1.http://www.publictechnology.net/sector/case-study-ministry-justice-disc-transition-team-successful-transition-it-services-six-existi |
 | DISO | Digital Infrastructure Security Operations | | |
 | DIWG | Data Integrity Working Group | | Looking at data and/or recording issues in Probation |
+| DJ | District Judge | | Judges dealing with most cases in the County Courts |
 | DLP | Data Loss Prevention | | |
 | DOM1/Dom1 | Domain 1 | | End-user compute and networking solution |
 | DPA | Data Protection Act | | |
@@ -224,8 +232,10 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
 | DPR | Digital Prison Reporting | | |
 | DPS | Dynamic Purchasing System | | Not unique to MoJ - it's a way that Governors can purchase additional education or work provision on site, outside of the standard education contracts. Some stakeholders may be more familiar with this definition of DPS rather than 'Digital Prison Services' |
+| DQ | Directions Questionnaire | | Form sent to claimants and defendants in small claim cases so the judge can give instructions |
 | DR | Defence Request | | Formally DSDS. |
 | DR | Disaster Recovery | | |
+| DRA | Digital Reference Architecture | | The enterprise architecture view of HMCTS |
 | DRY | Don't Repeat Yourself | | Often "DRY-ed". Removing duplication in code. |
 | DS | Digital Services | | MOJ Digital Services (formally DSD) |
 | DSA | Data Sharing Agreement | | |
@@ -265,6 +275,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | EMED | Electronic Monitoring Eligibility Date | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
 | EPICK | Event, Problem, Incident, Continual Service Improvement and Knowledge Team | | |
+| EPDQ | Electronic Post Data Quickly transaction | | Electronic payments service used within some HMCTS services |
 | EQUIP | Excellence and Quality in Probation Processes | | |
 | ERP | Enterprise Resource Planning | | |
 | ERS | Early Removal Scheme | | |
@@ -283,6 +294,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | EXHIBIT | See XHIBIT | | |
 | EXISS | Exchange Integration Services Stream | | |
 | Extradition | only registered solicitor can go | | |
+| ExUI | Expert UI | | Common component providing a user interface to HMCTS staff and solicitors |
 | F2050 | prisoner core record | | protected characteristics and case information |
 | FALA | Find a legal advisor | http://find-legal-advice.justice.gov.uk/ | Public-facing service that allows people to find a legal advisor who holds a contract with the LAA |
 | FaSO | Family and Significant Other | | |
@@ -317,6 +329,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | HDC | Home Detention Curfew | | |
 | HDCAD | Home Detention Curfew Approved Date | | |
 | HDCED | Home Detention Curfew Eligibility Date | | |
+| HMC | Hearing Management Component | | Common component facilitating the management of hearings at HMCTS |
 | HMCS | Her Majesty's Courts Service | | See HMCTS |
 | HMCTS | Her Majesty's Courts and Tribunals Service | | They prefer ampersand (&) to avoid CATS acronymmiaowPreviously known as Her Majesty's Courts Service before it merged with Tribunals to become HMCTS |
 | HMG | Her Majesty's Government | | |
@@ -396,12 +409,14 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | KSF | Keep Separate From | | Used on a PER (Person Escort Record) |
 | KW | Key Worker | | |
 | L&D | Learning & Development | | |
+| LA | Legal Advisor | | |
 | LAA | Legal Aid Agency | | The new LSC |
 | LAALAA | Legal Aid Agency Legal Adviser API | https://github.com/ministryofjustice/laa-legal-adviser-api | API for finding Legal Providers for specific categories of law close to a physical location (postcode or address). |
 | LAPG | Legal Aid Practitioners Group | https://lapg.co.uk/ | A membership organization representing legal aid providers/practitioners - lawyers, barristers etc. MOJ has a history of engaging with them on legal aid policy and practicalities. |
 | LASPO | Legal Aid, Sentencing and Punishment of Offenders Act 2012 | | Essentially this act 'reformed' the scope of what legal aid was available for (decreased the scope). When talking to subject matter experts at the level of granting legal aid funding, you may hear reference to phrases such 'Schedule 1' of the act, which describes what cases are 'in scope' or 'out of scope' for legal aid. LASPO gave rise to the need for Exceptional Case Funding (ECF) to ensure that human rights were not breached by cutting the scope of legal aid|
 | LASPOA2012 | Legal Aid, Sentencing and Punishment of Offenders Act 2012 | | Essentially this act 'reformed' the scope of what legal aid was available for (decreased the scope). When talking to subject matter experts at the level of granting legal aid funding, you may hear reference to phrases such 'Schedule 1' of the act, which describes what cases are 'in scope' or 'out of scope' for legal aid. LASPO gave rise to the need for Exceptional Case Funding (ECF) to ensure that human rights were not breached by cutting the scope of legal aid|
 | LBs | Living Blocks | | |
+| LCJ | Lord Chief Justice | | Head of the judiciary in England and Wales |
 | LDD | Learning Difficulties and Disabilities | | |
 | LDU | Local Delivery Unit | | Probation |
 | LED | Licence Expiry Date | | |
@@ -410,6 +425,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | LGFS | Litigators Graduated Fees Scheme	 | | Fee scheme available to Solicitors who work on Crown Court cases |
 | LIBRA | | | Case management system used by Magistrate Courts only to record case details, hearing dates, applicant details etc. Note that this system is not used by Crown Courts. |
 | LIDS | Local Inmate Data System | | Prison-wide computer system to log details of all prisoners and their sentences. Has been replaced by NOMIS. |
+| LiP | Litigant in Person | | An individual representing themselves at court without legal representation |
 | LiPs | Litigants in Persons | | People at court without a professional representative. |
 | Liquid Logic | | | Children’s Services system (assume at one or more local authority) |
 | LIT | Local Implementation Team | | Seems to be a common acronym for national->regional->local projects with CPS/Police/CJS. |
@@ -509,6 +525,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | OBN | Overseas British Network | | AKA OBNI |
 | OBP | Offender Behaviour Programme | https://www.justice.gov.uk/offenders/before-after-release/obp | |
 | OBR | Office for Budget Responsibility | http://budgetresponsibility.independent.gov.uk/ | "It is the duty of the Office to examine and report on the sustainability of the public finances" |
+| OCMC | Online Civil Money Claims | Online platform enabling case management - including tracking case progress and exchanging information |
 | ODI | Open Data Institute | http://www.theodi.org/ | |
 | OEM | Oracle Enterprise Manager | | Oracle monitoring software, used in CCMS |
 | offloc | Offender Location report | http://bigbookofacronyms.herokuapp.com/acronyms?search=CDE | The old name for the Common Data Extract. |
@@ -554,6 +571,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | PAG (Old Name - See PPAS) | Planning and Analysis Group | | Now known as PPAS (Prison & Probation Analytical Services) |
 | PAMS | Prisoner Activity Management System | http://www.justice.gov.uk/downloads/about/hmipris/glossary.pdf | Not much more info on this at the moment - I understand that it is how they manage prisoner activity, work schedules, learning and visit schedules. |
 | Parom 1 | Generic Parole Assessment Report | | |
+| PBA | Payment By Account | | Payment system streamlining payment by solicitors and other legal professionals across HMCTS services |
 | PBR | Payment By Results | https://en.wikipedia.org/wiki/Payment_by_Results | A methodology whereby payments to suppliers are contingent on the independent verification of work they have performed (results) |
 | PCC | Police and Crime Commissioner | https://www.gov.uk/police-and-crime-commissioners | PCCs are elected to make sure that local police meet the needs of the community |
 | PCC(S)A2000 | Powers of Criminal Courts (Sentencing) Act 2000 | https://www.legislation.gov.uk/id/ukpga/2000/6 | | 
@@ -616,6 +634,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | PPAS | Prison & Probation Analytical Services | | Previously known as PAG (Performance & Analysis Group) |
 | PPCS | Public Protection Casework Section | | |
 | PPD | Project & Program Delivery | | |
+| PPI | Payment Protection Insurance | | Insurance product that provided insurance to borrowers, if unable to repay for unforeseen reasons |
 | PPM | Project & Program Management | | |
 | PPO | Prisons and Probation Ombudsman | http://www.ppo.gov.uk/ | |
 | PPRC | Persons posing a risk to children | | |
@@ -707,10 +726,12 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | SCC | Service Civilian Court | | |
 | SCC | Specialist Computer Centres | http://www.scc.com/ | Providers of web hosting |
 | SCH | Secure Children's Home | https://www.gov.uk/government/collections/statistics-secure-children-s-homes | A Secure Children's Home is a type of Youth Detention Accommodation and/or Secure Welfare Accommodation that accommodates children and young people between the ages of 10-17. |
+| SCMS | Small Claims Mediation Service | | Mediation service for people involved in small claim disputes. Applies to cases worth less than £10,000. |
 | SCS | Senior Civil Servant | | Someone with a senior post in the Civil Service, for example a Director. |
 | SCSBP | Senior Civil Service Business Partner | | Organisation or individual who assists during recruitment of a Senior Civil Servant. |
 | SCT | Standards Coaching Team | | Specially-trained prison staff who support and train officers in some of the country’s most challenging jails. |
 | SCU | Separation & Care Unit | | Also / previously known as the Segregation Unit (Seg) |
+| SDO | Standard Directions Order | | Instructions from the court, issued to parties on how they should prepare for a legal case |
 | SDOPC | Special Sentence of Detention for Terrorist Offenders of Particular Concern | | |
 | SDS | Safe, Decent & Secure | | |
 | SDS | Secure Document Storage | [Wiki - Overview](https://dsdmoj.atlassian.net/wiki/spaces/SDS/overview) | A team in LAA whose mission is to provide LAA digital products and services with a secure document service as a common capability. |
