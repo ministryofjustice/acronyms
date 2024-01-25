@@ -153,6 +153,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | Cohort, ‘Specialised Cohort’ | Prisoners who are higher risk and are assigned to Key Worker and a Prison Offender Manager (POM) | | |
 | Cohort, ‘Core Cohort’ | Prisoners who are lower risk and assigned to a Key Worker and CRC | | |
 | COM | Community Offender Managers | | A role within the National Probation Service |
+| COM-B | Capability, Opportunity, and Motivation Behaviour | | |
 | COPs | Contracted Out Prisons | | Privately run establishments |
 | COTS | Commercial off-the-shelf | | software; as opposed to custom build |
 | CP | Common Platform | | Service provided by HMCTS, used by LAA to find criminal hearing information |
