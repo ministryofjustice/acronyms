@@ -36,6 +36,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ACCT | Assessment, care in custody and teamwork self-harm monitoring documentation | | |
 | ACL | Access Control List | | |
 | ACPO | Association of Chief Police Officers | | |
+| ACO | Assistant Chief Officer (Probation) | https://www.workwithoffenders.co.uk/roles/assistant-chief-officer | An Assistant Chief Officer (ACO) is a strategic manager responsible for the delivery of Offender Management within Probation.
 | AD | Active Directory | | |
 | ADA | Added Days Awarded | | Days that are added to an offenders release date following an adjudication |
 | ADI | Application Desktop Integrator | | Spreadsheet containing total disbursement of a prison, sent from business hub to regional accounts team.#moneyToPrisoners |
