@@ -495,8 +495,9 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | NFR | Non Functional Requirements | | |
 | NFR | Not For Release | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | | 
 | NGSS | Next Generation Shared Services | | |
+| NIAC | National Intelligence Assessment Centre | | |
 | NIMU | National Incident Management Unit | | |
-| NINO | National Insurance number | | |
+| NINo | National Insurance number | | |
 | NISE | Network Information Security Enhancement (Project) | | This aims to migrate intranet applications from the existing environment to a new one for reasons of security. |
 | NMO | Non-Molestation Order | https://www.gov.uk/injunction-domestic-violence/eligibility-non-molestation | |
 | NOC | Notice of Change | | (Privately Managed Prisons and CRC) |
