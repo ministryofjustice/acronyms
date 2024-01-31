@@ -75,6 +75,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ATOS | Multinational Company - often involved in consultancy or healthcare | https://en.wikipedia.org/wiki/Atos | See URL |
 | AWS | Amazon Web Services | http://aws.amazon.com/ | |
 | BAFO | Best And Final Offer | | |
+| BASS | Bail, Accommodation and Support Service | | Old name for what is now known as CAS-2 |
 | BAU | Business As Usual | | |
 | BBR | Building Better Relationships | | An intervention programme for adult male offenders who have been violent in heterosexual relationships |
 | BCS | Basic Custody Screening | | |
@@ -103,6 +104,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CARAT | Counselling, Assessment, Referral, Advice, Throughcare | | CARAT workers are intermediaries between drug treatments providers and the prisoners themselves |
 | CARM | Civil Automatic Referral to Mediation | | A process automatically referring some Civil cases to mediation. |  
 | CAS | Case Allocation System | | Used after sentencing to assign offender as NPS or CRC |
+| CAS-2 | The Community Accommodation Service, Tier 2 | https://data.justice.gov.uk/contracts/bass | a contracted service which provides short-term accommodation for those who have no suitable accommodation and may otherwise be held in custody. The service is available for those on Bail, Home Detention Curfew, released from a custodial sentence of less than four years and of no fixed abode, on licence and at risk of recall due to loss of accommodation or on an Intensive Community Order with a residential requirement. |
 | CaseMan | Civil Case Management legacy system | | The case management system formerly used by HMCTS services |  
 | CATS | Case Assessment and Tracking System | https://www.CreatingFutureOpportunities.gov.uk | .NET application written and used by CFO at Daresbury Park in Warrington for managing externally funded (historically ESF) programmes |
 | CBO | crime billing online | | |
