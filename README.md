@@ -332,6 +332,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | HDC | Home Detention Curfew | | |
 | HDCAD | Home Detention Curfew Approved Date | | |
 | HDCED | Home Detention Curfew Eligibility Date | | |
+| HLT | HMPPS Leadership Team | | |
 | HMC | Hearing Management Component | | Common component facilitating the management of hearings at HMCTS |
 | HMCS | Her Majesty's Courts Service | | See HMCTS |
 | HMCTS | Her Majesty's Courts and Tribunals Service | | They prefer ampersand (&) to avoid CATS acronymmiaowPreviously known as Her Majesty's Courts Service before it merged with Tribunals to become HMCTS |
