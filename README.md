@@ -277,6 +277,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | EMAP | Email a Prisoner | | |
 | EMED | Electronic Monitoring Eligibility Date | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1083190/sc-annex-a-operational-guidance.pdf | |
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
+| EOI | Expression of Interest | | Recruitment method that can sometimes be utilised. Ie. filling short term vacancies with internal staff |
 | EPICK | Event, Problem, Incident, Continual Service Improvement and Knowledge Team | | |
 | EPDQ | Electronic Post Data Quickly transaction | | Electronic payments service used within some HMCTS services |
 | EQUIP | Excellence and Quality in Probation Processes | | |
@@ -819,6 +820,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ToR | Terms of reference | | Not to be confused with Glastonbury Tor. |
 | TORERA | Terrorist Offenders (Restriction of Early Release) Act 2020 | https://www.legislation.gov.uk/ukpga/2020/3/contents | |
 | TORERA2020 | Terrorist Offenders (Restriction of Early Release) Act 2020 | https://www.legislation.gov.uk/ukpga/2020/3/contents | |
+| TP | Temporary Promotion | | Term usually used in relation to short term career promotions and covering the role of a higher band member of staff |
 | TR | Transforming Rehabilitation | | |
 | Traka | Traka key systems only allow authorised users to access prison keys, ensuring they remain accounted for at all times. | https://www.traka.com/en/site/traka/applications/key-management/ | |
 | TSP | Thinking Skills Programme | | An intervention that deals with domestic violence issues |
