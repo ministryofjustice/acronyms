@@ -34,7 +34,6 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AA | Advocacy assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
 | AAC | Administrative Appeals Court | | |
 | Acas | Advisory, Conciliation and Arbitration Service | | (Note: only an initial cap.) Aims to prevent and resolve employment disputes prior to employment tribunals. |
-| ACCT | Assessment, care in custody and teamwork self-harm monitoring documentation | | |
 | ACCT | Assessment, Care in Custody and Teamwork  | | Self-Harm system - replacement for 2052Sh Self-harm system. |
 | ACL | Access Control List | | |
 | ACOs | Assistant Chief (Probation) Officers | | |
@@ -73,11 +72,11 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | APVU | Assisted Prison Visits Unit | | A call centre for prison visits for 8 prisons in the west midlands. |
 | ARD | Automatic Release Date | | |
 | ARMS | Active Risk Management System | | |
-| ART | Aggression Replacement Training | | Violence Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
-| ARV | Alcohol Related Violence | | Substance Misuse Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| ART | Aggression Replacement Training | | Violence Programme (no longer running). |
+| ARV | Alcohol Related Violence | | Substance Misuse Programme (no longer running). |
 | ASBO | Anti-Social Behaviour Order | | A court order which can be obtained by local authorities in order to restrict the behaviour of a person likely to cause harm or distress to the public. |
 | ASPIRE | Assess â€“ Sentence Plan â€“ Implement â€“ Review â€“ Evaluate | | This is the core framework of offender management / sentence planning |
-| ASRO | Addressing Substance Related Offending | | Substance Misuse Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| ASRO | Addressing Substance Related Offending | | Substance Misuse Programme (no longer running). |
 | Asset | Youth Justice Board assessment documentation for young people | | |
 | AT | Assisted Technology | | |
 | ATIA | Architecture, Technology and Information Assurance | | A former unit inside MOJ ICT |
@@ -99,11 +98,11 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | BI | Business Intelligence | | |
 | BIA | Business Impact Assessment | | An assessment template/matrix used by a business owner to determine impact levels of data / systems that they own. Questions like "how many people will be affected if your data is unavailable for a day". |
 | BIAR | Business Intelligence ARchive | | 'Basically a proprietary zip file used to move Business Intelligence content from one BusinessObjects Enterprise Server to another' |
-| BIC | Belief in Change | | General Offending Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| BIC | Belief in Change | | General Offending Programme (no longer runningG). |
 | BIL# | Business Impact Level [number] | | Often pronounced "aisle two", "aisle zero" etc.Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong.specific information about prisoners will have business impact 3 if made publicAll revised with the new Official criteria |
 | BIP | Business Intelligence Platform | | |
 | BIS | Department for Business Innovation & Skills | | |
-| BLB / ABLB | Better Lives Booster / Adapted Better Lives Booster | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| BLB / ABLB | Better Lives Booster / Adapted Better Lives Booster | | Sex Offender Treatment Programme (no longer running). |
 | BNM | Becoming New Me | | General offending programme â€“ thinking skills programme for those with learning disability |
 | BOP | Bring on Potential | | Education and Learning gained inside are recorded in BOP, which is available â€˜through the gateâ€™. Part of ILP (Individual Learning Plan) |
 | BOTUS | Breach of Top Up Supervision | | Info |
@@ -118,11 +117,11 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CAFCASS | Children and Family Court Advisory and Support Service | | |
 | CAIT | Child Abuse Investigation Team | | |
 | CAIT | Child Arrangements Information Tool | | Information resources to help separating couples make arrangements (custody, etc.) for their children. |
-| CALM | Controlling Anger and Learning to Manage it | | Violence Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| CALM | Controlling Anger and Learning to Manage it | | Violence Programme (no longer running). |
 | can | denotes both capability and possibility | | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | CARAT | Counselling, Assessment, Referral, Advice, Throughcare | | CARAT workers are intermediaries between drug treatments providers and the prisoners themselves |
 | CARATs | Counselling, Assessment, Rehabilitation, Advice & Through care  | | |
-| CARE | Choices, Actions, Relationships, Emotions | | Violence Programme - see 'Glossary of programmes' tab |
+| CARE | Choices, Actions, Relationships, Emotions | | Violence Programme |
 | CARM | Civil Automatic Referral to Mediation | | A process automatically referring some Civil cases to mediation. |
 | CAS | Case Allocation System | | Used after sentencing to assign offender as NPS or CRC |
 | CAS-2 | The Community Accommodation Service, Tier 2 | | A contracted service which provides short-term accommodation for those who have no suitable accommodation and may otherwise be held in custody. |
@@ -157,7 +156,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CDO | Chief Digital Officer | | |
 | CDPs | Crime & Drugs Partnership | | |
 | CDT | Central Drafting Team | | In referance to ministerial correspondence |
-| CDVP | Community Domestic Violence Programme | | Domestic Violence Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| CDVP | Community Domestic Violence Programme | | Domestic Violence Programme (no longer running). |
 | CEMLI | Configuration, Extension, Modification, Localisation and Integration | | |
 | CEO | Court enforcement officer | | |
 | CESG | Communications-Electronics Security Group | | Part of GCHQ that provides policy and assistance on digital security. |
@@ -167,7 +166,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CFT | Civil, Family and Tribunals | | The name of a directorate in HMCTS. |
 | CGI | Conseillers en Gestion et Informatique | | CGI stands for Conseillers en Gestion et Informatique in French, which translates to 'Information Systems and Management Consultants', in English. However, the official English meaning is 'Consultants to Government and Industry'.The company was formerly known as Logica, and designed the current (as of 19 April 2013) infrastructure for Money Claim Online and Possession Claim Online.Can also stand for 'computer-generated imagery'. |
 | CHAPS | Correspondence Handling And Processing System | | |
-| Chromis | Chromis | | Violence Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| Chromis | Chromis | | Violence Programme (no longer running). |
 | CHS | Case Handling System | | Set of applications used by the Civil Legal Aid Operator Contact Centre and Specialist Legal Providers to manage Civil Legal Aid cases opened by members of the public in England and Wales. |
 | CICA | Criminal Injuries Compensation Authority | | "We deal with compensation claims from people who have been physically or mentally injured because they were the victim of a violent crime in England, Scotland or Wales." |
 | CIPD | Chartered Institute of Personnel & Development | | |
@@ -200,12 +199,12 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | COM | Court Operations Manager | | |
 | COM-B | Capability, Opportunity, and Motivation Behaviour | | |
 | COPs | Contracted Out Prisons | | Privately run establishments |
-| Core SOTP | Core Sex Offender Treatment Programme | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| Core SOTP | Core Sex Offender Treatment Programme | | Sex Offender Treatment Programme (no longer running). |
 | COTS | Commercial off-the-shelf | | software; as opposed to custom build |
-| COVAID | Control of Violence for Angry Impulsive Drinkers | | Substance Misuse Programme - see 'Glossary of programmes' tab |
+| COVAID | Control of Violence for Angry Impulsive Drinkers | | Substance Misuse Programme |
 | CP | Common Platform | | Service provided by HMCTS, used by LAA to find criminal hearing information |
 | CP | Cloud Platform | | The MoJ Cloud Platform is a modern hosting platform for digital services |
-| CP | Core Programme | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| CP | Core Programme | | Sex Offender Treatment Programme (no longer running). |
 | CPA | Contract Package Area | | Refers to the geographic area a CRC is responsible for |
 | CPIG | Crown Prosecution Inspectorate Group | | Fire Safety |
 | CPM | Child Protection Management | | |
@@ -237,14 +236,14 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CRS | Commissioned Rehabilitative Services | | Rehabilitation and resettlement interventions procured through the Dynamic Framework - the mechanism to procure rehabilitation and resettlement interventions in regional areas |
 | CS | Case Supervisor | | |
 | CSAAP | Correctional Services Accreditation and Advice Panel | | |
-| CSB | Cognitive Skills Booster | | General Offending Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| CSB | Cognitive Skills Booster | | General Offending Programme (no longer running). |
 | CSC | Close Supervision Centre | | Also known as Segregation unit, Seg, Solitary Confinement & SCU |
 | CSC | Central Services Centre | | |
-| CSCP | Cognitive Self Change Programme | | Violence Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| CSCP | Cognitive Self Change Programme | | Violence Programme (no longer running). |
 | CSG | Corporate Services Group | | Part of MOJ led by director general Matthew Coats which includes Estates, ICT, HR, Shared Services and Digital Services. |
 | CSIP | Challenge Support Intervention Plan | | CSIP is a process used in prisons to support and manage prisoners who pose an increased risk of being violent. It is aimed at supporting those individuals who are considered to pose a raised risk of harming others through their behaviour in custody. |
 | CSL | Civil Service Learning | | Training courses for civil servants. |
-| CSOGP | Community Sex Offender Group Programme | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| CSOGP | Community Sex Offender Group Programme | | Sex Offender Treatment Programme (no longer running). |
 | CSR | Civil Service Resourcing | | The previous name for the Government Recruitment Service (GRS) |
 | CSR | Corporate Staff Rostering | | A system used in prisons to detail staff. Also known as My Detail or InVision WFM |
 | CSRA | Cell Share Risk Assessment | | This is a priority assessment done when prisoners are received at prison, to ensure risks are reduced to them and others on their first night and beyond |
@@ -290,10 +289,10 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DHSC | Department of Health and Social Care | | The Department of Health and Social Care leads, shapes and funds health and social care in England. |
 | DIB | Divisional Implementation Board | | |
 | DIC | death in custody | | |
-| DID | Drink Impaired Drivers | | Substance Misuse Programme - see 'Glossary of programmes' tab |
+| DID | Drink Impaired Drivers | | Substance Misuse Programme |
 | DIP | Drug Intervention Programme | | A high-profile strategy for tackling drugs and reducing crime. |
 | Dip sampling | A quality control process used by police forces in which a representative proportion of files are selected and inspected | | |
-| DISC | Development, Innovation and Support Contracts | | Shared services framework - Atos (infrastructure), CGI (formerly LogicaCMG - applications) supporting Dom1.http://www.publictechnology.net/sector/case-study-ministry-justice-disc-transition-team-successful-transition-it-services-six-existi |
+| DISC | Development, Innovation and Support Contracts | | Shared services framework - Atos (infrastructure), CGI (formerly LogicaCMG - applications) supporting Dom1 |
 | DISO | Digital Infrastructure Security Operations | | |
 | DIWG | Data Integrity Working Group | | Looking at data and/or recording issues in Probation |
 | DJ | District Judge | | Judges dealing with most cases in the County Courts |
@@ -326,10 +325,10 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DSO | Deskside Support Officer | | |
 | DSO | Digital Studio Operations | | Slack Channel - #ask-digital-studio-ops |
 | DSOs | Departmental Strategic Objectives | | |
-| DSRG | Data Standards Reporting Group | | Groups exist for Prison and Probation. Minutes of meetings and terms of reference are available on the Hub - https://pmu.hub.uk.com/document/563.aspx |
+| DSRG | Data Standards Reporting Group | | |
 | DSS | Data Security Standard | | An accreditation for handling credit/debit cards managed by Payment Card Industry (PCI). |
 | DST | Designated Search Team | | |
-| DTCs | Democratic Therapeutic Communities | | General Offending Programme - see 'Glossary of programmes' tab |
+| DTCs | Democratic Therapeutic Communities | | General Offending Programme |
 | DTO | Detention Training Order | | |
 | DTRG | Digital Technology Review Group | | |
 | DTTO | Drug Treatment and Testing Orders | | |
@@ -363,7 +362,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | EMS | Electronic Monitoring Services | | The organisation responsible for the delivery of Electronic Monitoring. |
 | EMT | Equalities Monitoring Tool | | |
 | EOI | Expression of Interest | | Recruitment method that can sometimes be utilised. Ie. filling short term vacancies with internal staff |
-| EP | Extended Programme | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| EP | Extended Programme | | Sex Offender Treatment Programme (no longer running). |
 | EPDQ | Electronic Post Data Quickly transaction | | Electronic payments service used within some HMCTS services |
 | EPICK | Event, Problem, Incident, Continual Service Improvement and Knowledge Team | | |
 | EQUIP | Excellence and Quality in Probation Processes | | |
@@ -377,7 +376,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ESL | Effective Sentence Length | | Representation of sentence length as a single period term |
 | ESOL | English for Speakers of Other Languages | | |
 | ESPP | Extended Sentence for Public Protection | | |
-| Estyn | the office of Her Majesty's Inspectorate for Education and Training in Wales | | |
+| Estyn | the office of His Majesty's Inspectorate for Education and Training in Wales | | |
 | ET | Employment Tribunal | | Also stands for 'E.T. the Extra-Terrestrial', a 1982 sci-fi movie about a loveable alien. |
 | ETD | Early Transfer Date for Detention and Training Orders (DTO) | | |
 | ETE | Education, Training & Employment | | |
@@ -406,9 +405,9 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | FMI | Five Minute Intervention | | Prisons |
 | FNC | First Night Centre | | Prisons |
 | FNP | Foreign National Prison or Foreign National Prisoner | | Prisons |
-| FOCUS | FOCUS | | Substance Misuse Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| FOCUS | FOCUS | | Substance Misuse Programme (no longer running). |
 | FOI | Freedom of Information | | The Freedom of Information Act 2000 created a public 'right of access' to information held by public authorities. |
-| FOR | Focus on Resettlement | | General Offending Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| FOR | Focus on Resettlement | | General Offending Programme (no longer running). |
 | FPMF | FITS Programme Management Framework | | This was part of the overall governance framework for FITS. |
 | FPRC | Family Procedure Rules Committee | | The Family Procedure Rule Committee (FPRC) makes rules of court that govern the practice and procedure followed in family proceedings in the High Court and family court.FPRC is an advisory non-departmental public body, sponsored by the Ministry of Justice. |
 | FRPS | Financial Resources and Payment for Services | | |
@@ -421,13 +420,13 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | GBS | Government Banking Service | | |
 | GDS | Government Digital Service | | |
 | GES | Government Economic Services | | The Government Economic and Social Research team (GESR) supports the joint Heads of the Government Social Research Service in providing strategic leadership to GSR and in delivering an effective service. |
-| GIAA | Government Internal Audit Agency | | https://intranet.noms.gsi.gov.uk/support/audit-and-corporate-assurance |
+| GIAA | Government Internal Audit Agency | | |
 | GIRR | Government Information Risk Return | | |
 | GKIM | Government Knowledge & Information Management | | The Government KIM Professional Framework has been mapped to the CILIP Professional Knowledge and Skills Base (PKSB), as this is the only professional framework to cover the whole spectrum of KIM activities. |
 | GL | General ledger | | |
 | GLiMR | Generalised Listing, Management & Registration | | GLiMR is a Generalised Listing, Management & Registration multi-jurisdiction Case Management system used by several MoJ sites situated throughout England and Wales, and as well as being accessed by both MoJ/HMCTS staff has a public facing website that feeds directly to the GLiMR Database. |
 | GOoD | Good Order Or Discipline | | |
-| GORS | Government Operational Research Services | | Operational research (also known as 'management science') is the application of scientific methods to management problems. http://www.operational-research.gov.uk/recruitment/ |
+| GORS | Government Operational Research Services | | Operational research (also known as 'management science') is the application of scientific methods to management problems. |
 | GPC | Government Procurement Card | | Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases. |
 | GPP | Generic Parole Process | | |
 | GRS | Government Recruitment Service | | The organisation that manages recruitment campaigns, ensuring open and fair competition. Previously known as Civil Service Resourcing. |
@@ -443,9 +442,9 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | HJIP | Health and Justice Indicators of Performance | | Dataset that collects information on the delivery and outcome requirements NHS England are required to commission as part of their organsiational responsibilities. |
 | HLT | HMPPS Leadership Team | | |
 | HMC | Hearing Management Component | | Common component facilitating the management of hearings at HMCTS |
-| HMCS | Her Majesty's Courts Service | | See HMCTS |
+| HMCS | His Majesty's Courts Service | | See HMCTS |
 | HMCTS | His Majesty's Courts and Tribunals Service | | HMCTS is an executive agency of the MoJ, responsible for the administration of the courts of England and Wales. |
-| HMG | Her Majesty's Government | | |
+| HMG | His Majesty's Government | | |
 | HMIP | His Majesty's Inspectorate of Prisons | | His Majesty's Inspectorate of Prisons is an independent inspectorate which reports on conditions for and treatment of those in prison and young offender institutions and immigration facilities. |
 | HMIP | His Majesty's Inspectorate of Probation | | His Majesty's Inspectorate of Probation is a statutory body and independent UK inspectorate funded by the MoJ.  |
 | HMPPS | HM Prison and Probation Service | | |
@@ -457,20 +456,20 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | HOIT | Home Office IT | | |
 | HOMD | Head of Offender Management Delivery | | An individual who can assign POMs to offenders |
 | HOPO | Home Office Production Order | | |
-| Horizon | Horizon Sex Offender Treatment Programme | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab |
+| Horizon | Horizon Sex Offender Treatment Programme | | Sex Offender Treatment Programme |
 | HPA | Historic Prisoner Application | | When IIS (Inmate Information System - the precursor to Prison-NOMIS) was decommissioned, the data was archived into HPA |
 | HPP | High Performing Prison | | |
 | HQ | Headquarters | | |
 | HR | Human Resources | | |
 | HRD | Human Resource & Development | | |
 | HRM | Human Resource Management | | |
-| HRP | Healthy Relationships Programme | | Domestic Violence Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| HRP | Healthy Relationships Programme | | Domestic Violence Programme (no longer running). |
 | HSE | High Security Estate | | The highest level of prison, eg Belmarsh.Could also be Health and Safety Executive, so avoid acronym. |
-| HSP / HSF | Healthy Sex Programme / Health Sexual Functioning Programme | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab |
+| HSP / HSF | Healthy Sex Programme / Health Sexual Functioning Programme | | Sex Offender Treatment Programme |
 | HTA | Hierarchical Task Analysis | | |
 | HWF | Help with Fees | | The service formerly known as Fee Remission.Two parts, public and staff facing |
 | HwPV | Help With Prison Visits | | Also known as APVS (Assisted Prison Visit Scheme) |
-| I-SOTP | Internet Sex Offender Treatment Programme | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| I-SOTP | Internet Sex Offender Treatment Programme | | Sex Offender Treatment Programme (no longer running). |
 | IA | immigration and asylum | | As in 'Immigration and Asylum Tribunal'. |
 | IA | Independent Adjudicator | | The person who makes Adjudication decisions. IA could also refer to Information Assurance |
 | IA | Information Architecture | | IA could also refer to Information Assurance, Information Architecture or immigration and asylum so confusing acronym. |
@@ -484,7 +483,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | IDA | identity assurance | | Verifying digitally who someone is. There is a programme currently running (Jan 2014) in Government Digital Service, known as 'IDAP' which is implementing a way to verify the identity of citizens and business digitally so they can use government services online. |
 | IDAM | identity access management approach | | The approach initially taken by the common platform programme, for applications like Rota. They are now moving to use the GDS created identity system IDAP |
 | IDAP | Government Digital Service's identity assurance programme | | |
-| IDAP | Integrated Domestic Abuse Programme | | Domestic Violence Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| IDAP | Integrated Domestic Abuse Programme | | Domestic Violence Programme (no longer running). |
 | IDPC | Used in Defence request | | |
 | IDS | Intrusion Detection System | | An intrusion detection system (IDS) is a device or software application that monitors a network or systems for malicious activity or policy violations. |
 | IDTS | Integrated Drug and Treatment System | | Reception - Unit for prisoners detoxing from drugs and/or alcohol |
@@ -537,7 +536,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | JC | Justices' clerk | | Legally-trained member of staff in a magistrates' court, who advises the mags (who are volunteers) on tricky questions about the law. |
 | JCHR | Joint Committee on Human Rights | | |
 | JES | Job Evaluation Scheme | | |
-| JETS | Juvenile Enhanced Thinking Skills | | General Offending Programme - see 'Glossary of programmes' tab |
+| JETS | Juvenile Enhanced Thinking Skills | | General Offending Programme |
 | JHA | Justice and Home Affairs | | One of the policy areas of the Council of the European Union |
 | JIRPA | Joint Industrial Procedural Agreement | | |
 | JISL | Judicially Imposed Sentence Length | | NOMIS internal representation of sentence length as a single period term |
@@ -549,8 +548,8 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | JSC | Justice Select Committee | | |
 | JSON | JavaScript Object Notation | | A simple, lightweight data format. |
 | Justice Data | Public facing website for latest prison, probabtion and courts data | | https://data.justice.gov.uk/ |
-| Kainos CTC | Kainos Challenge to Change | | General Offending Programme - see 'Glossary of programmes' tab |
-| Kaizen | Kaizen Offender Behaviour Programme | | General Offending Programme - see 'Glossary of programmes' tab |
+| Kainos CTC | Kainos Challenge to Change | | General Offending Programme |
+| Kaizen | Kaizen Offender Behaviour Programme | | General Offending Programme |
 | KBA | Knowledge Base Article | | |
 | KBD | Key Business Decisions | | |
 | Key Traka | See: Traka | | |
@@ -581,7 +580,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | LFW | Legal Framework | | Reference data used in civil legal aid. It's a bunch of interlinked spreadsheets and it's used by CCMS. |
 | LGBT | Lesbian, Gay, Bi-sexual & Transgender (network) | | |
 | LGFS | Litigators Graduated Fees Scheme | | Fee scheme available to Solicitors who work on Crown Court cases |
-| LIAP | Low Intensity Alcohol Programme | | Substance Misuse Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| LIAP | Low Intensity Alcohol Programme | | Substance Misuse Programme (no longer running). |
 | LIBRA | | | Case management system used by Magistrate Courts only to record case details, hearing dates, applicant details etc. Note that this system is not used by Crown Courts. |
 | Libra | Database co-ordinated by Magistrates Courts | | |
 | LIDS | Local Inmate Data System | | Prison-wide computer system to log details of all prisoners and their sentences. Has been replaced by NOMIS. |
@@ -589,7 +588,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | LiPs | Litigants in Persons | | People at court without a professional representative. |
 | Liquid Logic | | | Childrenâ€™s Services system (assume at one or more local authority) |
 | LIT | Local Implementation Team | | Seems to be a common acronym for national->regional->local projects with CPS/Police/CJS. |
-| LNM | Living as New Me | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab |
+| LNM | Living as New Me | | Sex Offender Treatment Programme |
 | Los | Lay Observers | | |
 | LPA | Lasting Power of Attorney | | This isn't usually capitalised, though GOV.UK and OPG do so. |
 | LPP | Local People Plan | | People's Strategy |
@@ -675,9 +674,9 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | NIMU | National Incident Management Unit | | |
 | NINo | National Insurance number | | |
 | NISE | Network Information Security Enhancement (Project) | | This aims to migrate intranet applications from the existing environment to a new one for reasons of security. |
-| NMC | New Me Coping | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| NMC | New Me Coping | | Sex Offender Treatment Programme (no longer running). |
 | NMO | Non-Molestation Order | | |
-| NMS | New Me Strengths | | General Offending Programme - see 'Glossary of programmes' tab |
+| NMS | New Me Strengths | | General Offending Programme |
 | NOC | Notice of Change | | (Privately Managed Prisons and CRC) |
 | NOLASA | No on Libra Auto Search | | NOLASA (Not On Libra Auto-Search Application) is a micro-service that reads cases that have been marked as 'not-on-libra' from the MLRA database once a day (8pm). It then auto-searches the HMCTS Libra system via the LAA's Infox message broker service. The message protocol used is SOAP.If NOLASA finds that there are results returned for a case it updates its status in MLRA to say 'RESULTS FOUND'. This means that caseworkers can filter 'not on libra' cases to ones that they know they will have results for. They can then prioritize their case searching and linking more effectively. |
 | Nominals | In Police parlance a â€˜nominalâ€™ is someone recently arrested. In prisons it is a prisoner suspected (and often under surveillance) of carrying out criminal activity within the prison, such as drug dealing. | | |
@@ -699,7 +698,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | NSI | Non Statutory Intervention | | |
 | NSJE | Non Standard Journal Entry | | |
 | NSMART | National Standards Monitoring And Reporting Tool | | Probation standards tool |
-| NSOGP | Northumbria Sex Offenders Group Programme | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| NSOGP | Northumbria Sex Offenders Group Programme | | Sex Offender Treatment Programme (no longer running). |
 | NSVC | National Security Vetting Contact | | Someone within a team or organisation with knowledge of the securty vetting process, and who can help with vetting questions or processes. |
 | NTP | Notice to prisoners | | |
 | NVDA | NonVisual Desktop Access | | Windows screen reader, like JAWS, but free. |
@@ -757,13 +756,13 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | Oracle HRMS | Prison Human Resource Management System | | Replaced by SOP |
 | OS | Offender Supervisor | | |
 | OSAG | Operational and System Assurance Group  | | responsible for several of the audits we hold data for on the Hub and are mentioned in TNs |
-| OSAP | Offender Substance Misuse Programme | | Substance Misuse Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| OSAP | Offender Substance Misuse Programme | | Substance Misuse Programme (no longer running). |
 | OSG | Operational Support Group/Grade | | Operational support grades (OSGs) work in prisons carrying out duties essential to the smooth running of the establishment. They may work in and around a prison establishment or on duties which take them outside - to courts or other prisons, for example. |
 | OSPT | Official Solicitor and Public Trustee | | |
 | OST | Operational Security Team | | |
 | OWASP | Open Web Application Security Project | | |
 | OWB | Oracle Warehouse Builder | | An Oracle Extract Transform Load tool used for some LAA data warehouses |
-| P-ASRO | Prisons Addressing Substance Related Offending | | Substance Misuse Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| P-ASRO | Prisons Addressing Substance Related Offending | | Substance Misuse Programme (no longer running). |
 | P-NOMIS | Prison National Offender Management Information System | | Operational database used in prisons for the management of offenders. |
 | P3T | Personnel Physical Procedural Technical | | The areas of information assurance. |
 | PA | (Care Leaver) Personal Advisor | | A Personal Advisor (PA) acts as a focal point to make sure that a young person leaving care/prison gets the right support as they move into adulthood |
@@ -853,7 +852,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | POPs | Privately Operated Prisons | | |
 | POS | Prison Onsite Support | | |
 | POSOE | Provision Of a Safe Operating Environment  | | SBC |
-| POTO | Priestley One to One Programme | | General Offending Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| POTO | Priestley One to One Programme | | General Offending Programme (no longer running). |
 | PPAS | Prison and Probation Analytical Services | | Formerly PAG, part of the Ministry of Justice Analytical Services directorate. |
 | PPCS | Public Protection Casework Section | | |
 | PPD | Project & Program Delivery | | |
@@ -937,7 +936,7 @@ a requirement that will enable providers to work with offenders with sufficient 
 | REAG | Race & Equalities Action Group  | | |
 | REAP | Race Equality Action Plan  | | |
 | Resettlement | Also known as â€˜Throughcareâ€™ | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
-| RESOLVE | Resolve | | Violence Programme - see 'Glossary of programmes' tab |
+| RESOLVE | Resolve | | Violence Programme |
 | RESPECT | Racial Equality for Staff | | The Prison Service's staff self-support network for minority ethnic staff. Aims to eliminate racism in the workplace. |
 | RESPOND | Racial Equality for Staff & Prisoners | | The Prison Service programme for achieving racial equality for staff and prisoners. |
 | RFS | Request for Service | | A procurement term used in NOMS (elsewhere?), specifically with HP to define new change requests and projects |
@@ -960,7 +959,7 @@ a requirement that will enable providers to work with offenders with sufficient 
 | ROSH | Risk of Serious Harm | | |
 "| ROTL | Release On Temporary Licence | | A mechanism that enables prisoners to participate in necessary activities, outside of the prison establishment, that directly contribute to their resettlement
 into the community. There are four types of temporary release licence. |"
-| RP | Rolling Programme | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| RP | Rolling Programme | | Sex Offender Treatment Programme (no longer running). |
 | RPA | Robotic Process Automation | | |
 | RPD | Regional Probation Director | | |
 | RPM | Royal Prerogative of Mercy | | |
@@ -998,7 +997,7 @@ into the community. There are four types of temporary release licence. |"
 | SCG | Safer Custody Group | | |
 | SCH | Secure Children's Home | | A Secure Children's Home is a type of Youth Detention Accommodation and/or Secure Welfare Accommodation that accommodates children and young people between the ages of 10-17. |
 | SCMS | Small Claims Mediation Service | | Mediation service for people involved in small claim disputes. Applies to cases worth less than Â£10,000. |
-| SCP | Self Change Programme | | Violence Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| SCP | Self Change Programme | | Violence Programme (no longer running). |
 | SCS | Senior Civil Servant | | Someone with a senior post in the Civil Service, for example a Director. |
 | SCSBP | Senior Civil Service Business Partner | | Organisation or individual who assists during recruitment of a Senior Civil Servant. |
 | SCT | Standards Coaching Team | | Specially-trained prison staff who support and train officers in some of the countryâ€™s most challenging jails. |
@@ -1006,7 +1005,7 @@ into the community. There are four types of temporary release licence. |"
 | SDI | Service Delivery Indicator | | |
 | SDO | Standard Directions Order | | Instructions from the court, issued to parties on how they should prepare for a legal case |
 | SDOPC | Special Sentence of Detention for Terrorist Offenders of Particular Concern | | |
-| SDP | Short Duration Programme | | Substance Misuse Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| SDP | Short Duration Programme | | Substance Misuse Programme (no longer running). |
 | SDR | Service Delivery Requirements | | |
 | SDS | Safe, Decent & Secure | | |
 | SDS | Secure Document Storage | | A team in LAA whose mission is to provide LAA digital products and services with a secure document service as a common capability. |
@@ -1105,11 +1104,10 @@ into the community. There are four types of temporary release licence. |"
 | TED | Tenders Electronic Daily | | TED (Tenders Electronic Daily) is the online version of the 'Supplement to the Official Journal of the EU', dedicated to European public procurement.TED provides free access to business opportunities. It is updated 5 times a week with some 1,500 public procurement notices from the European Union, the European Economic Area and beyond. |
 | TERS | Tariff Early Removal Scheme | | |
 | TERSED | Tariff Early Removal Scheme Eligibility Date | | |
-| TF | Think First | | General Offending Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
-| The Hub | HMPPS Performance reporting system | |  https://hmpps-performance-hub.service.justice.gov.uk/ |
+| TF | Think First | | General Offending Programme (no longer running). |
 | Throughcare | Also known as 'Resettlement' | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
 | TIL | Today I Learned | | |
-| Timewise | Timewise Offender Behaviour Programme | | General Offending Programme - see 'Glossary of Programmes' tab |
+| Timewise | Timewise Offender Behaviour Programme | | General Offending Programme |
 | tl;dr | too long; didn't read | | Make it snappy! |
 | TLA | Three Letter Acronym | | |
 | tma;dr | Too many acronyms; didn't read. | | One made up especially for the civil service. |
@@ -1131,7 +1129,7 @@ into the community. There are four types of temporary release licence. |"
 | TUSED | Top Up Supervision Expiry Date | | |
 | TV | Tender Verification | | |
 | TVM | Transaction Volume Model | | |
-| TVSOGP | Thames Valley Sex Offenders Group Programme | | Sex Offender Treatment Programme - see 'Glossary of programmes' tab (PLEASE NOTE: THIS PROGRAMME IS NO LONGER RUNNING). |
+| TVSOGP | Thames Valley Sex Offenders Group Programme | | Sex Offender Treatment Programme (no longer running). |
 | TW3 | The Way We Work | | |
 | UAL | Unlawfully At Large | | |
 | UAT | User Acceptance Test | | |
