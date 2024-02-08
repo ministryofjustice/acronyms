@@ -1105,7 +1105,6 @@ into the community. There are four types of temporary release licence. |"
 | TERS | Tariff Early Removal Scheme | | |
 | TERSED | Tariff Early Removal Scheme Eligibility Date | | |
 | TF | Think First | | General Offending Programme (no longer running). |
-| The Hub | HMPPS Performance reporting system | |  https://hmpps-performance-hub.service.justice.gov.uk/ |
 | Throughcare | Also known as 'Resettlement' | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
 | TIL | Today I Learned | | |
 | Timewise | Timewise Offender Behaviour Programme | | General Offending Programme |
