@@ -377,7 +377,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ESL | Effective Sentence Length | | Representation of sentence length as a single period term |
 | ESOL | English for Speakers of Other Languages | | |
 | ESPP | Extended Sentence for Public Protection | | |
-| Estyn | the office of Her Majesty's Inspectorate for Education and Training in Wales | | |
+| Estyn | the office of His Majesty's Inspectorate for Education and Training in Wales | | |
 | ET | Employment Tribunal | | Also stands for 'E.T. the Extra-Terrestrial', a 1982 sci-fi movie about a loveable alien. |
 | ETD | Early Transfer Date for Detention and Training Orders (DTO) | | |
 | ETE | Education, Training & Employment | | |
@@ -443,9 +443,9 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | HJIP | Health and Justice Indicators of Performance | | Dataset that collects information on the delivery and outcome requirements NHS England are required to commission as part of their organsiational responsibilities. |
 | HLT | HMPPS Leadership Team | | |
 | HMC | Hearing Management Component | | Common component facilitating the management of hearings at HMCTS |
-| HMCS | Her Majesty's Courts Service | | See HMCTS |
+| HMCS | His Majesty's Courts Service | | See HMCTS |
 | HMCTS | His Majesty's Courts and Tribunals Service | | HMCTS is an executive agency of the MoJ, responsible for the administration of the courts of England and Wales. |
-| HMG | Her Majesty's Government | | |
+| HMG | His Majesty's Government | | |
 | HMIP | His Majesty's Inspectorate of Prisons | | His Majesty's Inspectorate of Prisons is an independent inspectorate which reports on conditions for and treatment of those in prison and young offender institutions and immigration facilities. |
 | HMIP | His Majesty's Inspectorate of Probation | | His Majesty's Inspectorate of Probation is a statutory body and independent UK inspectorate funded by the MoJ.  |
 | HMPPS | HM Prison and Probation Service | | |
