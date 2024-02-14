@@ -36,7 +36,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | Acas | Advisory, Conciliation and Arbitration Service | | (Note: only an initial cap.) Aims to prevent and resolve employment disputes prior to employment tribunals. |
 | ACCT | Assessment, Care in Custody and Teamwork  | | Self-Harm system - replacement for 2052Sh Self-harm system. |
 | ACL | Access Control List | | |
-| ACOs | Assistant Chief (Probation) Officers | | |
+| ACO | Assistant Chief Officer (Probation) | https://www.workwithoffenders.co.uk/roles/assistant-chief-officer | An Assistant Chief Officer (ACO) is a strategic manager responsible for the delivery of Offender Management within Probation.
 | ACPO | Association of Chief Police Officers | | |
 | ACR | Automatic Conditional Release | | |
 | AD | Active Directory | | |
