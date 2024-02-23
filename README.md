@@ -251,6 +251,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CTC | Counter Terrorism Clearance | | a security clearance level, as seen in the Tech Scorecard : "Anyone with administrative or operational access to production systems... has CTC-level clearance" |
 | CTS | Core Technology Services team | | |
 | CTSA2021 | Counter Terrorism and Sentencing Act 2021 | | |
+| CTSC | Courts and Tribunals Service Centre | | |
 | CUI | Citizen UI | | Frontend design pattern used for public-facing transactional services at HMCTS |
 | Custody Assistant | subcontracted staff in custody | | |
 | Custody Officer | police staff | | |
