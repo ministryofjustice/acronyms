@@ -701,6 +701,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | NSMART | National Standards Monitoring And Reporting Tool | | Probation standards tool |
 | NSOGP | Northumbria Sex Offenders Group Programme | | Sex Offender Treatment Programme (no longer running). |
 | NSVC | National Security Vetting Contact | | Someone within a team or organisation with knowledge of the securty vetting process, and who can help with vetting questions or processes. |
+| NTC | Not to contact | | Used to show the there should be no contact between a prisoner and a prisoner contact. Often used in social visits booking. |
 | NTP | Notice to prisoners | | |
 | NVDA | NonVisual Desktop Access | | Windows screen reader, like JAWS, but free. |
 | NWOW | New Ways Of Working | | |
