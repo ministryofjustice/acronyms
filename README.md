@@ -1071,6 +1071,7 @@ into the community. There are four types of temporary release licence. |"
 | SPTL | Suicide Prevention team Leader | | |
 | SR | Service Release | | Used by nDelius application team to reference releases |
 | SRA | Security Risk Assessments | | |
+| SRM | Strategic Relationship Management | | "In addition to working with each department to advance SRM programmes for their strategic suppliers, the Cabinet Office also runs a Strategic Partnership Programme for the largest common and critical suppliers across government." - [Source](https://www.stateofflux.co.uk/ideas-insights/case-studies/cabinet-office#:~:text=In%20addition%20to%20working%20with,aspects%20of%20SRM%20are%20linked) |
 | SRO | Senior Responsible Owner | | In MOJ, the SRO is a single, senior, accountable figure, representing business needs and decisions. A key feature of good governance for all types of Programmes and Projects, there should be one on each project. |
 | SRO | Sexual Risk of Harm Order | | |
 | SSC | Shared Services Connected | | Now known as Shared Services Connected Limited (SSCL). |
