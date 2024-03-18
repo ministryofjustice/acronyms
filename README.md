@@ -1076,6 +1076,7 @@ into the community. There are four types of temporary release licence. |"
 | SSC | Shared Services Connected | | Now known as Shared Services Connected Limited (SSCL). |
 | SSCL | Shared Services Connected Limited | | Central government HR/finance management team, based in Newport, Wales. Responsible for management of Phoenix (HR system in a big Oracle DB). |
 | SSCS | Social security and child support | | As in 'Social Security and Child Support Tribunal', which deals with appeals about benefits decisions. |
+| SSCU | Separation, Support and Care (segregation) Unit | | |
 | SSG | Small Systems Group | | App making people at ICT |
 | SSO | Suspended Sentence Order | | |
 | SSOT | Single Source Of Truth | | |
