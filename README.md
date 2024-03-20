@@ -688,6 +688,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | NORB | National Operations Readiness Board | | |
 | NORCET | NOMS Occupational Risk Control Evaluation Tool | | |
 | NoS | Notice of Supervision | | Appears to apply to Young Offenders (YO) |
+| NOW | Notices, Orders and Warrants | | A product of the Common Platform |
 | NPA | National Partnership Agreement | | Between Home Office and Department of Health |
 | NPD | Non Parole Date | | |
 | NPPV | Non-police personnel vetting | | |
