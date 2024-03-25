@@ -236,6 +236,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CRS | Commissioned Rehabilitative Services | | Rehabilitation and resettlement interventions procured through the Dynamic Framework - the mechanism to procure rehabilitation and resettlement interventions in regional areas |
 | CS | Case Supervisor | | |
 | CSAAP | Correctional Services Accreditation and Advice Panel | | |
+| CSAT | Customer Satisfaction | | |
 | CSB | Cognitive Skills Booster | | General Offending Programme (no longer running). |
 | CSC | Close Supervision Centre | | Also known as Segregation unit, Seg, Solitary Confinement & SCU |
 | CSC | Central Services Centre | | |
@@ -256,6 +257,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | Custody Assistant | subcontracted staff in custody | | |
 | Custody Officer | police staff | | |
 | CVCC | Court Video Conference Centre | | |
+| CVL | Create and Vary a Licence | | |
 | CVP | Cloud Video Platform | | CVP is an internet-based video meeting service used for court or tribunal headings. |
 | CWA | Contracted Work and Administration | | LAA web app for managing providers and their contracted work. Billing system (for civil legal help and crime lower) that contains all provider contracts and schedules. Enables commissioning teams to manage their providers’ contracts and schedules. Is provider facing. Interfaces with CCMS to supply 'master record of the truth' of provider contract and contact details. Also does work in provisioning new provider user details to CCMS. |
 | CWX | | | Civil debt recovery service. Legacy debt management app, hosted external. |
