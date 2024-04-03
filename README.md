@@ -1170,6 +1170,7 @@ into the community. There are four types of temporary release licence. |"
 | WAN | Wide Area Network | | |
 | WASI | Wechsler Abbreviated Scale of Intelligence | | Shorter version of WAIS assessment tool |
 | WAV | Weighted Average Volumes | | |
+| WCAG | Web Content Accessibility Guidelines | https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag | |
 | WFH | Work From Home | | |
 | WFPT | Workforce Planning Tool | | |
 | WIS | Witness Intermediary Scheme | | |
