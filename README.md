@@ -836,6 +836,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | PIU | Protective Isolation Unit | | accomodation for known or probable COVID-19 cases |
 | PLIC | Prison leavers Innovation Challenge | | It aims to develop innovative new solutions to break the cycle of reoffending |
 | PLP | Personal Learning Plan | https://dsdmoj.atlassian.net/wiki/spaces/RR/pages/4348772892/Personal+Learning+Plan+PLP | |
+| PMBLO | Pregnancy, Mother and Baby Unit Liaison Officer | | |
 | PMO | Project Management Office | | Bit of organisation that sets standards for project management. |
 | PMP | Privately Managed Prisons | | |
 | PMR | Performance Management Review | | Civil Servant performance reviews |
