@@ -1102,7 +1102,6 @@ into the community. There are four types of temporary release licence. |"
 | TAD | Technical Architecture Document | | |
 | TAD | Tender Assessment Database | | Used by LAA to record assessment of contract tender responses. |
 | TAFKADSD | The Artists Formerly Known as the Digital Services Division | | Subsequently known as MOJ Digital Services. Currently known as MOJ Digital. |
-| TAP | Temporary Approved Premises | | Locaitons outside of prisons where prisons may be staying - for example a hospital |
 | TBC | To Be Confirmed | | |
 | TBD | To Be Decided or Defined | | |
 | TC | Therapeutic Community | | |
