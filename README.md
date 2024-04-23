@@ -524,6 +524,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | IRS | Incident Reporting System | | A bolt on software to PNOMIS for recording incidents within Prisons and escorts. |
 | is/are | denotes a description | | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | IS91 | A prisoner who has been detained under Immigration Act powers. | | |
+| ISFL | Incentivised Substance Free Living | | A type of substance misuse treatment wing within prison |
 | ISP | Indeterminate Sentence Prisoner | | |
 | ISP | Initial Sentence Plan | | |
 | ISPP | Indeterminate Sentences for Public Protection | | CJA 1991 & 2003 |
@@ -666,6 +667,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | NDH | Nomis Data Hub | | Term used by HP, which is part of the NOMIS API architecture for Prison Visits Booking |
 | NDPB | Non-departmental public body | | Literally means a bit of government that's not a department - only really used in government circles. |
 | NDPDU | National Drug Programme Delivery Unit | | |
+| NDTMS | National Drug Treatment Monitoring Service | | The National Drug and Alcohol Treatment Monitoring System (NDTMS) collects person level, patient identifiable data from drug and alcohol treatment providers at a national level |
 | NEET | Not in Education, Employment, or Training | | |
 | NEMC | National Executive Management Committee | | |
 | NEPACS | (Formerly) The North East Prison After Care Society | | A charity working in the north east of England to support prisoners and their families. |
