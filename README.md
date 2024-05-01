@@ -26,6 +26,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | Abbreviation | Definition | URL | Info |
 |-|-|-|-|
 | 102PF | 102 Petty France | | London headquarters of the Ministry of Justice |
+| 10SC | 10 South Colonnade | | London Government hub |
 | 1LS/2LS/3LS | 1st, 2nd or 3rd Line Support | | |
 | A&A | Advice and assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
 | A&CA | Audit & Corporate Assurance | | Internal Audit & Standards Audit Unit - See GIAA |
@@ -85,6 +86,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ATO | Authority to operate | | |
 | ATOS | Multinational Company - often involved in consultancy or healthcare | | See URL |
 | ATR | Alcohol Treatment Requirements | | |
+| AVD | Azure Virtual Desktop | | |
 | AWDL | Average Working Days Lost | | |
 | AWS | Amazon Web Services | | |
 | BAFO | Best And Final Offer | | |
@@ -113,6 +115,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | BVLS | Book a video link service | | |
 | BWVC | Body Worn Video Camera | | |
 | C&R | Control & Restraint | | Prison |
+| C&A | Converge and Accelerate | | |
 | CA | Case Administrators | | |
 | CAB | Citizen's Advice Bureau | | Charity, funded largely by central and local government, that provides a one-stop non-specialist advice on many different issues.They have their own triage process on the front desk, which will help you get an appointment - possibly a fortnight away.Some are first-come-first-served, so there are big queues outside each morning. |
 | CAFCASS | Children and Family Court Advisory and Support Service | | |
@@ -386,6 +389,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ETE | Education, Training & Employment | | |
 | ETL | Extract, Transform & Load | | |
 | ETS | Enhanced Thinking Skills | | A course that prisoner can do to to address the attitudes and thought patterns that may of contributed to their offending |
+| EUCS | End User Compute Services | | |
 | Ex-ASP | Ex-Armed Service Personnel | | |
 | ExCo | Executive Comity Board | | Permanent Secutary and Director Generals (6 of). |
 | EXHIBIT | See XHIBIT | | |
@@ -1157,11 +1161,13 @@ into the community. There are four types of temporary release licence. |"
 | VCC | Video Conferencing Centres | | Video conferencing centres (VCCs) are modern video facilities, purpose-built in prisons that serve the courts. VCCs are designed so they are suitable for court and parole hearings. They are also suitable for legal consultations. VCCs are not used for family or social visits by video call. |
 | VCD | View Court Data | | LAA web app for viewing data from HMCTS's "Common Platform" |
 | VCS | Voluntary & Community Sector | | |
+| VDS | Virtual Desktop Services | | |
 | VDT | Violence Diagnostic Tool | | Provides regular Management Information on violence to all levels of the agency and HMPS |
 | VDT | Voluntary Drug Testing | | |
 | VDTU | Voluntary Drug Testing Unit | | |
 | VEDS | Voluntary Early Departure Scheme | | |
 | VICSO | Veteran in Custody Support Officer | | |
+| ViCTOR | Velocity Intune Configurator | | |
 | VIS | Victims Information Service | | |
 | ViSOR | Violent and Sex Offender Register | | ViSOR is a secure national database that can be accessed by the Police, Probation, and Prison services, allowing the three services to work on the same system to help reduce reoffending. This is being replaced by MAPPS (see above) |
 | VLE | Virtual Learning Environments | | |
@@ -1185,6 +1191,7 @@ into the community. There are four types of temporary release licence. |"
 | WP360G | Citrix Windows 7 environment used by NOMS staff | | WP360G is the Citrix environment used by NOMS staff to connect to a Windows 7 session from Quantum systems (which run Windows XP). |
 | WTG | Web Technology Group | | Sub-contractor to Logica, they have access to the majority of our DNS zone files (incl. justice.gov.uk) and charge HYUGE amounts for small changes. |
 | WTP | Workplace Technology Programme | | WTP provides a generation of end-user-devices, in use c.2018-2020, by HMPPS office staff. Laptops and O365 & GSuite. They were previously using Quantum devices. WTP will be replaced by PTTP. |
+| WVD | Windows Virtual Desktop | | |
 | XHIBIT | Exchanging Hearing Information by Internet Technology | | Case management system used by Crown Courts only to record case details, hearing dates, applicant details etc. Note that this system is not used by Magistrates Courts. |
 | XOD | Shift swap, shorthand used in some prisons | | May have also rendered this as EXOD or X-OD |
 | XXCCMS | | | Name of an LAA database schema. According to old rules, XX is the standard prefix for customization in EBS (E-Business Suite) |
