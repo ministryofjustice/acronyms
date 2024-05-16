@@ -90,7 +90,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AWS | Amazon Web Services | | |
 | BAFO | Best And Final Offer | | |
 | BAME | Black, Asian and Minority Ethnic | | |
-| BASS | Bail Accommodation Support Services | | BASS provides short-term accommodation and support to men and women, aged 18 and over, in shared and self-contained houses/flats across England and Wales. Now replaced by CAS2. |
+| BASS | Bail Accommodation Support Services | | Old name for what is now known as CAS-2 |
 | BAU | Business as Usual | | |
 | BBR | Building Better Relationships | | An intervention programme for adult male offenders who have been violent in heterosexual relationships |
 | BCS | Basic Custody Screening | | |
@@ -127,7 +127,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CARE | Choices, Actions, Relationships, Emotions | | Violence Programme |
 | CARM | Civil Automatic Referral to Mediation | | A process automatically referring some Civil cases to mediation. |
 | CAS | Case Allocation System | | Used after sentencing to assign offender as NPS or CRC |
-| CAS-2 | The Community Accommodation Service, Tier 2 | | A contracted service which provides short-term accommodation for those who have no suitable accommodation and may otherwise be held in custody. |
+| CAS-2 | The Community Accommodation Service, Tier 2 | https://data.justice.gov.uk/contracts/bass | A contracted service which provides short-term accommodation for those who have no suitable accommodation and may otherwise be held in custody. |
 | CaseMan | Civil Case Management legacy system | | The case management system formerly used by HMCTS services |
 | CATS | Case Assessment and Tracking System | | .NET application written and used by CFO at Daresbury Park in Warrington for managing externally funded (historically ESF) programmes |
 | CBDT | Compact Based drug testing | | Formerly known as Voluntary Drug Testing |
@@ -687,6 +687,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | NMC | New Me Coping | | Sex Offender Treatment Programme (no longer running). |
 | NMO | Non-Molestation Order | | |
 | NMS | New Me Strengths | | General Offending Programme |
+| NOAT | National Operations and Assurance Team | | |
 | NOC | Notice of Change | | (Privately Managed Prisons and CRC) |
 | NOLASA | No on Libra Auto Search | | NOLASA (Not On Libra Auto-Search Application) is a micro-service that reads cases that have been marked as 'not-on-libra' from the MLRA database once a day (8pm). It then auto-searches the HMCTS Libra system via the LAA's Infox message broker service. The message protocol used is SOAP.If NOLASA finds that there are results returned for a case it updates its status in MLRA to say 'RESULTS FOUND'. This means that caseworkers can filter 'not on libra' cases to ones that they know they will have results for. They can then prioritize their case searching and linking more effectively. |
 | Nominals | In Police parlance a ‘nominal’ is someone recently arrested. In prisons it is a prisoner suspected (and often under surveillance) of carrying out criminal activity within the prison, such as drug dealing. | | |
