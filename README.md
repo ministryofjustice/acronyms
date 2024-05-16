@@ -90,7 +90,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AWS | Amazon Web Services | | |
 | BAFO | Best And Final Offer | | |
 | BAME | Black, Asian and Minority Ethnic | | |
-| BASS | Bail Accommodation Support Services | | BASS provides short-term accommodation and support to men and women, aged 18 and over, in shared and self-contained houses/flats across England and Wales. Now replaced by CAS2. |
+| BASS | Bail Accommodation Support Services | | Old name for what is now known as CAS-2 |
 | BAU | Business as Usual | | |
 | BBR | Building Better Relationships | | An intervention programme for adult male offenders who have been violent in heterosexual relationships |
 | BCS | Basic Custody Screening | | |
