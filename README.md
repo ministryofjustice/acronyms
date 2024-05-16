@@ -127,7 +127,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CARE | Choices, Actions, Relationships, Emotions | | Violence Programme |
 | CARM | Civil Automatic Referral to Mediation | | A process automatically referring some Civil cases to mediation. |
 | CAS | Case Allocation System | | Used after sentencing to assign offender as NPS or CRC |
-| CAS-2 | The Community Accommodation Service, Tier 2 | | A contracted service which provides short-term accommodation for those who have no suitable accommodation and may otherwise be held in custody. |
+| CAS-2 | The Community Accommodation Service, Tier 2 | https://data.justice.gov.uk/contracts/bass | a contracted service which provides short-term accommodation for those who have no suitable accommodation and may otherwise be held in custody. The service is available for those on Bail, Home Detention Curfew, released from a custodial sentence of less than four years and of no fixed abode, on licence and at risk of recall due to loss of accommodation or on an Intensive Community Order with a residential requirement. |
 | CaseMan | Civil Case Management legacy system | | The case management system formerly used by HMCTS services |
 | CATS | Case Assessment and Tracking System | | .NET application written and used by CFO at Daresbury Park in Warrington for managing externally funded (historically ESF) programmes |
 | CBDT | Compact Based drug testing | | Formerly known as Voluntary Drug Testing |
