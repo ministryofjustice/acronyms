@@ -687,6 +687,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | NMC | New Me Coping | | Sex Offender Treatment Programme (no longer running). |
 | NMO | Non-Molestation Order | | |
 | NMS | New Me Strengths | | General Offending Programme |
+| NOAT | National Operations and Assurance Team | | |
 | NOC | Notice of Change | | (Privately Managed Prisons and CRC) |
 | NOLASA | No on Libra Auto Search | | NOLASA (Not On Libra Auto-Search Application) is a micro-service that reads cases that have been marked as 'not-on-libra' from the MLRA database once a day (8pm). It then auto-searches the HMCTS Libra system via the LAA's Infox message broker service. The message protocol used is SOAP.If NOLASA finds that there are results returned for a case it updates its status in MLRA to say 'RESULTS FOUND'. This means that caseworkers can filter 'not on libra' cases to ones that they know they will have results for. They can then prioritize their case searching and linking more effectively. |
 | Nominals | In Police parlance a ‘nominal’ is someone recently arrested. In prisons it is a prisoner suspected (and often under surveillance) of carrying out criminal activity within the prison, such as drug dealing. | | |
