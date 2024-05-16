@@ -369,6 +369,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | EMT | Equalities Monitoring Tool | | |
 | EOI | Expression of Interest | | Recruitment method that can sometimes be utilised. Ie. filling short term vacancies with internal staff |
 | EP | Extended Programme | | Sex Offender Treatment Programme (no longer running). |
+| EPAW | Express Prior Authority in Writing | | Related to the disclosure of military service |
 | EPDQ | Electronic Post Data Quickly transaction | | Electronic payments service used within some HMCTS services |
 | EPICK | Event, Problem, Incident, Continual Service Improvement and Knowledge Team | | |
 | EQUIP | Excellence and Quality in Probation Processes | | |
