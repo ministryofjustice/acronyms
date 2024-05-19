@@ -35,13 +35,13 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AA | Advocacy assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
 | AAC | Administrative Appeals Court | | |
 | Acas | Advisory, Conciliation and Arbitration Service | | (Note: only an initial cap.) Aims to prevent and resolve employment disputes prior to employment tribunals. |
-| ACCT | Assessment, Care in Custody and Teamwork  | | Self-Harm system - replacement for 2052Sh Self-harm system. |
+| ACCT | Assessment, Care in Custody and Teamwork  | | Self-Harm document - replacement for 2052Sh Self-harm document. |
 | ACL | Access Control List | | |
 | ACO | Assistant Chief Officer (Probation) | https://www.workwithoffenders.co.uk/roles/assistant-chief-officer | An Assistant Chief Officer (ACO) is a strategic manager responsible for the delivery of Offender Management within Probation.
 | ACPO | Association of Chief Police Officers | | |
 | ACR | Automatic Conditional Release | | |
 | AD | Active Directory | | |
-| ADA | Added Days Awarded | | Days that are added to an offenders release date following an adjudication |
+| ADA | Added Days Awarded | | Days that are added to an offenders release date following a guilty outcome from adjudication. Only issued by an Independent Adjudicator (Judge) |
 | ADI | Application Desktop Integrator | | Spreadsheet containing total disbursement of a prison, sent from business hub to regional accounts team.#moneyToPrisoners |
 | Admin 4 database | | | An Excel file that has Police Station & Mags Court schemes on |
 | ADP | Advocate Defence Payments | | One of our projects for the Legal Aid Agency. where advocates (solicitors) can submit invoices for work done for legal aid work.Used to be known as CBO/Crime Billing Online |
@@ -54,9 +54,10 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AIS | Acceptance Into Service | | |
 | AJAS | Access to Justice Analytical Services | | |
 | AJTC | Administrative Justice Tribunals Council | | |
-| ALB | Arm's-length body | | An organisation that pretends it's independent from government, even though it's not, really.With apostrophe and hyphen when spelled out in full. |
+| ALB | Arm's-length body | | An organisation that pretends it's independent from government, even though it's not really. With apostrophe and hyphen when spelled out in full. |
 | Alfresco | A document management system. Used by the courts | | |
 | ALM | Application Lifecycle Management | | |
+| ALO | Adjudication Liason Officer | | | A Uniformed Prison Officer who is trained in the internal, Prison Adjudication process |
 | ALS | Action Learning Set | | |
 | AMI | Amazon Machine Image | | |
 | AO | Accommodation and Occupancy (also known as *A&O*) | | |
@@ -75,8 +76,8 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ARMS | Active Risk Management System | | |
 | ART | Aggression Replacement Training | | Violence Programme (no longer running). |
 | ARV | Alcohol Related Violence | | Substance Misuse Programme (no longer running). |
-| ASBO | Anti-Social Behaviour Order | | A court order which can be obtained by local authorities in order to restrict the behaviour of a person likely to cause harm or distress to the public. |
-| ASPIRE | Assess – Sentence Plan – Implement – Review – Evaluate | | This is the core framework of offender management / sentence planning |
+| ASBO | Anti-Social Behaviour Order | | A court order which can be obtained by local authorities to restrict the behaviour of a person likely to cause harm or distress to the public. |
+| ASPIRE | Assess – Sentence Plan – Implement – Review – Evaluate | | This is the core framework of offender management/sentence planning |
 | ASRO | Addressing Substance Related Offending | | Substance Misuse Programme (no longer running). |
 | Asset | Youth Justice Board assessment documentation for young people | | |
 | AT | Assisted Technology | | |
@@ -90,18 +91,19 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AWS | Amazon Web Services | | |
 | BAFO | Best And Final Offer | | |
 | BAME | Black, Asian and Minority Ethnic | | |
+| BASM | Book a Secure Move | | | Digital service that allows booking of PECS (Prisoner Escort Contractor Services)vehicles to transport prisoners between Police suites, Courts & Prisons. Also includes a Digital PER (Prisoner Escort Record) which replaces the paper-based version. Currently only used for transport that includes PECS vehicles, not taxis for escorts etc. |
 | BASS | Bail Accommodation Support Services | | Old name for what is now known as CAS-2 |
 | BAU | Business as Usual | | |
 | BBR | Building Better Relationships | | An intervention programme for adult male offenders who have been violent in heterosexual relationships |
 | BCS | Basic Custody Screening | | |
 | BCST | Basic Custody Screening Tool | | An assessment tool used for the management of offenders at the point they begin a custodial sentence. |
 | BDG | Business Development Group | | |
-| BEIS | Department for Business, Energy and Industrial Strategy | | Merger between Department of Business, Innovation and Skills and the Department of Energy and Climate Change |
+| BEIS | Department for Business, Energy and Industrial Strategy | | Merger between the Department of Business, Innovation and Skills and the Department of Energy and Climate Change |
 | BI | Business Intelligence | | |
-| BIA | Business Impact Assessment | | An assessment template/matrix used by a business owner to determine impact levels of data / systems that they own. Questions like "how many people will be affected if your data is unavailable for a day". |
+| BIA | Business Impact Assessment | | An assessment template/matrix used by a business owner to determine impact levels of data/systems that they own. Questions like "How many people will be affected if your data is unavailable for a day". |
 | BIAR | Business Intelligence ARchive | | 'Basically a proprietary zip file used to move Business Intelligence content from one BusinessObjects Enterprise Server to another' |
-| BIC | Belief in Change | | General Offending Programme (no longer runningG). |
-| BIL# | Business Impact Level [number] | | Often pronounced "aisle two", "aisle zero" etc.Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong.specific information about prisoners will have business impact 3 if made publicAll revised with the new Official criteria |
+| BIC | Belief in Change | | General Offending Programme (no longer running). |
+| BIL# | Business Impact Level [number] | | Often pronounced "aisle two", "aisle zero" etc.Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong. Specific information about prisoners will have a business impact 3 if made public. All revised with the new Official criteria |
 | BIP | Business Intelligence Platform | | |
 | BIS | Department for Business Innovation & Skills | | |
 | BLB / ABLB | Better Lives Booster / Adapted Better Lives Booster | | Sex Offender Treatment Programme (no longer running). |
@@ -122,7 +124,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CAIT | Child Arrangements Information Tool | | Information resources to help separating couples make arrangements (custody, etc.) for their children. |
 | CALM | Controlling Anger and Learning to Manage it | | Violence Programme (no longer running). |
 | can | denotes both capability and possibility | | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
-| CARAT | Counselling, Assessment, Referral, Advice, Throughcare | | CARAT workers are intermediaries between drug treatments providers and the prisoners themselves |
+| CARAT | Counselling, Assessment, Referral, Advice, Throughcare | | CARAT workers are intermediaries between drug treatment providers and the prisoners themselves |
 | CARATs | Counselling, Assessment, Rehabilitation, Advice & Through care  | | |
 | CARE | Choices, Actions, Relationships, Emotions | | Violence Programme |
 | CARM | Civil Automatic Referral to Mediation | | A process automatically referring some Civil cases to mediation. |
@@ -158,7 +160,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CDM | HMPPS Contract Delivery Manager | | |
 | CDO | Chief Digital Officer | | |
 | CDPs | Crime & Drugs Partnership | | |
-| CDT | Central Drafting Team | | In referance to ministerial correspondence |
+| CDT | Central Drafting Team | | In reference to ministerial correspondence |
 | CDVP | Community Domestic Violence Programme | | Domestic Violence Programme (no longer running). |
 | CEMLI | Configuration, Extension, Modification, Localisation and Integration | | |
 | CEO | Court enforcement officer | | |
@@ -309,7 +311,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DPIA | Data Protection Impact assessment | | |
 | DPR | Digital Prison Reporting | | |
 | DPRRD | Detention Post Recall Release Date | | |
-| DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
+| DPS | Digital Prison Services | | Replacement system for the legacy, Offender database system NOMIS (aka "New NOMIS") |
 | DPS | Dynamic Purchasing System | | Not unique to MoJ - it's a way that Governors can purchase additional education or work provision on site, outside of the standard education contracts. Some stakeholders may be more familiar with this definition of DPS rather than 'Digital Prison Services' |
 | DQ | Directions Questionnaire | | Form sent to claimants and defendants in small claim cases so the judge can give instructions |
 | DQ | Data Quality | | |
@@ -320,7 +322,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DRY | Don't Repeat Yourself | | Often "DRY-ed". Removing duplication in code. |
 | DS | Digital Services | | MOJ Digital Services (formally DSD) |
 | DSA | Data Sharing Agreement | | |
-| DSA | Data Standards Authority | | The DSA works to improve how the public sector manages data. The DSA does this by establishing standards to make it easier and more effective to share and use data across government. |
+| DSA | Data Standards Authority | | The DSA works to improve how the public sector manages data. The DSA does this by establishing standards to make it easier and more effective to share and use data across the government. |
 | DSCC | Defence Solicitor Call Centre | | The call centre service that police use to provide a solicitor for people in custody. |
 | DSD | Digital Service Designers | | |
 | DSD | Digital Services Division | | Now obsolete. Please refer to 'Digital Services' (without the 'Division') or 'MOJ Digital Services'. |
@@ -340,17 +342,17 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DTTO | Drug Treatment and Testing Orders | | |
 | DV | Developed Vetting | | Level of Security Clearance |
 | DV | Domestic Violence | | Defined as any incident of threatening behaviour, violence or abuse between adults who are or have been intimate partners or family members, regardless of gender or sexuality.  |
-| DWP | Department for Work and Pensions | | Government organisation - administrates ESF budget ellocation |
-| DX | Document Exchange | | DX, or Direct Exchange, is a private business-to-business mail and packaging network in the United Kingdom. Direct Exchange is cheaper than standard first class mail. Subscriptions are necessary to use this service. |
+| DWP | Department for Work and Pensions | | Government organisation - administrates ESF budget allocation |
+| DX | Document Exchange | | DX, or Direct Exchange, is a private business-to-business mail and packaging network in the United Kingdom. Direct Exchange is cheaper than standard first-class mail. Subscriptions are necessary to use this service. |
 | DYOI | Detention in a Young Offender Institution | | |
 | E3 | Effectiveness, Efficiency and Excellence | | The change programme that will design and implement a new operation model for the National Probation Service |
 | EAP | Employee Assistance Programme | | The HMPPS Employee Assistance Programme is a free and confidential service available to all HMPPS staff who need advice and support. |
 | EAT | Employment Appeal Tribunal | | |
 | EBS | E-Business Suite | | An Oracle Application for Business. Utilised by LAA for CCMS and CWA. |
 | ECHR | European Convention on Human Rights | | An international treaty to protect human rights and fundamental freedoms in Europe. |
-| ECL | End of Custody Licence | | A scheme within Prison Service between 2007 and 2010 to help alleviate pressures on prison population. Offenders who were eligible could be released early from custody 18 days before their release date |
+| ECL | End of Custody Licence | | A scheme within the Prison Service between 2007 and 2010 to help alleviate pressures on the prison population. Eligible offenders could be released early from custody 18 days before their release date |
 | ECS | Elastic Container Service | | |
-| ECSL | End of Custody Supervised Licence | | A scheme within Prison Service first implemented on 17 October 2023, operating in 21 prisons and is a temporary measure in response to the current pressure on some prisons. Its use is targeted, and it will only operate in certain areas for a limited period of time. |
+| ECSL | End of Custody Supervised Licence | | A scheme within the Prison Service first implemented on 17 October 2023, operating in 21 prisons and is a temporary measure in response to the current pressure on some prisons. Its use is targeted, and it will only operate in certain areas for a limited period of time. |
 | EDM | Exceptional Delivery Model | | |
 | EDR | Earliest Date of Release | | |
 | EDRMS | Electronic Documents and Record Management System | | Also known as NorthgateLAA's externally hosted document/record management system, used by CCMS. |
@@ -358,16 +360,16 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | EDS | Electronic Data Systems | | The private contractor providing the new IT infrastructure throughout the Prison Service as per the QUANTUM Project |
 | EDS100 | Extended Determinate Sentence imposed for certain Terrorism Offences | | |
 | EDW | Enterprise Data Warehouse | | Management Information data warehouse. Holds data from many LAA applications. |
-| EFE | Estimate Financial Eligibility | | An example is LAA estimate financial eligibility for legal aid |
+| EFE | Estimate Financial Eligibility | | An example is the LAA estimate of financial eligibility for legal aid |
 | EGS | Enhanced Gate Security | | EGS refers to the installation of X-ray baggage scanners, archway metal detectors (sometimes referred to as a ‘portal’) and hand-held metal detector wands. |
 | EM | Electronic Monitoring | | (Also known as 'tagging') is the practice of attaching a tag to someone's ankle, used in England and Wales to monitor curfews and conditions of a court or prison order. |
 | EM | Escort Manager | | |
 | EMAP | Email a Prisoner | | |
 | EMED | Electronic Monitoring Eligibility Date | | |
-| EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statement. |
+| EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statements. |
 | EMS | Electronic Monitoring Services | | The organisation responsible for the delivery of Electronic Monitoring. |
 | EMT | Equalities Monitoring Tool | | |
-| EOI | Expression of Interest | | Recruitment method that can sometimes be utilised. Ie. filling short term vacancies with internal staff |
+| EOI | Expression of Interest | | Recruitment method that can sometimes be utilised. Ie. filling short-term vacancies with internal staff |
 | EP | Extended Programme | | Sex Offender Treatment Programme (no longer running). |
 | EPAW | Express Prior Authority in Writing | | Related to the disclosure of military service |
 | EPDQ | Electronic Post Data Quickly transaction | | Electronic payments service used within some HMCTS services |
@@ -432,7 +434,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | GIRR | Government Information Risk Return | | |
 | GKIM | Government Knowledge & Information Management | | The Government KIM Professional Framework has been mapped to the CILIP Professional Knowledge and Skills Base (PKSB), as this is the only professional framework to cover the whole spectrum of KIM activities. |
 | GL | General ledger | | |
-| GLiMR | Generalised Listing, Management & Registration | | GLiMR is a Generalised Listing, Management & Registration multi-jurisdiction Case Management system used by several MoJ sites situated throughout England and Wales, and as well as being accessed by both MoJ/HMCTS staff has a public facing website that feeds directly to the GLiMR Database. |
+| GLiMR | Generalised Listing, Management & Registration | | GLiMR is a Generalised Listing, Management & Registration multi-jurisdiction Case Management system used by several MoJ sites situated throughout England and Wales, and as well as being accessed by both MoJ/HMCTS staff has a public-facing website that feeds directly to the GLiMR Database. |
 | GOoD | Good Order Or Discipline | | |
 | GORS | Government Operational Research Services | | Operational research (also known as 'management science') is the application of scientific methods to management problems. |
 | GPC | Government Procurement Card | | Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases. |
@@ -472,10 +474,10 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | HRD | Human Resource & Development | | |
 | HRM | Human Resource Management | | |
 | HRP | Healthy Relationships Programme | | Domestic Violence Programme (no longer running). |
-| HSE | High Security Estate | | The highest level of prison, eg Belmarsh.Could also be Health and Safety Executive, so avoid acronym. |
+| HSE | High-Security Estate | | The highest level of prison, eg Belmarsh, now more commonly known as LTSHE (Long Term High-Security Estate). Could also be Health and Safety Executive. |
 | HSP / HSF | Healthy Sex Programme / Health Sexual Functioning Programme | | Sex Offender Treatment Programme |
 | HTA | Hierarchical Task Analysis | | |
-| HWF | Help with Fees | | The service formerly known as Fee Remission.Two parts, public and staff facing |
+| HWF | Help with Fees | | The service formerly known as Fee Remission.Two parts, public and staff-facing |
 | HwPV | Help With Prison Visits | | Also known as APVS (Assisted Prison Visit Scheme) |
 | I-SOTP | Internet Sex Offender Treatment Programme | | Sex Offender Treatment Programme (no longer running). |
 | IA | immigration and asylum | | As in 'Immigration and Asylum Tribunal'. |
@@ -484,7 +486,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | IA | Information Assurance | | as used by MOJ ICT. |
 | IAC | Immigration and Asylum Chamber | | |
 | IAC | Intensive Alternative to Custody | | |
-| IAO | Information Asset Owner | | Somewhat of an equivalent to a SIRO - related to information security / accreditation |
+| IAO | Information Asset Owner | | Somewhat of an equivalent to a SIRO - related to information security/accreditation |
 | IAPS | Integrated Accredited Programmes System | | |
 | IAR | Information Access Representative | | Admin staff based at a prison to collect information for a SAR |
 | ICA | Initial Categorisation Assessment | | |
@@ -550,7 +552,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | JIRPA | Joint Industrial Procedural Agreement | | |
 | JISL | Judicially Imposed Sentence Length | | NOMIS internal representation of sentence length as a single period term |
 | JR | Judicial Review | | Judicial review is a type of court proceeding in which a judge reviews the lawfulness of a decision or action made by a public body. |
-| JS | JavaScript | | Computer code used predominantly in Web browsers to provide enhance user interaction. |
+| JS | JavaScript | | Computer code used predominantly in Web browsers to provide enhanced user interaction. |
 | JS | Jury Summons | | |
 | JSA | Jobseekers Allowance | | You can apply for New Style Jobseeker’s Allowance (JSA) to help you when you’re looking for work. |
 | JSAS | Justice Statistics Analytical Services | | A unit within Ministry of Justice Analytical Services Directorate. |
@@ -612,7 +614,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | LSCB | Local Safeguarding Children Board | | |
 | LSF | Local Security Framework | | |
 | LTD | Late Transfer Date for a Detention Training Order | | |
-| LTHSE | Long Term High Security Estates | | |
+| LTHSE | Long Term High Security Estates || Cat A Prisons that hold the highest security offenders, EG Belmarsh, Wakefield etc. | | |
 | MAAT | Means Assessment Administration Tool | | Web app used by caseworkers to process legal aid applications for criminal cases. |
 | MaLi | Master list of initiatives | | An MOJ Technology list of all projects and programmes of work across the ministry |
 | MALRAP | Multi Agency Lifer Risk Assessment Panel | | |
@@ -628,8 +630,8 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | MDO | Mentally Disordered Offender | | |
 | MDS | Minimum Data Set | | |
 | MDT | Mandatory Drug Testing | | MDT has been in existence since 1996. Its purposes is to supply information on patterns of drug misuse, deter prisoners from misusing drugs, identify those in need of referral to drug treatment, contribute to drug supply reduction, and contribute to prisoner safety, violence reduction, order and control. |
-| MFA | Multi Factor Authentication | | |
-| MFD | Multifunctional device | | Printers at MOJ, which can also be used to scan in documents (hence the 'multifunctional' bit). |
+| MFA | Multi-Factor Authentication | | |
+| MFD | Multifunctional device | | Printers at MOJ, which can also be used to scan documents (hence the 'multifunctional' bit). |
 | MHA1983 | Mental Health Act 1983 | | |
 | MI | Management Information | | Data or statistics collected and used to measure performance in a business |
 | Microlise | GPS System allowing real-time vehicle tracking | | |
@@ -642,7 +644,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | MOiC | Managing Offenders in Custody | | |
 | MOJ | Ministry of Justice | | Use capitals - 'MOJ', not 'MoJ'.Departments don’t take the definite article, so 'MOJ', not 'the MOJ'. |
 | MOJFIN | MoJ Finance | | Data warehouse the LAA finance team uses |
-| MOJO | Ministry of Justice OFFICIAL | | End User Compute service developed as a replacement for the QUANTUM end user compute service for HMPS staff. |
+| MOJO | Ministry of Justice OFFICIAL | | End User Computer service developed as a replacement for the QUANTUM end user compute service for HMPS staff. Soon also to host former DOM1 users. |
 | MOSOVO | Managing sexual offenders and violent offenders | | The Sexual or Violent Offender Manager is specially trained in the response to and Management of Sexual or Violent Offenders (MOSOVO) and Active Risk Management (ARMS). |
 | MOU | Memorandum Of Understanding | | |
 | MP | Modernisation Platform | | The Modernisation Platform is a hosting platform where teams can host and modernise applications which are not suitable for Cloud Platform |
@@ -691,7 +693,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | NOC | Notice of Change | | (Privately Managed Prisons and CRC) |
 | NOLASA | No on Libra Auto Search | | NOLASA (Not On Libra Auto-Search Application) is a micro-service that reads cases that have been marked as 'not-on-libra' from the MLRA database once a day (8pm). It then auto-searches the HMCTS Libra system via the LAA's Infox message broker service. The message protocol used is SOAP.If NOLASA finds that there are results returned for a case it updates its status in MLRA to say 'RESULTS FOUND'. This means that caseworkers can filter 'not on libra' cases to ones that they know they will have results for. They can then prioritize their case searching and linking more effectively. |
 | Nominals | In Police parlance a ‘nominal’ is someone recently arrested. In prisons it is a prisoner suspected (and often under surveillance) of carrying out criminal activity within the prison, such as drug dealing. | | |
-| NOMIS | National Offender Management Information System | | aka c-nomis or p-nomisSystem designed to replace LIDS that logs details of all prisoners, their sentences, and more. |
+| NOMIS | National Offender Management Information System | | aka c-nomis or p-nomis. Offender database system that replaced LIDS. Holds details of all prisoner records since 2009, their sentences, and more. |
 | NOMS | National Offender Management Service | | Replaced by HMPPS April 2017 |
 | NOMS Number | National Offender Management Service Number | | Used in Prison-NOMIS as the unique identifier for prisoners. (Note that colloquially it is referred to as both ‘NOMIS ID’ and ‘NOMS ID’ - but in the system it is labelled as ‘NOMS number’. Labelled on the Prison-NOMIS database as OFFENDER_ID_DISPLAY) |
 | NORA | Non-ORA Sentence (under 12 months for an offence committed before 01/02/2015) | | |
@@ -711,15 +713,15 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | NSJE | Non Standard Journal Entry | | |
 | NSMART | National Standards Monitoring And Reporting Tool | | Probation standards tool |
 | NSOGP | Northumbria Sex Offenders Group Programme | | Sex Offender Treatment Programme (no longer running). |
-| NSVC | National Security Vetting Contact | | Someone within a team or organisation with knowledge of the securty vetting process, and who can help with vetting questions or processes. |
-| NTC | Not to contact | | Used to show the there should be no contact between a prisoner and a prisoner contact. Often used in social visits booking. |
+| NSVC | National Security Vetting Contact | | Someone within a team or organisation with knowledge of the security vetting process, and who can help with vetting questions or processes. |
+| NTC | Not to contact | | Used to show that there should be no contact between a prisoner and a prisoner contact. Often used in social visits booking. |
 | NTP | Notice to prisoners | | |
 | NVDA | NonVisual Desktop Access | | Windows screen reader, like JAWS, but free. |
 | NWOW | New Ways Of Working | | |
 | O/C | Offence Committed | | |
 | OAMU | Offender Assessment and Management Unit | | |
 | OAS | Oracle Analytics Server | | Oracle MI reporting tool. Used by LAA for reporting on data in EDW, Mojfin and other sources. OAS is the upgraded version of OBIEE. |
-| OASys | Offender Assessment System | | An offender assessment package. It identifies and classifies offending related needs, such as anger management, drug dependency, and poor literacy. |
+| OASys | Offender Assessment System | | An offender assessment package. It identifies and classifies offending-related needs, such as anger management, drug dependency, and poor literacy. |
 | OAT | Operational Acceptance Test | | |
 | OBIEE | Oracle Business Intelligence Enterprise Edition | | LAA MI reporting tool that was replaced by OAS. |
 | OBN | Overseas British Network | | AKA OBNI |
@@ -740,9 +742,9 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | OI | Own Interest | | A reason for removing a prisoner from association (See R45) |
 | OISG | Operational Implementation Support Group | | |
 | OJC | Office for Judicial Complaints | | Soon to be JCIO |
-| OJEU | Official Journal of the European Union | | The Official Journal of the European Union (the OJ) is the official gazette of record for the European Union (EU). It is published every working day in all of the official languages of the member states.Most interestingly, it's used as a forum to publish procurement requests to all member states, and offers a (longer, slower) alternative to using GCloud. |
+| OJEU | Official Journal of the European Union | | The Official Journal of the European Union (the OJ) is the official gazette of record for the European Union (EU). It is published every working day in all of the official languages of the member states.Most interestingly, it's used as a forum to publish procurement requests to all member states and offers a (longer, slower) alternative to using GCloud. |
 | OLAP | Online Analytical Processing | | |
-| OLASS | Offenders' Learning and Skills Service | | Integrated (prison based) offender education with mainstream academic and vocational provision. OLASS ceased delivery in 2018, and was replaced by something else (can't remember what though, but it essentially devolved a lot of it down to local purchases at governor level) |
+| OLASS | Offenders' Learning and Skills Service | | Integrated (prison-based) offender education with mainstream academic and vocational provision. OLASS ceased delivery in 2018, and was replaced by something else (can't remember what though, but it essentially devolved a lot of it down to local purchases at Governor level) |
 | Oleeo | Website | | Recruitment service used during recruitment of Civil Servants, especially where vetting is required. |
 | OM | Offender Manager | | Probation |
 | OMBCG | Offender Management Business Co-ordination Group | | |
@@ -942,7 +944,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 a requirement that will enable providers to work with offenders with sufficient flexibility to meet their needs and more effectively rehabilitate them. |"
 | RBRu | Rapid Build Residential unit | | |
 | RC | Regional Change | | Incorrectly entered. Please see RCBP. |
-| RCJ | Royal Courts of Justice | | Contains both the High Court and Courts of Appeal, based on the Stand in London.Definitely *not* like a large County Court! |
+| RCJ | Royal Courts of Justice | | Contains both the High Court and Courts of Appeal, based on the Stand in London. Definitely *not* like a large County Court! |
 | RCSG | Rehabilitation and Care Services Group | | |
 | RCU | Reverse Cohorting Unit  | | Accommodation for a designated period of time for new receptions, recalls, transfers or prisoners returning from hospital, allowing emergent infectious cases to be detected before individuals enter the general population |
 | RDC | Rapid Deployment Cells | | |
@@ -966,14 +968,14 @@ a requirement that will enable providers to work with offenders with sufficient 
 | RMP | Risk Management Plan | | |
 | ROC | Remuneration of Central Fund Costs | | It is used by a team of LAA caseworkers called 'Criminal cases unit'. They are the ones who assess claim for payments for any type of crime work that sits outside the graduated fee scheme. It's like processing payments for exceptional cases but it doesn't come from the Exception Case Funding scheme (which is only applicable for Civil). Providers claim those payments by emailing an Excel form to the Criminal case unit (there are 8 different forms depending on what's being claimed) who then log the claim into ROC, assess the claim and then send it to SSCL who processes the payment. |
 | RoH | Risk of Harm | | |
-| ROM | Rough Order of Magnitude | | A crude estimate of the cost of a project. See also SWAG and PIDOOMA.Could also stand for 'read-only memory'. |
+| ROM | Rough Order of Magnitude | | A crude estimate of the cost of a project. See also SWAG and PIDOOMA. Could also stand for 'read-only memory'. |
 | ROPARPS | The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 | | |
 | ROPARPS2020 | The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 | | |
 | ROR | Resettlement Overnight Release | | Relates to RoTL (Release on Temporary Licence) documentation |
 | ROR | Restoration of Remission | | Synonym for Restoration of Added Days Awarded (RADA) |
 | ROSH | Risk of Serious Harm | | |
 "| ROTL | Release On Temporary Licence | | A mechanism that enables prisoners to participate in necessary activities, outside of the prison establishment, that directly contribute to their resettlement
-into the community. There are four types of temporary release licence. |"
+into the community. There are four types of temporary release licences. |"
 | RP | Rolling Programme | | Sex Offender Treatment Programme (no longer running). |
 | RPA | Robotic Process Automation | | |
 | RPD | Regional Probation Director | | |
@@ -995,7 +997,7 @@ into the community. There are four types of temporary release licence. |"
 | S&A | Strategy & Assurance | | |
 | S3 | Simple Storage Service | | Amazon's data storage service |
 | SA2020 | Sentencing Act 2020 | | |
-| SAQ | Self Assessment Questionnaire | | A form done in a the first couple days of prison by new prisoner |
+| SAQ | Self Assessment Questionnaire | | A form completed within the first couple days of starting custody in prison, by a new prisoner |
 | SAR | Subject Access Request | | Similar to an FOI, but for yourself. At the MOJ this is typically used by prisoners or civil servants. |
 | SARA | Spousal Assault Risk Assessment | | |
 | SARN | Structured Assessment of Risk and Need | | |
@@ -1153,7 +1155,7 @@ into the community. There are four types of temporary release licence. |"
 | UCPD | User Centred Policy Design | | |
 | UI | User Interface | | |
 | UKTI | UK Trade & Investment | | |
-| UoF | Use of Force | | |
+| UoF | Use of Force | | | Now also a Digital Service that replaces the paper based documents for recording incidents where staff had to get "hands on" a prisoner. |
 | UPC | Unwanted prisoner contact | | |
 | UPW | UnPaid Work | | |
 | UX | User Experience | | |
@@ -1177,7 +1179,7 @@ into the community. There are four types of temporary release licence. |"
 | VP | Vulnerable Prisoner | | |
 | VPS | Virtual Private Server | | |
 | VPU | Vulnerable Prisoner Unit | | |
-| VSiP | Visting someone in prison | | |
+| VSiP | Vist someone in prison | | | New Digital Service used by some prisons to allow visitors to book online |
 | VSR | Victim Summary Reports | | |
 | WAIS | Wechsler Adult Intelligence Scale | | Test used for diagnosing learning difficulties and disabilities (LDD) |
 | WAN | Wide Area Network | | |
@@ -1187,11 +1189,11 @@ into the community. There are four types of temporary release licence. |"
 | WFH | Work From Home | | |
 | WFPT | Workforce Planning Tool | | |
 | WIS | Witness Intermediary Scheme | | |
-| WLB | Work Life Balance | | |
+| WLB | Work-Life Balance | | |
 | WLMT | WorkLoad Measurement Tool | | |
 | WP360G | Citrix Windows 7 environment used by NOMS staff | | WP360G is the Citrix environment used by NOMS staff to connect to a Windows 7 session from Quantum systems (which run Windows XP). |
 | WTG | Web Technology Group | | Sub-contractor to Logica, they have access to the majority of our DNS zone files (incl. justice.gov.uk) and charge HYUGE amounts for small changes. |
-| WTP | Workplace Technology Programme | | WTP provides a generation of end-user-devices, in use c.2018-2020, by HMPPS office staff. Laptops and O365 & GSuite. They were previously using Quantum devices. WTP will be replaced by PTTP. |
+| WTP | Workplace Technology Programme | | WTP provides a generation of end-user devices, in use c.2018-2020, by HMPPS office staff. Laptops and O365 & GSuite. They were previously using Quantum devices. WTP will be replaced by PTTP. |
 | WVD | Windows Virtual Desktop | | |
 | XHIBIT | Exchanging Hearing Information by Internet Technology | | Case management system used by Crown Courts only to record case details, hearing dates, applicant details etc. Note that this system is not used by Magistrates Courts. |
 | XOD | Shift swap, shorthand used in some prisons | | May have also rendered this as EXOD or X-OD |
