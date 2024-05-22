@@ -29,9 +29,9 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | 1LS/2LS/3LS | 1st, 2nd or 3rd Line Support | | |
 | A&A | Advice and assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
 | A&CA | Audit & Corporate Assurance | | Internal Audit & Standards Audit Unit - See GIAA |
-| A&O | Accommodation and Occupancy (also known as *AO*) | | An table of data, extracted from the NOMIS database providing a row per prisoner, including basic personal details and their location |
+| A&O | Accommodation and Occupancy (also known as *AO*) | | A table of data, extracted from the NOMIS database providing a row per prisoner, including basic personal details and their location |
 | A2J | Access to Justice | | |
-| AA | Administrative Assistants | | in context of PVB |
+| AA | Administrative Assistants | | in context of PVB | 
 | AA | Advocacy assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
 | AAC | Administrative Appeals Court | | |
 | Acas | Advisory, Conciliation and Arbitration Service | | (Note: only an initial cap.) Aims to prevent and resolve employment disputes prior to employment tribunals. |
@@ -61,7 +61,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ALS | Action Learning Set | | |
 | AMI | Amazon Machine Image | | |
 | AO | Accommodation and Occupancy (also known as *A&O*) | | |
-| AO | Accounting Officer | | Each organisation in central government must have an Accounting Officer, which is usually the senior official in the organisation.Accounting Officers must be able to assure Parliament and the public of high standards of probity in the management of public funds.The Treasury maintains policy oversight throughout. Departments and organisations should notify the Treasury Officer of Accounts, in advance, of any changes to Accounting Officer designations. There should be no gap between one Accounting Officer leaving and another being appointed. |
+| AO | Accounting Officer | | Each organisation in central government must have an Accounting Officer, which is usually the senior official in the organisation.Accounting Officers must be able to assure Parliament and the public of high standards of probity in the management of public funds. The Treasury maintains policy oversight throughout. Departments and organisations should notify the Treasury Officer of Accounts, in advance, of any changes to Accounting Officer designations. There should be no gap between one Accounting Officer leaving and another being appointed. |
 | AO | Administrative Officer | | |
 | AOB | Any Other Business | | |
 | AOS | Acknowledgement of Service | | Document filed by a defendant confirming they've been served court documents. |
