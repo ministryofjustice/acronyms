@@ -975,6 +975,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | RMADS | Risk Management and Accreditation Document Set | | |
 | RMP | Risk Management Plan | | |
 | ROC | Remuneration of Central Fund Costs | | It is used by a team of LAA caseworkers called 'Criminal cases unit'. They are the ones who assess claim for payments for any type of crime work that sits outside the graduated fee scheme. It's like processing payments for exceptional cases but it doesn't come from the Exception Case Funding scheme (which is only applicable for Civil). Providers claim those payments by emailing an Excel form to the Criminal case unit (there are 8 different forms depending on what's being claimed) who then log the claim into ROC, assess the claim and then send it to SSCL who processes the payment. |
+| RoCLA | Review of Civil Legal Aid  | | |
 | RoH | Risk of Harm | | |
 | ROM | Rough Order of Magnitude | | A crude estimate of the cost of a project. See also SWAG and PIDOOMA. Could also stand for 'read-only memory'. |
 | ROPARPS | The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 | | |
