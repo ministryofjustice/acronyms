@@ -879,6 +879,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | POS | Prison Onsite Support | | |
 | POSOE | Provision Of a Safe Operating Environment  | | SBC |
 | POTO | Priestley One to One Programme | | General Offending Programme (no longer running). |
+| PP | Probation Practitioner | | |
 | PPAS | Prison and Probation Analytical Services | | Formerly PAG, part of the Ministry of Justice Analytical Services directorate. |
 | PPCS | Public Protection Casework Section | | |
 | PPD | Project & Program Delivery | | |
