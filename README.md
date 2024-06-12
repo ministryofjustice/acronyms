@@ -927,7 +927,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | PTTP | Prison Technology Transformation Programme | | Laptops, mobile devices, applications, etc. for the whole of HMPPS. Replacement for Quantum. Programme commenced 2020. |
 | PUI | CCMS's Provider User Interface | | Provider facing part of CCMS. It's used by providers to submit, amend and follow up on legal aid applications for civil cases. |
 | PUM | Portal User Management | | Use by LAA Online support team to reset users passwords, unlock their accounts and assign CCLF roles to users. |
-| PVB | Prison Visits Bookings | | |
+| PVB | Prison Visits Bookings | | The historic name of the 'Visit someone in prison' service used by the public to request social visits with prisoners. |
 | PVO | Privileged Visiting Order | | Extra visiting credit for enhanced prisoners. One or two extra visits per month. |
 | Q&A | Questions & Answers | | |
 | QA | Quality Assurance | | |
@@ -1191,7 +1191,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | VP | Vulnerable Prisoner | | |
 | VPS | Virtual Private Server | | |
 | VPU | Vulnerable Prisoner Unit | | |
-| VSiP | Vist someone in prison | | | New Digital Service used by some prisons to allow visitors to book online |
+| VSiP | Vist someone in prison | https://www.gov.uk/prison-visits | | The name of the GOV.UK service used by the public to request social visits. |
 | VSR | Victim Summary Reports | | |
 | WAIS | Wechsler Adult Intelligence Scale | | Test used for diagnosing learning difficulties and disabilities (LDD) |
 | WAN | Wide Area Network | | |
