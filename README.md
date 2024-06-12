@@ -475,6 +475,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | Horizon | Horizon Sex Offender Treatment Programme | | Sex Offender Treatment Programme |
 | HPA | Historic Prisoner Application | | When IIS (Inmate Information System - the precursor to Prison-NOMIS) was decommissioned, the data was archived into HPA |
 | HPP | High Performing Prison | | |
+| HPT | Homelessness Prevention Team | | |
 | HQ | Headquarters | | |
 | HR | Human Resources | | |
 | HRD | Human Resource & Development | | |
