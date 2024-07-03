@@ -128,6 +128,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CARATS | Counselling, Assessment, Rehabilitation, Advice & Through care | | CARAT workers are intermediaries between drug treatment providers and the prisoners themselves |
 | CARE | Choices, Actions, Relationships, Emotions | | Violence Programme |
 | CARM | Civil Automatic Referral to Mediation | | A process automatically referring some Civil cases to mediation. |
+| CAS | Community accommodation services | | |
 | CAS | Case Allocation System | | Used after sentencing to assign offender as NPS or CRC |
 | CAS-2 | The Community Accommodation Service, Tier 2 | https://data.justice.gov.uk/contracts/bass | A contracted service which provides short-term accommodation for those who have no suitable accommodation and may otherwise be held in custody. |
 | CaseMan | Civil Case Management legacy system | | The case management system formerly used by HMCTS services |
