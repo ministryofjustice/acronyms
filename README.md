@@ -238,7 +238,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CRED | Civil Representation Expenditure Data Warehouse | | MI system holding civil case expenditure data extracted from CIS.CRED data is held in the EDW database - STAGEX schema owns the code and staging tables, FED schema owns the warehouse tables. |
 | CRL | Childcare Resettlement License | | a type of ROTL |
 | CRM12 | | | An Excel form to apply to Rota. A spread sheet that contains solicitors information * All crime forms in LAA are called CRM |
-| CRN | Case Reference Number | | The number assigned to a offender in nDelius - the word case is misleading |
+| CRN | Case Reference Number | | The number assigned to a person on probation in NDelius - the word case is misleading |
 | CRO | Community Responsible Officer | | Equivalent of a Community Offender Manager but in CRCs |
 | CRO | criminal records office | | A Unique number, issued once person is convicted by police. Offenders should have their CRO number recorded on their Prison record, where known. |
 | CRO | Community Rehabilitation order | | |
@@ -514,7 +514,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | IIS | Investors In People | | |
 | IL# | Impact Levels [number] | | Shorthand for BIL#Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong.specific information about prisoners will have business impact 3 if made publicAll revised with the new Official criteria |
 | ILP | Individual Learning Plan | | |
-| IM | Interventions Manager | | Specifically related to Delius |
+| IM | Interventions Manager | | Specifically related to NDelius |
 | IMA | Independent Monitoring Authority | | Responsible for monitoring EU nationals post-Brexit |
 | IMB | Independent Monitoring Board | | Statutory bodies that monitor Prisons, the welfare of staff & prisoners, to ensure they are properly cared for whilst in custody and detention. |
 | IMR | Inmate Medical record | | |
@@ -673,12 +673,12 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | NAO | National Audit Office | | |
 | NAP | National Applied Psychology Group | | |
 | NAPO | National Association of Probation Officers | | |
-| NART | National Applications Reporting Team | | This team support Reporting from nDelius, OASys and Prison-NOMIS using Business Objects. Answer ad-hoc queries including FOIs, PQs and Research Projects. We're on slack #nart |
+| NART | National Applications Reporting Team | | This team support Reporting from NDelius, OASys and Prison-NOMIS using Business Objects. Answer ad-hoc queries including FOIs, PQs and Research Projects. We're on slack #nart |
 | NCRD | Notional Conditional Release Date | | |
 | NCSC | National Cyber Security Centre | | The National Cyber Security Centre is an organisation of the United Kingdom Government that provides advice and support for the public and private sector in how to avoid computer security threats. |
-| ND | nDelius | | |
+| ND | NDelius | | |
 | NDE | Non-Directly Employed | | |
-| nDelius | National Delius | | Probation case management system |
+| NDelius | National Delius | | Probation case management system |
 | NDH | Nomis Data Hub | | Term used by HP, which is part of the NOMIS API architecture for Prison Visits Booking |
 | NDPB | Non-departmental public body | | Literally means a bit of government that's not a department - only really used in government circles. |
 | NDPDU | National Drug Programme Delivery Unit | | |
@@ -1096,7 +1096,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | SPR | Sentence Planning & Review | | |
 | SPRM | Sentence Plan Review Meeting | | |
 | SPTL | Suicide Prevention team Leader | | |
-| SR | Service Release | | Used by nDelius application team to reference releases |
+| SR | Service Release | | Used by NDelius application team to reference releases |
 | SRA | Security Risk Assessments | | |
 | SRO | Senior Responsible Owner | | In MOJ, the SRO is a single, senior, accountable figure, representing business needs and decisions. A key feature of good governance for all types of Programmes and Projects, there should be one on each project. |
 | SRO | Sexual Risk of Harm Order | | |
