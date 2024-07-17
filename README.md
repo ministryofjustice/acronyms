@@ -116,8 +116,9 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | BSR | Building Skills for Recovery | | Substance misuse programme |
 | BVLS | Book a video link service | | Allows Court users to book a virtual court hearing & corresponding appointment directly with the prison, to replace phone calls, emails & fax methods used previously. Being rolled out nationally, but only enabled when the prison has build a Video Suite & had the technology installed, so time constraints based on physical building work |
 | BWVC | Body Worn Video Camera | | Cameras worn by Uniformed staff within prisons, to de-escalate & record incidents |
+| C-NOMIS | Combined National Offender Management Information System | | C-NOMIS refers to a combined prison and probation system. C-NOMIS was designed to deliver a single database to 
+implement end-to-end offender management across the Prison Service and the National Probation Service. The probation element of NOMIS was not implemented and the service was later rebranded to P-NOMIS. | 
 | C&R | Control & Restraint | | Prison-taught approved techniques used when taking control & managing incidents with prisoners, to prevent harm/injury to staff and prisoners, de-escalate incidents etc. Also known as Use of Force & now recorded on the UoF Digital Service |
-| C&A | Converge and Accelerate | | |
 | CA | Case Administrators | | Staff based in Prisons or Probation offices, who manage the day to day admin of cases and records |
 | CA | Citizen's Advice | | Charity, funded largely by central and local government, that provides a one-stop non-specialist advice on many different issues. They have their own triage process on the front desk, which will help you get an appointment - possibly a fortnight away. Some are first-come-first-served, so there are big queues outside each morning. |
 | CAFCASS | Children and Family Court Advisory and Support Service | | |
@@ -702,7 +703,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | NOC | Notice of Change | | (Privately Managed Prisons and CRC) |
 | NOLASA | No on Libra Auto Search | | NOLASA (Not On Libra Auto-Search Application) is a micro-service that reads cases that have been marked as 'not-on-libra' from the MLRA database once a day (8pm). It then auto-searches the HMCTS Libra system via the LAA's Infox message broker service. The message protocol used is SOAP.If NOLASA finds that there are results returned for a case it updates its status in MLRA to say 'RESULTS FOUND'. This means that caseworkers can filter 'not on libra' cases to ones that they know they will have results for. They can then prioritize their case searching and linking more effectively. |
 | Nominals | In Police parlance a ‘nominal’ is someone recently arrested. In prisons, it is a prisoner suspected (and often under surveillance) of carrying out criminal activity within the prison, such as drug dealing. | | |
-| NOMIS | National Offender Management Information System | | aka c-nomis or p-nomis. Offender database system that replaced LIDS. Holds details of all prisoner records since 2009, their sentences, and more. |
+| NOMIS | National Offender Management Information System | | aka Prison-NOMIS or P-NOMIS. Offender database system that replaced LIDS. Holds details of all prisoner records since 2009, their sentences, and more. |
 | NOMS | National Offender Management Service | | Replaced by HMPPS April 2017 |
 | NOMS Number | National Offender Management Service Number | | Used in Prison-NOMIS as the unique identifier for prisoners. (Note that colloquially it is referred to as both ‘NOMIS ID’ and ‘NOMS ID’ - but in the system it is labelled as ‘NOMS number’. Labelled on the Prison-NOMIS database as OFFENDER_ID_DISPLAY) |
 | NORA | Non-ORA Sentence (under 12 months for an offence committed before 01/02/2015) | | |
