@@ -1131,6 +1131,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | TCM | Temporary Custodial Module | | |
 | TCoP | Technology Code of Practice | | The Technology Code of Practice is a cross-government agreed standard used for the [Cabinet Office spend control](https://www.gov.uk/government/collections/cabinet-office-controls) process and the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/). |
 | TDiP | Transforming Delivery in Prisons | | |
+' TED | Tariff Expiry Date | |
 | TED | Tenders Electronic Daily | | TED (Tenders Electronic Daily) is the online version of the 'Supplement to the Official Journal of the EU', dedicated to European public procurement.TED provides free access to business opportunities. It is updated 5 times a week with some 1,500 public procurement notices from the European Union, the European Economic Area and beyond. |
 | TERS | Tariff Early Removal Scheme | | |
 | TERSED | Tariff Early Removal Scheme Eligibility Date | | |
