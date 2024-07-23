@@ -235,6 +235,7 @@ implement end-to-end offender management across the Prison Service and the Natio
 | CRB | Criminal Records Bureau | | Replaced by the DBS (Disclosure and Barring Service) |
 | CRC | Community Rehabilitation Company | | Organisations that will deliver probation services from 2014, replacing probation trusts. |
 | CRD | Conditional Release Date | | |
+| CRD | Calculate Release Dates | | |
 | CRE | Commission for Racial Equality | | |
 | CRED | Civil Representation Expenditure Data Warehouse | | MI system holding civil case expenditure data extracted from CIS.CRED data is held in the EDW database - STAGEX schema owns the code and staging tables, FED schema owns the warehouse tables. |
 | CRL | Childcare Resettlement License | | a type of ROTL |
@@ -910,6 +911,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | PSA | Public Service Agreement | | MoJ Business Objectives |
 | PSD | Personal and Social Development | | Refers to courses such as art courses, which seek to foster PSD |
 | PSE | Police Sergeant Employee | | |
+| PSfR | Prepare someone for release | | Staff facing resettlement service |
 | PSG | Policy and Strategy Group | | |
 | PSI | Prison Service Instructions | | Rules, regulations and guidelines by which prisons are run. See also PSO |
 | PSI | Public Sector Information | | Any information (content) whatever its medium (form) – including print, digital or electronic, and sound recordings – produced, held or disseminated by a public sector body is considered public sector information. This includes an enormous range: corporate information such as reports and financial data, codes of practice, public records, statistics, still and moving images, press releases, artefacts, publication schemes, and so on. |
@@ -932,6 +934,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | PUM | Portal User Management | | Use by LAA Online support team to reset users passwords, unlock their accounts and assign CCLF roles to users. |
 | PVB | Prison Visits Bookings | | The historic name of the 'Visit someone in prison' service used by the public to request social visits with prisoners. |
 | PVO | Privileged Visiting Order | | Extra visiting credit for enhanced prisoners. One or two extra visits per month. |
+| PyF | Plan your future | | Tool used by prisoners leaving prison. |
 | Q&A | Questions & Answers | | |
 | QA | Quality Assurance | | |
 | QAT | Quality Assurance Testing | | |
