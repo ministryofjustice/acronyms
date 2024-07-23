@@ -235,7 +235,7 @@ implement end-to-end offender management across the Prison Service and the Natio
 | CRB | Criminal Records Bureau | | Replaced by the DBS (Disclosure and Barring Service) |
 | CRC | Community Rehabilitation Company | | Organisations that will deliver probation services from 2014, replacing probation trusts. |
 | CRD | Conditional Release Date | | |
-| CRD | Calculate Release Dates | | |
+| CRDS | Calculate Release Dates Service | | |
 | CRE | Commission for Racial Equality | | |
 | CRED | Civil Representation Expenditure Data Warehouse | | MI system holding civil case expenditure data extracted from CIS.CRED data is held in the EDW database - STAGEX schema owns the code and staging tables, FED schema owns the warehouse tables. |
 | CRL | Childcare Resettlement License | | a type of ROTL |
