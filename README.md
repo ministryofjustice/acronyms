@@ -54,7 +54,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AIS | Acceptance Into Service | | |
 | AJAS | Access to Justice Analytical Services | | |
 | AJTC | Administrative Justice Tribunals Council | | |
-| ALB | Arm's-length body | | An organisation that pretends it's independent from government, even though it's not really. With apostrophe and hyphen when spelled out in full. |
+| ALB | Arm's-length body | [what-is-a-public-body](https://www.gov.uk/guidance/public-bodies-reform#what-is-a-public-body) | a specific category of central government public bodies that are administratively classified by the Cabinet Office. |
 | Alfresco | A document management system. Used by the courts | | |
 | ALM | Application Lifecycle Management | | |
 | ALO | Adjudication Liason Officer | | | A Uniformed Prison Officer who is trained in the internal, Prison Adjudication process |
