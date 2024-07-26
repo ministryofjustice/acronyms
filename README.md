@@ -31,7 +31,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | A&CA | Audit & Corporate Assurance | | Internal Audit & Standards Audit Unit - See GIAA |
 | A&O | Accommodation and Occupancy (also known as *AO*) | | A table of data, extracted from the NOMIS database providing a row per prisoner, including basic personal details and their location |
 | A2J | Access to Justice | | |
-| AA | Administrative Assistants | | in context of PVB | 
+| AA | Administrative Assistants | | | 
 | AA | Advocacy assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
 | AAC | Administrative Appeals Court | | |
 | Acas | Advisory, Conciliation and Arbitration Service | | (Note: only an initial cap.) Aims to prevent and resolve employment disputes prior to employment tribunals. |
@@ -137,7 +137,7 @@ implement end-to-end offender management across the Prison Service and the Natio
 | CAT / RE-CAT | Categorisation of a prison or prisoner | | Each prison is given a Categorisation rating which denotes it's security levels & what Categorisation of prisoner it can hold. Cat A is the highest security prison, with Cat D being the lowest. Categorisation assessments are carried out on prisoner and they are reviewed at regular interval. If an prisoner is deemed to need a change in categorisation, this is known as a "re-cat". |
 | CAT TOOL | Categorisation Digital Service | | The new Digital Service that is used when risk assessing prisoners to determine their Categorisation level. Reviews should be done at regular intervals and should be updated before moving the prisoner to a prison of a different Categorisation rating to where they are currently being held. |
 | CATS | Case Assessment and Tracking System | | .NET application written and used by CFO at Daresbury Park in Warrington for managing externally funded (historically ESF) programmes |
-| CBDT | Compact Based drug testing | | Formerly known as Voluntary Drug Testing. Used as an incentive to keep prisoners drug-free, by them signing a compact to undertake regular drug testing and earning rewards based on remaining drug-free, such as being able to reside on a nicer prison unit with additional benefits, as part of a drug-free community. Sadly becoming less common now due to budget cuts and lack of space in prisons.   |
+| CBDT | Compact Based drug testing | | Formerly known as Voluntary Drug Testing. Used as an incentive to keep prisoners drug-free, by them signing a compact to undertake regular drug testing and earning rewards based on remaining drug-free. |
 | CBO | crime billing online | | |
 | CC| Celluar Confiment | | When a prisoner has poor behaviour, they can be awarded CC, which means they are not allowed out of their cells. Often used as punishments following proven adjudications, where a Governor may award 7 days CC, which means the prisoner is not allowed out of their cell for that period, aside from showers & other essential appointments. Effectively being grounded, by removing their privileges and social time out of their cell |
 | CC | Carbon Copy | | |
@@ -456,7 +456,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | GWS | Government Wide Service | | |
 | HC | Health Care | |  Health Care staff are NHS staff who work within the prison from their own dedicated Health Care building. They over see the day-to-day medical needs of prisoners. Most Police & Courts also have Health Care staff working with them to take care of people in custody |
 | HCC | Health Care Centre | | NHS facility in a prison |
-| HDC | Home Detention Curfew | | A statutory scheme that allows the Secretary of State to release eligible prisoners before their Conditional Release Date. It was designed to assist prisoners to resettle into the community, however, more recently it is being used to alleviate the over-crowding in prisons by allowing some prisoners to serve the last part of their sentence in the community, usually with an electronic tag to ensure compliance.  |
+| HDC | Home Detention Curfew | | A statutory scheme that allows the Secretary of State to release eligible prisoners before their Conditional Release Date. It was designed to assist prisoners to resettle into the community. |
 | HDCAD | Home Detention Curfew Approved Date | | |
 | HDCED | Home Detention Curfew Eligibility Date | | |
 | HJIP | Health and Justice Indicators of Performance | | Dataset that collects information on the delivery and outcome requirements NHS England are required to commission as part of their organisational responsibilities. |
@@ -1096,7 +1096,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | SPO | Senior Probation Officer | | |
 | SPO | Sentence Plan Outcomes | | |
 | SPOC | Single Point of Contact | | |
-| SPOF | Single Point of Failure | | Often refers to a single system, machine or person without which/whom a process/system/company will grind to a halt. EG a sysadmin who is the only one who knows the password to the mail server, who then gets hit by a bus. |
+| SPOF | Single Point of Failure | | Often refers to a single system, machine or person without which/whom a process/system/company will grind to a halt. |
 | SPR | Sentence Planning & Review | | |
 | SPRM | Sentence Plan Review Meeting | | |
 | SPTL | Suicide Prevention team Leader | | |
@@ -1143,15 +1143,14 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | Throughcare | Also known as 'Resettlement' | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
 | TIL | Today I Learned | | |
 | Timewise | Timewise Offender Behaviour Programme | | General Offending Programme |
-| tl;dr/TLDR | too long; didn't read | | Make it snappy! |
 | TLA | Three Letter Acronym | | |
 | tma;dr | Too many acronyms; didn't read. | | One made up especially for the civil service. |
 | TMB | The Magenta Book | | The Magenta Book is a set of guidance notes for policy evaluators and analysts, and people who use and commission policy evaluation. |
 | TN | Technical Note | | A Hub document which provides the technical details of the service level measures, including how they are calculated.   |
-| TNA | The National Archives | | Can also mean something rude. |
+| TNA | The National Archives | | |
 | TNA | Training Needs Analysis | | |
 | TOIL | Time Off in Lieu | | |
-| ToR | Terms of reference | | Not to be confused with Glastonbury Tor. |
+| ToR | Terms of reference | | |
 | TORNADO | Tornado Team | | Staff who are trained to a higher level of C&R, who are deployed to support NTRG, Gold Command etc when an incident is under-way that requires additional, highly trained staff in attendance, such as the mass disturbance that broke out on four wings of HMP Birmingham, which was run by the contractor G4S, on 16th December 2016. Training includes being pelted with bricks, bottles, molotovs etc - not for those of a nervous disposition. |
 | TORERA | Terrorist Offenders (Restriction of Early Release) Act 2020 | | |
 | TORERA2020 | Terrorist Offenders (Restriction of Early Release) Act 2020 | | |
@@ -1184,9 +1183,9 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | VCS | Voluntary & Community Sector | | |
 | VDS | Virtual Desktop Services | | |
 | VDT | Violence Diagnostic Tool | | Provides regular Management Information on violence to all levels of the agency and HMPS |
-| VDT | Voluntary Drug Testing | | A scheme that allowed offenders to sign a compact agreeing to be drug tested at regular intervals to help them remain drug free & help them prove this, usually as part of their sentence plan, or in cases relating to Social Services etc. It's mostly been scrapped due to budget cuts & staff number reductions in prisons. |
+| VDT | Voluntary Drug Testing | | A scheme that allowed offenders to sign a compact agreeing to be drug tested at regular intervals to help them remain drug free & help them prove this, usually as part of their sentence plan, or in cases relating to Social Services etc. |
 | VDTU | Voluntary Drug Testing Unit | | A dedicated place for offenders to either attend or reside when undertaking part of the VDT programme. Often a VDTU which was a residential wing with a testing room incorporated, would be of a higher standard & have additional facilities which would be a perk to encourage offenders to want to adhere to the VDT testing compact & remain on the wing. Sadly most of these are no longer in operation due to budget cuts, & over crowding issues meaning the wings have had to be turned back into normal residential units |
-| VEDS | Voluntary Early Departure Scheme | | A scheme introduced around 2008, to allow Uniformed Prison Staff to retire early with a lump sum payout, intended to reduce staff salary costs by cutting down the number of long-serving staff that were being paid the highest level of salary, back when salary increased based on years in service. It had the unfortunate knock on effect of drastically reducing the number of experienced staff  in the prisons, since it aligned with changes to Uniformed Prison staff contracts & pay cuts, meaning the only applicants for Prison Officer vacancies were young, inexperienced people, since most people would not be willing to work in our Prisons for minimum wage. This in turn may have inadvertently contributed to increases in staff corruption |
+| VEDS | Voluntary Early Departure Scheme | | A scheme introduced around 2008, to allow Uniformed Prison Staff to retire early with a lump sum payment. |
 | VHS | Video Hearings Service | | |
 | VICSO | Veteran in Custody Support Officer | | |
 | VICTOR/VICTOR ONE | Victor One | | Duty Governor in charge of the prison each day. This is one of the few call signs that remain consistent across all prisons, to allow any visiting staff to be able to radio for assistance quickly when needed. |
