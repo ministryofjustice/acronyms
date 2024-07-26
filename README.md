@@ -31,7 +31,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | A&CA | Audit & Corporate Assurance | | Internal Audit & Standards Audit Unit - See GIAA |
 | A&O | Accommodation and Occupancy (also known as *AO*) | | A table of data, extracted from the NOMIS database providing a row per prisoner, including basic personal details and their location |
 | A2J | Access to Justice | | |
-| AA | Administrative Assistants | | in context of PVB | 
+| AA | Administrative Assistants | | | 
 | AA | Advocacy assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
 | AAC | Administrative Appeals Court | | |
 | Acas | Advisory, Conciliation and Arbitration Service | | (Note: only an initial cap.) Aims to prevent and resolve employment disputes prior to employment tribunals. |
@@ -1096,7 +1096,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | SPO | Senior Probation Officer | | |
 | SPO | Sentence Plan Outcomes | | |
 | SPOC | Single Point of Contact | | |
-| SPOF | Single Point of Failure | | Often refers to a single system, machine or person without which/whom a process/system/company will grind to a halt. EG a sysadmin who is the only one who knows the password to the mail server, who then gets hit by a bus. |
+| SPOF | Single Point of Failure | | Often refers to a single system, machine or person without which/whom a process/system/company will grind to a halt. |
 | SPR | Sentence Planning & Review | | |
 | SPRM | Sentence Plan Review Meeting | | |
 | SPTL | Suicide Prevention team Leader | | |
@@ -1143,15 +1143,14 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | Throughcare | Also known as 'Resettlement' | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
 | TIL | Today I Learned | | |
 | Timewise | Timewise Offender Behaviour Programme | | General Offending Programme |
-| tl;dr/TLDR | too long; didn't read | | Make it snappy! |
 | TLA | Three Letter Acronym | | |
 | tma;dr | Too many acronyms; didn't read. | | One made up especially for the civil service. |
 | TMB | The Magenta Book | | The Magenta Book is a set of guidance notes for policy evaluators and analysts, and people who use and commission policy evaluation. |
 | TN | Technical Note | | A Hub document which provides the technical details of the service level measures, including how they are calculated.   |
-| TNA | The National Archives | | Can also mean something rude. |
+| TNA | The National Archives | | |
 | TNA | Training Needs Analysis | | |
 | TOIL | Time Off in Lieu | | |
-| ToR | Terms of reference | | Not to be confused with Glastonbury Tor. |
+| ToR | Terms of reference | | |
 | TORNADO | Tornado Team | | Staff who are trained to a higher level of C&R, who are deployed to support NTRG, Gold Command etc when an incident is under-way that requires additional, highly trained staff in attendance, such as the mass disturbance that broke out on four wings of HMP Birmingham, which was run by the contractor G4S, on 16th December 2016. Training includes being pelted with bricks, bottles, molotovs etc - not for those of a nervous disposition. |
 | TORERA | Terrorist Offenders (Restriction of Early Release) Act 2020 | | |
 | TORERA2020 | Terrorist Offenders (Restriction of Early Release) Act 2020 | | |
