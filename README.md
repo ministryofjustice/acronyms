@@ -113,11 +113,10 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | BSR | Building Skills for Recovery | | Substance misuse programme |
 | BVLS | Book a video link service | | Allows Court users to book a virtual court hearing & corresponding appointment directly with the prison, to replace phone calls, emails & fax methods used previously. Being rolled out nationally, but only enabled when the prison has build a Video Suite & had the technology installed, so time constraints based on physical building work |
 | BWVC | Body Worn Video Camera | | Cameras worn by Uniformed staff within prisons, to de-escalate & record incidents |
-| C-NOMIS | Combined National Offender Management Information System | | C-NOMIS refers to a combined prison and probation system. C-NOMIS was designed to deliver a single database to 
-implement end-to-end offender management across the Prison Service and the National Probation Service. The probation element of NOMIS was not implemented and the service was later rebranded to P-NOMIS. | 
+| C-NOMIS | Combined National Offender Management Information System | | C-NOMIS refers to a combined prison and probation system. C-NOMIS was designed to deliver a single database to implement end-to-end offender management across the Prison Service and the National Probation Service. The probation element of NOMIS was not implemented and the service was later rebranded to P-NOMIS. | 
 | C&R | Control & Restraint | | Prison-taught approved techniques used when taking control & managing incidents with prisoners, to prevent harm/injury to staff and prisoners, de-escalate incidents etc. Also known as Use of Force & now recorded on the UoF Digital Service |
 | CA | Case Administrators | | Staff based in Prisons or Probation offices, who manage the day to day admin of cases and records |
-| CA | Citizen's Advice | | Charity, funded largely by central and local government, that provides a one-stop non-specialist advice on many different issues. They have their own triage process on the front desk, which will help you get an appointment - possibly a fortnight away. Some are first-come-first-served, so there are big queues outside each morning. |
+| CA | Citizen's Advice | | Charity, funded largely by central and local government, that provides a one-stop non-specialist advice on many different issues. |
 | CAFCASS | Children and Family Court Advisory and Support Service | | |
 | CAIT | Child Abuse Investigation Team | | |
 | CAIT | Child Arrangements Information Tool | | Information resources to help separating couples make arrangements (custody, etc.) for their children. |
