@@ -43,7 +43,6 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AD | Active Directory | | |
 | ADA | Added Days Awarded | | Days that are added to a person's release date following a guilty outcome from adjudication. Only issued by an Independent Adjudicator (Judge) |
 | ADI | Application Desktop Integrator | | Spreadsheet containing total disbursement of a prison, sent from business hub to regional accounts team.#moneyToPrisoners |
-| Admin 4 database | | | An Excel file that has Police Station & Mags Court schemes on |
 | ADP | Advocate Defence Payments | | One of our projects for the Legal Aid Agency. where advocates (solicitors) can submit invoices for work done for legal aid work.Used to be known as CBO/Crime Billing Online |
 | ADR | Alternative dispute resolution | | A method of resolving disputes outside court - for example, via mediation |
 | ADR | Architectural design record | | |
@@ -55,7 +54,6 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AJAS | Access to Justice Analytical Services | | |
 | AJTC | Administrative Justice Tribunals Council | | |
 | ALB | Arm's-length body | [what-is-a-public-body](https://www.gov.uk/guidance/public-bodies-reform#what-is-a-public-body) | a specific category of central government public bodies that are administratively classified by the Cabinet Office. |
-| Alfresco | A document management system. Used by the courts | | |
 | ALM | Application Lifecycle Management | | |
 | ALO | Adjudication Liason Officer | | | A Uniformed Prison Officer who is trained in the internal, Prison Adjudication process |
 | ALS | Action Learning Set | | |
@@ -82,7 +80,6 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | Asset | Youth Justice Board assessment documentation for young people | | |
 | AT | Assisted Technology | | |
 | ATIA | Architecture, Technology and Information Assurance | | A former unit inside MOJ ICT |
-| ATM | At The Moment | | |
 | ATO | Authority to operate | | |
 | ATOS | Multinational Company - often involved in consultancy or healthcare | | See URL |
 | ATR | Alcohol Treatment Requirements | | |
@@ -102,7 +99,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | BEIS | Department for Business, Energy and Industrial Strategy | | Merger between the Department of Business, Innovation and Skills and the Department of Energy and Climate Change |
 | BI | Business Intelligence | | |
 | BIA | Business Impact Assessment | | An assessment template/matrix used by a business owner to determine impact levels of data/systems that they own. Questions like "How many people will be affected if your data is unavailable for a day". |
-| BIAR | Business Intelligence ARchive | | 'Basically a proprietary zip file used to move Business Intelligence content from one BusinessObjects Enterprise Server to another' |
+| BIAR | Business Intelligence Archive | | 'Basically a proprietary zip file used to move Business Intelligence content from one BusinessObjects Enterprise Server to another' |
 | BIC | Belief in Change | | General Offending Programme (no longer running). |
 | BIL# | Business Impact Level [number] | | Often pronounced "aisle two", "aisle zero" etc.Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong. Specific information about prisoners will have a business impact 3 if made public. All revised with the new Official criteria |
 | BIP | Business Intelligence Platform | | |
