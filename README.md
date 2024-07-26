@@ -4,7 +4,7 @@
 
 ## View the [published site here](https://ministryofjustice.github.io/acronyms/)
 
-This is a replacement for the (currently defunct) "Big Book of Acronyms" web application.
+This is a replacement for the (currently defunct) "Big Book of Acronyms" web application. This site is intended for internal MoJ use only.
 
 ## Licence
 
