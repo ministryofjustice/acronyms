@@ -386,7 +386,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ESOL | English for Speakers of Other Languages | | |
 | ESPP | Extended Sentence for Public Protection | | |
 | Estyn | the office of His Majesty's Inspectorate for Education and Training in Wales | | |
-| ET | Employment Tribunal | | Also stands for 'E.T. the Extra-Terrestrial', a 1982 sci-fi movie about a loveable alien. |
+| ET | Employment Tribunal | | |
 | ETD | Early Transfer Date for Detention and Training Orders (DTO) | | |
 | ETE | Education, Training & Employment | | |
 | ETL | Extract, Transform & Load | | |
