@@ -41,7 +41,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ACR | Automatic Conditional Release | | |
 | AD | Active Directory | | |
 | ADA | Added Days Awarded | | Days that are added to a person's release date following a guilty outcome from adjudication. Only issued by an Independent Adjudicator (Judge) |
-| ADI | Application Desktop Integrator | | Spreadsheet containing total disbursement of a prison, sent from business hub to regional accounts team.#moneyToPrisoners |
+| ADI | Application Desktop Integrator | | |
 | ADP | Advocate Defence Payments | | One of our projects for the Legal Aid Agency. where advocates (solicitors) can submit invoices for work done for legal aid work.Used to be known as CBO/Crime Billing Online |
 | ADR | Alternative dispute resolution | | A method of resolving disputes outside court - for example, via mediation |
 | ADR | Architectural design record | | |
