@@ -104,7 +104,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | BLB / ABLB | Better Lives Booster / Adapted Better Lives Booster | | A treatment programme for people convicted of a sexual offence (no longer running). |
 | BNM | Becoming New Me | | A thinking skills programme for people with a learning disability |
 | BOP | Bring on Potential | | Education and Learning gained inside are recorded in BOP, which is available ‘through the gate’. Part of ILP (Individual Learning Plan) |
-| BOTUS | Breach of Top Up Supervision | | Info |
+| BOTUS | Breach of Top Up Supervision | | |
 | BPSS | Baseline Personnel Security Standard | | The minimum level of clearance for someone working in the Civil Service. |
 | BSE | Basic, Standard & Enhanced | | The various levels of prison regime |
 | BSR | Building Skills for Recovery | | Substance misuse programme |
