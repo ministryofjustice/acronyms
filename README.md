@@ -77,11 +77,9 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ASBO | Anti-Social Behaviour Order | | A court order which can be obtained by local authorities to restrict the behaviour of a person likely to cause harm or distress to the public. |
 | ASPIRE | Assess – Sentence Plan – Implement – Review – Evaluate | | This is the core framework of offender management/sentence planning |
 | ASRO | Addressing Substance Related Offending | | Substance Misuse Programme (no longer running). |
-| Asset | Youth Justice Board assessment documentation for young people | | |
 | AT | Assisted Technology | | |
 | ATIA | Architecture, Technology and Information Assurance | | A former unit inside MOJ ICT |
 | ATO | Authority to operate | | |
-| ATOS | Multinational Company - often involved in consultancy or healthcare | | See URL |
 | ATR | Alcohol Treatment Requirements | | |
 | AVD | Azure Virtual Desktop | | |
 | AWDL | Average Working Days Lost | | |
@@ -172,7 +170,7 @@ implement end-to-end offender management across the Prison Service and the Natio
 | CFO | Creating Future Opportunities | | The name of a group within HMPPS who manage external funding (such as that from the ESF). Offices located in Daresbury Warrington. |
 | CFO | HMPPS Co-Financing Organisation | | The Co-Financing Organisation has delivered services to offenders in custody and the community since January 2010. Services are delivered via contracted prime providers |
 | CFT | Civil, Family and Tribunals | | The name of a directorate in HMCTS. |
-| CGI | Conseillers en Gestion et Informatique | | CGI stands for Conseillers en Gestion et Informatique in French, which translates to 'Information Systems and Management Consultants', in English. However, the official English meaning is 'Consultants to Government and Industry'.The company was formerly known as Logica, and designed the current (as of 19 April 2013) infrastructure for Money Claim Online and Possession Claim Online.Can also stand for 'computer-generated imagery'. |
+| CGI | Conseillers en Gestion et Informatique | | CGI stands for Conseillers en Gestion et Informatique in French, which translates to 'Information Systems and Management Consultants', in English. However, the official English meaning is 'Consultants to Government and Industry'.The company was formerly known as Logica. |
 | CHAPS | Correspondence Handling And Processing System | | |
 | Chromis | Chromis | | Violence Programme (no longer running). |
 | CHS | Case Handling System | | Set of applications used by the Civil Legal Aid Operator Contact Centre and Specialist Legal Providers to manage Civil Legal Aid cases opened by members of the public in England and Wales. |
@@ -225,7 +223,6 @@ implement end-to-end offender management across the Prison Service and the Natio
 | CPR | CardioPulmonary Resuscitation | | It combines chest compressions and rescue breaths to give a person the best chance of survival following a cardiac arrest. Each prison should have a minimum agreed number of First-aiders who are CPR trained, staff on duty at all times |
 | CPRC | Civil Procedure Rule Committee | | |
 | CPS | Crown Prosecution Service | | The organisation that is responsible for providing the prosecution in criminal cases in England and Wales. |
-| CPS | Crown Prosecution Service | | The CPS prosecutes criminal cases that have been investigated by the police and other investigative organisations in England and Wales. |
 | CPT | Custodial Performance Tool | | Replaced by Prison Performance Tool (PPT) |
 | CR | Change Request | | |
 | CRAMS | Case Reporting And Management System | | Person on probation caseload data (Probation) |
@@ -411,7 +408,7 @@ implement end-to-end offender management across the Prison Service and the Natio
 | FCO | Foreign and Commonwealth Office | | |
 | FCOS | Foreign and Commonwealth Office Services | | A trading fund of the FCO. Providers of IL2 and IL3 web hosting |
 | FDR | Fast Delivery Report | | |
-"| FFS/FFU | Fee For Service / Fee For Use | | Fee for Service refers to the money that CRCs are automatically paid by the MoJ to deliver orders of the court for the offenders allocated to the CRC, plus the TTG services they are mandated to provide.
+| FFS/FFU | Fee For Service / Fee For Use | | Fee for Service refers to the money that CRCs are automatically paid by the MoJ to deliver orders of the court for the offenders allocated to the CRC, plus the TTG services they are mandated to provide.
 Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS’ cohort of offenders (or by other CRCs) |"
 | FiAP | Find a Prisoner service | | |
 | FITS | Future IT Sourcing Programme | | or is the S 'sourcing'? Yes |
@@ -429,7 +426,6 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | FSAS | Finance and Strategy Analytical Service | | |
 | FTE | Full Time Equivalent | | |
 | FTR | Fixed Term Recall | | |
-| FTW | For The Win | | |
 | G&O | Governance & Operational Data | | |
 | GAL | Global Address List | | |
 | GBS | Government Banking Service | | |
@@ -519,10 +515,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | IMR | Inmate Medical record | | |
 | IMS | Intelligence Management Service | | |
 | IMSU | Incident Management Support Unit | | |
-| Interventions | This term in the prison system means courses that prisoners can attend that address behaviour such as drug misuse, domestic violence, etc | | |
-| Interventions Manager | A system that records prisons-interventions services | | |
 | INView | INView | | A system which supports the delivery of efficient and effective custodial services by providing cost and resource use information and reporting for services delivered in public sector prisons |
-| InVision | A system used in prisons to detail staff. Also known as CSR (Corporate Staff Rostering) or My Detail | | |
 | IOCCO | Interception of Communications Commissioner's Office | | |
 | IOD | Information Operations Division | | The Information Operations Division are responsible for:- Records Management - Managing the department's corporate record- FOI Act compliance - Ensuring FOI requests are dealt with in accordance with the Act.- Knowledge & Information Mgr - Building good Information Management and Knowledge Sharing- Information Assurance - Building Information Assurance against HMG mandated standards and developing a culture of good information handling- Data Protection Act Compliance - Ensuring personal data is handled lawfully / securely and that privacy is maintained |
 | IOM | Integrated Offender Management | | |
@@ -604,7 +597,6 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | LIDS | Local Inmate Data System | | Prison-wide computer system to log details of all prisoners and their sentences. Has been replaced by NOMIS. |
 | LiP | Litigant in Person | | An individual representing themselves at court without legal representation |
 | LiPs | Litigants in Persons | | People at court without a professional representative. |
-| Liquid Logic | | | Children’s Services system (assume at one or more local authority) |
 | LIT | Local Implementation Team | | Seems to be a common acronym for national->regional->local projects with CPS/Police/CJS. |
 | LNM | Living as New Me | | Sex Offender Treatment Programme |
 | Los | Lay Observers | | Court staff who oversee the running of the courts to ensure processes are being followed correctly |
@@ -965,7 +957,6 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | RDS | Research Development and Statistics | | |
 | REAG | Race & Equalities Action Group  | | |
 | REAP | Race Equality Action Plan  | | |
-| Resettlement | Also known as ‘Throughcare’ | | Preparing prisoners for release, including issues such as accommodation, benefits, etc |
 | RESOLVE | Resolve | | Violence Programme |
 | RESPECT | Racial Equality for Staff | | The Prison Service's staff self-support network for minority ethnic staff. Aims to eliminate racism in the workplace. |
 | RESPOND | Racial Equality for Staff & Prisoners | | The Prison Service programme for achieving racial equality for staff and prisoners. |
@@ -1123,9 +1114,6 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | TACT | Terrorism ACT | | ‘TACT Prisoner’ |
 | TAD | Technical Architecture Document | | |
 | TAD | Tender Assessment Database | | Used by LAA to record assessment of contract tender responses. |
-| TAFKADSD | The Artists Formerly Known as the Digital Services Division | | Subsequently known as MOJ Digital Services. Currently known as MOJ Digital. |
-| TBC | To Be Confirmed | | |
-| TBD | To Be Decided or Defined | | |
 | TC | Therapeutic Community | | |
 | TCEP | Transforming Compliance and Enforcement Project/Programme | | |
 | TCM | Temporary Custodial Module | | |
