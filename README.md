@@ -1088,6 +1088,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | SPTL | Suicide Prevention team Leader | | |
 | SR | Service Release | | Used by NDelius application team to reference releases |
 | SRA | Security Risk Assessments | | |
+| SRE | Site Reliability Engineer | | |
 | SRO | Senior Responsible Owner | | In MOJ, the SRO is a single, senior, accountable figure, representing business needs and decisions. A key feature of good governance for all types of Programmes and Projects, there should be one on each project. |
 | SRO | Sexual Risk of Harm Order | | |
 | SSC | Shared Services Connected | | Now known as Shared Services Connected Limited (SSCL). |
