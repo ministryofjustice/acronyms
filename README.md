@@ -503,8 +503,8 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | IEPS | Incentives & Earned Privileges Scheme | | |
 | IFS | Interim financial system | | |
 | IICSA | Independent Inquiry into Child Sexual Abuse | | |
+| IIP | Investors In People | | |
 | IIS | Inmate Information System | | The precursor to Prison-NOMIS. IIS has now been decommissioned, and data archived into HPA (Historic Prisoner Application) |
-| IIS | Investors In People | | |
 | IL# | Impact Levels [number] | | Shorthand for BIL#Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong.specific information about prisoners will have business impact 3 if made publicAll revised with the new Official criteria |
 | ILP | Individual Learning Plan | | |
 | IM | Interventions Manager | | Specifically related to NDelius |
