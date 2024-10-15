@@ -844,7 +844,8 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | PIP | Personal Independence Payment | | |
 | PIP | Performance Improvement Planning | | A strand of the Benchmarking programme |
 | PIPES | Psychologically Informed Physical Environment Services | | |
-| PIU | Protective Isolation Unit | | accomodation for known or probable COVID-19 cases |
+| PIU | Police Intelligence Unit | | |
+| PIU | Protective Isolation Unit | | Accomodation for known or probable COVID-19 cases |
 | PLIC | Prison leavers Innovation Challenge | | It aims to develop innovative new solutions to break the cycle of reoffending |
 | PLP | Personal Learning Plan | https://dsdmoj.atlassian.net/wiki/spaces/RR/pages/4348772892/Personal+Learning+Plan+PLP | |
 | PMBLO | Pregnancy, Mother and Baby Unit Liaison Officer | | |
