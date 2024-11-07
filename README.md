@@ -67,8 +67,8 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | APD | Approved Parole Date | | |
 | API | Application Programming Interface | | |
 | APPG | All Party Parliamentary Group | | APPGs are informal cross-party groups that have no official status within Parliament. They are run by and for Members of the Commons and Lords, though many choose to involve individuals and organisations from outside Parliament in their administration and activities. |
-| APVS | Assisted Prison Visit Scheme | | Also known as HWPV (Help With Prison Visits) |
-| APVU | Assisted Prison Visits Unit | | A call centre for prison visits for 8 prisons in the west midlands. |
+| APVS | Assisted Prison Visit Scheme | | Also known as HWPV (Help With Prison Visits). |
+| APVU | Assisted Prison Visits Unit | | Former name of the contact centre teams that manage the Help With Prison Visits claims. Now called Family Services. |
 | ARD | Automatic Release Date | | |
 | ARMS | Active Risk Management System | | |
 | ART | Aggression Replacement Training | | Violence Programme (no longer running). |
