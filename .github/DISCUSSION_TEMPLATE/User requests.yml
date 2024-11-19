@@ -1,0 +1,71 @@
+title: "[User Request] "
+labels: ["DMET HMPPS User Request Form"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please complete the form below to help the team prioritise your request
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Please enter your name
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Email address
+      description: Please enter your email
+      placeholder: email@example.com
+  validations:
+    required: true
+  - type: input
+    id: team
+    attributes:
+      label: Team and Directorate
+      description: Please enter your team name and directorate
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: scene
+    attributes:
+      label: Scene Setting
+      description: Please tell us about the big questions you're trying to answer including relevant background
+    validations:
+      required: true
+ - type: input
+    id: priority
+    attributes:
+      label: Priority
+      description: Please tell us about the urgency of your request including how it fits with the wider department's priorities
+    validations:
+      required: true
+   - type: input
+    id: opportunity
+    attributes:
+      label: Opportunity
+      description: Please tell us about the problem or difficulties you're trying to resolve and how this aids the wider department
+    validations:
+      required: true
+  - type: input
+    id: output
+    attributes:
+      label: Tangible output
+      description: Please tell us the concrete output or outcome you would expect from fulfilling this request
+    validations:
+      required: true
+   - type: input
+    id: more
+    attributes:
+      label: More information
+      description: Please share any addtional information about this request
+    validations:
+      required: true
+- type: markdown
+    attributes:
+      value: |
+        ### Thank you
+        _we_will_be_in_touch_soon_
