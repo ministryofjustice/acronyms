@@ -1070,6 +1070,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | SO | Supervising Officer | | |
 | SOA | Service-Oriented Architecture | | Both a term and a product suite from Oracle, responsible for providing a point of interface for external integrations for CCMS for case creation |
 | SOCT | Security, Order and Counter Terrorism | | |
+| SOLT | Senior Operational Leadership Team | | Replaced POMC |
 | SoMo | Social Mobility | | |
 | SOP | Single Operating Platform | | The HR system for the Ministry of Justice and other government departments. Used to complete HR, procurement, finance and payroll transactions. |
 | SOP | Standard Operating Procedure | | |
