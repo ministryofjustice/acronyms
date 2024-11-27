@@ -865,7 +865,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | POLAR | Payment of Legal Aid Remuneration | | Legacy system for recording and tracking all claims received by the National Taxing Team (NTT) as part of assessing Legal Aid claims |
 | POM | Prison Offender Manager | | The new Case Manager/Band 4 Prison Officer |
 | POM | Probation Offender Manager | | Probation Service Role in Prison |
-| POMC | Prison Operations Management Committee | | |
+| POMC | Prison Operations Management Committee | | Replaced by SOLT |
 | PoP | Person on Probation | | Community / Suspended Sentence Order - Target Operating Model (TOM) and other Transition documents make reference to this |
 | POPO | Prolific and Other Priority Offender | | |
 | POPs | Privately Operated Prisons | | |
