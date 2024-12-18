@@ -829,7 +829,8 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | PFI | Private Finance Initiative | | A way of creating 'public-private partnerships' where private firms are contracted to complete and manage public projects. |
 | PFS | Prisoner Facing Service | | A service that is provided to a Prisoner |
 | PGA | Prison Governor's Association | | Governor's union |
-| PGD | Prison Group Director | | |
+| PGD | Prison Group Director | | HMPPS moved to a new delivery structure in April 2018 which introduced Prison Groups and Prison Group Directors (PGDs), each of whom is responsible for the operational delivery and strategic development of around 4 - 7 prisons and line
+management of prison governors |
 | PGP | Pretty Good Privacy | | A way of encrypting emails in such as way that only the intended recipient can read. |
 | PHDP | Prison Health Delivery Plan | | |
 | PHE | Public Health England | | |
