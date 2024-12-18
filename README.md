@@ -52,7 +52,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AIS | Acceptance Into Service | | |
 | AJAS | Access to Justice Analytical Services | | |
 | AJTC | Administrative Justice Tribunals Council | | |
-| ALB | Arm's-length body | [what-is-a-public-body](https://www.gov.uk/guidance/public-bodies-reform#what-is-a-public-body) | a specific category of central government public bodies that are administratively classified by the Cabinet Office. |
+| ALB | Arm's-length body | https://www.gov.uk/guidance/public-bodies-reform#what-is-a-public-body | a specific category of central government public bodies that are administratively classified by the Cabinet Office. |
 | ALM | Application Lifecycle Management | | |
 | ALO | Adjudication Liason Officer | | | A Uniformed Prison Officer who is trained in the internal, Prison Adjudication process |
 | ALS | Action Learning Set | | |
@@ -435,7 +435,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | GKIM | Government Knowledge & Information Management | | The Government KIM Professional Framework has been mapped to the CILIP Professional Knowledge and Skills Base (PKSB), as this is the only professional framework to cover the whole spectrum of KIM activities. |
 | GL | General ledger | | |
 | GLiMR | Generalised Listing, Management & Registration | | GLiMR is a Generalised Listing, Management & Registration multi-jurisdiction Case Management system used by several MoJ sites situated throughout England and Wales, and as well as being accessed by both MoJ/HMCTS staff has a public-facing website that feeds directly to the GLiMR Database. |
-| GMS | Gateway Management System | [HMPPS Intranet](https://justiceuk.sharepoint.com/sites/HMPPSIntranet/SitePages/Gateway-management-system.aspx?web=1) | The Gateway Management System (GMS) is the new staff tool for generating project proposals and first-time requests and replaces the Business Strategy Change Triage System. |
+| GMS | Gateway Management System | https://justiceuk.sharepoint.com/sites/HMPPSIntranet/SitePages/Gateway-management-system.aspx?web=1 | The Gateway Management System (GMS) is the new staff tool for generating project proposals and first-time requests and replaces the Business Strategy Change Triage System. |
 | GOOD | Good Order Or Discipline | | A term used in prisons to describe when a prisoner is located in a secure location (usually the Segregation unit) or under reduced regime, under Prison Rule 45 (YOI Rule 49). Good Order or Discipline is used if a prisoner behaves in a way that prison staff think would put other people in danger or cause problems for the rest of the prison. |
 | GORS | Government Operational Research Services | | Operational research (also known as 'management science') is the application of scientific methods to management problems. |
 | GPC | Government Procurement Card | | Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases. |
