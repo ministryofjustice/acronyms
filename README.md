@@ -427,6 +427,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | G&O | Governance & Operational Data | | |
 | GAL | Global Address List | | |
 | GBS | Government Banking Service | | |
+| GC | Gold Command | | A specialist team who assemble in the case of incidents, such as riots, escapes etc. Usually consisting of a range of managers from various Security HQ Teams, they over-see the incident from a command centre & co-ordinate with staff on the front line (such as NTRG) to take control & resolve the incident as quickly as possible | 
 | GDS | Government Digital Service | | |
 | GES | Government Economic Services | | The Government Economic and Social Research team (GESR) supports the joint Heads of the Government Social Research Service in providing strategic leadership to GSR and in delivering an effective service. |
 | GIAA | Government Internal Audit Agency | | |
@@ -434,7 +435,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | GKIM | Government Knowledge & Information Management | | The Government KIM Professional Framework has been mapped to the CILIP Professional Knowledge and Skills Base (PKSB), as this is the only professional framework to cover the whole spectrum of KIM activities. |
 | GL | General ledger | | |
 | GLiMR | Generalised Listing, Management & Registration | | GLiMR is a Generalised Listing, Management & Registration multi-jurisdiction Case Management system used by several MoJ sites situated throughout England and Wales, and as well as being accessed by both MoJ/HMCTS staff has a public-facing website that feeds directly to the GLiMR Database. |
-| GC | Gold Command | | A specialist team who assemble in the case of incidents, such as riots, escapes etc. Usually consisting of a range of managers from various Security HQ Teams, they over-see the incident from a command centre & co-ordinate with staff on the front line (such as NTRG) to take control & resolve the incident as quickly as possible | 
+| GMS | Gateway Management System | [HMPPS Intranet](https://justiceuk.sharepoint.com/sites/HMPPSIntranet/SitePages/Gateway-management-system.aspx?web=1) | The Gateway Management System (GMS) is the new staff tool for generating project proposals and first-time requests and replaces the Business Strategy Change Triage System. |
 | GOOD | Good Order Or Discipline | | A term used in prisons to describe when a prisoner is located in a secure location (usually the Segregation unit) or under reduced regime, under Prison Rule 45 (YOI Rule 49). Good Order or Discipline is used if a prisoner behaves in a way that prison staff think would put other people in danger or cause problems for the rest of the prison. |
 | GORS | Government Operational Research Services | | Operational research (also known as 'management science') is the application of scientific methods to management problems. |
 | GPC | Government Procurement Card | | Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases. |
