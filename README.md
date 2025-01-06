@@ -64,6 +64,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AOS | Acknowledgement of Service | | Document filed by a defendant confirming they've been served court documents. |
 | AP | Approved Premises | | |
 | AP | Analytical Platform | | |
+| AP | Accredited Programmes | | |
 | APD | Approved Parole Date | | |
 | API | Application Programming Interface | | |
 | APPG | All Party Parliamentary Group | | APPGs are informal cross-party groups that have no official status within Parliament. They are run by and for Members of the Commons and Lords, though many choose to involve individuals and organisations from outside Parliament in their administration and activities. |
