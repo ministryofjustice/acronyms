@@ -190,6 +190,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CLA | Civil Legal Aid | | |
 | CM | Custodial Manager | | A Band 5 Uniformed Prison Manager. Identified by 3 stripes on their epaulettes. Usually responsible for overseeing the day-to-day running of the prison, reporting to the Duty Governor. Often known by the call sign "Oscar One" |
 | CMAC | Court Martial Appeals Court | | |
+| CMS | Custodial Management System | https://www.unilink.com/overview/software-solutions/ | Unilink’s Custodial Management System (CMS) is a comprehensive, biometrically enabled management system for custodial environments. Used in prisons both private and public. |
 | CMT | Contract Management Team | | |
 | CNA | certified normal accommodation | | Relating to prison capacity: "the good, decent standard of accommodation that the service aspires to provide all prisoners" |
 | CNA  | Certified Normal Accommodation | | The Prison Service's measure of accommodation, CNA represents the good, decent standard of accommodation that the services aspires to provide all prisoners. |
