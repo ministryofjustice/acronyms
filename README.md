@@ -974,6 +974,7 @@ management of prison governors |
 | RMP | Risk Management Plan | | |
 | ROC | Remuneration of Central Fund Costs | | It is used by a team of LAA caseworkers called 'Criminal cases unit'. They are the ones who assess claim for payments for any type of crime work that sits outside the graduated fee scheme. It's like processing payments for exceptional cases but it doesn't come from the Exception Case Funding scheme (which is only applicable for Civil). Providers claim those payments by emailing an Excel form to the Criminal case unit (there are 8 different forms depending on what's being claimed) who then log the claim into ROC, assess the claim and then send it to SSCL who processes the payment. |
 | RoCLA | Review of Civil Legal Aid  | | |
+| ROET | Restricted Open Estate Transfer | | The scheme was active from 25 September to 9 October 2023. Eligibility for ROET was limited to prisoners serving a standard determinate sentence with an automatic release point at the halfway point of their sentence who were between 7 and 28 days away from their conditional release date. |
 | RoH | Risk of Harm | | |
 | ROM | Rough Order of Magnitude | | A crude estimate of the cost of a project. See also SWAG and PIDOOMA. Could also stand for 'read-only memory'. |
 | ROPARPS | The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 | | |
@@ -1144,6 +1145,7 @@ management of prison governors |
 | TORERA | Terrorist Offenders (Restriction of Early Release) Act 2020 | | |
 | TORERA2020 | Terrorist Offenders (Restriction of Early Release) Act 2020 | | |
 | TP | Temporary Promotion | | Term usually used in relation to short term career promotions and covering the role of a higher band member of staff |
+| TPRS | Temporary Presumptive Recategorisation Scheme | |  TPRS is an urgent measure designed to facilitate the presumptive recategorisation of prisoners from category C to category D to make the best use of the prison estate. |
 | TR | Transforming Rehabilitation | | |
 | Traka | Traka key systems only allow authorised users to access prison keys, ensuring they remain accounted for at all times. | | |
 | TSP | Thinking Skills Programme | | An intervention that deals with domestic violence issues |
