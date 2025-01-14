@@ -586,6 +586,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | LDD | Learning Difficulties and Disabilities | | |
 | LDD | Local Delivery Directory | | Delivery of PSAs |
 | LDU | Local Delivery Unit | | Probation |
+| LEA | Law Enforcement Agencies| | |
 | LED | Licence Expiry Date | | |
 | LEDS | Law Enforcement Data Service | | |
 | LFW | Legal Framework | | Reference data used in civil legal aid. It's a bunch of interlinked spreadsheets and it's used by CCMS. |
@@ -766,8 +767,9 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | OPD | Offender Personality Disorder | | |
 | OPG | Office of the Public Guardian | | |
 | OPG | Operation Policy Group | | |
+| OPT | Operational Partnerships Team | | OPTâ€™s core role is to ensure that information is appropriately shared, while protecting the security and stability of HMPPS sites, staff and operational capabilities. |
 | OPV | Official Prison Visitor | | OPVs visit prisoners who rarely, if ever, have visits from friends or family members. OPVs are volunteers and are independent of the prison and its staff. |
-"| ORA | Offender Rehabilitation Act 2014 | | An Act passed by parliament that made changes to the current legislative framework to support these reforms including ensuring offenders released from custodial
+| ORA | Offender Rehabilitation Act 2014 | | An Act passed by parliament that made changes to the current legislative framework to support these reforms including ensuring offenders released from custodial
 sentences of over 1 day will be subject to spend a minimum of 12 months supervision in the community |"
 | ORA2014 | Offender Rehabilitation Act 2014 | | |
 | Oracle HRMS | Prison Human Resource Management System | | Replaced by SOP |
@@ -843,6 +845,7 @@ management of prison governors |
 | PIC | Performance Improvement Co-ordinator | | |
 | PID | Project Initiation Document | | |
 | PIMS | Provider Interaction Management System | | |
+| PIO | Police Intelligence Officer | | |
 | PiP | Person in Prison | | Target Operating Model (TOM) and other Transition documents make reference to this |
 | PIP | Personal Independence Payment | | |
 | PIP | Performance Improvement Planning | | A strand of the Benchmarking programme |
