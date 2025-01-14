@@ -586,7 +586,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | LDD | Learning Difficulties and Disabilities | | |
 | LDD | Local Delivery Directory | | Delivery of PSAs |
 | LDU | Local Delivery Unit | | Probation |
-| LEA | Law Enforcement Agencies| | |
+| LEA | Law Enforcement Agencies | | |
 | LED | Licence Expiry Date | | |
 | LEDS | Law Enforcement Data Service | | |
 | LFW | Legal Framework | | Reference data used in civil legal aid. It's a bunch of interlinked spreadsheets and it's used by CCMS. |
