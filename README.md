@@ -388,6 +388,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ESOL | English for Speakers of Other Languages | | |
 | ESPP | Extended Sentence for Public Protection | | |
 | Estyn | the office of His Majesty's Inspectorate for Education and Training in Wales | | |
+| ESW | Education, Skills and Work | | |
 | ET | Employment Tribunal | | |
 | ETD | Early Transfer Date for Detention and Training Orders (DTO) | | |
 | ETE | Education, Training & Employment | | |
