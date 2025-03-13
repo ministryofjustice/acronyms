@@ -196,6 +196,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CNA  | Certified Normal Accommodation | | The Prison Service's measure of accommodation, CNA represents the good, decent standard of accommodation that the services aspires to provide all prisoners. |
 | CO | Community Order | | |
 | COACD | Court of Appeal Criminal Division | | |
+| COAT | Cloud Optimisation & Accountability Team | https://peoplefinder.service.gov.uk/teams/cloud-optimisation-accountability-team | Team within the Hosting Service Area, Platforms & Architecture. Their mission is to optimise cloud costs and environmental impact, and maximise value of cloud to MoJ through collaboration, transparency and continuous improvement. |
 | COBR | Cabinet Office Briefing Room | | |
 | CoCo | Code of Connection | | Usually associated with the PSN. An agreed standard ('code') for network communication. |
 | COE | Center of Excellence | | Microsoft Power Platform management tooling |
