@@ -454,7 +454,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | HC | Health Care | |  Health Care staff are NHS staff who work within the prison from their own dedicated Health Care building. They over see the day-to-day medical needs of prisoners. Most Police & Courts also have Health Care staff working with them to take care of people in custody |
 | HCC | Health Care Centre | | NHS facility in a prison |
 | HDC | Home Detention Curfew | | A statutory scheme that allows the Secretary of State to release eligible prisoners before their Conditional Release Date. It was designed to assist prisoners to resettle into the community. |
-| HDCAD | Home Detention Curfew Approved Date | | |
+| HDCAD | Home Detention Curfew Actual Date | | |
 | HDCED | Home Detention Curfew Eligibility Date | | |
 | HJIP | Health and Justice Indicators of Performance | | Dataset that collects information on the delivery and outcome requirements NHS England are required to commission as part of their organisational responsibilities. |
 | HLT | HMPPS Leadership Team | | |
