@@ -48,7 +48,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AEP | Accelerated Encryption Processing | | |
 | AFD | Agency Framework Document | | NOMS framework |
 | AFK | Away From Keyboard | | |
-| AGFS | Advocate Gradual Fees Scheme | | Fee scheme available to Barristers who work on Crown Court cases |
+| AGFS | Advocates' Graduated Fee Scheme | | Fee scheme available to Barristers who work on Crown Court cases |
 | AIS | Acceptance Into Service | | |
 | AJAS | Access to Justice Analytical Services | | |
 | AJTC | Administrative Justice Tribunals Council | | |
