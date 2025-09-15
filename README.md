@@ -1082,6 +1082,7 @@ management of prison governors |
 | SNOW | Service Now | | Contraction used by Prison staff |
 | SO | Supervising Officer | | |
 | SOA | Service-Oriented Architecture | | Both a term and a product suite from Oracle, responsible for providing a point of interface for external integrations for CCMS for case creation |
+| SOC | Security Operations Centre | | MoJ’s Security Operations Centre proactively monitors, detects, analyses and respond to cybersecurity threats and incidents in real time, ensuring the protection of digital assets and data. |
 | SOCT | Security, Order and Counter Terrorism | | |
 | SOLT | Senior Operational Leadership Team | | Replaced POMC |
 | SoMo | Social Mobility | | |
