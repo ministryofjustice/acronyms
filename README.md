@@ -639,6 +639,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | MFD | Multifunctional device | | Printers at MOJ, which can also be used to scan documents (hence the 'multifunctional' bit). |
 | MHA1983 | Mental Health Act 1983 | | |
 | MI | Management Information | | Data or statistics collected and used to measure performance in a business |
+| MIP | Monitoring Integration Platform | | |
 | Microlise | GPS System allowing real-time vehicle tracking | | |
 | might | denotes a possibility | | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | MINT | Managed INTerconnect | | Two firewalls that bridge the OMNI and Quantum networks. |
