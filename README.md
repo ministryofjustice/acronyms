@@ -410,6 +410,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | FCA | Financial Conduct Authority | | The Financial Conduct Authority (FCA) is a financial regulatory body in the United Kingdom, but operates independently of the United Kingdom government, and is financed by charging fees to members of the financial services industry. |
 | FCO | Foreign and Commonwealth Office | | |
 | FCOS | Foreign and Commonwealth Office Services | | A trading fund of the FCO. Providers of IL2 and IL3 web hosting |
+| FDC | Final Defence Cost | | |
 | FDR | Fast Delivery Report | | |
 | FFS/FFU | Fee For Service / Fee For Use | | Fee for Service refers to the money that CRCs are automatically paid by the MoJ to deliver orders of the court for the offenders allocated to the CRC, plus the TTG services they are mandated to provide.
 Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS’ cohort of offenders (or by other CRCs) |"
