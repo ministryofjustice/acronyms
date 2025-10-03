@@ -1118,6 +1118,7 @@ management of prison governors |
 | SSP | Shared Services Programme | | |
 | STC | Secure Training Centre | | Privately-run, education-focussed centres for children aged 12-17.  |
 | STOP | Substance, Treatment and Offending Programme | | Drugs programme |
+| STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service & Elevation of Privilege; Threat Modelling Technique. |
 | STS | Serious Terrorism Sentence | | |
 | SU | Service User | | An offender in probation parlance |
 | SU | Shielding Unit | | Accommodation to protect the most vulnerable, with enhanced levels of biosecurity including dedicated staff |
