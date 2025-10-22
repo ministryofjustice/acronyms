@@ -255,7 +255,8 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CSOGP | Community Sex Offender Group Programme | | Sex Offender Treatment Programme (no longer running). |
 | CSR | Civil Service Resourcing | | The previous name for the Government Recruitment Service (GRS) |
 | CSR | Corporate Staff Rostering | | A system used in prisons to detail staff. Also known as My Detail or InVision WFM |
-| CSRA | Cell Share Risk Assessment | | Mandatory risk assessment carried out on all prisoners and reviewed at regular intervals, to try to prevent harm or risk to prisoners. Introduced following the death in custody of Zahid Mubarek, who was murdered in Feltham young offender institution in 2000, after he was put in the same cell as Robert Stewart who had mental health issues and racist beliefs.  |
+| CSRA | Cell Share Risk Assessment | | Mandatory risk assessment carried out on all prisoners and reviewed at regular intervals, to try to prevent harm or risk to prisoners. Introduced following the death in custody of Zahid Mubarek, who was murdered in Feltham young offender institution in 2000, after he was put in the same cell as Robert Stewart who had mental health issues and racist beliefs. |
+| CSRU | Care, Separation, and Reintegration Unit | | A unit within a prison that is designed to hold inmates who require special care due to a number of factors, such as being at risk of self-harm, causing harm to others, or requiring segregation for other reasons. |
 | CSV | Community Service Volunteer | | |
 | CTC | Counter Terrorism Clearance | | a security clearance level, as seen in the Tech Scorecard : "Anyone with administrative or operational access to production systems... has CTC-level clearance" |
 | CTS | Core Technology Services team | | |
