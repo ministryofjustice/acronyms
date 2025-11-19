@@ -443,12 +443,14 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | GL | General ledger | | |
 | GLiMR | Generalised Listing, Management & Registration | | GLiMR is a Generalised Listing, Management & Registration multi-jurisdiction Case Management system used by several MoJ sites situated throughout England and Wales, and as well as being accessed by both MoJ/HMCTS staff has a public-facing website that feeds directly to the GLiMR Database. |
 | GMS | Gateway Management System | https://justiceuk.sharepoint.com/sites/HMPPSIntranet/SitePages/Gateway-management-system.aspx?web=1 | The Gateway Management System (GMS) is the new staff tool for generating project proposals and first-time requests and replaces the Business Strategy Change Triage System. |
+| GoB | Green-on-Black | Libra Green-on-Black is the IT system/database that holds information related to Criminal fines and other financial court orders (such as costs, compensation or surcharges). It is due to be replaced by Opal in 2027-28. |
 | GOOD | Good Order Or Discipline | | A term used in prisons to describe when a prisoner is located in a secure location (usually the Segregation unit) or under reduced regime, under Prison Rule 45 (YOI Rule 49). Good Order or Discipline is used if a prisoner behaves in a way that prison staff think would put other people in danger or cause problems for the rest of the prison. |
 | GORS | Government Operational Research Services | | Operational research (also known as 'management science') is the application of scientific methods to management problems. |
 | GPC | Government Procurement Card | | Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases. |
 | GPP | Generic Parole Process | | |
 | GRS | Government Recruitment Service | | The organisation that manages recruitment campaigns, ensuring open and fair competition. Previously known as Civil Service Resourcing. |
 | GSCPP | Government Security Centre People and Physical | | |
+| GSG | Government Statistician Group | The Government Statistician Group is a government profession for statisticians and data scientists who have passed a GSG badging exercise. |
 | GSI | Government Secure Intranet | | |
 | GSR | Government Social Research | | The Government Social Research Service (GSR) provides evidence to understand, develop, implement, monitor and evaluate government policies and services.  It has members in all the main government departments as well as the devolved administrations and other government bodies. It is one of five government analytical services providing evidence for policy.  |
 | GSS | Government Statistical Services | | The Government Statistical Service (GSS) produces national statistics and other official statistics, analysis, interpretation and provides statistical advice to improve understanding and help decision-making. |
