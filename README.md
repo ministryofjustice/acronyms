@@ -833,6 +833,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | PECS | Prisoner Escort Custody Services | | The provision of prisoner journeys and transfers between prisons, the case and supervision of prisoners in custody in court cell suites and the custody of prisoners in court docks. |
 | PED | Parole Eligibility Date | | |
 | PEEPs | Personal Emergency Evacuation Plans | | To help people evacuate the building in the event of a fire alarm or other emergency, especially if they may have difficulty due to a disability, injury, pregnancy, etc. |
+| PEL | Prison Employment Lead | | |
 | PER | Person Escort Record | | |
 | PETP | Prison Estates Transformation Programme | | |
 | PEX(ER) | Public Expenditure (Efficiency and Reform) Cabinet Sub-committee | | |
