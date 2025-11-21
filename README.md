@@ -1065,6 +1065,7 @@ management of prison governors |
 | SID | Self Inflicted Death | | |
 | SIDs | Self Inflicted Death | | |
 | SIG | Service Integration Group | | |
+| SiLAS | Sign in to Legal Aid Services | | |
 | SIM | Service Incident and Management | | |
 | SiP | Staff in Post | | |
 | SIR | Security Information Record | | |
