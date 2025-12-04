@@ -779,6 +779,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | OPG | Operation Policy Group | | |
 | OPT | Operational Partnerships Team | | OPTâ€™s core role is to ensure that information is appropriately shared, while protecting the security and stability of HMPPS sites, staff and operational capabilities. |
 | OPV | Official Prison Visitor | | OPVs visit prisoners who rarely, if ever, have visits from friends or family members. OPVs are volunteers and are independent of the prison and its staff. |
+| OPVCT | Official Prison Video Conferencing Team | | |
 | ORA | Offender Rehabilitation Act 2014 | | An Act passed by parliament that made changes to the current legislative framework to support these reforms including ensuring offenders released from custodial
 sentences of over 1 day will be subject to spend a minimum of 12 months supervision in the community |"
 | ORA2014 | Offender Rehabilitation Act 2014 | | |
