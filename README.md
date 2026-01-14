@@ -1192,6 +1192,7 @@ management of prison governors |
 | VCC | Video Conferencing Centres | | Video conferencing centres (VCCs) are modern video facilities, purpose-built in prisons that serve the courts. VCCs are designed so they are suitable for court and parole hearings. They are also suitable for legal consultations. VCCs are not used for family or social visits by video call. |
 | VCD | View Court Data | | LAA web app for viewing data from HMCTS's "Common Platform" |
 | VCS | Voluntary & Community Sector | | |
+| VDE | Visitor Denied Entry | | |
 | VDS | Virtual Desktop Services | | |
 | VDT | Violence Diagnostic Tool | | Provides regular Management Information on violence to all levels of the agency and HMPS |
 | VDT | Voluntary Drug Testing | | A scheme that allowed offenders to sign a compact agreeing to be drug tested at regular intervals to help them remain drug free & help them prove this, usually as part of their sentence plan, or in cases relating to Social Services etc. |
