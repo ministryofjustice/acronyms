@@ -152,6 +152,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CCRC | Criminal Cases Review Commission | | |
 | CCRN | Court Case Reference Number | | This is a unique reference number assigned to a new occurrence of a court case created on PNC. The CCRN is held by CJSE but may not be held by court systems relevant to all court types and may be used to identify cases in civil crown magistrates courts etc. Will be held in CJSE sent from Police Case systems. |
 | CCS | Crown Commercial Service | | |
+| CCU | Counter Corruption Unit | | |
 | CDA | Court data adaptor | | |
 | CDC | Change Data Capture | | |
 | CDC | Change Directorate Committee | | |
@@ -875,6 +876,7 @@ management of prison governors |
 | PMU | Population Management Unit | | |
 | PNC | Police National Computer | | The Police National Computer is used to facilitate investigations and sharing information of both national and local importance. |
 | PNCiD | Police National Computer Id | | To identify a particular person by the number allocated by police when creating a record on the PNC. |
+| PNS | Prison NOMIS Stakeholder | Groups that control access roles in DPS for different stakeholder groups. Users are added to a PNS group depending on their job role. | |
 | PO | Prison Officer | | |
 | PO | Probation Officer | | Not to be confused with Prison Officer in much OM literature |
 | POA | Payment on account | | LAA term for when a provider requests to be paid for part of the work they already carried out, before they submit their final claim/bill |
