@@ -565,6 +565,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | JSA | Jobseekers Allowance | | You can apply for New Style Jobseeker’s Allowance (JSA) to help you when you’re looking for work. |
 | JSAS | Justice Statistics Analytical Services | | A unit within Ministry of Justice Analytical Services Directorate. |
 | JSC | Justice Select Committee | | |
+| JSO | Justice Satellite Office | | |
 | JSON | JavaScript Object Notation | | A simple, lightweight data format. |
 | Justice Data | Public facing website for latest prison, probabtion and courts data | | https://data.justice.gov.uk/ |
 | Kainos CTC | Kainos Challenge to Change | | General Offending Programme |
