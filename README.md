@@ -788,9 +788,10 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | ORA2014 | Offender Rehabilitation Act 2014 | | |
 | Oracle HRMS | Prison Human Resource Management System | | Replaced by SOP |
 | OS | Offender Supervisor | | |
-| OSCAR/OSCAR ONE | Orderley Officer | | Oscar One is the radio call sign allocated to the manager in charge of the prison each day. This call sign remains consistent across all prisons, enabling any staff working there from any other sites to contact the Orderley Officer quickly via radio. Oscar One is usually a CM (Custodial Manager) grade who reports to Victor One (Duty Governor), & over-sees the prison & decision-making on a daily basis, through rotation-based rostering. |
 | OSAG | Operational and System Assurance Group  | | responsible for several of the audits we hold data for on the Hub and are mentioned in TNs |
 | OSAP | Offender Substance Misuse Programme | | Substance Misuse Programme (no longer running). |
+| OSAR | Offender Subject Access Request | | |
+| OSCAR/OSCAR ONE | Orderley Officer | | Oscar One is the radio call sign allocated to the manager in charge of the prison each day. This call sign remains consistent across all prisons, enabling any staff working there from any other sites to contact the Orderley Officer quickly via radio. Oscar One is usually a CM (Custodial Manager) grade who reports to Victor One (Duty Governor), & over-sees the prison & decision-making on a daily basis, through rotation-based rostering. |
 | OSG | Operational Support Group/Grade | | Operational support grades (OSGs) work in prisons carrying out duties essential to the smooth running of the establishment. They may work in and around a prison establishment or on duties which take them outside - to courts or other prisons, for example. |
 | OSPT | Official Solicitor and Public Trustee | | |
 | OST | Operational Security Team | | |
