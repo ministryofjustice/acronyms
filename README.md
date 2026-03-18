@@ -817,6 +817,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | PCC(S)A2000 | Powers of Criminal Courts (Sentencing) Act 2000 | | |
 | PCI | Payment Card Industry | | An industry standards body responsible for regulation of handling debit/credit cards. |
 | PCL-R | Assessment of Psychopathology | | |
+| PCMS | Prisoner call monitoring service | | The prisoner call monitoring service (PCMS) allows approved external users to request temporary access to a prisoner’s recorded calls for a specific date range and for a justified reason. Security staff review and approve requests, after which the external user can listen to the calls remotely. |
 | PCO | Prisoner Custody Officer | | |
 | PCOL | Possession Claim Online | | |
 | PCOSO | People Convicted Of Sexual Offences | | The 'P' may also be known as 'Persons' or 'Prisoners' |
