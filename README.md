@@ -83,6 +83,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ATO | Authority to operate | | |
 | ATR | Alcohol Treatment Requirements | | |
 | AVD | Azure Virtual Desktop | | |
+| AVS | Approved Visitors Scheme | | A specific vetting process for Category A prisoners to ensure their social contacts are verified |
 | AWDL | Average Working Days Lost | | |
 | AWS | Amazon Web Services | | |
 | BA | Business Analyst or Business Admin | | |
@@ -359,6 +360,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ECL | End of Custody Licence | | A scheme within the Prison Service between 2007 and 2010 to help alleviate pressures on the prison population. Eligible people could be released early from custody 18 days before their release date |
 | ECS | Elastic Container Service | | |
 | ECSL | End of Custody Supervised Licence | | A scheme within the Prison Service first implemented on 17 October 2023, operating in 21 prisons and is a temporary measure in response to the current pressure on some prisons. Its use is targeted, and it will only operate in certain areas for a limited period of time. |
+| ECV | Enhanced Contact Vetting | | A security scheme designed to mitigate the outward terrorist risk posed by specific prisoners by vetting their social contacts before communication is permitted |
 | EDM | Exceptional Delivery Model | | |
 | EDR | Earliest Date of Release | | |
 | EDRMS | Electronic Documents and Record Management System | | Also known as NorthgateLAA's externally hosted document/record management system, used by CCMS. |
