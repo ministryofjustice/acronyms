@@ -313,6 +313,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DOM | Director of Offender Management | | |
 | DOM1/Dom1 | Domain 1 | | End-user compute and networking solution |
 | DPA | Data Protection Act | | |
+| dPER | Digital Person Escort Record | | |
 | DPIA | Data Protection Impact assessment | | |
 | DPR | Digital Prison Reporting | | |
 | DPRRD | Detention Post Recall Release Date | | |
