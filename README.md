@@ -1019,6 +1019,7 @@ management of prison governors |
 | RSHO | Risk of Sexual Harm Order | | |
 | RSIPB | Resource Strategy Implementation Programme Board | | |
 | RSR | Risk of Serious Recidivism | | Algorithmic predictor |
+| RTC | Risk to Children | | |
 | RTM | Requirements Traceability Matrix | | |
 | RTUs | Ready To Use Units | | |
 | RTW | Right To Work | | Evidence that someone is eligible to work lawfully in the UK. |
