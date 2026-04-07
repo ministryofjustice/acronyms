@@ -1099,8 +1099,8 @@ management of prison governors |
 | SOA | Service-Oriented Architecture | | Both a term and a product suite from Oracle, responsible for providing a point of interface for external integrations for CCMS for case creation |
 | SOC | Security Operations Centre | | MoJ’s Security Operations Centre proactively monitors, detects, analyses and respond to cybersecurity threats and incidents in real time, ensuring the protection of digital assets and data. |
 | SOCT | Security, Order and Counter Terrorism | | |
-| SOLT | Senior Operational Leadership Team | | Replaced POMC |
 | SOCU | Serious and Organised Crime Units | |  Serious and Organised Crime Units (SOCU) in prisons work to disrupt organized criminality within the custodial estate, focusing on high-harm threats. Operating with regional HMPPS teams, they identify, target, and monitor criminals involved in gangs, smuggling, and violence, aimed at improving security and reducing external influence |
+| SOLT | Senior Operational Leadership Team | | Replaced POMC |
 | SoMo | Social Mobility | | |
 | SOP | Single Operating Platform | | The HR system for the Ministry of Justice and other government departments. Used to complete HR, procurement, finance and payroll transactions. |
 | SOP | Standard Operating Procedure | | |
