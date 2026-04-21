@@ -368,7 +368,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | EDS | Extended Determinate Sentence | | |
 | EDS | Electronic Data Systems | | The private contractor providing the new IT infrastructure throughout the Prison Service as per the QUANTUM Project |
 | EDS100 | Extended Determinate Sentence imposed for certain Terrorism Offences | | |
-| EDW | Enterprise Data Warehouse | | Management Information data warehouse. Holds data from many LAA applications. |
+| EDW | Enterprise Data Warehouse | | Management Information data warehouse that held data from many LAA applications.  Now decommissioned. |
 | EFE | Estimate Financial Eligibility | | An example is the LAA estimate of financial eligibility for legal aid |
 | EGS | Enhanced Gate Security | | EGS refers to the installation of X-ray baggage scanners, archway metal detectors (sometimes referred to as a â€˜portalâ€™) and hand-held metal detector wands. |
 | EM | Electronic Monitoring | | (Also known as 'tagging') is the practice of attaching a tag to someone's ankle, used in England and Wales to monitor curfews and conditions of a court or prison order. Forms part of HDC - Home Detention Curfew |
@@ -634,6 +634,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | MAAT | Means Assessment Administration Tool | | Web app used by caseworkers to process legal aid applications for criminal cases. |
 | MaLi | Master list of initiatives | | An MOJ Technology list of all projects and programmes of work across the ministry |
 | MALRAP | Multi Agency Lifer Risk Assessment Panel | | |
+ MAPD | Manage a Provider's Data | | An LAA digital service that allows contract managers within the LAA to add, amend and search for provider data (MVP). It will also allow them to add and amend providerâ€™s contracts and schedules (MVP+) |
 | MAPPA | Multi-Agency Public Protection Arrangements | | |
 | MAPPP | Multi-Agency Public Protection Prisoner | | |
 | MAPPS | Multi-Agency Public Protection Service | | will replace VISOR. In development from 2021 until approx 2024 |
@@ -740,7 +741,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | NWOW | New Ways Of Working | | |
 | O/C | Offence Committed | | |
 | OAMU | Offender Assessment and Management Unit | | |
-| OAS | Oracle Analytics Server | | Oracle MI reporting tool. Used by LAA for reporting on data in EDW, Mojfin and other sources. OAS is the upgraded version of OBIEE. |
+| OAS | Oracle Analytics Server | | Oracle MI reporting tool formerly used by LAA for reporting on data in EDW, MOJFIN and other sources. OAS is the upgraded version of OBIEE. |
 | OASys | Offender Assessment System | | An offender assessment package. It identifies and classifies offending-related needs, such as anger management, drug dependency, and poor literacy. |
 | OAT | Operational Acceptance Test | | |
 | OBIEE | Oracle Business Intelligence Enterprise Edition | | LAA MI reporting tool that was replaced by OAS. |
@@ -1030,6 +1031,7 @@ management of prison governors |
 | S&A | Strategy & Assurance | | |
 | S3 | Simple Storage Service | | Amazon's data storage service |
 | SA2020 | Sentencing Act 2020 | | |
+| SaBC| Submit a Bulk Claim | | A service that enables legal aid providers to submit monthly submissions, including reported Matter Starts, to the Legal Aid Agency |
 | SAQ | Self Assessment Questionnaire | | A form completed within the first couple days of starting custody in prison, by a new prisoner |
 | SAR | Subject Access Request | | Similar to an FOI, but for yourself. At the MOJ this is typically used by prisoners or civil servants. |
 | SARA | Spousal Assault Risk Assessment | | |
