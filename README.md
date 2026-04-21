@@ -751,6 +751,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | OCA | Offender classification and assessment | | |
 | OCC | Office for Contracts & Competitions | | Home Office department dealing with contracts for Correctional Services |
 | OCC | Operational Control Centre | | |
+| OCTO | Office of the CTO | | |
 | OCMC | Online Civil Money Claims | | |
 | ODI | Open Data Institute | | |
 | OEM | Oracle Enterprise Manager | | Oracle monitoring software, used in CCMS |
