@@ -1,7 +1,7 @@
 # Ministry of Justice Acronyms
 
-[![repo standards badge](https://img.shields.io/endpoint?labelColor=231f20&color=005ea5&style=for-the-badge&label=MoJ%20Compliant&url=https%3A%2F%2Foperations-engineering-reports.cloud-platform.service.justice.gov.uk%2Fapi%2Fv1%2Fcompliant_public_repositories%2Fendpoint%2Facronyms&logo=data:image/png;base64,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)](https://operations-engineering-reports.cloud-platform.service.justice.gov.uk/public-github-repositories.html#acronyms)
-
+[![Ministry of Justice Repository Compliance Badge](https://github-community.service.justice.gov.uk/repository-standards/api/acronyms/badge?style=flat))](https://github-community.service.justice.gov.uk/repository-standards/acronyms)
+[![pages-build-deployment](https://github.com/ministryofjustice/acronyms/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ministryofjustice/acronyms/actions/workflows/pages/pages-build-deployment)
 
 This is a replacement for the (currently defunct) "Big Book of Acronyms" web application. This site is intended for internal MoJ use only.
 
@@ -291,7 +291,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DD | Deputy Director | | |
 | DDA | Disability Discrimination Act 1995 | | |
 | DDaT | Digital, Data and Technology | | |
-| DDC | Deputy Director of Custody | | regional responsibilty for a group of prisons |
+| DDC | Deputy Director of Custody | | regional responsibility for a group of prisons |
 | DDC | Digital Document Conversion | | |
 | DDDCC | Data Driven Department and Culture Change | | |
 | DDJ | Deputy District Judge | | A judge who sits for between 15 to 50 days a year in the County Courts |
@@ -364,7 +364,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ECV | Enhanced Contact Vetting | | A security scheme designed to mitigate the outward terrorist risk posed by specific prisoners by vetting their social contacts before communication is permitted |
 | EDM | Exceptional Delivery Model | | |
 | EDR | Earliest Date of Release | | |
-| EDRMS | Electronic Documents and Record Management System | | Also known as NorthgateLAA's externally hosted document/record management system, used by CCMS. |
+| EDRMS | Electronic Documents and Record Management System | | Also known as Northgate LAA's externally hosted document/record management system, used by CCMS. |
 | EDS | Extended Determinate Sentence | | |
 | EDS | Electronic Data Systems | | The private contractor providing the new IT infrastructure throughout the Prison Service as per the QUANTUM Project |
 | EDS100 | Extended Determinate Sentence imposed for certain Terrorism Offences | | |
@@ -378,7 +378,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | EMI | Electronic Management Information | | LAA web app that allows LAA to share MI data with providers. Currently used for financial statements. |
 | EMS | Electronic Monitoring Services | | The organisation responsible for the delivery of Electronic Monitoring. |
 | EMT | Equalities Monitoring Tool | | |
-| EOI | Expression of Interest | | Recruitment method that can sometimes be utilised. Ie. filling short-term vacancies with internal staff |
+| EOI | Expression of Interest | | Recruitment method that can sometimes be utilised. i.e. filling short-term vacancies with internal staff |
 | EP | Extended Programme | | Sex Offender Treatment Programme (no longer running). |
 | EPAW | Express Prior Authority in Writing | | Related to the disclosure of military service |
 | EPDQ | Electronic Post Data Quickly transaction | | Electronic payments service used within some HMCTS services |
@@ -400,10 +400,10 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ETD | Early Transfer Date for Detention and Training Orders (DTO) | | |
 | ETE | Education, Training & Employment | | |
 | ETL | Extract, Transform & Load | | |
-| ETS | Enhanced Thinking Skills | | A course that prisoner can do to to address the attitudes and thought patterns that may of contributed to their offending |
+| ETS | Enhanced Thinking Skills | | A course that prisoner can do to address the attitudes and thought patterns that may of contributed to their offending |
 | EUCS | End User Compute Services | | |
 | Ex-ASP | Ex-Armed Service Personnel | | |
-| ExCo | Executive Comity Board | | Permanent Secutary and Director Generals (6 of). |
+| ExCo | Executive Comity Board | | Permanent Secretary and Director Generals. |
 | EXHIBIT | See XHIBIT | | |
 | Exhibit | Database co-ordinated by Crown Courts | | |
 | EXISS | Exchange Integration Services Stream | | |
@@ -417,10 +417,9 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | FCOS | Foreign and Commonwealth Office Services | | A trading fund of the FCO. Providers of IL2 and IL3 web hosting |
 | FDC | Final Defence Cost | | |
 | FDR | Fast Delivery Report | | |
-| FFS/FFU | Fee For Service / Fee For Use | | Fee for Service refers to the money that CRCs are automatically paid by the MoJ to deliver orders of the court for the offenders allocated to the CRC, plus the TTG services they are mandated to provide.
-Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS‚Äô cohort of offenders (or by other CRCs) |"
+| FFS/FFU | Fee For Service / Fee For Use | | Fee for Service refers to the money that CRCs are automatically paid by the MoJ to deliver orders of the court for the offenders allocated to the CRC, plus the TTG services they are mandated to provide. Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS‚Äô cohort of offenders (or by other CRCs) |
 | FiAP | Find a Prisoner service | | |
-| FITS | Future IT Sourcing Programme | | or is the S 'sourcing'? Yes |
+| FITS | Future IT Sourcing Programme | | |
 | FLO | Family Liaison Officer | | |
 | FMB | Functional Mailbox | | |
 | FMI | Five Minute Intervention | | A scheme introduced in Prisons, to encourage staff to use their personal skills & spend "5 minutes" talking with prisoners to try & reduce risk of harm, violence etc, with the idea being to reduce violence in prisons. "In prison, the everyday conversations we have can provide rehabilitative opportunities. When you use procedural justice principles and FMI skills you can help people to think and behave differently." |
@@ -445,7 +444,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS‚
 | GIRR | Government Information Risk Return | | |
 | GKIM | Government Knowledge & Information Management | | The Government KIM Professional Framework has been mapped to the CILIP Professional Knowledge and Skills Base (PKSB), as this is the only professional framework to cover the whole spectrum of KIM activities. |
 | GL | General ledger | | |
-| GLiMR | Generalised Listing, Management & Registration | | GLiMR is a Generalised Listing, Management & Registration multi-jurisdiction Case Management system used by several MoJ sites situated throughout England and Wales, and as well as being accessed by both MoJ/HMCTS staff has a public-facing website that feeds directly to the GLiMR Database. |
+| GLiMR | Generalised Listing, Management & Registration | | A multi-jurisdiction Case Management system used by several MoJ sites situated throughout England and Wales, and as well as being accessed by both MoJ/HMCTS staff has a public-facing website that feeds directly to the GLiMR Database. |
 | GMS | Gateway Management System | https://justiceuk.sharepoint.com/sites/HMPPSIntranet/SitePages/Gateway-management-system.aspx?web=1 | The Gateway Management System (GMS) is the new staff tool for generating project proposals and first-time requests and replaces the Business Strategy Change Triage System. |
 | GoB | Green-on-Black | Libra Green-on-Black is the IT system/database that holds information related to Criminal fines and other financial court orders (such as costs, compensation or surcharges). It is due to be replaced by Opal in 2027-28. |
 | GOOD | Good Order Or Discipline | | A term used in prisons to describe when a prisoner is located in a secure location (usually the Segregation unit) or under reduced regime, under Prison Rule 45 (YOI Rule 49). Good Order or Discipline is used if a prisoner behaves in a way that prison staff think would put other people in danger or cause problems for the rest of the prison. |
@@ -490,10 +489,10 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS‚
 | HRD | Human Resource & Development | | |
 | HRM | Human Resource Management | | |
 | HRP | Healthy Relationships Programme | | Domestic Violence Programme (no longer running). |
-| HSE | High-Security Estate | | The highest category/ security level of prison, eg Belmarsh, now more commonly known as LTSHE (Long Term High-Security Estate). Could also be Health and Safety Executive. |
+| HSE | High-Security Estate | | The highest category/ security level of prison, e.g. Belmarsh, now more commonly known as LTSHE (Long Term High-Security Estate). Could also be Health and Safety Executive. |
 | HSP / HSF | Healthy Sex Programme / Health Sexual Functioning Programme | | Sex Offender Treatment Programme |
 | HTA | Hierarchical Task Analysis | | |
-| HWF | Help with Fees | | The service formerly known as Fee Remission.Two parts, public and staff-facing |
+| HWF | Help with Fees | | The service formerly known as Fee Remission. Two parts, public and staff-facing |
 | HwPV | Help With Prison Visits | | Also known as APVS (Assisted Prison Visit Scheme) |
 | I-SOTP | Internet Sex Offender Treatment Programme | | Sex Offender Treatment Programme (no longer running). |
 | IA | immigration and asylum | | As in 'Immigration and Asylum Tribunal'. |
@@ -519,7 +518,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS‚
 | IICSA | Independent Inquiry into Child Sexual Abuse | | |
 | IIP | Investors In People | | |
 | IIS | Inmate Information System | | The precursor to Prison-NOMIS. IIS has now been decommissioned, and data archived into HPA (Historic Prisoner Application) |
-| IL# | Impact Levels [number] | | Shorthand for BIL#Information has an impact level, not a whole system. eg p-Nomis is IL3 is wrong.specific information about prisoners will have business impact 3 if made publicAll revised with the new Official criteria |
+| IL# | Impact Levels [number] | | Information has an impact level, not a whole system. Specific information about prisoners will have business impact 3 if made public. All revised with the new Official criteria |
 | ILP | Individual Learning Plan | | |
 | IM | Interventions Manager | | Specifically related to NDelius |
 | IMA | Independent Monitoring Authority | | Responsible for monitoring EU nationals post-Brexit |
@@ -543,9 +542,9 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS‚
 | IRS | Incident Reporting System | | A bolt on software to PNOMIS for recording incidents within Prisons and escorts. |
 | is/are | denotes a description | | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | IS91 | A prisoner who has been detained under Immigration Act powers. | | |
-| ISCs | Incentivised Supervision Courts | | Intensive Supervision Courts (ISCs) are a problem-solving approach designed to handle offenders with complex needs. They aim to divert these offenders from short custodial sentences into enhanced community-based sentences that address underlying issues linked to their offending behavior. ISCs are part of a broader initiative to tackle the root causes of criminal behavior, focusing on areas such as substance misuse and supporting women offenders. As of June 2024, these courts are being piloted in various locations, including Liverpool, to evaluate their effectiveness in reducing reoffending rates. |
+| ISCs | Incentivised Supervision Courts | | Intensive Supervision Courts (ISCs) are a problem-solving approach designed to handle offenders with complex needs. They aim to divert these offenders from short custodial sentences into enhanced community-based sentences that address underlying issues linked to their offending behavior. ISCs are part of a broader initiative to tackle the root causes of criminal behaviour, focusing on areas such as substance misuse and supporting women offenders. As of June 2024, these courts are being piloted in various locations, including Liverpool, to evaluate their effectiveness in reducing reoffending rates. |
 | ISFL | Incentivised Substance Free Living | | A type of substance misuse treatment wing within prison |
-| ISP | Indeterminate Sentence Prisoner | | An offender who has not been given a release date. These offenders have to satisfy a parole board before they are considered for release, so they have an eligability date from which they can apply to the parole board, but they do not have a set date for release since a decision is made based on a number of factors such as behaviour in prison, engagement with victim awareness programmes etc  |
+| ISP | Indeterminate Sentence Prisoner | | An offender who has not been given a release date. These offenders have to satisfy a parole board before they are considered for release, so they have an eligibility date from which they can apply to the parole board, but they do not have a set date for release since a decision is made based on a number of factors such as behaviour in prison, engagement with victim awareness programmes etc  |
 | ISP | Initial Sentence Plan | | |
 | ISPP/IPP | Indeterminate Sentences for Public Protection | | CJA 1991 & 2003. An offender who has not been given a release date. These offenders have to satisfy a parole board before they are considered for release, so they have an eligability date from which they can apply to the parole board, but they do not have a set date for release since a decision is made based on a number of factors such as behaviour in prison, engagement with victim awareness programmes etc. IPP sentences have now been deemed inhumane & are no longer handed out, since it was felt to be unfair that prolific offenders who had not committed heinous crimes such as murder, could be held indefinitely with no release date. Denounced as "inhumane" and a form of "psychological torture" by UN torture expert Alice Jill Edwards, IPP sentences were scrapped in 2012. Since then the number of unreleased IPP prisoners has been reduced by three-quarters and those in custody are being supported to progress towards release through the government's refreshed IPP Action Plan |
 | ISR | Independent Sentencing Review | | The Independent Sentencing Review (ISR) was commissioned by the UK Ministry of Justice in October 2024 to address a severe prison capacity crisis. Led by former Lord Chancellor David Gauke, the review aimed to reform sentencing, reduce reoffending, and ensure the prison population does not exceed available space. The final report, published on 22 May 2025, provided recommendations that resulted in the Sentencing Act 2026. |
@@ -625,7 +624,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS‚
 | LR | Licence Revoke | | |
 | LSA | Local Systems Administrator | | Someone with additional admin rights who maintain the account access, roles & permissions of other staff at their site. Usually relating to NOMIS, DPS etc |
 | LSAST | Live Services Applications Support Team (also a Prison-NOMIS Dev / Test environment by the same name) | | This was the Prison-NOMIS Application Support Team's name, and an environment named 'LSAST' was originally built for them, but now it is now also used by NART for dev/test purposes |
-| LSC | Legal Services Commision | | Now the LAA |
+| LSC | Legal Services Commission | | Now the LAA |
 | LSC | Learning & Skills Council | | Replaced by Skills Funding Agency |
 | LSCB | Local Safeguarding Children Board | | |
 | LSF | Local Security Framework | | |
@@ -666,7 +665,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS‚
 | MOU | Memorandum Of Understanding | | |
 | MP | Modernisation Platform | | The Modernisation Platform is a hosting platform where teams can host and modernise applications which are not suitable for Cloud Platform |
 | MPS | Moving People Safely | | |
-| MPS | Metropolitan Police Service || Aka The MET - Londons Police Force |
+| MPS | Metropolitan Police Service || Aka The MET - London's Police Force |
 | MPSI | Ministers, Parliament, Strategy and implementation | | |
 | MQPL | Measuring the Quality of Prisoner Life | | |
 | MSV | Most Serious Violence | | |
@@ -734,7 +733,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS‚
 | NSVC | National Security Vetting Contact | | Someone within a team or organisation with knowledge of the security vetting process, and who can help with vetting questions or processes. |
 | NTC | Not to contact | | Used to show that there should be no contact between a prisoner and a prisoner contact. Often used in social visits booking. |
 | NTP | Notice to prisoners | | |
-| NTRG | National Tactical Response Group | | NTRG is a specialist unit of His Majesty's Prison Service in the United Kingdom, who work alongside National Dog & Technical Support Group (NDTSG) that is equipped to respond to serious incidents in prisons, in particular protests and hostage taking incidents. Officers are trained in riot control tactics including methods of entry, working at height and hostage resolution. They wear stab vests, flame retardant uniforms, helmets and armoured gloves and carry explosives, Monadnock PR-24 batons, shields, PAVA incapacitant and smoke bombs. Also known by a number of affectionate terms such as "The Mufti Squad" by Prisoners, most notably Charles Bronson in his various interviews/books etc. In 2018 alone, the unit was deployed 640 times to prisons in England & Wales. |
+| NTRG | National Tactical Response Group | | A specialist unit of His Majesty's Prison Service in the United Kingdom, who work alongside National Dog & Technical Support Group (NDTSG) that is equipped to respond to serious incidents in prisons, in particular protests and hostage taking incidents. Officers are trained in riot control tactics including methods of entry, working at height and hostage resolution. They wear stab vests, flame retardant uniforms, helmets and armoured gloves and carry explosives, Monadnock PR-24 batons, shields, PAVA incapacitant and smoke bombs. Also known by a number of affectionate terms such as "The Mufti Squad" by Prisoners, most notably Charles Bronson in his various interviews/books etc. In 2018 alone, the unit was deployed 640 times to prisons in England & Wales. |
 | NDTSG | National Dog & Technical Support Group | | See NTRG |
 | NVDA | NonVisual Desktop Access | | Windows screen reader, like JAWS, but free. |
 | NWOW | New Ways Of Working | | |
@@ -746,7 +745,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS‚
 | OBIEE | Oracle Business Intelligence Enterprise Edition | | LAA MI reporting tool that was replaced by OAS. |
 | OBN | Overseas British Network | | AKA OBNI |
 | OBP | Offender Behaviour Programme | | |
-| OBR | Office for Budget Responsibility | | "It is the duty of the Office to examine and report on the sustainability of the public finances" |
+| OBR | Office for Budget Responsibility | | It is the duty of the Office to examine and report on the sustainability of the public finances. |
 | OCA | Observation, Categorisation and Allocation | | |
 | OCA | Offender classification and assessment | | |
 | OCC | Office for Contracts & Competitions | | Home Office department dealing with contracts for Correctional Services |
@@ -795,7 +794,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | OSAG | Operational and System Assurance Group  | | responsible for several of the audits we hold data for on the Hub and are mentioned in TNs |
 | OSAP | Offender Substance Misuse Programme | | Substance Misuse Programme (no longer running). |
 | OSAR | Offender Subject Access Request | | |
-| OSCAR/OSCAR ONE | Orderley Officer | | Oscar One is the radio call sign allocated to the manager in charge of the prison each day. This call sign remains consistent across all prisons, enabling any staff working there from any other sites to contact the Orderley Officer quickly via radio. Oscar One is usually a CM (Custodial Manager) grade who reports to Victor One (Duty Governor), & over-sees the prison & decision-making on a daily basis, through rotation-based rostering. |
+| OSCAR/OSCAR ONE | Orderly Officer | | Oscar One is the radio call sign allocated to the manager in charge of the prison each day. This call sign remains consistent across all prisons, enabling any staff working there from any other sites to contact the Orderly Officer quickly via radio. Oscar One is usually a CM (Custodial Manager) grade who reports to Victor One (Duty Governor), & over-sees the prison & decision-making on a daily basis, through rotation-based rostering. |
 | OSG | Operational Support Group/Grade | | Operational support grades (OSGs) work in prisons carrying out duties essential to the smooth running of the establishment. They may work in and around a prison establishment or on duties which take them outside - to courts or other prisons, for example. |
 | OSPT | Official Solicitor and Public Trustee | | |
 | OST | Operational Security Team | | |
@@ -853,8 +852,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | PFI | Private Finance Initiative | | A way of creating 'public-private partnerships' where private firms are contracted to complete and manage public projects. |
 | PFS | Prisoner Facing Service | | A service that is provided to a Prisoner |
 | PGA | Prison Governor's Association | | Governor's union |
-| PGD | Prison Group Director | | HMPPS moved to a new delivery structure in April 2018 which introduced Prison Groups and Prison Group Directors (PGDs), each of whom is responsible for the operational delivery and strategic development of around 4 - 7 prisons and line
-management of prison governors |
+| PGD | Prison Group Director | | HMPPS moved to a new delivery structure in April 2018 which introduced Prison Groups and Prison Group Directors (PGDs), each of whom is responsible for the operational delivery and strategic development of around 4 - 7 prisons and line management of prison governors |
 | PGP | Pretty Good Privacy | | A way of encrypting emails in such as way that only the intended recipient can read. |
 | PHDP | Prison Health Delivery Plan | | |
 | PHE | Public Health England | | |
@@ -872,7 +870,7 @@ management of prison governors |
 | PIP | Performance Improvement Planning | | A strand of the Benchmarking programme |
 | PIPES | Psychologically Informed Physical Environment Services | | |
 | PIU | Police Intelligence Unit | | |
-| PIU | Protective Isolation Unit | | Accomodation for known or probable COVID-19 cases |
+| PIU | Protective Isolation Unit | | Accommodation for known or probable COVID-19 cases |
 | PLIC | Prison leavers Innovation Challenge | | It aims to develop innovative new solutions to break the cycle of reoffending |
 | PLP | Personal Learning Plan | https://dsdmoj.atlassian.net/wiki/spaces/RR/pages/4348772892/Personal+Learning+Plan+PLP | |
 | PMBLO | Pregnancy, Mother and Baby Unit Liaison Officer | | |
@@ -1144,7 +1142,7 @@ management of prison governors |
 | SUPS | the programming framework used to create a variety of HMCTS systems | | SUPS comes in different flavours. MCOL is written against SUPS 15, which is implemented in J2EE and the Java Spring framework. PCOL chose to use an older version, SUPS9, which has significant performance issues.SUPS is also sometimes used as shorthand for a contract which has Juror, Familyman and Caseman inside it. |
 | SUS | System Usability Scale | | The System Usability Scale (SUS) provides a ‚Äúquick and dirty‚Äù, reliable tool for measuring the usability. It consists of a 10 item questionnaire with five response options for respondents. |
 | SWAG | Scientific, Wild-Ass Guess | | Rough guess of how much a project will cost. See also ROM and PIDOOMA. |
-| Syscon | Software company who provide Prison-NOMIS | | "Syscon Justice Systems is the world's leading provider of offender management solutions, used by more jails and prisons to manage offenders than any other" |
+| Syscon | Software company who provide Prison-NOMIS | | Syscon Justice Systems is the world's leading provider of offender management solutions, used by more jails and prisons to manage offenders than any other. |
 | SystmOne | Name for the digital Healthcare System used by prison NHS staff | | Often referred to as System One, but whilst it‚Äôs pronounced the same, the e isn‚Äôt actually in the name. |
 | TA | Technical Architecture | | |
 | TACT | Terrorism ACT | | ‚ÄòTACT Prisoner‚Äô |
@@ -1156,7 +1154,7 @@ management of prison governors |
 | TCoP | Technology Code of Practice | | The Technology Code of Practice is a cross-government agreed standard used for the [Cabinet Office spend control](https://www.gov.uk/government/collections/cabinet-office-controls) process and the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/). |
 | TDiP | Transforming Delivery in Prisons | | |
 ' TED | Tariff Expiry Date | |
-| TED | Tenders Electronic Daily | | TED (Tenders Electronic Daily) is the online version of the 'Supplement to the Official Journal of the EU', dedicated to European public procurement.TED provides free access to business opportunities. It is updated 5 times a week with some 1,500 public procurement notices from the European Union, the European Economic Area and beyond. |
+| TED | Tenders Electronic Daily | | TED (Tenders Electronic Daily) is the online version of the 'Supplement to the Official Journal of the EU', dedicated to European public procurement. TED provides free access to business opportunities. It is updated 5 times a week with some 1,500 public procurement notices from the European Union, the European Economic Area and beyond. |
 | TERS | Tariff Early Removal Scheme | | |
 | TERSED | Tariff Early Removal Scheme Eligibility Date | | |
 | TF | Think First | | General Offending Programme (no longer running). |
@@ -1221,7 +1219,7 @@ management of prison governors |
 | VP | Vulnerable Prisoner | | |
 | VPS | Virtual Private Server | | |
 | VPU | Vulnerable Prisoner Unit | | |
-| VSiP | Vist someone in prison | https://www.gov.uk/prison-visits | | The name of the GOV.UK service used by the public to request social visits. |
+| VSiP | Visit someone in prison | https://www.gov.uk/prison-visits | | The name of the GOV.UK service used by the public to request social visits. |
 | VSR | Victim Summary Reports | | |
 | WAIS | Wechsler Adult Intelligence Scale | | Test used for diagnosing learning difficulties and disabilities (LDD) |
 | WAN | Wide Area Network | | |
@@ -1245,7 +1243,7 @@ management of prison governors |
 | YJB | Youth Justice Board | | |
 | YO | Young Offender | | |
 | YOA | Young Adult Offenders | | |
-| YOI | Young Offender Institution | | A type of prison in England and Wales intended for offenders aged beween 18-20, although some prisons cater for younger offenders. |
+| YOI | Young Offender Institution | | A type of prison in England and Wales intended for offenders aged between 18-20, although some prisons cater for younger offenders. |
 | YOS | Youth Offending Service | | |
 | YOT | Youth Offending Team | | A multi-agency team co-ordinated by a local authority, overseen by the YJB, that deals with young offenders and attempts to prevent youth recidivism and incarceration. |
 | YTD | Year To Date | | |
