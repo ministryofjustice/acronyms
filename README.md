@@ -36,7 +36,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | Acas | Advisory, Conciliation and Arbitration Service | | (Note: only an initial cap.) Aims to prevent and resolve employment disputes prior to employment tribunals. |
 | ACCT | Assessment, Care in Custody and Teamwork  | | Self-Harm document - replacement for 2052Sh Self-harm document. |
 | ACL | Access Control List | | |
-| ACO | Assistant Chief Officer (Probation) | https://www.workwithoffenders.co.uk/roles/assistant-chief-officer | An Assistant Chief Officer (ACO) is a strategic manager responsible for the delivery of Offender Management within Probation.
+| ACO | Assistant Chief Officer (Probation) | | An Assistant Chief Officer (ACO) is a strategic manager responsible for the delivery of Offender Management within Probation.
 | ACPO | Association of Chief Police Officers | | |
 | ACR | Automatic Conditional Release | | |
 | AD | Active Directory | | |
@@ -52,7 +52,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AIS | Acceptance Into Service | | |
 | AJAS | Access to Justice Analytical Services | | |
 | AJTC | Administrative Justice Tribunals Council | | |
-| ALB | Arm's-length body | https://www.gov.uk/guidance/public-bodies-reform#what-is-a-public-body | a specific category of central government public bodies that are administratively classified by the Cabinet Office. |
+| ALB | Arm's-length body | https://www.gov.uk/guidance/public-bodies-reform#arms-length-bodies | a specific category of central government public bodies that are administratively classified by the Cabinet Office. |
 | ALM | Application Lifecycle Management | | |
 | ALO | Adjudication Liason Officer | | | A Uniformed Prison Officer who is trained in the internal, Prison Adjudication process |
 | ALS | Action Learning Set | | |
@@ -128,7 +128,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CAS | Community accommodation services | | |
 | CAS | Case Allocation System | | Used after sentencing to assign a person who has been convicted as NPS or CRC |
 | CAS-2 | The Community Accommodation Service, Tier 2 | https://data.justice.gov.uk/contracts/bass | A contracted service which provides short-term accommodation for those who have no suitable accommodation and may otherwise be held in custody. |
-| CAS-3 | The Community Accommodation Service, Tier 3 | A service providing transitional accommodation (84 nights) to people who are at risk of homelessness after leaving prison or another type of CAS | |
+| CAS-3 | The Community Accommodation Service, Tier 3 | | A service providing transitional accommodation (84 nights) to people who are at risk of homelessness after leaving prison or another type of CAS. |
 | CaseMan | Civil Case Management legacy system | | The case management system formerly used by HMCTS services |
 | CAT / RE-CAT | Categorisation of a prison or prisoner | | Each prison is given a Categorisation rating which denotes it's security levels & what Categorisation of prisoner it can hold. Cat A is the highest security prison, with Cat D being the lowest. Categorisation assessments are carried out on prisoner and they are reviewed at regular interval. If an prisoner is deemed to need a change in categorisation, this is known as a "re-cat". |
 | CAT TOOL | Categorisation Digital Service | | The new Digital Service that is used when risk assessing prisoners to determine their Categorisation level. Reviews should be done at regular intervals and should be updated before moving the prisoner to a prison of a different Categorisation rating to where they are currently being held. |
@@ -268,7 +268,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | Custody Assistant | subcontracted staff in custody | | |
 | Custody Officer | police staff | | |
 | CVCC | Court Video Conference Centre | | |
-| CVL | Create and Vary a Licence |  New Digital Service, currently in development to replace and improve on the current Licence creation & editing process carried out in the Legacy system, NOMIS. Allows users from prisons and probation to collaborate on the licence management of prisoners being released into the community |
+| CVL | Create and Vary a Licence | | New Digital Service, currently in development to replace and improve on the current Licence creation & editing process carried out in the Legacy system, NOMIS. Allows users from prisons and probation to collaborate on the licence management of prisoners being released into the community. |
 | CVP | Cloud Video Platform | | CVP is an internet-based video meeting service used for court or tribunal headings. |
 | CWA | Contracted Work and Administration | | LAA web app for managing providers and their contracted work. Billing system (for civil legal help and crime lower) that contains all provider contracts and schedules. Enables commissioning teams to manage their providersâ€™ contracts and schedules. Is provider facing. Interfaces with CCMS to supply 'master record of the truth' of provider contract and contact details. Also does work in provisioning new provider user details to CCMS. |
 | CWX | | | Civil debt recovery service. Legacy debt management app, hosted external. |
@@ -302,7 +302,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DGAB | Data Governance Assurance Board | | |
 | DHSC | Department of Health and Social Care | | The Department of Health and Social Care leads, shapes and funds health and social care in England. |
 | DIB | Divisional Implementation Board | | |
-| DIC | death in custody | A term used when an person dies in custody, either police, court, prison or when released on licence. Covers all forms of death - self inflicted, overdoses, natural causes, due to illness, murder etc. |
+| DIC | death in custody | | A term used when an person dies in custody, either police, court, prison or when released on licence. Covers all forms of death - self inflicted, overdoses, natural causes, due to illness, murder etc. |
 | DID | Drink Impaired Drivers | | Substance Misuse Programme |
 | DIP | Drug Intervention Programme | | A high-profile strategy for tackling drugs and reducing crime. |
 | Dip sampling | A quality control process used by police forces in which a representative proportion of files are selected and inspected | | |
@@ -447,14 +447,14 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | GL | General ledger | | |
 | GLiMR | Generalised Listing, Management & Registration | | GLiMR is a Generalised Listing, Management & Registration multi-jurisdiction Case Management system used by several MoJ sites situated throughout England and Wales, and as well as being accessed by both MoJ/HMCTS staff has a public-facing website that feeds directly to the GLiMR Database. |
 | GMS | Gateway Management System | https://justiceuk.sharepoint.com/sites/HMPPSIntranet/SitePages/Gateway-management-system.aspx?web=1 | The Gateway Management System (GMS) is the new staff tool for generating project proposals and first-time requests and replaces the Business Strategy Change Triage System. |
-| GoB | Green-on-Black | Libra Green-on-Black is the IT system/database that holds information related to Criminal fines and other financial court orders (such as costs, compensation or surcharges). It is due to be replaced by Opal in 2027-28. |
+| GoB | Green-on-Black | | Libra Green-on-Black is the IT system/database that holds information related to Criminal fines and other financial court orders (such as costs, compensation or surcharges). It is due to be replaced by Opal in 2027-28. |
 | GOOD | Good Order Or Discipline | | A term used in prisons to describe when a prisoner is located in a secure location (usually the Segregation unit) or under reduced regime, under Prison Rule 45 (YOI Rule 49). Good Order or Discipline is used if a prisoner behaves in a way that prison staff think would put other people in danger or cause problems for the rest of the prison. |
 | GORS | Government Operational Research Services | | Operational research (also known as 'management science') is the application of scientific methods to management problems. |
 | GPC | Government Procurement Card | | Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases. |
 | GPP | Generic Parole Process | | |
 | GRS | Government Recruitment Service | | The organisation that manages recruitment campaigns, ensuring open and fair competition. Previously known as Civil Service Resourcing. |
 | GSCPP | Government Security Centre People and Physical | | |
-| GSG | Government Statistician Group | The Government Statistician Group is a government profession for statisticians and data scientists who have passed a GSG badging exercise. |
+| GSG | Government Statistician Group | | The Government Statistician Group is a government profession for statisticians and data scientists who have passed a GSG badging exercise. |
 | GSI | Government Secure Intranet | | |
 | GSR | Government Social Research | | The Government Social Research Service (GSR) provides evidence to understand, develop, implement, monitor and evaluate government policies and services.  It has members in all the main government departments as well as the devolved administrations and other government bodies. It is one of five government analytical services providing evidence for policy.  |
 | GSS | Government Statistical Services | | The Government Statistical Service (GSS) produces national statistics and other official statistics, analysis, interpretation and provides statistical advice to improve understanding and help decision-making. |
@@ -883,7 +883,7 @@ management of prison governors |
 | PMU | Population Management Unit | | |
 | PNC | Police National Computer | | The Police National Computer is used to facilitate investigations and sharing information of both national and local importance. |
 | PNCiD | Police National Computer Id | | To identify a particular person by the number allocated by police when creating a record on the PNC. |
-| PNS | Prison NOMIS Stakeholder | Groups that control access roles in DPS for different stakeholder groups. Users are added to a PNS group depending on their job role. | |
+| PNS | Prison NOMIS Stakeholder | | Groups that control access roles in DPS for different stakeholder groups. Users are added to a PNS group depending on their job role. |
 | PO | Prison Officer | | |
 | PO | Probation Officer | | Not to be confused with Prison Officer in much OM literature |
 | POA | Payment on account | | LAA term for when a provider requests to be paid for part of the work they already carried out, before they submit their final claim/bill |
@@ -1221,7 +1221,7 @@ management of prison governors |
 | VP | Vulnerable Prisoner | | |
 | VPS | Virtual Private Server | | |
 | VPU | Vulnerable Prisoner Unit | | |
-| VSiP | Vist someone in prison | https://www.gov.uk/prison-visits | | The name of the GOV.UK service used by the public to request social visits. |
+| VSiP | Vist someone in prison | https://www.gov.uk/prison-visits | The name of the GOV.UK service used by the public to book and request social visits. |
 | VSR | Victim Summary Reports | | |
 | WAIS | Wechsler Adult Intelligence Scale | | Test used for diagnosing learning difficulties and disabilities (LDD) |
 | WAN | Wide Area Network | | |
