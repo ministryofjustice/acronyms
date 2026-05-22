@@ -682,6 +682,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | NAP | National Applied Psychology Group | | |
 | NAPO | National Association of Probation Officers | | |
 | NART | National Applications Reporting Team | | This team support Reporting from NDelius, OASys and Prison-NOMIS using Business Objects. Answer ad-hoc queries including FOIs, PQs and Research Projects. We're on slack #nart |
+| NASH | Non-Attendance at Sentencing Hearing | | |
 | NCRD | Notional Conditional Release Date | | |
 | NCSC | National Cyber Security Centre | | The National Cyber Security Centre is an organisation of the United Kingdom Government that provides advice and support for the public and private sector in how to avoid computer security threats. |
 | ND | NDelius | | |
