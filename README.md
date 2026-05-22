@@ -557,6 +557,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | IWC | Intermittent Weekday Custody | | |
 | IWP | Integrated Word Processor | | Used within classic Prison-NOMIS Application. Template documents that pull data through from the database. Examples include case management documentation and release licences |
 | JAC | Judicial Appointments Commission | | |
+| JAIU | Justice AI Unit | | |
 | JC | Justices' clerk | | Legally-trained member of staff in a magistrates' court, who advises the mags (who are volunteers) on tricky questions about the law. |
 | JCHR | Joint Committee on Human Rights | | |
 | JES | Job Evaluation Scheme | | |
