@@ -362,6 +362,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ECS | Elastic Container Service | | |
 | ECSL | End of Custody Supervised Licence | | A scheme within the Prison Service first implemented on 17 October 2023, operating in 21 prisons and is a temporary measure in response to the current pressure on some prisons. Its use is targeted, and it will only operate in certain areas for a limited period of time. |
 | ECV | Enhanced Contact Vetting | | A security scheme designed to mitigate the outward terrorist risk posed by specific prisoners by vetting their social contacts before communication is permitted |
+| EDiC | Early days in custody | | |
 | EDM | Exceptional Delivery Model | | |
 | EDR | Earliest Date of Release | | |
 | EDRMS | Electronic Documents and Record Management System | | Also known as Northgate LAA's externally hosted document/record management system, used by CCMS. |
