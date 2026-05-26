@@ -634,7 +634,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPS�
 | MAAT | Means Assessment Administration Tool | | Web app used by caseworkers to process legal aid applications for criminal cases. |
 | MaLi | Master list of initiatives | | An MOJ Technology list of all projects and programmes of work across the ministry |
 | MALRAP | Multi Agency Lifer Risk Assessment Panel | | |
- MAPD | Manage a Provider's Data | | An LAA digital service that allows contract managers within the LAA to add, amend and search for provider data (MVP). It will also allow them to add and amend provider’s contracts and schedules (MVP+) |
+| MAPD | Manage a Provider's Data | | An LAA digital service that allows contract managers within the LAA to add, amend and search for provider data (MVP). It will also allow them to add and amend provider’s contracts and schedules (MVP+) |
 | MAPPA | Multi-Agency Public Protection Arrangements | | |
 | MAPPP | Multi-Agency Public Protection Prisoner | | |
 | MAPPS | Multi-Agency Public Protection Service | | will replace VISOR. In development from 2021 until approx 2024 |
