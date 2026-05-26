@@ -754,6 +754,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | OCA | Offender classification and assessment | | |
 | OCC | Office for Contracts & Competitions | | Home Office department dealing with contracts for Correctional Services |
 | OCC | Operational Control Centre | | |
+| OCTO | Office of the Chief Technology Officer | | |
 | OCMC | Online Civil Money Claims | | |
 | ODI | Open Data Institute | | |
 | OEM | Oracle Enterprise Manager | | Oracle monitoring software, used in CCMS |
