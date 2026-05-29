@@ -33,6 +33,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | AA | Administrative Assistants | | | 
 | AA | Advocacy assistance | | The legal aid means test in the crime context has slightly different rules depending on whether it is to pay for 'advice and assistance' (A&A) or 'advocacy assistance' (AA) |
 | AAC | Administrative Appeals Court | | |
+| AC | Accreditation Check | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#accreditation-check-ac | |
 | Acas | Advisory, Conciliation and Arbitration Service | | (Note: only an initial cap.) Aims to prevent and resolve employment disputes prior to employment tribunals. |
 | ACCT | Assessment, Care in Custody and Teamwork  | | Self-Harm document - replacement for 2052Sh Self-harm document. |
 | ACL | Access Control List | | |
@@ -108,7 +109,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | BNM | Becoming New Me | | A thinking skills programme for people with a learning disability |
 | BOP | Bring on Potential | | Education and Learning gained inside are recorded in BOP, which is available ‘through the gate’. Part of ILP (Individual Learning Plan) |
 | BOTUS | Breach of Top Up Supervision | | |
-| BPSS | Baseline Personnel Security Standard | | The minimum level of clearance for someone working in the Civil Service. |
+| BPSS | Baseline Personnel Security Standard | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#baseline-personnel-security-standard-bpss | The minimum level of clearance for someone working in the Civil Service. |
 | BSE | Basic, Standard & Enhanced | | The various levels of prison regime |
 | BSR | Building Skills for Recovery | | Substance misuse programme |
 | BVLS | Book a video link service | | Allows Court users to book a virtual court hearing & corresponding appointment directly with the prison, to replace phone calls, emails & fax methods used previously. Being rolled out nationally, but only enabled when the prison has build a Video Suite & had the technology installed, so time constraints based on physical building work |
@@ -260,7 +261,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CSRA | Cell Share Risk Assessment | | Mandatory risk assessment carried out on all prisoners and reviewed at regular intervals, to try to prevent harm or risk to prisoners. Introduced following the death in custody of Zahid Mubarek, who was murdered in Feltham young offender institution in 2000, after he was put in the same cell as Robert Stewart who had mental health issues and racist beliefs. |
 | CSRU | Care, Separation, and Reintegration Unit | | A unit within a prison that is designed to hold inmates who require special care due to a number of factors, such as being at risk of self-harm, causing harm to others, or requiring segregation for other reasons. |
 | CSV | Community Service Volunteer | | |
-| CTC | Counter Terrorism Clearance | | a security clearance level, as seen in the Tech Scorecard : "Anyone with administrative or operational access to production systems... has CTC-level clearance" |
+| CTC | Counter Terrorism Clearance | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#counter-terrorist-check-ctclevel-1b | A security clearance level, as seen in the Tech Scorecard : "Anyone with administrative or operational access to production systems... has CTC-level clearance" |
 | CTS | Core Technology Services team | | |
 | CTSA2021 | Counter Terrorism and Sentencing Act 2021 | | |
 | CTSC | Courts and Tribunals Service Centre | | |
@@ -348,7 +349,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DTO | Detention Training Order | | |
 | DTRG | Digital Technology Review Group | | |
 | DTTO | Drug Treatment and Testing Orders | | |
-| DV | Developed Vetting | | Level of Security Clearance |
+| DV | Developed Vetting | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#developed-vetting-dv | Level of Security Clearance |
 | DV | Domestic Violence | | Defined as any incident of threatening behaviour, violence or abuse between adults who are or have been intimate partners or family members, regardless of gender or sexuality.  |
 | DWP | Department for Work and Pensions | | Government organisation - administrates ESF budget allocation |
 | DX | Document Exchange | | DX, or Direct Exchange, is a private business-to-business mail and packaging network in the United Kingdom. Direct Exchange is cheaper than standard first-class mail. Subscriptions are necessary to use this service. |
@@ -369,6 +370,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | EDS | Extended Determinate Sentence | | |
 | EDS | Electronic Data Systems | | The private contractor providing the new IT infrastructure throughout the Prison Service as per the QUANTUM Project |
 | EDS100 | Extended Determinate Sentence imposed for certain Terrorism Offences | | |
+| eDV | Enhanced Developed Vetting | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#enhanced-developed-vetting-edv | Enhanced Developed Vetting is required for a very small number of agreed, specific posts where an additional level of assurance is required above DV. It can only be requested by a small number of Sponsors and only with an existing prior agreement with UKSV and the Cabinet Office. |
 | EDW | Enterprise Data Warehouse | | Management Information data warehouse that held data from many LAA applications.  Now decommissioned. |
 | EFE | Estimate Financial Eligibility | | An example is the LAA estimate of financial eligibility for legal aid |
 | EGS | Enhanced Gate Security | | EGS refers to the installation of X-ray baggage scanners, archway metal detectors (sometimes referred to as a ‘portal’) and hand-held metal detector wands. |
@@ -390,6 +392,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ERS | Early Removal Scheme | | |
 | ERSED | Early Removal Scheme Eligibility Date | | |
 | ESA | Employment and Support Allowance | | You can apply for Employment and Support Allowance (ESA) if you have a disability or health condition that affects how much you can work. |
+| eSC | Enhanced Security Check | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#enhanced-security-check-esc | An Enhanced Security Check, is a supplementary safeguard that allows regular uncontrolled access up to SECRET assets and occasional, controlled access to TOP SECRET assets. It is only used for agreed, specific roles where an additional level of assurance is required over SC, but not to DV level. |
 | ESED | Effective Sentence End Date | | |
 | ESF | European Social Fund | | Provides funding via the CFO to provide additional services to offenders |
 | ESL | Effective Sentence Length | | Representation of sentence length as a single period term |
@@ -1042,7 +1045,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | SAU | Standards Audit Unit | | |
 | SAV | Security Architecture Review | | A term used by IA (Information Assurance) |
 | SBC | Specification, Benchmarking and Costing | | |
-| SC | Security Check | | Level of Security Clearance |
+| SC | Security Check | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#security-check-sc | Level of Security Clearance |
 | SC2020 | Sentencing Code 2020 | | |
 | SCA | Start Custody Assessments | | |
 | SCA2007 | Serious Crime Act 2007 | | |
