@@ -199,6 +199,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CNA | certified normal accommodation | | Relating to prison capacity: "the good, decent standard of accommodation that the service aspires to provide all prisoners" |
 | CNA  | Certified Normal Accommodation | | The Prison Service's measure of accommodation, CNA represents the good, decent standard of accommodation that the services aspires to provide all prisoners. |
 | CO | Community Order | | |
+| CoA | Chart of Accounts | | |
 | COACD | Court of Appeal Criminal Division | | |
 | COAT | Cloud Optimisation & Accountability Team | https://peoplefinder.service.gov.uk/teams/cloud-optimisation-accountability-team | Team within the Hosting Service Area, Platforms & Architecture. Their mission is to optimise cloud costs and environmental impact, and maximise value of cloud to MoJ through collaboration, transparency and continuous improvement. |
 | COBR | Cabinet Office Briefing Room | | |
