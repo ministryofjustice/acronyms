@@ -356,6 +356,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | E3 | Effectiveness, Efficiency and Excellence | | The change programme that will design and implement a new operation model for the National Probation Service |
 | EAP | Employee Assistance Programme | | The HMPPS Employee Assistance Programme is a free and confidential service available to all HMPPS staff who need advice and support. |
 | EAT | Employment Appeal Tribunal | | |
+| ECP | Emergency Containment Platform | | Secure locked down AWS Hosting for LAA Digital legacy applications, such as CWA, potentially compromised in the May 2025 Cyber Security Incident |
 | EBS | E-Business Suite | | An Oracle Application for Business. Utilised by LAA for CCMS and CWA. |
 | ECHR | European Convention on Human Rights | | An international treaty to protect human rights and fundamental freedoms in Europe. |
 | ECL | End of Custody Licence | | A scheme within the Prison Service between 2007 and 2010 to help alleviate pressures on the prison population. Eligible people could be released early from custody 18 days before their release date |
