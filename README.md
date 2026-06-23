@@ -1150,11 +1150,12 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | SUS | System Usability Scale | | The System Usability Scale (SUS) provides a “quick and dirty”, reliable tool for measuring the usability. It consists of a 10 item questionnaire with five response options for respondents. |
 | SWAG | Scientific, Wild-Ass Guess | | Rough guess of how much a project will cost. See also ROM and PIDOOMA. |
 | Syscon | Software company who provide Prison-NOMIS | | Syscon Justice Systems is the world's leading provider of offender management solutions, used by more jails and prisons to manage offenders than any other. |
-| SystmOne | Name for the digital Healthcare System used by prison NHS staff | | Often referred to as System One, but whilst it’s pronounced the same, the e isn’t actually in the name. |
+| SystmOne | Name for the digital Healthcare System used by prison NHS staff | | Often referred to as System One, but whilst it’s pronounced the same, the 'e' isn’t actually in the name. |
 | TA | Technical Architecture | | |
 | TACT | Terrorism ACT | | ‘TACT Prisoner’ |
 | TAD | Technical Architecture Document | | |
 | TAD | Tender Assessment Database | | Used by LAA to record assessment of contract tender responses. |
+| TAP | Temporary Absence from Prison | | |
 | TC | Therapeutic Community | | |
 | TCEP | Transforming Compliance and Enforcement Project/Programme | | |
 | TCM | Temporary Custodial Module | | |
