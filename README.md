@@ -332,6 +332,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DS | Digital Services | | MOJ Digital Services (formally DSD) |
 | DSA | Data Sharing Agreement | | |
 | DSA | Data Standards Authority | | The DSA works to improve how the public sector manages data. The DSA does this by establishing standards to make it easier and more effective to share and use data across the government. |
+| DSAI | Data Science and Artificial Intelligence | | |
 | DSCC | Defence Solicitor Call Centre | | The call centre service that police use to provide a solicitor for people in custody. |
 | DSD | Digital Service Designers | | |
 | DSD | Digital Services Division | | Now obsolete. Please refer to 'Digital Services' (without the 'Division') or 'MOJ Digital Services'. |
