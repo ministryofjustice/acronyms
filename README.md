@@ -1105,6 +1105,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | SMOD | Subject Matter of Dispute | | If a legal dispute is about the ownership of an asset, then the value of that asset may be treated differently when calculating eligibility for legal aid for the dispute |
 | SMP | Substance Misuse Programme | | |
 | SMS (in the Hub) | Supplier Management System | | CWA (Contracted Work and Administration)'s Supplier (Legal Provider) data |
+| SMS | Substance Misuse Services | | |
 | SMT | Senior Management Team | | |
 | SN | ServiceNow | | Contraction used by MOJ staff |
 | SNow | ServiceNow | | Contraction used by Prison staff |
