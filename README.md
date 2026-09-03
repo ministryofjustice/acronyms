@@ -1,6 +1,6 @@
 # Ministry of Justice Acronyms
 
-[![Ministry of Justice Repository Compliance Badge](https://github-community.service.justice.gov.uk/repository-standards/api/acronyms/badge?style=flat))](https://github-community.service.justice.gov.uk/repository-standards/acronyms)
+[![Ministry of Justice Repository Compliance Badge](https://github-community.service.justice.gov.uk/repository-standards/api/acronyms/badge?style=flat)](https://github-community.service.justice.gov.uk/repository-standards/acronyms)
 [![pages-build-deployment](https://github.com/ministryofjustice/acronyms/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ministryofjustice/acronyms/actions/workflows/pages/pages-build-deployment)
 
 This is a replacement for the (currently defunct) "Big Book of Acronyms" web application. This site is intended for internal MoJ use only.
