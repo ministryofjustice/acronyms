@@ -1247,6 +1247,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | WIS | Witness Intermediary Scheme | | |
 | WLB | Work-Life Balance | | |
 | WLMT | WorkLoad Measurement Tool | | |
+| WLU | Welsh Language Unit | https://justiceuk.sharepoint.com/sites/knowledgecentral/SitePages/Welsh-Language-Unit.aspx | The Welsh Language Unit is part of HMCTS and sits within the Family, Probate and Support Services Directorate in National Services. |
 | WP360G | Citrix Windows 7 environment used by NOMS staff | | WP360G is the Citrix environment used by NOMS staff to connect to a Windows 7 session from Quantum systems (which run Windows XP). |
 | WTG | Web Technology Group | | Sub-contractor to Logica, they have access to the majority of our DNS zone files (incl. justice.gov.uk) and charge HYUGE amounts for small changes. |
 | WTP | Workplace Technology Programme | | WTP provides a generation of end-user devices, in use c.2018-2020, by HMPPS office staff. Laptops and O365 & GSuite. They were previously using Quantum devices. WTP will be replaced by PTTP. |
