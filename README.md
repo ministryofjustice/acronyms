@@ -713,6 +713,8 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | NIMU | National Incident Management Unit | | |
 | NINo | National Insurance number | | |
 | NISE | Network Information Security Enhancement (Project) | | This aims to migrate intranet applications from the existing environment to a new one for reasons of security. |
+| NISST | National Intelligence Systems Support Team | | |
+| NIU | National Intelligence Unit | | |
 | NMC | New Me Coping | | Sex Offender Treatment Programme (no longer running). |
 | NMO | Non-Molestation Order | | |
 | NMS | New Me Strengths | | General Offending Programme |
