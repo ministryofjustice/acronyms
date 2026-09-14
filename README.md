@@ -136,8 +136,9 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CATS | Case Assessment and Tracking System | | .NET application written and used by CFO at Daresbury Park in Warrington for managing externally funded (historically ESF) programmes |
 | CBDT | Compact Based drug testing | | Formerly known as Voluntary Drug Testing. Used as an incentive to keep prisoners drug-free, by them signing a compact to undertake regular drug testing and earning rewards based on remaining drug-free. |
 | CBO | crime billing online | | |
-| CC| Celluar Confiment | | When a prisoner has poor behaviour, they can be awarded CC, which means they are not allowed out of their cells. Often used as punishments following proven adjudications, where a Governor may award 7 days CC, which means the prisoner is not allowed out of their cell for that period, aside from showers & other essential appointments. Effectively being grounded, by removing their privileges and social time out of their cell |
+| CC | Cellular Confinement | | When a prisoner has poor behaviour, they can be awarded CC, which means they are not allowed out of their cells. Often used as punishments following proven adjudications, where a Governor may award 7 days CC, which means the prisoner is not allowed out of their cell for that period, aside from showers & other essential appointments. Effectively being grounded, by removing their privileges and social time out of their cell |
 | CC | Carbon Copy | | |
+| CC | Counter corruption | | |
 | CCBC | County Court Bulk Centre | | Set up by HM Courts & Tribunals Service specifically to deal with straightforward debt collection work which, in the main, is undefended. In Northampton. |
 | CCCD | Claim for Crown Court Defence | | Legal Aid Agency project where advocates (solicitors) can submit invoices for work done for legal aid work. Project formerly known as ADPproject formerly known as CBO |
 | CCLF | Crown Court Litigator Fee | | LAA web app that manages LGFS (Litigators Graduated Fee Scheme) claims. |
@@ -160,7 +161,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CDC | Change Directorate Committee | | |
 | CDCS | Change Data Capture Staging | | LAA Oracle database for capturing data from CCMS & CIS and moving to EDW for CCMI. No longer exists. |
 | CDD | Criminal Defence Direct | | Telephone adviser run by a few providers. |
-| CDE | Common Data Extract | | A report of all prisoners in NOMIS with lots of data about them. Also known as ‘offloc’ (offender location report). The CDE is used to transfer prisoner data to other NOMS/MOJ systems (like Mercury) and to other agencies (like the police). |
+| CDE | Common Data Extract | | A report of all prisoners in NOMIS with lots of data about them. Also known as ‘offloc’ (offender location report). The CDE is used to transfer prisoner data to other NOMS/MOJ systems and to other agencies (like the police). |
 | CDM | HMPPS Contract Delivery Manager | | |
 | CDO | Chief Digital Officer | | |
 | CDPs | Crime & Drugs Partnership | | |
@@ -543,7 +544,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | IPV | Intimate Partner Violence | | |
 | IPV | Inter Prison Visit | | A term used to describe when an offender at one prison, is allowed to visit another offender at another prison. Usually cases of close family members. It includes the staff from the sending prison to on escort with the prisoner, to the receiving prison & then allow the prisoners to meet for a visit, in a designated area under the observation of staff. |
 | IQR | Implementation Quality Report | | |
-| IR | Intelligence Report | | A method of reporting intelligence information to the Security department via the Mercury system (generally done electronically, but paper versions are available to those without computer access) |
+| IR | Intelligence Report | | A method of reporting intelligence information to the Security department via IMS (generally done electronically, but paper versions are available to those without computer access) |
 | IRaT | Incident Response and Tuning | | Live product support at MoJ Digital. |
 | IRC | Immigration Removal Centre | | I designated prison where offenders are held whilst awaiting deportation. Many of them are allowed things not usually allowed in prisons, such as their mobile phone as they are either not been charged with a criminal offence or have served a sentence & are now awaiting deportation. As such they are seen as innocent civilians, being deported, rather then serving prisoners. See IS91 as well |
 | IRS | Incident Reporting System | | A bolt on software to PNOMIS for recording incidents within Prisons and escorts. |
@@ -804,7 +805,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | ORA2014 | Offender Rehabilitation Act 2014 | | |
 | Oracle HRMS | Prison Human Resource Management System | | Replaced by SOP |
 | OS | Offender Supervisor | | |
-| OSAG | Operational and System Assurance Group  | | responsible for several of the audits we hold data for on the Hub and are mentioned in TNs |
+| OSAG | Operational and System Assurance Group  | | Responsible for several of the audits we hold data for on the Hub and are mentioned in TNs |
 | OSAP | Offender Substance Misuse Programme | | Substance Misuse Programme (no longer running). |
 | OSAR | Offender Subject Access Request | | |
 | OSCAR/OSCAR ONE | Orderly Officer | | Oscar One is the radio call sign allocated to the manager in charge of the prison each day. This call sign remains consistent across all prisons, enabling any staff working there from any other sites to contact the Orderly Officer quickly via radio. Oscar One is usually a CM (Custodial Manager) grade who reports to Victor One (Duty Governor), & over-sees the prison & decision-making on a daily basis, through rotation-based rostering. |
@@ -826,6 +827,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | PAG | Performance and Analysis Group | | Replaced by PPAS |
 | PAG (Old Name - See PPAS) | Planning and Analysis Group | | Now known as PPAS (Prison & Probation Analytical Services) |
 | PAMS | Prisoner Activity Management System | | Not much more info on this at the moment - I understand that it is how they manage prisoner activity, work schedules, learning and visit schedules. |
+| PARG | Performance, Assurance and Risk Group | | Part of the Strategy, Planning and Performance Directorate in HMPPS. They assess the quality of services delivered in custody and in the community. Their audits look in-depth at operational delivery to assure that practice reflects National Standards, HMPPS policy, and relevant practitioner guidance. |
 | Parom 1 | Generic Parole Assessment Report | | |
 | PBA | Payment By Account | | Payment system streamlining payment by solicitors and other legal professionals across HMCTS services |
 | PBR | Payment By Results | | A methodology whereby payments to suppliers are contingent on the independent verification of work they have performed (results) |
@@ -1070,7 +1072,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | SDP | Short Duration Programme | | Substance Misuse Programme (no longer running). |
 | SDR | Service Delivery Requirements | | |
 | SDS | Safe, Decent & Secure | | |
-| SDS | Secure Document Storage | | A team in LAA whose mission is to provide LAA digital products and services with a secure document service as a common capability. |
+| SDS | Secure Document Storage | | A team in LAA whose mission is to provide digital products and services with a secure document service as a common capability. |
 | SDS | Standard Determinate Sentence | | |
 | SDS+ | Standard Determinate Sentence Plus (2/3rds release | | |
 | SDT | Safety Diagnostic Tool | | |
@@ -1092,9 +1094,10 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | SIM | Service Incident and Management | | |
 | SiP | Staff in Post | | |
 | SIR | Security Information Record | | |
-| SIR (Now superseded by IR) | Security Information Report | | Prison. A previous method of reporting intelligence information to the Security department via paper. Now superseded by IR (Intelligence Report) generally submitted electronically via the Mercury system |
+| SIR (Now superseded by IR) | Security Information Report | | A previous method of reporting intelligence information to the Security department via paper. Now superseded by IR (Intelligence Report) generally submitted electronically via IMS |
 | SIRB | Security Information Risk Board | | |
 | SIRO | Senior Information Risk Owner | | |
+| SIU | Sensitive Intelligence Unit | | |
 | SIWG | Strategy and Implementation Working Group | | |
 | SL | Service Level measure | | Synonymous with “service level”, “performance measure”, “performance metric” and “assurance metric”. These are descriptions of the activities monitored for performance purposes. |
 | SLA | Service Level Agreement | | |
