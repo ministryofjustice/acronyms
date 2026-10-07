@@ -650,6 +650,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | MAY | denotes approval | | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | MBU | Mother and Baby Unit | | A dedicated, safe wing in female prisons, intended for pregnant prisoners  or new mothers, to allow them to have their babies with them whilst in prison. Depending on how long the prisoner has left to serve at the point of giving birth, the baby may be later taken by Children's Services or to an approved family member. In MBUs, mothers can care for their children up to the age of about 18 months. They have trained nursery nurses and prison officers. They should be registered with OFSTED. There are currently six prisons with MBUs in the UK.  |
 | MCA | Mental Capacity Act | | |
+| MCC | Manage your Civil Legal Advice cases | | |
 | MCOL | Money Claim Online | | Online service to "take court action against someone if they owe you money and won’t pay you back". |
 | MCQ | Minor Change Quotation | | Related to tender documents. |
 | MDO | Mentally Disordered Offender | | |
