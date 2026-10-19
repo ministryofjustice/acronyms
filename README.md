@@ -17,9 +17,7 @@ The documentation is available under the terms of the [Open Government 3.0][ogl]
 
 ## Contributing
 
-If you have a GitHub account, you can [click here](https://github.com/ministryofjustice/acronyms/edit/main/README.md) to edit this file.
-
-A better mechanism to enable people without GitHub accounts to suggest changes will hopefully be provided in due course.
+If you have a GitHub account, you can edit this file on GitHub: [Edit README](https://github.com/ministryofjustice/acronyms/edit/main/README.md).
 
 | Abbreviation | Definition | URL | Info |
 |-|-|-|-|
@@ -411,7 +409,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ETS | Enhanced Thinking Skills | | A course that prisoner can do to address the attitudes and thought patterns that may of contributed to their offending |
 | EUCS | End User Compute Services | | |
 | Ex-ASP | Ex-Armed Service Personnel | | |
-| ExCo | Executive Comity Board | | Permanent Secretary and Director Generals. |
+| ExCo | Executive Committee Board | | Permanent Secretary and Director Generals. |
 | EXHIBIT | See XHIBIT | | |
 | Exhibit | Database co-ordinated by Crown Courts | | |
 | EXISS | Exchange Integration Services Stream | | |
@@ -558,7 +556,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | ISR | Independent Sentencing Review | | The Independent Sentencing Review (ISR) was commissioned by the UK Ministry of Justice in October 2024 to address a severe prison capacity crisis. Led by former Lord Chancellor David Gauke, the review aimed to reform sentencing, reduce reoffending, and ensure the prison population does not exceed available space. The final report, published on 22 May 2025, provided recommendations that resulted in the Sentencing Act 2026. |
 | ISS | Investigations Support Services | | Based in Crown House, Corby |
 | ISSS | Information and System Support Services | | |
-| ITA | Internation Trade Advisor | | 3rd party advisors contracted with UKTI offering business around business development. |
+| ITA | International Trade Advisor | | 3rd party advisors contracted with UKTI offering business development support. |
 | ITHC | IT Healthcheck | | Penetration and security testing for services before they are released for public consumption. The ITHC must normally be re-done for each major system change - adding new external API lookups to a previously secure system, for example. Services are not considered 'live' or 'accepted into service' until the ITHC has been completed. Partial ITHCs exist, where a service already passed ITHC and a focussed change has been made. |
 | ITIL | ITIL, formerly[1] an acronym for Information Technology Infrastructure Library, is a set of detailed practices for IT service management (ITSM) that focuses on aligning IT services with the needs of business. | | |
 | ITN | Invitation to negotiate | | Confusing acronym - as more commonly used for Independent Television News. |
