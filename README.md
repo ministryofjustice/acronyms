@@ -464,6 +464,7 @@ If you have a GitHub account, you can edit this file on GitHub: [Edit README](ht
 | GSR | Government Social Research | | The Government Social Research Service (GSR) provides evidence to understand, develop, implement, monitor and evaluate government policies and services.  It has members in all the main government departments as well as the devolved administrations and other government bodies. It is one of five government analytical services providing evidence for policy.  |
 | GSS | Government Statistical Services | | The Government Statistical Service (GSS) produces national statistics and other official statistics, analysis, interpretation and provides statistical advice to improve understanding and help decision-making. |
 | GWS | Government Wide Service | | |
+| HA | High Availability | | Technology that allows failover between hardware devices with minimal downtime |
 | HC | Health Care | |  Health Care staff are NHS staff who work within the prison from their own dedicated Health Care building. They over see the day-to-day medical needs of prisoners. Most Police & Courts also have Health Care staff working with them to take care of people in custody |
 | HCC | Health Care Centre | | NHS facility in a prison |
 | HDC | Home Detention Curfew | | A statutory scheme that allows the Secretary of State to release eligible prisoners before their Conditional Release Date. It was designed to assist prisoners to resettle into the community. |
