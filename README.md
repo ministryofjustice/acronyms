@@ -71,7 +71,7 @@ If you have a GitHub account, you can edit this file on GitHub: [Edit README](ht
 | APVU | Assisted Prison Visits Unit | | Former name of the contact centre teams that manage the Help With Prison Visits claims. Now called Family Services. |
 | ARD | Automatic Release Date | | |
 | ARMS | Active Risk Management System | | |
-| ARNS | Assess, Risk, Needs and Strengths | | |
+| ARNS | Assess Risk, Needs and Strengths | | |
 | ART | Aggression Replacement Training | | Violence Programme (no longer running). |
 | ARV | Alcohol Related Violence | | Substance Misuse Programme (no longer running). |
 | ASBO | Anti-Social Behaviour Order | | A court order which can be obtained by local authorities to restrict the behaviour of a person likely to cause harm or distress to the public. |
