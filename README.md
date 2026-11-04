@@ -528,7 +528,7 @@ If you have a GitHub account, you can edit this file on GitHub: [Edit README](ht
 | IL# | Impact Levels [number] | | Information has an impact level, not a whole system. Specific information about prisoners will have business impact 3 if made public. All revised with the new Official criteria |
 | ILP | Individual Learning Plan | | |
 | IM | Interventions Manager | | Specifically related to NDelius |
-| IMA | Independent Monitoring Authority | | Responsible for monitoring EU nationals post-Brexit |
+| IMA | Independent Monitoring Authority | | An independent UK public body that monitors and promotes the rights of EU, EEA and EFTA citizens and their family members under the Withdrawal Agreement, ensuring public authorities comply with those rights following the UK's departure from the European Union |
 | IMB | Independent Monitoring Board | | Statutory bodies that monitor Prisons, the welfare of staff & prisoners, to ensure they are properly cared for whilst in custody and detention. |
 | IMR | Inmate Medical record | | |
 | IMS | Intelligence Management Service | | |
